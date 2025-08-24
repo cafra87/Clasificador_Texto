@@ -1,0 +1,38 @@
+Antibodies against whooping cough in pregnant women and newborns
+Researchers measured 3 types of antibodies against whooping cough (called ‘anti-FHA’, ‘anti-PRN’ and
+‘anti-PT’) in the cord blood.
+The pregnant women who got the Tdap vaccine passed more antibodies against whooping cough to their
+babies than those pregnant women who got the placebo (Figure 2).
+Figure 2. Average amounts of antibodies against whooping cough in cord blood.
+400 366.1
+301.8
+CMG
+200
+46.9
+22.7 14.6 5.5
+0
+anti-FHA anti-PRN anti-PT
+Tdap group Placebo group
+Geometric Mean Concentration (GMC) is a measure of the average amount of antibodies in blood.
+The same 3 types of whooping cough antibodies were measured in the pregnant women (Figure 3). The
+amounts of antibodies were 11 to 25 times higher after vaccination than before in the Tdap group. In the
+placebo group, the amounts of whooping cough antibodies did not change.
+Figure 3. Average amounts of antibodies against whooping cough in pregnant women.
+400
+317.5
+283.6
+CMG
+200
+45.6
+13.7 15.7 15 11.1 11.3 10.5 4 4.3 4.1
+0
+Before injection After injection Before injection After injection Before injection After injection
+anti-FHA anti-PRN anti-PT
+Tdap group Placebo group
+Geometric Mean Concentration (GMC) is a measure of the average amount of antibodies in blood.
+Antibodies against diphtheria and tetanus in pregnant women
+For diphtheria and tetanus, it is known that people are protected against the disease if the amount of
+antibodies in their blood is above a certain level. This is called the protective antibody level.
+One month after the injection, almost all women in the Tdap group had protective antibody levels against
+diphtheria and tetanus. In the placebo group, 70.6% had protective antibody levels against diphtheria.
+Against tetanus this was 96.6% (Figure 4).

@@ -1,0 +1,9 @@
+Histologic measurement tools for evaluation of disease activity in Crohn’s disease
+What is Crohn's disease? 
+Crohn’s disease is a life‐long (chronic), inflammatory disease of the gastrointestinal tract characterized by abdominal pain (cramping), rectal bleeding, diarrhoea, weight loss, and tiredness. The disease has a changing course with periods of symptoms (called 'active' disease or relapse) and periods without symptoms (called 'remission'). 
+What is a histological scoring index? 
+A histological scoring index measures disease activity based on the examination of biopsy specimens from the bowel (small pieces of tissue removed from the bowel) under a microscope. Biopsy specimens are removed from the bowel during colonoscopy (a non‐surgical procedure used to view the digestive tract using a camera) with biopsy forceps (instruments to grasp and remove pieces of tissue). Biopsies are then processed and assessed under microscope by a pathologist (a physician who interprets and diagnoses the changes caused by disease in tissues) who then rates disease activity using the index. 
+What did the researchers investigate? 
+It is important that histological scoring indices measure what they are supposed to measure (validity); that they detect change after treatment (responsiveness); that the scores are consistently reproducible (reliability); and that they can be easily utilized (feasibility). The researchers investigated whether studies have assessed the validity, responsiveness, reliability and feasibility of histological scoring indices. 
+What did the researcher find? 
+The researchers found that none of the existing histological scoring indices have been fully validated. 

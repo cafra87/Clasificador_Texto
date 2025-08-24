@@ -1,0 +1,43 @@
+Clinical Study Results
+What medical problems did the participants have during the study?
+To answer this question, the researchers recorded any medical problems the participants had
+during the study. These medical problems are called “adverse events”. An adverse event is
+considered “serious” when it is life-threatening, causes lasting problems, or requires hospital
+care. Adverse events may or may not be caused by the study drugs.
+The table below shows how many participants had adverse events during the study.
+Adverse events during the study
+Part 1
+(out of 28 participants)
+Group 1 Group 2 Group 3 Group 4 Part 2
+(out of 6 (out of 10 (out of 6 (out of 6 (out of 30
+participants) participants) participants) participants) participants)
+How many participants had adverse
+100.0% (6) 100.0% (10) 100.0% (6) 100.0% (6) 100.0% (30)
+events during the study?
+How many participants had serious
+50.0% (3) 20.0% (2) 33.3% (2) 33.3% (2) 33.3% (10)
+adverse events during the study?
+How many participants stopped
+selumetinib treatment because of 33.3% (2) 10.0% (1) 16.7% (1) 0.0% (0) 3.3% (1)
+adverse events?
+How many participants stopped
+durvalumab treatment because of 33.3% (2) 10.0% (1) 0.0% (0) 0.0% (0) 0.0% (0)
+adverse events?
+Serious adverse events
+There were 32.8% of participants who had serious adverse events during the study. This was
+19 out of 58 participants.
+None of the participants died from serious adverse events during the study.
+The table below shows the serious adverse events that happened in at least 2 participants during
+the study. There were other serious adverse events that happened during the study, but those
+happened in fewer participants.
+Most common serious adverse events during the study
+Part 1
+(out of 28 participants)
+Group 1 Group 2 Group 3 Group 4 Part 2
+(out of 6 (out of 10 (out of 6 (out of 6 (out of 30
+Serious adverse event participants) participants) participants) participants) participants)
+Fever 0.0% (0) 0.0% (0) 16.7% (1) 0.0% (0) 6.7% (2)
+Stomach pain 16.7% (1) 10.0% (1) 0.0% (0) 0.0% (0) 0.0% (0)
+Diarrhea 16.7% (1) 0.0% (0) 16.7% (1) 0.0% (0) 0.0% (0)
+Vomiting 0.0% (0) 0.0% (0) 16.7% (1) 0.0% (0) 3.3% (1)
+6

@@ -1,0 +1,13 @@
+Clinical studies have unique study numbers. Below are the unique study numbers associated with this
+study.
+Organization Website Study Number
+United States National Institutes www.clinicaltrials.gov NCT01345240
+of Health (NIH)
+European Medicines Agency www.clinicaltrialsregister.eu 2011-001508-37
+Your doctor can help you understand more about this study and the results. You should not make
+changes to your care based on the results of this or any single study.
+This document was developed and approved by GSK on 23 January 2019. The information in this summary
+does not include additional information available after this date.
+For readers of this document in text form, the websites associated with the hyperlinks above are:
+EudraCT summary:
+https://www.clinicaltrialsregister.eu/ctr-search/search?query=2011-001508-37

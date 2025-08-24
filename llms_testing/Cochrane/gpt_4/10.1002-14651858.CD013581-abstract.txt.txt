@@ -1,0 +1,15 @@
+1. Plain Title: 
+Examining the Effectiveness of Pain Relievers for Acute Low Back Pain 
+
+2. Rationale:
+Low back pain that comes on suddenly can be a big problem for many people. A common way to treat this kind of pain is by using non-steroidal anti-inflammatory drugs (NSAIDs). These are medicines that help with pain and swelling. Earlier in 2008, a study showed that NSAIDs could help lower pain and overall improve conditions for patients with sudden low back pain. However, this new study wanted to take a closer look at NSAIDs and their effects specifically on acute low back pain.
+
+3. Trial Design:
+The study team looked for earlier studies on this topic from various databases up to January 7, 2020. The studies they looked for were ones that tested how effective one or several types of NSAIDs were in treating adults (over 18 years old) with acute low back pain. These studies were conducted in both primary and secondary care settings. The team looked at the effect of treatment on things like pain reduction, ability to function, overall improvement, any side effects, and the return to work. The team followed scientific methods recommended by Cochrane. They examined 32 studies involving 5356 participants aged from 16 to 78 years. The studies lasted from one day to six months and were conducted worldwide, mainly in Europe and North-America.
+
+4. Results:
+The study found that taking NSAIDs can help reduce pain and disability in the short term (up to 3 weeks) more than not taking any treatment for people with sudden onset of low back pain. Also, those taking NSAIDs appeared to feel overall better after treatment. However, these effects were small and might not be important in a medical sense.
+
+There wasn't clear evidence to say that NSAIDs could cause more side effects than not taking any medicine, or that they help people return to work faster. Also, the study didn't find a clear difference in the amount of pain reduction between those who took a type of NSAIDs called COX-2 inhibitors compared to those who took other NSAIDs.
+
+In conclusion, while NSAIDs seem to help with short-term pain reduction and overall improvement in acute low back pain patients, these effects are likely small. It's still not clear if certain types of NSAIDs work better than others, or how safe these drugs are for longer term use. More research is needed to confirm these results and to answer these remaining questions.

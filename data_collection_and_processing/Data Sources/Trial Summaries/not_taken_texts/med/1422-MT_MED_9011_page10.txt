@@ -1,0 +1,36 @@
+Clinical Study Results
+How many participants had adverse reactions?
+There were 73.9% of participants who had adverse reactions during the study. This was
+17 out of 23 participants.
+There were 8.7% of participants who stopped treatment because of adverse reactions.
+This was 2 out of 23 participants.
+The table below shows how many participants had adverse reactions during the study.
+Adverse reactions during the study
+Group 1 Group 2
+(out of 3 participants) (out of 20 participants)
+How many participants had adverse
+100.0% (3) 70.0% (14)
+reactions during the study?
+How many participants had serious
+33.3% (1) 40.0% (8)
+adverse reactions during the study?
+How many participants stopped
+treatment because of adverse 33.3% (1) 5.0% (1)
+reactions?
+What adverse reactions did the participants have?
+The most common adverse reaction during the study was tiredness.
+The table below shows the adverse reactions that happened in 4 or more participants
+overall during the study. There were other adverse reactions that happened during the
+study, but these happened in fewer participants.
+Most common adverse reactions
+Group 1 Group 2
+(out of 3 participants) (out of 20 participants)
+Tiredness 66.7% (2) 25.0% (5)
+Diarrhea 66.7% (2) 20.0% (4)
+Mouth infection 0.0% (0) 25.0% (5)
+Decrease in amount of white blood
+cells, which can make it difficult for 66.7% (2) 10.0% (2)
+the body to fight infections
+Nausea 33.3% (1) 15.0% (3)
+Vomiting 33.3% (1) 10.0% (2)
+10

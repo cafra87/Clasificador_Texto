@@ -1,0 +1,191 @@
+CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Avelumab (Bavencio®)
+Utomilumab (PF-05082566)
+Protocol Number :B9991011
+Dates of Trial: 16 December 2016to 02 December 2019
+Title of this Trial: Avelumab In Combination Treatments in Patients With 
+Relapsed or Refractory Diffuse Large B -cell Lymphoma 
+(Javelin DLBCL)
+[Phase 1b/Phase 3 Multicenter Study of Avelumab 
+(MSB0010718C) in Combination Regimens That Include an 
+Immune Agonist, Epigenetic Modulator, CD20 Antagonist 
+and/or Conventional Chemotherapy in Patients With 
+Relapsed or Refractory Diffuse Large B -Cell Lymphoma 
+(DLBCL)]
+Date(s) of this Report: 02November 2020
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)
+2–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results, please contact the doctor or staff at 
+your study site.
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)
+3WHY WAS THIS STUDY DONE?
+Diffuse Large B -Cell Lymphoma (or “DLBCL”) is a kind of non -Hodgkin lymphoma.  
+It is the most common type of blood cancer.  DLBCL happen swhen cells of the 
+immune system, known as B -cells, grow and multiply uncontrollably.  DLBCL occurs 
+mostly in adults and is a fast -growing (aggressive) lymphoma.  While there are 
+treatments available for DLBCL, some patients’ cancer does not get better or gets 
+worse over time.  Researchers are looking for new and better treatments that can be 
+combined with other medicines to help keep patients’ DLBCL from getting worse 
+over time.
+Avelumab and utomilumab were investigational treatments for DLBCL when this 
+study began.  Bot h of these treatments are a type of protein called “monoclonal 
+antibodies”, and they are thought to work by helping the cells of the immune system 
+fight cancer cells.  Although avelumab is approved for use in other types of cancer 
+under the brand name Bave ncio®, it is not approved for use in DLBCL.
+The medicines rituximab, azacitidine, and bendamustine are commonly used to treat 
+DLBCL, but these medicines may not work well for all patients.  Patients who’s 
+DLBCL did not get better with approved cancer treat ments are said to have 
+“refractory” DLBCL.  Patients whose DLBCL got better after treatment but later got 
+worse are said to have “relapsed” DLBCL.
+This study was divided into 2 parts, or “phases”.  The main purpose of the first phase 
+of the study (Phase 1) was to learn about the effects of avelumab when given with 
+other investigational or approved cancer therapies.  This information would determine 
+the best treatment combination to use in the second phase of the study (Phase 3).  To 
+do this, the researchers asked:
+How many dose -limiting toxicities, or “DLTs”, did patients have when 
+taking avelumab with other therapies?
+DLTs are certain medical problems caused by taking avelumab which require 
+the patient to lower the dose or stop taking the medicine temporari ly or 
+permanently.
+How many patients had their DLBCL get better when taking avelumab 
+with other therapies?
+To do this, the researchers looked to see if the patients’ tumors got smaller 
+after taking the study medications.
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)
+4WHAT HAPPENED DURING THE STUDY?
+This study compared 3 groups of patients taking avelumab with other investigational 
+and approved cancer medications to see what DLTs the patients had, and to see if 
+their DLBCL improved.
+The study included adult patients with relapsed or refractory DLBCL w ho met the 
+following conditions:
+They had completed at least 2 (but no more than 4) cycles of treatment with 
+rituximab and chemotherapy, with or without a stem cell transplant.  If they 
+were not eligible to be treated with a stem cell transplant and/or int ensive 
+chemotherapy (for example, due to medical problems), they must have 
+completed 1 cycle of treatment with rituximab and chemotherapy.
+They did not have evidence of cancer in the brain or spinal cord.
+They had not received an organ transplant.
+They had not been treated before with certain monoclonal antibody 
+medications or non -drug anti -cancer therapies.
+They had not received any anti -cancer therapy in the 2 weeks before starting 
+the study medications.
+Patients were put into 1 of the 3 treatment groups by chance alone.  This is known as 
+a “randomized” study.  This is done to make the groups more similar and more even 
+to compare.  The patients and researchers knew which medications the patients were 
+takin g.  This is known as an “open -label” study.   The medications given to each 
+treatment group are shown in the table below.  All medications were given through a 
+needle into a vein (intravenous) except for azacitidine, which was given by injection 
+under the skin (subcutaneous).
+Group A Group B Group C
+Avelumab 10 mg/kg Avelumab 10 mg/kg Avelumab 10 mg/kg
+Utomilumab 100 mg Utomilumab 100 mg Bendamustine 90 mg/m2
+Rituximab 375 mg/m2Azacitidine 40 mg/m2Rituximab 375 mg/m2
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)
+5A diagram of the study is shown below.
+This study took 3 years to complete.  The Sponsor ran this study at 15 locations in
+5countries in Europe, the United States , and Australi a.  It began 16 December 2016 
+and ended on 02 December 2 019.  A total of 24 men and 5 women participated.   Ten 
+(10) patients were under the age of 65 and 19 patients were 65 years of age or older. 
+Patients were to be treated until the patient or their doctor decided it was best for 
+them to stop treatment.  Of the29 patients who started the study, no patients finished 
+thefirst phase of the study .  The most common reason for patients leaving the study 
+wasbecause their DLBCL got worse.  Two (2) patients left before the study was over 
+by their choice or a doctor decided it was best for a patient to stop being in the study .
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)
+6The study was stopped before the second phase (Phase 3) began . Group A and 
+Group B were closed to enrollment in May 2018, due to less than 2 patients in these 
+groups having their DLBCL get bet ter.  Enrollment in Group C was closed in 
+September 2018 due to lack of new patients enrolling in the study.
+When the study ended in December 2019, the Sponsor reviewed the information 
+collected.  The Sponsor then created a report of the results.  This is a summary of that 
+report.
+WHAT WERE THE RESULTS OF THE STUDY?
+How m any DLTs did patients have when taking avelumab with 
+other therapies?
+There was 1 patient in Group A (taking avelumab, utomilumab, and rituximab) who 
+hadDLTs.  This patient developed a herpes infection that involved the eyes, which 
+the researchers think was related to taking rituximab.  No DLTs were reported in 
+Group B or Group C. 
+How m any patients had their DLBCL get better when taking 
+avelum ab with oth er therapies?
+One (1) of the 9 patients in Group A, none of the patients in Group B, and 3 of the 
+11 patients in Group C had their DLBCL get better.  These results did not show that 
+one treatment was better than another, and could have been due to chance. 
+This does not mean that everyone in this study had these results.  Other studies may 
+produce different results, as well.  These are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of thi s 
+summary.   
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)
+7WHAT MEDICAL PROBLEMS DID 
+PARTICIPANTS HAVE DURING THE STUDY?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical pr oblems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be.
+All patients in this study had at least 1 medical problem.  A total o f 4patients stopped 
+taking at least 1 study medicin e because of medical problems.  The most common 
+medical problems are listed below.    
+Most Common Medical Problems
+(Reported by More Than 30% of Patients in Any Group) 
+Medical ProblemGroup A
+Avelumab 10 mg/kg
+Utomilumab 100 mg
+Rituximab 375 mg/m2
+8 patients treatedGroup B
+Avelumab 10 mg/kg
+Utomilumab 100 mg
+Azacitidine 40 mg/m2
+9 patients treatedGroup C
+Avelumab 10 mg/kg
+Bendamustine 90 mg/m2
+Rituximab 375 mg/m2
+11 patients treated
+Tiredness 1 (13%) 1 (11%) 5 (46%)
+Low white blood 
+cells (neutropenia)2 (25%) 1 (11%) 5 (46%)
+Low red blood 
+cells (anemia)2 (25%) 2 (22%) 4 (36%)
+Constipation 1 (13%) 5 (56%) 4 (36%)
+Nausea 2 (25%) 2 (22%) 4 (36%)
+Low appetite 3 (38%) 1 (11%) 3 (27%)
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)
+8Fever 3 (38%) 1 (11%) 3 (27%)
+Chills 3 (38%) 1 (11%) 1(9%)
+Back pain 2 (25%) 3 (33%) 0
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.   
+Sixteen (16) patients (57%) had serious medical problems.   When broken down by 
+group, 3 patients in Group A (38%), 6 patients in Group B (67%), and 7 patients in 
+Group C (64%) had serious medical problems.  Most serious medical problems 
+happened in 1 patient and were not thought to be related to aveluma b treatment.  The 
+only serious medical problem reported by 2 or more patients was their DLBCL 
+getting worse. A total of 18 patients died during the study, mostly due to their 
+DLBCL getting worse.
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questi ons about the results of your study, please speak with the doctor or 
+staff at your study site.
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifie r NCT02951156
+www.clinicaltrialsregister.eu Use the study identifier 2016-002904 -15
+www.pfizer.com/research/research_
+clinical_trials/trial_resultsUse the protocol number B9991011
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)
+9Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients.  
+Again, thank  you for volunteering.
+We do research to try to find the
+best ways to help patients, and you 
+helped us to do that!
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)

@@ -1,0 +1,27 @@
+Clinical Trial RESULTS
+How many participants developed serious medical problems?
+A medical problem is considered serious when it’s life-threatening,
+causes lasting problems, or needs hospital care. No participants died
+in your study, and no participants developed serious medical problems.
+No safety concerns were raised during this study.
+What were the most common medical problems in the study that
+were not serious?
+The table below shows all of the medical problems that were not
+serious that occurred in at least 1 participant in each treatment group.
+Capsule A - Tablet - Capsule B - Capsule C - Capsule B -
+Medical 100 mg of 100 mg of 100 mg of 100 mg of 300 mg of
+problems AZD9496 AZD9496 AZD9496 AZD9496 AZD9496
+that were (Out of 14 (Out of 14 (Out of 12 (Out of 12 (Out of 12
+not serious participants) participants) participants) participants) participants)
+Bone and
+0 (0.0%) 0 (0.0%) 1 (8.3%) 0 (0.0%) 0 (0.0%)
+muscle pain
+Ringworm
+0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (8.3%)
+on the body
+Back pain 1 (7.1%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%)
+Reddening
+0 (0.0%) 1 (7.1%) 0 (0.0%) 0 (0.0%) 0 (0.0%)
+of the skin
+Runny nose 1 (7.1%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%)
+7

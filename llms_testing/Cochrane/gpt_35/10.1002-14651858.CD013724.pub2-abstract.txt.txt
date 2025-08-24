@@ -1,0 +1,17 @@
+Plain Title:
+Accuracy of Remote Cognitive Assessment for Diagnosing Dementia: A Review of Studies
+
+Rationale:
+Remote cognitive assessments are tests conducted through telephone or video calls to detect cognitive disorders. However, it is uncertain how accurate these assessments are in diagnosing dementia. This study aimed to determine the accuracy of multidomain cognitive tests conducted remotely for diagnosing any form of dementia. Additionally, it assessed potential differences in scoring when using remote platforms compared to face-to-face tests.
+
+Trial Design:
+This study reviewed cross-sectional studies that included remote, multidomain assessments alongside a clinical diagnosis of dementia or an equivalent face-to-face test. The researchers searched various databases for relevant studies. They assessed the risk of bias and extracted data from the included studies.
+
+Results:
+The review included 31 studies with a total of 3,075 participants. Out of these, seven studies (756 participants) were relevant to evaluating the accuracy of remote assessments in diagnosing dementia. The sensitivity of remote tools varied between 26% and 100%, while specificity ranged from 65% to 100%. No test clearly outperformed the others.
+
+In the comparison between remote and in-person tests, there were 24 papers (14 telephone, 10 video call) that examined the agreement between the two types of tests. The tests showed good agreement, but rarely perfect. The correlation coefficient ranged from 0.48 to 0.98.
+
+Based on the available evidence, the authors could not recommend a preferred test for remote cognitive assessment. The use of remote testing is complex, and there is a wide variation in the tests used, their application, and their analysis. More research is needed to accurately describe the effectiveness of contemporary approaches to remote cognitive assessment. While comparisons between remote and in-person tests provided reassurance, it is important to consider that tests adapted for remote use may require different thresholds and scoring rules.
+
+In conclusion, although remote cognitive assessments are commonly used, there is limited supporting evidence regarding their accuracy. Further research is necessary to understand the effectiveness of remote cognitive assessment methods and to develop standardized approaches for remote testing.

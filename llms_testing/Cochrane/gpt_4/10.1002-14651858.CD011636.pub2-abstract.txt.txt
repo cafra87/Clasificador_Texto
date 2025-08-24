@@ -1,0 +1,13 @@
+1. Plain Title: 
+Testing Antithrombin to Prevent Brain Bleeds in Very Small Newborns
+
+2. Rationale: 
+Early birth is a major risk factor for a condition called intraventricular hemorrhage, which is bleeding inside the brain. This happens in 1 out of 4 very small newborns. The bleed is thought to be caused by blood clumps in the brain's developing tissue. Blood coagulation is a delicate balance and involves substances like antithrombin, produced in the liver, that stop blood from clotting too much. Very small newborns have low antithrombin levels, thereby having higher chances of these debilitating bleeds right after birth. Providing these babies with antithrombin could balance this and decrease their risk. Antithrombin could also reduce the risk of complications from such bleeds. 
+
+3. Trial Design: 
+This research aimed to see if giving antithrombin to early-born small babies in the first day of their lives would reduce brain-bleeds compared to not giving any treatment or other drugs. To find relevant studies, we looked at renowned databases, conference abstracts, and publications from 1980 to 2015 without language limits. Research had to be trials comparing early antithrombin use in babies born before the 32nd week of pregnancy, regardless of their weight. For each of these studies, we recorded data such as participant numbers, weights, ages, antithrombin types and how it was given, duration of the therapy, etc., while examining their bias risk as well. 
+
+4. Results: 
+Two studies involving a total of 182 premature infants qualified for this review, where antithrombin was compared to a placebo (an inactive substance). Unfortunately, we didn't find any strong differences in brain bleed rates or bad bleeds between the two groups. There were also no noticeable differences in newborn deaths or other health outcomes like lung disease. Our confidence in these findings is quite limited due to the imprecision in the estimates provided. 
+
+In conclusion, giving antithrombin doesn't seem to lower the chances and severity of brain bleeds in very prematurely born infants. There isn't enough evidence on other health outcomes yet, and due to the imprecision of data, this review doesn't definitively answer whether antithrombin is beneficial or harmful.

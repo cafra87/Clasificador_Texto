@@ -1,0 +1,39 @@
+Clinical Study Results
+These treatment groups are shown in the table below.
+Dose of Dose of Dose of
+Group MEDI0562 durvalumab tremelimumab
+Group 1 • 2.25 mg • 1500 mg
+None
+(3 participants) • Every 2 weeks • Every 4 weeks
+Group 2 • 7.5 mg • 1500 mg
+None
+(16 participants) • Every 2 weeks • Every 4 weeks
+Group 3 • 22.5 mg • 1500 mg
+None
+(8 participants) • Every 2 weeks • Every 4 weeks
+• 75 mg
+Group 4 • 2.25 mg
+None • Every 4 weeks,
+(5 participants) • Every 2 weeks
+up to 4 doses
+• 225 mg
+Group 5 • 2.25 mg
+None • Every 4 weeks,
+(11 participants) • Every 2 weeks
+up to 4 doses
+• 225 mg
+Group 6 • 7.5 mg
+None • Every 4 weeks,
+(3 participants) • Every 2 weeks
+up to 4 doses
+• 225 mg
+Group 7 • 22.5 mg
+None • Every 4 weeks,
+(7 participants) • Every 2 weeks
+up to 4 doses
+• 75 mg
+Group 8 • 22.5 mg
+None • Every 4 weeks,
+(5 participants) • Every 2 weeks
+up to 4 doses
+4

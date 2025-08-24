@@ -1,0 +1,13 @@
+Plain Title: Measures to Reopen Schools During the COVID-19 Pandemic: A Review
+
+Rationale:
+During the COVID-19 pandemic, governments around the world implemented measures to control the spread of the virus. One area greatly affected by these measures is the school setting. Many countries closed their schools, but later reopened them with various measures in place. However, there is a lack of consistent evidence on the effectiveness of these measures. To address this, we conducted a rapid review to gather and analyze the available evidence. This review will help inform guidelines issued by the World Health Organization, ensuring a safer school environment.
+
+Trial Design:
+Our review included studies that assessed the impact of measures implemented in schools during the COVID-19 pandemic. We looked at different study designs, populations, settings, interventions, and outcomes. Our search included various databases to gather the most relevant information. We focused on populations at risk of becoming infected, such as students, teachers, and school staff, as well as the broader community. We considered different types of studies, including epidemiological, modeling, mixed-methods, and diagnostic studies. We analyzed different outcomes, including disease transmission, health-related outcomes, and societal and economic implications.
+
+Results:
+We reviewed 42 studies that assessed measures implemented in schools during the pandemic. Most of these studies used mathematical modeling designs to understand the impact of different interventions. We found that organizational measures, structural/environmental measures, and surveillance and response measures were commonly implemented. These measures aimed to reduce the transmission of the virus in schools. The studies also looked at various outcomes, including disease transmission, healthcare utilization, other health outcomes, and societal, economic, and ecological outcomes. It is important to note that the outcomes varied across studies, considering both harmful and beneficial effects.
+
+Conclusions:
+Our review identified a complex and diverse body of evidence regarding measures implemented in schools during the COVID-19 pandemic. This review serves as a crucial first step in understanding the available evidence and will contribute to the development of further reviews on this topic. By analyzing the existing evidence, we can work towards implementing effective measures to ensure the safety of students, teachers, and the community in school settings during the ongoing pandemic.

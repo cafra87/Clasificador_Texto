@@ -1,0 +1,13 @@
+1. Plain Title: 
+Improving Treatment Options for Bone Marrow Cancer Patients Who Cannot Receive a Transplant
+
+2. Rationale: 
+Multiple Myeloma is a type of cancer that develops in a type of white blood cell in the bone marrow. It is responsible for about 2% of all cancer cases. People suffering from this disease often require a transplant, but not everyone is eligible for it. Those who can’t have a transplant are treated by a mix of various drugs. Sadly, not every country can afford these drugs. The study aims to rate how efficient and safe these drug mixes are. The goal is to convince the World Health Organization to include these drugs in their list of essential medicines for treating Multiple Myeloma in all countries worldwide.
+
+3. Trial Design: 
+In this study, data from several other studies was collected and analyzed. These studies focused on adults who had been newly diagnosed with Multiple Myeloma and could not get a transplant. The studies tested different drug mix combinations. The drugs in question were bortezomib (V), lenalidomide (R), and thalidomide (T), all given with melphalan and prednisone (MP) or dexamethasone (D). The researchers did not include data from trials using other types of therapy or newer drugs, or trials involving patients whose disease was returning or not responding to treatment. The studies listed were conducted until February 14, 2019.
+
+4. Results: 
+The study found that 25 other studies, which included 11,403 participants undergoing 21 different treatment plans, were helpful for this research. The treatment plans fell into two categories: those with a preset length and those given until the disease gets worse or side effects become too severe. Comparing the results, the study found that certain drug combinations probably increased the survival time of patients compared to the treatment course of using MP. The risk of side-effects like nerve damage was generally lower with certain drug combinations. Regrettably, negative side-effects led many participants to stop the treatment. On a brighter note, all studies reported an overall improvement in quality of life for the patients after starting treatment.
+
+This study concludes that using bortezomib, lenalidomide, and thalidomide together in the treatment of Multiple Myeloma can improve patient survival time but also lead to a higher occurrence of side-effects, potentially causing treatment discontinuation. The researchers recommend further studies to better compare different combinations of drugs and to standardize how quality of life improvements are reported.

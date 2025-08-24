@@ -1,0 +1,40 @@
+Clinical Study Results
+How many participants had serious adverse reactions?
+The table below shows the serious adverse reactions that happened in at least 1.0% of
+participants in any treatment group during the study. There were other serious adverse reactions
+that happened during the study, but those happened in fewer participants.
+Most common serious adverse reactions during the study
+Group 2
+Group 1 Durvalumab and Group 3
+Durvalumab alone tremelimumab SOC
+(out of 369 (out of 371 (out of 352
+participants) participants) participants)
+Inflammation in the lung 1.4% (5) 2.2% (8) 0.0% (0)
+Diarrhea 0.5% (2) 3.0% (11) 0.6% (2)
+Scarring of tissue in the lungs 0.3% (1) 1.9% (7) 0.0% (0)
+Inflammation of the large
+0.3% (1) 1.6% (6) 0.0% (0)
+bowel
+Liver damage from study
+0.0% (0) 1.3% (5) 0.0% (0)
+treatment
+Feeling tired 0.0% (0) 1.1% (4) 0.0% (0)
+Decreased number of red
+0.0% (0) 0.0% (0) 3.1% (11)
+blood cells
+Decreased number of white
+blood cells, red blood cells, 0.0% (0) 0.0% (0) 1.7% (6)
+and platelets in the blood
+There were 0.5% of participants who got durvalumab alone who died from serious adverse
+reactions. This was 2 out of 369 participants. These serious adverse reactions were:
+• pneumonia caused by a virus
+• inflammation in the lung
+There were 1.6% of participants who got durvalumab and tremelimumab together who died
+from serious adverse reactions. This was 6 out of 371 participants. These serious adverse
+reactions were:
+• scarring of the tissue in the lung, which happened in 2 participants
+• blockage in the small bowel
+• inflammation of the pancreas
+• liver failure
+• sudden death from unknown cause
+12

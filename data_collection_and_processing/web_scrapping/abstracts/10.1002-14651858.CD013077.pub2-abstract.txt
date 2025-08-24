@@ -1,0 +1,14 @@
+Background
+Tuberculosis is an infectious bacterial disease that is spread via respiratory droplets from infected individuals to susceptible contacts. To eliminate this disease from low‐ and medium‐incidence settings, people who are most likely to be infected (contacts) must be identified. Recently, study authors have examined alternate approaches to contact tracing methods that demonstrate improved detection and prioritization of contacts. The comparative benefit of these methods has not been established. 
+Objectives
+To assess the effectiveness of novel methods of contact tracing versus current standard of care to identify latent and active cases in low‐ to moderate‐incidence settings. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, LILACS, Web of Science, and CINAHL up to 15 July 2019. We also searched for clinical trials and examined reference lists and conference proceedings. 
+Selection criteria
+Randomized controlled trials (RCTs) and cluster‐RCTs of contact tracing strategies that included alternate approaches (other than standard practice). 
+Data collection and analysis
+Two review authors independently assessed identified articles for eligibility and quality using prespecified criteria. 
+Main results
+No trials met the inclusion criteria of this review. Several study authors described an alternate method for examining contacts and performing social network analysis but did not compare this with the current contact tracing approach. 
+Authors' conclusions
+This Cochrane Review highlights the lack of research in support of the current contact tracing method and the need for RCTs to compare new methods such as social network analysis to improve contact tracing processes. 

@@ -1,0 +1,16 @@
+Plain Title: Non-Drug Methods to Prevent Clotting in Kidney Treatment
+
+Rationale:
+Acute kidney injury (AKI) is a common problem for critically ill patients and can increase the risk of death. When people with severe AKI receive continuous kidney replacement therapy (CKRT), their treatment can be interrupted by clotting in the machine. This leads to undertreatment and can worsen their condition. This study aimed to explore non-drug methods that can prevent clotting during CKRT.
+
+Trial Design:
+The study included 20 research studies involving 1143 participants. These studies were designed to investigate different interventions that could prevent clotting in CKRT machines. The participants in these studies were people with acute kidney injury who needed continuous kidney replacement therapy. The study collected data from these participants over a specific period of time to see if the interventions were effective.
+
+Results:
+The study found that certain interventions could help prevent clotting and improve the lifespan of the CKRT machine. These interventions included using continuous venovenous haemodialysis (CVVHD), pre-dilution haemofiltration, longer catheters, and surface-modified double-lumen catheters. These methods showed promise in prolonging the circuit lifespan and reducing the risk of clotting. On the other hand, higher blood flow and certain types of filters were found to potentially decrease the circuit lifespan.
+
+The study also investigated the impact of these interventions on patient outcomes. There was uncertainty about whether these interventions reduced death from any cause or improved kidney function. However, using a longer catheter was found to potentially reduce vascular access complications.
+
+Overall, the evidence from the study was limited due to the small sample size and methodological limitations of the included studies. More rigorous research is needed to fully understand the effects of non-drug interventions in preventing clotting in the CKRT machines for people with acute kidney injury.
+
+In conclusion, this study explored non-drug methods to prevent clotting in kidney replacement therapy machines. Some interventions showed promise in prolonging the machine's lifespan, while others may have negative effects. However, more research is needed to fully understand the benefits of these interventions and their impact on patient outcomes.

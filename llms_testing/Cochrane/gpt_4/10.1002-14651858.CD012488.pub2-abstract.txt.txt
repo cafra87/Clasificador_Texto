@@ -1,0 +1,15 @@
+1. Plain Title: 
+Helping Kids and Teens with Long-term Illnesses: Do Psychological Treatments Work?
+
+2. Rationale: 
+Around the world, 10% to 12% of children and teens have a long-term physical illness. This can make them more likely to also feel anxious or depressed. Sometimes, these feelings are connected to their physical condition or the healthcare they need. It is unclear if treatments that help decrease anxiety and depression in children without long-term illnesses will work just as well in children with these conditions. This study was done to find out if these treatments can help kids and teens with long-term illnesses feel less anxious or depressed. 
+
+3. Trial Design: 
+The study team looked at a bunch of different research studies. They searched several big databases to find these studies. They were interested in high-quality studies that looked at how well mental health treatments work in children and teens with long-term physical illnesses. Specifically, they were interested in treatments for anxiety and depression. They looked at what the studies did, who was in them (like their age and health), and what the studies found.
+
+4. Results: 
+They looked at results from 28 research studies involving almost 1350 kids and teens. Most of the participants lived in wealthier countries and were recruited either from the community or hospital clinics. The results showed that in the short-term, mental health treatments may help reduce depression more than controls (SMD -0.31). But when it comes to anxiety, the evidence was unclear (SMD -0.26). The treatments might work, but the study team couldn't say for sure. They also found that treatment programs designed specifically for either anxiety or depression were more effective those designed to improve other symptoms or general coping skills.
+
+The study looked at how the type of therapy, how severe the depression was, and the type of physical illness might affect how well treatment worked. The results seemed to hint that these factors might make a difference, but it was hard to say for sure. The treatments seemed to be accepted well by the kids and teens, and they appeared to improve short-term quality of life and symptoms of the long-term illnesses. However, the evidence was not clear about whether these psychological therapies were better than control conditions at improving how well children function either in the short-term or long-term. 
+
+In conclusion, there have been some studies done, but more are needed. Based on what we know now, treatments that are designed to target anxiety or depression might work better, especially for kids and adolescents with mild to moderate levels of symptoms. And important thing to note is, no trials were found that looked at health-related anxiety specifically, so more research is needed in this area.

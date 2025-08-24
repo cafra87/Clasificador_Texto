@@ -1,0 +1,4 @@
+A Dose-Ranging Study With Vupanorsen (TRANSLATE-TIMI 70)
+This is a multicenter, Phase 2b, double-blind, placebo-controlled, parallel group study to provide data on efficacy, safety, tolerability, and pharmacokinetics (PK) of PF-07285557 (hereafter, vupanorsen) administered subcutaneously (SC) at various doses and regimens in participants with dyslipidemia, defined in this study as participants with elevated non-HDL-C and TG who are receiving a stable dose of a statin.
+
+This study is also known as TaRgeting ANGPTL3 with an aNtiSense oLigonucleotide in AdulTs with dyslipidEmia (TRANSLATE-TIMI 70).

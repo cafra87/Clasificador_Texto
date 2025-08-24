@@ -1,0 +1,17 @@
+1. Plain Title: 
+Can heart medication (Beta-Blockers) Help Reduce Health Risks During Non-Heart Surgery?
+
+2. Rationale: 
+Sometimes doctors provide heart medication known as "beta-blockers" to help manage heart-related risks during non-heart surgeries. However, it's unclear if this approach really helps. Some believe these medications reduce complications, but others aren't sure. Our aim was to further study this controversy by focusing on adults undergoing non-heart surgeries. We hoped to investigate if beta-blockers could lessen the chances of surgery-related death and other health problems.
+
+3. Trial Design: 
+We studied a large group of adults (14,967 people) having non-heart surgery procedures. These surgeries varied from high to low-risk. The participants were given different types of beta-blockers or a placebo (dummy drug), around the time of their surgery. The beta-blocker was administered at different timings, in most cases, during the surgery, but sometimes before or after. The purpose of our study was to understand how beta-blockers work in this situation. This study took several months to complete due to the amount of data we gathered and analyzed from these individuals.
+
+4. Results: 
+Our study results showed mixed outcomes. We found some evidence that taking beta-blockers might lower the chances of a heart attack after surgery. It might also reduce heart rhythm problems known as "atrial fibrillation or flutter". However, the evidence for these benefits was not strong and these drugs didn't seem to help prevent other post-surgery complications like strokes or another type of heart rhythm problem called "ventricular arrhythmias".
+
+On the downside, we also found that beta-blockers might increase the risk of two major side effects: an abnormally slow heart rate (bradycardia), and low blood pressure (hypotension). 
+
+In conclusion, we're still uncertain if beta-blockers generally help or harm patients having non-heart surgery. While there's potential that they could reduce some heart-related complications, they may also bring about additional issues. To get a better picture, we propose more studies, preferably ones using a placebo rather than usual care. We also suggest more investigation on how these drugs may affect patients' quality of life. 
+
+Despite this, we remain hopeful that further research may give us a clearer picture about the role of beta-blockers in non-heart surgery.

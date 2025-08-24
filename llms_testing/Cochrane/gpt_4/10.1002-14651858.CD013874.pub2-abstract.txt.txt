@@ -1,0 +1,19 @@
+1. Plain Title: Studying Effectiveness and Safety of Rituximab in Multiple Sclerosis Treatment
+
+2. Rationale:
+
+Multiple sclerosis (MS) is a medical condition showing evidence of nerve damage in the brain and spinal cord. It’s a common reason that young adults face difficulty in their daily activities due to a decline in nerve function. Many countries choose to use a medicine called rituximab to treat this condition even though it's not officially approved for it. This study aims to understand the good and bad effects of rituximab in adults with MS when used as a 'first choice' treatment or as an alternative treatment when other medicines didn't work well.
+
+3. Trial Design:
+
+We located many studies until January 31, 2021, from various medical databases and trial registers where rituximab has been compared with a dummy medicine or other MS medicines. We checked 15 studies involving up to 16,429 participants aged 18 and over who had MS. These studies took place over one to two years in several high-income countries and were provided by various sources, including two pharmaceutical companies and six from the Swedish MS register. 
+
+4. Results: 
+
+Some important findings include that rituximab seems to lower the number of attacks in people with intermittent MS symptoms, which flair up and then disappear. However, it's not yet clear if it stops the disease from getting worse. 
+
+In people with progressive MS, where symptoms slowly get worse over time, rituximab doesn't appear to slow down the worsening of disability. Still, it doesn't seem to adversely affect the health of the patient compared with someone not taking the medicine. 
+
+Rituximab may decrease recurrent attacks among people with intermittent MS who decided to switch to it from their previous treatment. Also, there are some indications that rituximab might result in more common infections compared to other MS drugs but not enough to cause significant concern. 
+
+Despite rituximab being widely used to treat MS, the evidence to support this is not strong. Therefore, more data gathered from real-world applications of rituximab could assist in clearly understanding its benefits and harms in treating MS better.

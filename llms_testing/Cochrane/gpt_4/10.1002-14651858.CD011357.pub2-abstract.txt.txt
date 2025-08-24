@@ -1,0 +1,13 @@
+1. Plain Title: 
+Understanding the Effects of Antibiotics on Kidney Transplant Patients Without Urinary Infection Symptoms
+
+2. Rationale: 
+Kidney transplant patients may sometimes have bacteria in their urine without signs of an infection. This condition, often called asymptomatic bacteriuria, affects about 17% to 51% of kidney transplant patients. Some people think it may lead to urinary tract infections later on. But there is debate on whether antibiotics should be used to treat it. This study was conducted to understand the positive and negative impacts of using antibiotics to treat this condition in kidney transplant receivers. We also explored how this condition influenced patient mortality and kidney function in these patients. 
+
+3. Trial Design: 
+We performed research using the Cochrane Kidney and Transplant Register of Studies until September 1, 2017. To find relevant studies, we searched different data sources including CENTRAL, MEDLINE, EMBASE, and others. We included all studies assessing treatment of asymptomatic bacteriuria in kidney transplant receivers in any language at any time-point after transplantation. In the end, we selected two studies involving 212 patients for our review.
+
+4. Results: 
+After reviewing two selected studies, we found a varying number of patients (19% to 31%) developed urinary tract infections even if they did not receive treatment for asymptomatic bacteriuria. It was not clear whether antibiotic treatment can prevent urinary tract infections. The chances of getting bacteria resistant to many drugs was also uncertain with antibiotic treatment. Even with treatment, bacteria were still present in the urine in many cases. Antibiotics also showed uncertain effects on other patient and kidney outcomes like overall mortality, kidney loss, rejection, need for hospitalization due to urinary tract infection, kidney function, and side effects. The evidence quality for all these outcomes was low. 
+
+The conclusion is that currently, there's not enough evidence to suggest that kidney transplant patients with asymptomatic bacteriuria should be routinely treated with antibiotics. More data is needed to form a solid recommendation. We expect that three ongoing randomized studies may provide more insight on this issue.

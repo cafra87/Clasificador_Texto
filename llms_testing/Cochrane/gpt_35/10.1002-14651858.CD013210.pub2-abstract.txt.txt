@@ -1,0 +1,11 @@
+Plain Title: Best Treatments for Maintaining Remission in Crohn's Disease
+
+Rationale: Crohn's disease is a chronic gut condition that often requires surgery, but recurrence is common even after surgery. Different treatments are used to maintain remission, but it is unclear which is the most effective. This study aims to assess the effects and harms of these treatments and rank them in order of effectiveness.
+
+Trial Design: The study included 35 randomized controlled trials with a total of 3249 participants. The participants were between the ages of 33.6 and 38.8 years. The study assessed various interventions, including 5-aminosalicylic acid, adalimumab, antibiotics, budesonide, infliximab, probiotics, purine analogues, sulfasalazine, and a combination of sulfasalazine and prednisolone. The study lasted for at least three months.
+
+Results: The evidence for the effectiveness of different treatments was of low or very low certainty. Adalimumab, infliximab, budesonide, 5-ASA, and purine analogues were the most highly ranked treatments for preventing clinical relapse. Adalimumab and 5-ASA showed some evidence of reducing the probability of clinical relapse compared to placebo. However, budesonide may not be effective in preventing clinical relapse. The effectiveness of infliximab and purine analogues is uncertain. 
+
+There is limited evidence for the prevention of endoscopic relapse with adalimumab, but no other interventions appeared to be effective. The effectiveness of interventions for preventing withdrawal due to adverse events is also uncertain. Sulfasalazine was associated with the least likelihood of withdrawal due to adverse events, while antibiotics were most likely to cause withdrawal. Pancreatitis and leukopenia were observed in some participants who received purine analogues.
+
+Based on the low-certainty evidence in the networks, it is not possible to determine which treatment is most effective for preventing clinical relapse and endoscopic relapse. The safety of the interventions is inconclusive, but there were cases of pancreatitis and leukopenia associated with purine analogues. Larger trials are needed to further understand the effects of these interventions on endoscopic relapse.

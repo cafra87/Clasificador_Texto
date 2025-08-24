@@ -1,0 +1,165 @@
+CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Fidanacogene elaparvovec (PF-06838435 [ SPK-9001])
+Protocol Number: C0371005 (previously SPK -9001-101)
+Dates of Trial: 18 November 2015 to 08 April 2019
+Title of this Trial: A Gene Therapy Study for Hemophilia B
+[Gene Therapy, Open -Label, Dose -Escalation Study of 
+SPK-9001 (Adeno -Associated Viral Vector With Human 
+Factor IX Gene) in Subjects With Hemophilia B ]
+Date (s)of this Report: 22February 2021
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated. If you 
+have any questions about the study or results ,please contact the doctor or staff at 
+your study site.
+090177e1965907be\Approved\Approved On: 23-Feb-2021 03:07 (GMT)
+2WHY WAS THIS STUDY DONE?
+Hemophilia is a disease that is “inherited”, which means it runs in famil ies, and it 
+mainly affects boys and men.  People with hemophilia have problems with their blood 
+not clotting.  After an injury, someone with hemophilia will bruise more easily and, if 
+cut, will bleed for longer.  Sometimes the bleeding can happen inside th e body and 
+this “internal bleeding” can be serio us as it can cause damage.
+Doctors prescribe medicines called “factor replacement therapy” to help the blood to 
+clot in people with hemophilia.  These treatments work by replacing the clotting 
+factors that ar e missing from the blood of a person with hemophilia.  Clotting factors 
+are proteins in the blood that help stop bleeding after an injury as well as prevent 
+bleeding from happening.  There are many different clotting factors in the blood and 
+these are numb ered using Roman numerals.  People with hemophilia B are missing 
+Factor IX (9) (FIX) .  This means FIX is given to people with hemophilia B.  Factor 
+replacement therapy is given by “infusion” where the medicine is prepared in a 
+syringe and then “injected” o r pushed through a patient’s skin into a “vein”.  A vein is 
+a tube that carries blood around the body.  Other treatments are also available that 
+can be given by “injection”, or a shot, “subcutaneously”, to prevent or reduce the 
+number of bleeding episodes (also known as bleeds).  Subcutaneously means the 
+injection is g iven just underneath the skin.
+Fidanacogene elaparvovec is a new kind of treatment being studied for hemophilia.  It 
+works in a different way to other treatments to help blood to clot.  Fidana cogene 
+elaparvovec is a novel recombinant adeno -associated virus (AAV), which in nature 
+causes no disease, to deliver the human factor IX (hFIX) gene to the liver ce lls where 
+FIX is normally made.
+For this study, researchers were interested in learning abo ut the safety and kinetics 
+(movement through the body) of a single dose of fidanacogene elaparvovec where it 
+may help to prevent or reduce the number of bleeding episode s.  
+090177e1965907be\Approved\Approved On: 23-Feb-2021 03:07 (GMT)
+3WHAT HAPPENED DURING THE STUDY?
+Researchers in t his study initially intended to look at 3 groups of patients treated with
+fidanacogene elaparvovec at 1 of 3 dose levels .  This was done to see if patients had 
+any medical problems after this treatment and also see if this treatment could prevent 
+bleeding episodes.  Fidanacogene elaparvo vecwas given as an intravenous ( IV)
+infusion, which means that a needle is placed in the vein and the study drug slowly 
+drips into the vein .
+A total of 22 patient s were screened, 15 patients received fidanacogene elaparvovec . 
+All 15 patients received the lowest dose in the study (5 x 1011vg/kg). No patient 
+received the 2 higher dose sof fidanacogene elaparvovec . Results presented here are 
+from the lowest dose level.
+Patients were treated with 100 IU/kg of their us ual FIX protein product ov er more or 
+less 10minutes at Day 0 visit. After this , the patients were treated with fidanacogene 
+elaparvovec (5 x 1011vg/kg) for approximately 60 minutes via infusion pump , as 
+shown in the figure below .
+This was an open -label study, so everyone, including the patient, knew what treatment 
+was given . 
+The study included patients who were men of 18years of age and older with less than 
+or equal to 2% FIX levels.
+090177e1965907be\Approved\Approved On: 23-Feb-2021 03:07 (GMT)
+4While patients were only in the study for 1year, the entire study took more than
+3yearsto complete.  The Sponsor ran this study at 5locations in 2countries 
+(Australia and United States) .  It began 18November 2015 and ended 08April 2019.  
+All patient s were men .  All patients were between the ages of 18and 61years .
+Patients were to be treated with a single IV infusion . Of the 15patients who started 
+the study, all finished the study .  
+When the study ended in April 2019, the Sponsor began reviewing the information 
+collected.  The Sponsor then created a report of the results. This is a summary of that 
+report.
+WHAT WERE THE RESULTS OF THE STUDY?
+How  much of the standard FIX treatment was absorbed 
+following treatment with fidanacogene elaparvovec ?
+Treatment with fidanacogene elaparvovec did not change the rate at which normal 
+FIX treatment is absorbed .  
+Didtreatment with fidanacogene elaparvovec have an effect 
+on FIX activity in the body ?
+During this study , the average FIX activity levels in patients treated with fidanacogene 
+elaparvov ecwas 23%.
+Didtreatment with fidanacogene elaparvovec have an effect 
+on the number of bleeding events for participants ?
+None of the patients had a traumatic blee d during this study .  The average n umber of 
+bleeding events experienced by the patients, reduced during the 52 weeks in the study, 
+after treatment with fidanacogene elaparvovec .  The average bleeding rate for patients 
+treated with fidanacogene elaparvovec, was < 1.  The amount of bleeding ev ents the 
+patients experienced after fidanacogene elaparvovec treatment, is shown below.
+090177e1965907be\Approved\Approved On: 23-Feb-2021 03:07 (GMT)
+5This does not mean that everyone in this study had these results.  Other studies may 
+produce different results , as well .  These are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this 
+summary.   
+WHAT MEDICAL PROBLEMS DID 
+PARTICIPANTS HAVE DURING THE STUDY?
+The researchers recorded any medical problems the participants had during the study.
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance). Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant wa s 
+090177e1965907be\Approved\Approved On: 23-Feb-2021 03:07 (GMT)
+6taking. Sometimes the cause of a medical problem is unknown. By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be.
+Fourteen (14) out of 15patients (93%) in this study had at least 1 medical problem
+and there were 81 medical problems reported to the study doctors .  Nopatient left 
+the study because of medical problems.  The most common medical problems are 
+listed in the table below.
+Most Common Medica l Problems
+(Reported by At Least 20% of Patients)
+Medical ProblemFidanacogene Elaparvovec
+(15Patients Treated)
+Nose and throat infection 5 (33%)
+Common cold 3(20%)
+Back pain 3(20%)
+Stretched or torn muscle (muscle 
+strain)3(20%)
+No patient had severe medical problems . Of the 81 medical problems, 53 were mild 
+and 28 were considered moderate .
+There were 2out of 15patients ( 13%) who had medical problems that the doctors 
+thought were related to fidanacogene elaparvovec .  Both of th etreatment -related 
+medical problems that were seen were moderate transaminase elevation , which refers 
+to having high levels of certain liver enzymes, called transaminase s, suggesting some 
+inflammation or irritation of the liver .
+During the study, patients had blood samples taken for testing.  Medical problems 
+identified in these blood tests are described below.  
+090177e1965907be\Approved\Approved On: 23-Feb-2021 03:07 (GMT)
+7Most of the patients remained generally normal for most laboratory blood tests during 
+the study.  One (1) patient exper ienced 1 moderate medical problem of normocytic 
+anemia (normal -sized red blood cells, but have a low number of them inthe body )
+and 1 patient experienced mild medical problem of microcytic an emia (body has fewer 
+red blood cells than normal andthe red blo od cells it does have are too small ).  Both 
+medical problems were considered not related to study drug by the study doctor .
+The study doctors did not note any important or study drug -related results in vital 
+signs.  There were no physical examination chang es after study drug infusion that 
+were important or related to the study drug.
+This does not mean that everyone in this study had these results.  Other studies may 
+produce different results, as well.  These are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this 
+summary.
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  
+No patient had serious medical problems and no patients died during the study.
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+www.clinicaltrials.gov Use the study identifier NCT02484092
+www.clinicaltrialsregister.eu Use the study identifier 018-003086 -33
+Clinical trials with fidanacogene elaparvovec are ongoing and further trials are 
+planned.
+090177e1965907be\Approved\Approved On: 23-Feb-2021 03:07 (GMT)
+8Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients.
+Again, thank  youfor volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e1965907be\Approved\Approved On: 23-Feb-2021 03:07 (GMT)

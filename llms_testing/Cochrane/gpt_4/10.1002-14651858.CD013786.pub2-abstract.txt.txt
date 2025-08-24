@@ -1,0 +1,15 @@
+1. Plain Title
+Evaluating the Accuracy of Dementia Diagnoses Made Through Telehealth
+
+2. Rationale
+Dementia is a condition affecting millions of people worldwide, that severely impacts their memory and cognitive abilities. Despite its prevalence, many people with dementia don't get diagnosed, preventing them from getting the care and treatment they need. One possible solution to this problem is telehealth, or providing health services from afar using technology. This method is beneficial for those who live in far-off or rural areas and has been particularly useful during the COVID-19 pandemic where in-person consultations are risky. This study aims to determine if dementia diagnoses made through telehealth methods are as accurate as those made during face-to-face clinic visits.
+
+3. Trial Design
+The study included people who were referred to a specialist service for suspected cognitive problems like dementia. Within one month, these individuals underwent two assessments: one face-to-face with a health professional, and one remotely through telehealth, where the doctor in charge of the diagnosis made their assessment based on information given to them by other healthcare professionals. The researchers examined several studies with people who had been tested in this manner and extrapolated the data to determine the effectiveness and reliability of telehealth assessments for diagnosing dementia.
+
+4. Results
+Three studies were selected that included a total of 136 participants; two studies were from community centres in Australia, and one from a veterans' home in the USA. The results showed that telehealth assessments had a good chance of accurately diagnosing dementia, with an 80% to 100% success rate. However, only one study, with 100 participants aimed to diagnose milder forms of cognitive impairment and yielded lower success rates of around 71% to 73%. 
+
+While telehealth assessments demonstrated high sensitivity and specificity for diagnosing dementia, the study found errors in distinguishing between mild cognitive impairment and full-blown dementia, and misdiagnosed healthy individuals as having mild impairment. There was very little information on how satisfied patients or doctors were with telehealth methods, how much it cost, or how manageable it was in a long-term setting.
+
+Despite these limitations, the study concludes that telehealth assessments can play a vital role in diagnosing dementia accurately, particularly when coupled with face-to-face assessments by other healthcare professionals. More research is needed in this field, especially in assessing patients with less advanced cognitive impairment.

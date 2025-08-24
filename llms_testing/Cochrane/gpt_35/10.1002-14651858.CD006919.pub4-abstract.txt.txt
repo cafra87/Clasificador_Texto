@@ -1,0 +1,12 @@
+Plain Title: Comparing Different Medications for Assisted Reproduction
+
+Rationale: 
+Assisted reproduction technology (ART) helps women who struggle to conceive by assisting in the process of fertilization. Medications called gonadotrophin‐releasing hormone agonists (GnRHa) are used during ART cycles to increase the chances of live birth. However, it is not clear which GnRHa protocol is the most effective. This study aimed to compare the different GnRHa protocols used in ART cycles to determine which one is the most effective at helping women conceive.
+
+Trial Design: 
+In this study, researchers looked at various randomized controlled trials (RCTs) comparing different GnRHa protocols used during in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI) cycles. The trials included a total of 3872 women and compared nine different protocols. The researchers analyzed the data from these trials to determine the outcomes of each protocol. 
+
+Results: 
+The study found that there was no conclusive evidence that one GnRHa protocol was better than another in terms of live birth and ongoing pregnancy rates. However, the use of a long protocol was associated with higher clinical pregnancy rates compared to other protocols. The study also found that the different protocols did not significantly affect the number of oocytes retrieved or the dose of medications used. In terms of adverse effects, the researchers did not have enough data to make any conclusions except for cycle cancellation rates, which were not significantly different between protocols. Overall, the quality of the evidence ranged from moderate to low, with some limitations in the studies included. 
+
+In conclusion, this study suggests that different GnRHa protocols do not have a substantial impact on live birth or ongoing pregnancy rates. However, the use of a long protocol may increase the chances of clinical pregnancy. It is important to note that more research is needed to fully understand the potential adverse effects of each protocol. Ultimately, the choice of GnRHa protocol should be made in consultation with a healthcare provider based on individual needs and preferences.

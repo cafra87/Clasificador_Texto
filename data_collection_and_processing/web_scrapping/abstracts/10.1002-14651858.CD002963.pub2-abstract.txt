@@ -1,0 +1,14 @@
+Background
+Acoustic stimulation of the fetus has been suggested to improve the efficiency of antepartum fetal heart rate testing. 
+Objectives
+To assess the advantages and disadvantages of the use of fetal vibroacoustic stimulation in conjunction with tests of fetal wellbeing. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 September 2013). 
+Selection criteria
+All published and unpublished randomised controlled trials assessing the merits of the use of fetal vibroacoustic stimulation in conjunction with tests of fetal wellbeing. 
+Data collection and analysis
+All review authors independently extracted data and assessed trial quality. Authors of published and unpublished trials were contacted for further information. 
+Main results
+Altogether 12 trials with a total of 6822 participants were included. Fetal vibroacoustic stimulation reduced the incidence of non‐reactive antenatal cardiotocography test (nine trials; average risk ratio (RR) 0.62, 95% confidence interval (CI) 0.48 to 0.81). Vibroacoustic stimulation compared with mock stimulation evoked significantly more fetal movements when used in conjunction with fetal heart rate testing (one trial, RR 0.23, 95% CI 0.18 to 0.29). 
+Authors' conclusions
+Vibroacoustic stimulation offers benefits by decreasing the incidence of non‐reactive cardiotocography and reducing the testing time. Further randomised trials should be encouraged to determine not only the optimum intensity, frequency, duration and position of the vibroacoustic stimulation, but also to evaluate the efficacy, predictive reliability, safety and perinatal outcome of these stimuli with cardiotocography and other tests of fetal wellbeing. 

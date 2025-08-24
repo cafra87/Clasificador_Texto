@@ -1,0 +1,11 @@
+Plain Protocol Title: A Study to Test if Anifrolumab is Safe and Helps Adults with Active Lupus
+
+Rationale: Systemic Lupus Erythematosus (Lupus) is a chronic disease that causes inflammation in various parts of the body, leading to fatigue, joint pain, rash, and potentially severe organ damage. Because current treatments don't work well for everyone and can cause serious side effects, researchers are looking for a better way to treat this condition. This study is needed to test a new medication called Anifrolumab. Anifrolumab works by blocking a part of the body's immune system thought to contribute to lupus. Researchers hope that this will reduce the disease's activity and improve symptoms.
+
+Objectives: The main goal of this study is to see if Anifrolumab helps lessen lupus activity compared to a placebo. We'll measure this by counting the number of patients who show a reduction in their lupus symptoms after a year. We also aim to see if Anifrolumab reduces the need for other lupus medications and if it improves skin symptoms in certain patients. 
+
+Trial Design: This study will include roughly 450 adults with moderately or severely active lupus. Patients will randomly receive either Anifrolumab or a placebo, alongside their usual treatments. They will receive the assigned treatment through an IV (a small tube in a vein) every four weeks for a year. Neither the patient nor their doctor will know if they are receiving Anifrolumab or the placebo. 
+
+Trial Population: Adult patients, ranging from 18 to 70 years, who have moderately or severely active lupus can participate in this study. Patients must have certain levels of active lupus assessed by specific health scores, and they should already be receiving certain lupus treatments, like oral steroids, antimalarial drugs, or immune suppressants. This study seeks to include both men and women, but women who are pregnant, plan to become pregnant, or are breastfeeding, cannot participate. 
+
+Interventions: Patients will receive either Anifrolumab (two different doses are tested) or a placebo through an IV every four weeks. The placebo is used as a comparison to see if the potential benefits are due to the Anifrolumab, and not a response to receiving an injection. We'll be observing how the patient responds to these treatments and monitoring any side effects that may occur.

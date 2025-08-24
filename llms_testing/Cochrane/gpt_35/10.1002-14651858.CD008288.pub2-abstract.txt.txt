@@ -1,0 +1,16 @@
+Plain Title: Effects of Ayurvedic Treatments for Diabetes Mellitus
+
+Rationale:
+Diabetes is a condition that affects many people, and they often turn to complementary and alternative medicines like Ayurvedic treatments. It's important to understand how effective and safe these treatments are. This study aimed to assess the effects of Ayurvedic treatments for diabetes mellitus, including herbal mixtures and whole system treatments. Understanding their effectiveness can help improve treatment options for diabetes patients.
+
+Trial Design:
+To conduct this study, researchers searched various databases for randomized trials that lasted at least two months. They included participants of all ages, genders, and types of diabetes. The study evaluated different Ayurvedic interventions and assessed their effects on glycosylated hemoglobin A1c (HbA1c) and fasting blood sugar (FBS) levels. The duration of treatment ranged from 3 to 6 months, and the study focused on adults with type 2 diabetes mellitus. The goal was to determine if these Ayurvedic treatments could effectively lower HbA1c and FBS levels.
+
+Results:
+The study found six trials that used proprietary herbal mixtures and one trial that used a whole system Ayurvedic treatment. These trials involved 354 participants. The results varied due to the different types of interventions and the quality of the data. However, some positive outcomes were observed. For example, Ayurvedic treatments like Diabecon, Inolter, and Cogent DB led to significant reductions in HbA1c and FBS levels compared to placebo or no additional treatment. On the other hand, treatments like Pancreas tonic and Hyponidd did not show significant hypoglycemic responses. 
+
+Regarding secondary outcomes, participants treated with Diabecon had lower postprandial blood sugar (PPBS), while Hyponidd had no effect on lipid profile. In contrast, Inolter treatment was associated with higher HDL-cholesterol, lower LDL-cholesterol, and lower triglycerides. Cogent DB treatment resulted in lower total cholesterol and triglyceride levels.
+
+The study also reported increased fasting insulin levels in participants treated with Diabecon. However, no significant differences were found in fasting and stimulated C-peptide and insulin levels with other treatments like Hyponidd, Cogent DB, and Pancreas tonic. Unfortunately, no studies investigated the effects of these interventions on diabetic complications, death, or economic factors.
+
+In conclusion, while some herbal mixtures showed promising glucose-lowering effects, the methodological deficiencies and small sample sizes of the studies prevent us from drawing definite conclusions about their efficacy. Further research is needed to better understand the effectiveness and safety of Ayurvedic treatments for diabetes. At present, there is insufficient evidence to recommend their routine use in clinical practice.

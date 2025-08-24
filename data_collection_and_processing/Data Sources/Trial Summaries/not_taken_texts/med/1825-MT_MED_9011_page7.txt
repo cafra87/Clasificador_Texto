@@ -1,0 +1,30 @@
+The measurements that were too low were:
+X How quickly the kidneys removed creatinine from the blood
+X A blood protein called hemoglobin that carries oxygen
+X Types of white blood cells called leukocytes, neutrophils, and lymphocytes
+X Blood cells called platelets that help form blood clots
+X A blood protein called albumin
+X Blood potassium and sodium
+The researchers found that there were some small changes in the results of the
+other tests and measurements. But, the researchers did not consider these to be
+significant.
+The study doctors also kept track of the “adverse events” that the participants
+had. An adverse event is any sign or symptom that participants have during a
+study. Doctors keep track of all the adverse events that happen in studies, even if
+they do not think the adverse events might be related to the study treatment.
+Later in this document, there will be a summary of the adverse events that the
+study doctors thought might be related to the study treatment. This section
+is a summary of all the adverse events, whether they might be related to the
+study treatment or not. An adverse event is considered “serious” when it is life-
+threatening, causes lasting problems, or the participant needs hospital care.
+Adverse events may or may not be caused by the treatments in the study. A lot of
+research is needed to know whether a treatment causes an adverse event.
+Participants who got a Participants who got a
+low dose of AZD2811 high dose of AZD2811
+(out of 22 participants) (out of 50 participants)
+How many participants had adverse events? 100.0% (22) 98.0% (49)
+How many participants had serious adverse 9.1% (2) 34.0% (17)
+events?
+How many participants stopped taking 0.0% (0) 4.0% (2)
+study treatment due to adverse events?
+7 | Clinical Study Results

@@ -1,0 +1,29 @@
+Clinical Trial RESULTS
+How many participants developed serious medical problems?
+A medical problem is considered serious when it is life-threatening, causes
+lasting problems, or requires hospital care. No participants developed serious
+medical problems in this study and no participants died. No safety concerns
+were raised during this study.
+What were the most common medical problems in the study?
+The table below shows the most common medical problems that happened to
+more than one participant in the study.
+Most Common Medical Problems in the Study
+AZD7986 + AZD7986 +
+Medical AZD7986 Verapamil Verapamil Itraconazole Itraconazole
+Problem (15 participants) (15 participants) (15 participants) (15 participants) (15 participants)
+0 participants 0 participants 0 participants 3 participants 0 participants
+Diarrhoea
+(0.0%) (0.0%) (0.0%) (20.0%) (0.0%)
+0 participants 1 participant 5 participants 0 participants 1 participant
+Headache
+(0.0%) (6.7%) (33.3%) (0.0%) (6.7%)
+0 participants 0 participants 2 participants 0 participants 0 participants
+Drowsiness
+(0.0%) (0.0%) (13.3%) (0.0%) (0.0%)
+0 participants 0 participants 2 participants 1 participant 1 participant
+Common cold
+(0.0%) (0.0%) (13.3%) (6.7%) (6.7%)
+2 participants 0 participants 3 participants 1 participant 1 participant
+Dry skin
+(13.3%) (0.0%) (20.0%) (6.7%) (6.7%)
+7

@@ -1,0 +1,14 @@
+1. Plain Title: Comparing Two Ways of Having Cataract Surgery: One Eye at a Time or Both Eyes on the Same Day
+
+2. Rationale: 
+Cataracts, or clouding of the eye lens, often affect both eyes as people age. The standard practice is to have surgeries on the two eyes on different days. This is known as delayed sequential bilateral cataract surgery (DSBCS). However, there's another option where both eyes are operated on the same day, through two distinct surgeries. This approach, termed immediate sequential bilateral cataract surgery (ISBCS), may benefit the patient through quicker vision recovery, fewer hospital visits and lower healthcare expenses. Despite these advantages, there are concerns about serious issues that could affect vision after the ISBCS procedure. Hence, this study was needed to evaluate the safety, benefits, and cost-effectiveness of the ISBCS method compared to the traditional DSBCS.
+
+3. Trial Design: 
+For this study, we analyzed different types of research that were carried out in different parts of the world between 2007 and 2021. The studies included a total of around 276,200 people with cataracts in both eyes. Some of the studies were controlled (where one group had ISBCS and the other DSBCS to compare the results), while some others were observations of patients who had either ISBCS or DSBCS. Several measures were examined, such as complications, vision clarity, patient satisfaction, and costs, to evaluate the two surgery methods.
+
+4. Results: 
+Overall, our study did not find a meaningful difference between the two methods in terms of improvement in vision or issues after surgery. Certain vision-threatening issues were very rare, regardless of the method. In terms of accuracy in reaching the target degree or grade of vision, both methods were quite similar. Moreover, the costs for patients were slightly lower for those who had both eyes operated on the same day. However, these results vary, and individual reports couldn't be grouped together to make a stronger conclusion. 
+
+While one of the studies suggested ISBCS is cost-effective as compared to the DSBCS, the way it worked out costs and benefits had mistakes, so we can't completely rely on these findings. In terms of patient satisfaction, both groups seemed equally content one to three months after their surgeries. 
+
+Overall, the study did not find any significant differences in the patient outcomes between ISBCS and DSBCS, though costs were slightly lower for ISBCS. However, the evidence we have so far is limited, not very strong, and we need more carefully designed studies to understand better whether one method is more cost-effective than the other.

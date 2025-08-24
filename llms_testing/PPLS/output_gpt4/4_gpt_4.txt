@@ -1,0 +1,13 @@
+Plain Protocol Title: An A Year Long Study of a New Treatment in Combination with Methotrexate for People with Severe Rheumatoid Arthritis
+
+Rationale: Rheumatoid arthritis (RA) is a condition where the body�s immune system attacks its own tissues, causing painful swelling in joints, which can be very hard for patients to live with. Some people with RA don't respond well to existing treatments, so we are seeking a better way to treat this condition. Our study tests the drug GSK3196165, in combination with another known drug, methotrexate. We believe this approach has the potential to help people with severe RA. 
+
+Objectives: The main goal of our study is to see if GSK3196165 (a new drug) given at two different doses can better help people who have severe RA and who have not found relief with methotrexate alone. We will measure this by looking at the change in the number of joint swellings and pain from the start to the end of the study.
+
+We also want to compare the new drug to another known drug, tofacitinib, and assess the patient's experiences during treatment. We will also monitor the safety and tolerability of GSK3196165, as well as how the body may react to the drug.
+
+Trial Design: This study will happen in different places and will last for about a year and two months. The first one and a half month will be for patient checks and assessments. Then, the actual treatment will start, and carry on for a year. After the treatment, there will be a two-month follow-up period. 
+
+Trial Population: This study is open to both men and women over the age of 18 who are living with severe RA that hasn't improved with methotrexate. The patients should have been suffering from RA for at least six months and must agree to continue or begin taking folic acid, a vitamin usually given with methotrexate. People who have previously been treated with certain RA drugs (bDMARDs) cannot be more than 20% of all the patients in the study.
+
+Interventions: Patients will receive one of two doses of the new drug (90 or 150 milligrams), a known drug called tofacitinib, or a placebo through a weekly under-the-skin injection. All these will be given along with ongoing methotrexate treatment. If a patient gets a placebo, they will start getting an active treatment at week 12. The injection time will be set in the schedule of activities (SoA). Anyone who takes part in this study might also get the chance to be in a long-term extension of this study.

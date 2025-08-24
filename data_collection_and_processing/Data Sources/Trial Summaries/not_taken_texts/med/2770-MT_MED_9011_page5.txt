@@ -1,0 +1,30 @@
+Clinical Trial RESULTS
+Highest average amount of study drugs in participants’ blood
+Researchers compared the highest average amount of lesinurad and allopurinol in the blood
+of participants in Groups 1 and 3. Researchers calculated this using micrograms per milliliter,
+or μg/mL.
+The figure below shows the results for Doses A, B, E, and F.
+Highest Average Amount of Study Drugs in the Blood by Dose
+15
+12 A B E F
+10.4 10.5 10.7
+9.4
+9 Lm/gμ
+6
+A B
+3 E F
+1.3 1.2
+0.9 0.8
+0
+Lesinurad Allopurinol
+How much lesinurad and allopurinol stayed in participants’ blood with food compared
+to without food?
+To answer this question, researchers studied participants in Group 2. Participants in Group 2
+took one combined 200/300-mg tablet of lesinurad/allopurinol without food for Dose C and
+the same tablet with food for Dose D.
+Overall, researchers found that the average amounts of both study drugs that stayed in the
+blood were similar whether participants took the tablet with or without food. However,
+the highest amount of lesinurad in the blood was higher when participants took the tablet
+without food than with food. The highest amount of allopurinol in their blood was similar
+whether participants took the tablet with or without food.
+5

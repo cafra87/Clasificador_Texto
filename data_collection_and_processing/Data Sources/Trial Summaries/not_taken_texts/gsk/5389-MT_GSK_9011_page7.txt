@@ -1,0 +1,35 @@
+What were the side effects?
+Study doctors collect information about the safety of study medicines. They document
+the side effects that are reported by patients during the study. If they believe that the
+side effect was caused by the medicine, they note that as well. This plain language
+summary reports adverse events that may be related to the study medicine. These are
+called adverse reactions.
+• An adverse reaction is a medical problem that develops during the study that
+the doctor thinks could have been caused by the patient’s study medicine.
+• A serious adverse reaction is an adverse reaction that is life threatening,
+requires hospitalisation, or results in death or permanent damage.
+No serious adverse reactions were reported by 1% or more of the patients in any
+treatment group. The serious adverse reactions reported by 5 or more patients in at
+least one treatment group and the adverse reactions (serious and non-serious)
+reported by 1% or more of patients in at least one treatment group are shown in the
+tables below. The number of patients in the tables below includes all patients who
+received at least one dose of the medicine. All of these patients were included as part
+of the safety population. There are more patients in the safety population than in the
+intent to treat population.
+Serious Adverse Reactions
+Placebo Fluticasone Vilanterol Fluticasone Furoate
+Furoate and Vilanterol
+4131 patients 4157 patients 4140 patients 4140 patients
+3 of 4131 12 of 4157 3 of 4140 11 of 4140
+Pneumonia
+(less than 1%) (less than 1%) (less than 1%) (less than 1%)
+10 of 4131 7 of 4157 5 of 4140 5 of 4140
+Worsening COPD
+(less than 1%) (less than 1%) (less than 1%) (less than 1%)
+Abnormal Rapid,
+Irregular
+3 of 4131 None of 4157 5 of 4140 3 of 4140
+Heartbeat
+(less than 1%) (0%) (less than 1%) (less than 1%)
+(Atrial
+Fibrillation)

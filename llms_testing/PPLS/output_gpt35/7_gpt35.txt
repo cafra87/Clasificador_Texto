@@ -1,0 +1,43 @@
+Plain Protocol Title: Study to Evaluate the Effect of Benralizumab on Allergen-Induced Asthma Inflammation
+
+Rationale: Researchers are looking for a better way to treat asthma. Asthma is a condition that causes reversible tightening of the airways, making it difficult to breathe. Environmental allergens, like dust mites or pollen, can trigger asthma attacks. This study aims to understand how a medication called benralizumab can reduce inflammation in the airways of people with mild allergic asthma.
+
+Objectives: The main goal of this study is to evaluate the effect of benralizumab on allergen-induced increases in eosinophils in sputum. Eosinophils are a type of white blood cell involved in inflammation. The study also aims to assess the effect of benralizumab on other markers of inflammation, such as basophils in sputum and blood.
+
+Trial Design: This study is designed as a randomized, double-blind, parallel group, placebo-controlled study. Participants will receive either benralizumab or a placebo (a substance with no therapeutic effect) subcutaneously (under the skin) every 4 weeks for 3 doses. The study will last for approximately 8-12 weeks.
+
+Trial Population: The study will include approximately 38 non-smoking men and women between the ages of 18 and 65 with mild allergic asthma. Participants must have demonstrated a dual asthmatic response to inhaled allergens during screening. They should not be using regular asthma controller medication.
+
+Interventions: Participants will receive either benralizumab or a placebo as a subcutaneous injection. The medication will be given every 4 weeks for a total of 3 doses. Benralizumab is a medication that targets a specific protein involved in the production and activation of eosinophils and basophils. By blocking this protein, benralizumab can reduce inflammation in the airways.
+
+Trial subjects: Approximately 38 subjects will be enrolled in the study, with 19 subjects in each treatment group. These subjects should meet specific criteria, including written informed consent, an age between 18 and 65, and a diagnosis of mild allergic asthma with a positive response to inhaled allergen challenge.
+
+Exclusion criteria: Some individuals will not be eligible to participate in the study. Exclusion criteria include recent worsening of asthma, certain lung diseases, history of cardiovascular or neurological conditions, immunodeficiency disorders, and use of certain medications. Pregnant or lactating individuals are also excluded.
+
+Number of Trial Subjects: Approximately 38 subjects in total, with 19 subjects in each treatment group, will be needed for this study based on the choice of two primary endpoints.
+
+Treatment Groups: Participants will be randomly assigned to receive either benralizumab or placebo. Both medications will be administered as subcutaneous injections every 4 weeks for 3 doses.
+
+Interventions: Participants will be given benralizumab or placebo as a subcutaneous injection every 4 weeks for a total of 3 doses. Benralizumab is a medication that can reduce inflammation in the airways by targeting specific cells involved in the allergic response.
+
+Route of Administration: The medication will be administered as a subcutaneous injection, which means it will be injected just under the skin.
+
+Indication of the Study: This study focuses on asthma, a condition characterized by reversible airway constriction, airway hyperresponsiveness, and airway inflammation. Allergic reactions to environmental allergens are a common trigger for asthma symptoms. The aim of this study is to investigate the effect of benralizumab on allergen-induced inflammation in individuals with mild allergic asthma.
+
+Inclusion Criteria: To participate in the study, individuals must meet specific criteria, including written informed consent, being between the ages of 18 and 65, and having mild allergic asthma. Participants should not be using regular maintenance asthma medications and must have demonstrated a positive response to inhaled allergen challenge during screening.
+
+Exclusion Criteria: Some individuals will not be able to participate in the study due to certain exclusion criteria. Examples of these criteria include recent worsening of asthma, certain medical conditions, history of cancer, alcohol or drug abuse, and planned surgery or hospitalization during the study.
+
+Study Rationale: Asthma is a condition that affects the airways and causes difficulties in breathing. Allergens from the environment, such as dust mites or pollen, can trigger asthma attacks. This study aims to find a better treatment for asthma by evaluating the effects of benralizumab, a medication that can reduce inflammation in the airways. The study will focus on how benralizumab affects the immune cells involved in the allergic response, such as eosinophils and basophils. By understanding the mechanisms of allergic inflammation, researchers hope to develop more effective treatments for asthma.
+
+Study Design: This study is a randomized, double-blind trial, meaning that participants will be randomly assigned to receive either benralizumab or a placebo. The study will last for approximately 8-12 weeks. Participants will receive the medication or placebo as a subcutaneous injection every 4 weeks for 3 doses. The main endpoints of the study are the effects of benralizumab on eosinophils in sputum and the late asthmatic response.
+
+Trial Population: Approximately 38 individuals with mild allergic asthma will be recruited for this study. Participants must be non-smokers between the ages of 18 and 65. They should not be using regular asthma medications and must have demonstrated a positive response to inhaled allergen challenge during screening.
+
+Interventions: Participants will be randomly assigned to receive either benralizumab or placebo. Both medications will be administered as subcutaneous injections every 4 weeks for 3 doses. Benralizumab is a medication that can specifically target certain cells involved in inflammation and reduce their numbers. This can help alleviate asthma symptoms and reduce airway inflammation.
+
+These interventions will be administered under the supervision of healthcare professionals at the study center. The study will also involve collecting sputum samples, lung tissue biopsies, and other assessments to measure the effects of the treatment.
+
+Route of Administration: Both benralizumab and placebo will be administered as subcutaneous injections, meaning that the medication will be injected just under the skin. This route of administration allows for the medication to be absorbed into the bloodstream and reach the target cells in the airways.
+
+Overall, this study aims to evaluate the effect of benralizumab on allergen-induced inflammation in individuals with mild allergic asthma. By understanding how this medication can reduce inflammation, researchers hope to improve the treatment options available for individuals with asthma.

@@ -1,0 +1,17 @@
+1. Plain Title: 
+Investigating the Most Effective Treatments for Heavy Periods
+
+2. Rationale:
+Heavy periods, or heavy menstrual bleeding (HMB), can greatly affect a woman's quality of life. This commonly affects 2 to 5 out of every 10 women of childbearing age. There are a range of treatments available, including hormonal and non-hormonal medicines and surgical interventions. However, the most effective treatment can vary depending on the woman’s age, if she wants to become pregnant in the future, whether she has other symptoms, and her personal preferences. As such, this study was carried out to review and rank all the different treatments for HMB, to help understand which ones work the best.
+
+3. Trial Design:
+Researchers looked at Cochrane Reviews, which are reliable sources of health research, on various interventions for heavy periods. They took the data from these studies and assessed it based on how well the treatments worked for reducing menstrual blood loss and increasing patient satisfaction among other things. The treatment effectiveness, cost, acceptability and side effects were all considered. The researchers divided the treatments into two categories based on when they are generally used. The first level includes medical treatments. The second level includes both a hormone-releasing IUD and surgical treatments.  
+
+4. Results:
+After looking at many studies, the researchers found that a hormone-releasing IUD was the best first line of treatment for reducing menstrual blood loss. Antifibrinolytics, medicines that can help reduce heavy bleeding, came second and long-cycle progestogens, a type of hormone treatment, were third. The researchers couldn't draw any conclusions about how these treatments impacted the patients' feelings of improvement and satisfaction because the evidence was not strong enough. 
+
+For second-line treatments, which include more invasive procedures, removing the uterus (hysterectomy) was found to be the best treatment for reducing bleeding, followed by two different types of procedures to remove the lining of the uterus - resection and non-resection ablation. However, the evidence was not very strong on how effective these interventions were in completely stopping periods. 
+
+The researchers found that a less invasive way of removing the uterus led to a large increase in satisfaction, and non-resection ablation also increased satisfaction. However, there was not enough strong evidence on how the other second-line treatments affected satisfaction. 
+
+In conclusion, the hormone-releasing IUD, antifibrinolytics, and long-cycle progestogens were found to be the most effective first line treatments. While more invasive procedures such as a hysterectomy may be the best second-line treatment for extreme cases of HMB, the impacts on patient satisfaction and the effectiveness of completely stopping periods are not as clear.

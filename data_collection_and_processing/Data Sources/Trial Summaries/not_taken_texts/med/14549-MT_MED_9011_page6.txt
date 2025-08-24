@@ -1,0 +1,28 @@
+What are the 4 trials that are included in this
+summary?
+The results discussed in this summary come from 4 different AZD1222 clinical
+trials. These are:
+• COV001 – a Phase 1 and 2 trial in the United Kingdom
+• COV002 – a Phase 2 and 3 trial in the United Kingdom
+• COV003 – a Phase 3 trial in Brazil
+• COV005 – a Phase 1 and 2 trial in South Africa
+All of the trials compared AZD1222 with a control. The control injection does
+not have any of the genetic information about SARS-CoV-2 in it. Researchers use
+controls to help make sure any effects they see in the participants who receive a
+vaccine are actually caused by that particular vaccine. Controls also help to rule
+out effects that may be caused by the injection itself.
+COV001, COV002, and COV003 were all “single-blind” trials. This means that
+the researchers, trial doctors, and other trial staff may have known whether the
+participants were receiving AZD1222 or the control, but the participants did not.
+In these trials, only the person giving the injection knew whether the participant
+received AZD1222 or the control.
+• For the control, COV001 and COV002 used an existing vaccine against
+meningitis infections called “MenACWY”.
+• COV003 used the MenACWY vaccine as the control for the first injection. For the
+second injection, COV003 used an injection of salt water, also known as “saline”.
+COV005 was a “double-blind” trial. This means that none of the participants,
+researchers, trial doctors, or other trial staff knew whether the participant was
+receiving AZD1222 or the control. If it was needed for safety reasons, it was
+possible for the trial doctors or staff to find out what a participant was receiving.
+• For the control, this trial used saline.
+6

@@ -1,0 +1,16 @@
+1. Plain Title: Comparing the Effectiveness and Side Effects of Different Local Anesthetics for Dental Procedures
+
+2. Rationale:
+People are often afraid of feeling pain during a dental procedure. However, dentists can use a local anesthetic to numb the area and stop pain. There are many types and techniques of local anesthetic available. Our study aimed to figure out which type of anesthetic was the most effective during dental procedures. This includes how fast the anesthetic worked, how long it lasted, and if it caused any side effects. We mainly defined a successful anesthetic as one where the patient felt no pain during the procedure. We also wanted to understand the patients’ experiences of the procedures carried out.
+
+3. Trial Design:
+We searched for and analyzed studies that tested different local anesthetics used during actual dental procedures or simulated situations. Our research involved looking at 123 different studies, which included the experiences of 19,223 participants. We used a method often used in medical research to collect and analyze our data. 
+
+4. Results:  
+We found that a local anesthetic called 4% articaine with 1:100,000 epinephrine may work better than 2% lidocaine with 1:100,000 epinephrine for treating painful back teeth. For dental surgeries and gum treatment, 2% lidocaine with 1:100,000 epinephrine was more effective than two other anesthetics tested.
+
+However, we were unsure about the exact results for some anesthetics due to the quality and amount of data available. This included comparisons involving the anesthetic called 4% articaine with different amounts of epinephrine. We also did not have enough data to compare the how fast the anesthetics started working and how long they lasted. 
+
+Side effects from the anesthetics were rare and not serious. We found that post-injection pain, or the pain felt after the anesthetic was used, was slightly lower with lidocaine than articaine.
+
+Overall, we believe more studies are needed to strengthen our findings. Future studies should be well-reported, have enough participants, and provide data that can be further analyzed.

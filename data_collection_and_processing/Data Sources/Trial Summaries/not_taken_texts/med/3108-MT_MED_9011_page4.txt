@@ -1,0 +1,32 @@
+Clinical Study Results
+What treatments did the participants take?
+This was a “double-blind” study. This means none of the participants, researchers, study
+doctors, or other study staff knew what treatment each participant was taking. Some
+studies are done this way because knowing what treatment the participants are taking
+can affect the results of the study. When the study ended, the research sponsor found out
+which treatment the participants took so they could create a report of the study results.
+In this study, the participants took either AZD9567 and a placebo that looked like
+prednisolone, or they took prednisolone and a placebo that looked like AZD9567. A
+placebo looks like a drug but does not have any medicine in it. Researchers use a
+placebo to help make sure any of the effects they see in the participants who take the
+drug are actually caused by the drug.
+A computer program was used to randomly choose the treatment each participant
+took. This helps make sure the groups are chosen fairly. Researchers do this so that
+comparing the results of each treatment is as accurate as possible.
+AZD9567 and the placebo that looked like AZD9567 were taken as liquids by mouth.
+Prednisolone and the placebo that looked like prednisolone were taken as pills by mouth.
+The treatment doses were measured in milligrams, also called mg. The chart below
+shows the treatment the participants took.
+40 mg AZD9567 and 20 mg prednisolone and
+prednisolone placebo AZD9567 placebo
+(11 participants) (10 participants)
+AZD9567: Prednisolone:
+as a liquid by mouth as pills by mouth
+How did the participants
+take study treatment?
+Prednisolone placebo: AZD9567 placebo:
+as pills by mouth as a liquid by mouth
+How often did the
+participants take study Once a day for 2 weeks Once a day for 2 weeks
+treatment?
+4

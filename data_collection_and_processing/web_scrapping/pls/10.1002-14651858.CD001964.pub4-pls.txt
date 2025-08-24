@@ -1,0 +1,11 @@
+Extent of lymphadenectomy in patients with gastric cancer
+Review question 
+Does more extended lymphadenectomy lead to a survival advantage for patients undergoing surgery for gastric carcinoma? 
+Background 
+Gastric carcinoma is a leading cause of cancer death worldwide. For patients affected with this disease, the main therapy is surgery, which consists of gastric resection along with the removal of lymph nodes surrounding the stomach (a procedure called lymphadenectomy). Three types of progressively more extended lymphadenectomies exist (called D1, D2 and D3); their therapeutic benefit is debated. 
+Study characteristics 
+We collected data from eight randomized controlled trials addressing this issue and enrolling a total of 2515 patients. 
+Key results 
+We found that D2 lymphadenectomy can reduce the number of deaths due to disease progression as compared to D1 lymphadenectomy. However, D2 lymphadenectomy was also associated with a higher rate of postoperative mortality. In addition, available evidence does not support the superiority of D3 versus D2 lymphadenectomy. In conclusion, our findings support the use of D2 lymphadenectomy in patients with resectable carcinoma of the stomach, although the increased incidence of postoperative mortality reduces its therapeutic effect. 
+Quality of the evidence 
+The quality of the evidence was moderate due to an intermediate level of result heterogeneity across the included trials. 

@@ -1,0 +1,390 @@
+Clinical Study Results
+This summary reports the results of only one study. Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to patients . The results of this study might be 
+different than the results of other studies that the rese archers review.
+Sponsor:    Pfizer Inc. 
+Medicine(s) Studied: DAURISMO®(glasdegib)
+Protocol Number: B1371019
+Dates of Study: Intensive Treatment Group: 20April 2018 to 
+01February 2021, with data collected to 
+11November 2021; 
+Non-Intensive Treatment Group: 18June 2018 to 
+05June 2020, with data collected to 17 January 2022
+Title of this Study: Study of Glasdegib with Intensive or Standard 
+Chemotherapy in Patients with Untreated Acute Myeloid 
+Leukemia
+[A Randomized (1:1), Double -Blind, Multi -Center, Placebo 
+Controlled Study Evaluating Intensive Chemotherapy With 
+or Without Glasdegib (PF -04449913) or Azacitidine (AZA) 
+With or Without Glasdegib in Patients With Previously 
+Untreated Acute Myeloid Leukemia ]
+Date(s) of this Report: 13September 2022
+–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation. 
+This summary will describe the study results. If you have any questions about the 
+study or the results, please contact the doctor or staff at your study site.Why was this study done?
+What is acute myeloid leukemia ?
+Acute myeloid leukemia is also known as AML and isa common cancer of the blood.  
+AML starts when myeloid cells in the bone marrow begin to grow out of control.  
+The bone marrow is the soft inner part of certain bones, and it is where new blood 
+cells are made.  The myeloid cells would normally develop into red blood cells, certain 
+types of white blood cells, and platelets. Red blood cells are used to carry oxygen 
+from the lungs around the body to where it is needed .  These red blood cells also take 
+carbon d ioxide back to the lungs so it can be breathed out.  White blood cells are used 
+to fight infections.  Platelets help to stop bleed ing when blood vessels are damaged.  
+While AML starts in the bone marrow, it often spreads to other areas of the body.
+What is glasdegib ?
+This study investigated the use of g lasdegi b, which is new type of treatment known as 
+a hedgehog or smoothened (SMO) inhibitors .  Glasdegib is designed to reduce or stop 
+the growth of cancer cells. At the time this study began, g lasdegib was an 
+investigational (or experimental) drug. An investigational drug is one that is not 
+approved for sale in thecountry where it is being used . During this study, the US 
+Food and Drug Administration (FDA) gave their approv al for glasdegib to be used 
+with low dose cytarabine to treat newly diagnosed AML .  This was in November 
+2018.  The European Medicines Agency (EMA) gave their approval in June 202 0. 
+Glasdegib is sold in these countries as DAURISMO®.
+The other treatments used in this study are cytarabine, daunorubicin, and azac itidine.  
+These are alllicensed cancer treatments for AML and are often described as 
+chemotherapy.  
+What was the purpose of this study?
+The purpose of this research study is to compare the effects of the study drug, 
+glasdegib, with a placebo, to find out how well glasdegib worked in combination with 
+chemotherap yto help participants live longer .  Two different types of chemotherapy 
+were tested in this study:Intensive chemotherapy with cytarabine and daunorubicin.  These treatments are 
+often used to treat patients with AML in the US and Europe, but this type of 
+chemotherapy is quite aggressive.  This means the medicines are strong and quite
+toxic and not all patients with AML are suitable for this intensive chemotherapy .
+Standard c hemotherapy with azacitidine .  This is one of the medicines used to 
+treating patients with AML in the US and Europe if the patient is not suitable for 
+intensive chemotherapy.
+Researchers wanted to know:
+Did the participants taking glasdegib with chemotherapy live 
+longer compared to participants not taking glasdegib ?
+What happened during the study?
+How was the study done?
+This study included participants with AML who had not previously been treated for 
+their cancer .  The participants were split into 2 groups:
+An Intensive Treatment G roup –this included participants who were suitable 
+for intensive chemotherapy with cytarabine and daunorubicin
+ANon-Intensive Treatment G roup –this included participants who were not 
+suitable for intensive chemotherapy and who were given standard 
+chemotherapy with azacitidine.   
+The r esearchers then tested glasdegib on each group of study participants to find out 
+if study participants taking glasdegib plus chem otherapy lived longer compared to 
+study participants given placebo plus chemotherapy .A placebo does not have any 
+medicine in it, but it looks just like the study medication. Participants took g lasdegib 
+or placebo tablet sonce a day and this treatment could be continued for up to 2 years.   
+Participants received intensive or non-intensive chemotherapy ,and this was given according to the manufacturer’s recommendations.   Participants who stopped 
+treatment in this study were followed to check on their health .
+Researchers compared the results of study participants taking glasdegib plus 
+chemotherapy to the results of study participants taking placebo plus chemotherapy .  
+The study participants and researchers did not know who took glasdegib and who 
+took the placebo.   This is known as a “blinded” study.  This study was double -
+blinded, which means nobody knew who was taking what treatment during t he study.  
+Study p articipants were assigned to each group by chance alone.
+The study plan is shown in Figure 1. 
+Figure 1: Study Plan
+Where did this study take place?
+For the Intensive Treatment G roup, t he Sponsor ran this study at 94locations in
+20countries in North America, Central America, Europe, Asia, and Australia .For the 
+Non-Intensive Treatment G roup, the Sponsor ran this study at 83 locations in 
+21countries in North America, Central America, Europe, Asia, and Australia.
+When did this study take place?
+For the Intensive Treatment G roup, the study began 20April 2018 and ended 
+01February 2021, with data collected up to 11 November 202 1. For the 
+Non-Intensive Treatment Group, the study began 18 June 2018 and ended 
+05June 2020, with data collected up to 17 January 2022 . 
+Who participated in this study?
+The study included participants who had AML but who had not previously been 
+treated for their cancer. 
+In the Intensive Treatment Group, 
+A total of 236men participated
+A total of 168women participated
+All participants were between the ages of 19and 86 years
+In the Non-Intensive Treatment Group, 
+A total of 186men participated
+A total of 139women participated
+All participants were between the ages of 47and94 years
+Participants were to be treated until their cancer got worse, they experienced 
+unacceptable toxicity, they left the study, or the participant died . 
+In the Intensive Treatment Group , of the 399participants who started the study and 
+received treatment , 390participants stopped taking the study treatment.  All 
+399participants left before the study was over by their choice or a doctor decided it 
+was best for a participant to stop being in the study , or because they passed away ,or 
+the Sponsor closed the st udy.  Most participants left the study because they died.
+In the Non-Intensive Treatment Group, of the 3 22participants who started the study 
+and received treatment, 3 06participants stopped taking the study treatment.  There were 3 05participants who left before the study was over by their choice or a doctor 
+decided it was best for a participant to stop being in the study ,or because they passed 
+away , orthe Sponsor closed the study.  Most participants left the study because they 
+died or because the Sponso r closed the study.   There are 7 participants who are 
+continuing in this st udy from the Non -Intensive Treatment Group.
+How long did the study last?
+In the Intensive Treatment Group, s tudy participants were in the study for up to 
+2years and 9 months , with data collected for around 3 years and 7 months .  In the 
+Non-Intensive Treatment Group, study participants were in the study for up to 1 year 
+and 11 months, with data collected for around 3 years and 7 months .  
+The researchers stopped participants in theIntensive Treatment Group from 
+continuing in the study after an early analysis of the data in 2020 .  They did this 
+because they found there was no difference between the participants who were treated 
+with glasdegib plus intensive chemot herapy and participants who were treated with 
+placebo plus intensive chemotherapy .
+For the Intensive Treatment Group, the Sponsor began reviewing the information 
+collected up to November 2021 and closed this part of the study early .  The Sponsor 
+then creat ed a report of the results.  For the Non -Intensive Treatment Group, the 
+Sponsor began reviewing the information collected up to January 2022 .  The Sponsor 
+then created a report of the results. This is a summary of th e report s for the Intensive 
+Treatment G roup and the Non-Intensive Treatment Group.   At the time of writing, 
+there are 7 participants from the Non -Intensive Treatment Group who are continuing 
+in this study.
+What were the results of the study?
+Did the participants taking glasdegib with chemotherapy live longer 
+compared to participants not taking glasdegib?
+To answer this question, researchers looked at the overall survival of participants in 
+the study .  Overall survival is the number of participants in a treatment group who are alive at the end of astudy.  Researchers calculated this by compar ingthe number of 
+participants who were alive in the glasdegib plus chemotherapy group with the 
+number of participants who were alive in the placebo plus chemotherapy . 
+What was the overall survival of participants taking glasdegib 
+compared to participants taking placebo in the Intensive 
+Treatment Group ?
+At the end of the study, 9 2out of the 201 (4 6%)participants who were originally 
+allocated treatment with glasdegib plusintensive chemothe rapy were known to be 
+alive.  There were 95out of the 203 ( 47%) participants who were originally 
+allocated treatment with placebo plusintensive chemotherapy known to be alive.  
+The researchers concluded that the results were similar between the glasdegib and 
+placebo groups as shown in Figure 2.
+Figure 2. Intensive Treatment Group: 
+Participants Who Were Alive at the End of the Study
+What was the overall survival of participants taking glasdegib 
+compared to participants taking placebo in the Non -Intensive
+Treatment Group?
+At the end of the study, 39out of the 163 ( 24%) participants who were originally 
+allocated t reatment with glasdegib plus standard chemotherapy were known to be 
+alive.  There were 37 out of the 162 ( 23%) participants who were originally 
+allocated treatment with p lacebo plus standard chemotherapy known to be alive .  
+The researchers concluded that the results were similar between the glasdegib and 
+placebo groups as shown in Figure 3.
+Figure 3. Non -Intensive Treatment Group: 
+Participants Who Were Alive at the End of the Study
+Based on these results, the researchers have decided that the study results are likely 
+the result of chance.  This means the study did not show that one treatment was 
+better than another at helping participants with untreated AML live longer .  
+Participants in b oth the glasdegib and placebo groups had a similar amount of 
+survival .
+This does not mean that everyone in this study had these results.  This is a summary 
+of just some of the main results of this study.  Other studies with glasdegib may 
+have different results.
+What medical problems did participants have during 
+the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance). Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking. Sometimes the cause of a medical problem is unknown. By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what e ffects a study medication might have on a participant.
+In the Intensive Treatment Group, 394out of 399 ( 99%) participants in this study had 
+at least 1 medical problem.   A total of 41(10%) participants left the study because of 
+medical problems.  In the Non-Intensive Treatment Group, 319out of 322(99%) 
+participants in this study had at least 1 medical problem.  A total of 108(34%) 
+participants left the study because of medical problems.  
+The most common medical problems –those reported by at least 30% of participants
+–are described below.
+Below are instructions on how to read Table 1 and 2 .  These instructions can also 
+be used for Table 3 and 4, which list sserious medical problem s.
+Instructions for Understanding Table 1 and 2 . 
+The 1stcolumn of Table 1 and 2 lists medical problems that were 
+commonly reported during the study.  All medical problems reported 
+by at least 30% of participants are listed.
+The 2ndcolumn tells how many of the participants taking the
+glasdegib plus intensive or standard chemotherapy reported each 
+medical problem.  Next to this number is the percentage of the 
+participants taking glasdegib plus intensive or standard chemotherapy 
+who reported the medical problem. The 3rdcolumn tells how many of the participants taking placebo plus 
+intensive or standard chemotherapy reported each medical problem.  
+Next to this number is the percentage of the participants taking 
+placebo plus intensive or standard chemotherapy who reported the 
+medical problem.
+Using these instructions , you can see that:
+oIn the Intensive Treatment Group , 110out of the 198(56%) 
+participants taking glasdegib plus intensive chemotherapy 
+reported nausea .  A total of 108out of the 201 (54%) 
+participants taking a placebo plus intensive chemotherapy 
+reported nausea .  
+oIn the Non-Intensive Treatment Group, 75out of the 162 (46%) 
+participants taking glasdegib plus standard chemotherapy 
+reported low numbers of red blood cell s in the blood .  A total of 
+73out of the 160 (46%) p articipants taking placebo plus 
+standard c hemotherapy reported low numbers of red blood cell s 
+in the bloodTable 1. Intensive Treatment Group: Commonly reported medical 
+problems by study participants
+Medical problem Glasdegib plus Intensive 
+Chemotherapy
+(198Participants)Placebo plus Intensive 
+Chemotherapy
+(201 Participants)
+Nausea 110out of 198participants 
+(56%)108out of 201participants 
+(54%)
+Low numbers of 
+neutrophils, a type of 
+white blood cell, in the 
+blood plus fever106out of 198 participants 
+(54%)107out of 201 participants 
+(53%)
+Low numbers of red blood 
+cells in the blood106 out of 198 participants 
+(54%)101 out of 201 participants 
+(50%)
+Diarrhea 98 out of 198 participants 
+(49%)88out of 201 participants 
+(44%)
+Fever 83out of 198 participants 
+(42%)87out of 201 participants 
+(43%)
+Low levels of potassium 
+in the blood76out of 198 participants 
+(38%)84out of 201 participants 
+(42%)
+Low numbers of platelets 
+in the blood80out of 198 participants 
+(40%)76out of 201 participants 
+(38%)
+Constipated 71out of 198 participants 
+(36%)61out of 201 participants 
+(30%)
+Low numbers of white 
+blood cells in the blood65out of 198 participants 
+(33%)54out of 201 participants 
+(27%)Table 2. Non -Intensive Treatment Group: Commonly reported 
+medical problems b y study participants
+Medical problem Glasdegib plus Standard 
+Chemotherapy
+(162Participants)Placebo plus Standard 
+Chemotherapy
+(160Participants)
+Low numbers of red blood 
+cells in the blood75out of 162participants 
+(46%)73out of 160participants 
+(46%)
+Constipation 59 out of 162 participants 
+(36%)52 out of 160 participants 
+(33%)
+Nausea 58out of 162 participants 
+(36%)44out of 160 participants 
+(28%)
+Pneumonia 43out of 162 participants 
+(27%)48out of 160 participants 
+(30%)
+Fever 48out of 162 participants 
+(30%)42out of 160 participants 
+(26%)
+Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life-threatening, needs hospital 
+care, or causes lasting problems.
+In the Intensive Treatment Group, 135 participants ( 34%, or 135out of 
+399participants) had serious medical problems. 
+There were 86out of 1 98(43%) participants taking glasdegib plus intensive
+chemotherapy who had serious medical problem s. 
+oOf these, 4 1out of 198 (2 1%) had serious medical problems considered 
+related to treatment. There were 92 out of 201(46%) participants taking placebo plus intensive
+chemotherapy who had serious medical problem s.
+oOf these, 4 3out of 201(21%) had serious medical problems considered 
+related to treatment.
+Table 3 lists all serious medical problems reported by at least 5% of participants in the 
+Intensive Treatment Group .
+Table 3. Intensive Treatment Group: Commonly reported serious 
+medical problems
+Serious m edical problem Glasdegib plus Intensive 
+Chemotherapy
+(198 Participants)Placebo plus Intensive 
+Chemotherapy
+(201 Participants)
+Low numbers of 
+neutrophils, a type of 
+white blood cell, in the 
+blood plus fever18out of 198 participants 
+(9%)17out of 201 participants 
+(8%)
+Blood poisoning (sepsis) 15out of 198 participants 
+(8%)13out of 201 participants 
+(6%)
+Pneumonia 15out of 198 participants 
+(8%)11 out of 201 participants 
+(5%)
+Abnormal heart function 
+test13out of 198 participants 
+(7%)8 out of 201 participants 
+(4%)
+In the Non-Intensive Treatment Group, 241participants ( 75%, or 241out of 
+322participants) had serious medical problems. 
+There were 117 out of 162 (72%) participants taking glasdegib plus standard 
+chemotherapy who had serious medical problems .
+oOf these , 45 out of 162 ( 28%) had serious medical problems considered 
+related to treatment .  There were 124 out of 160 (78 %) participants taking placebo plus standard 
+chemotherapy who had serious medical problems.
+oOf these, 37out of 16 0(23%) had serious medical problems considered 
+related to treatment.
+Table 4lists all serious medical problems reported by at least 5% of par ticipant s in the 
+Non-Intensive Treatment Group .
+Table 4. Non -Intensive Treatment Group: Commonly reported 
+serious medical problems by study participants
+Serious m edical problem Glasdegib plus Standard 
+Chemotherapy
+(162 Participants)Placebo plus Standard 
+Chemotherapy
+(160 Participants)
+Pneumonia 29out of 162 participants 
+(18%)36out of 160 participants 
+(23%)
+Low numbers of 
+neutrophils, a type of 
+white blood cell, in the 
+blood plus fever24out of 162 participants 
+(15%)20out of 160 participants 
+(13%)
+Acute myeloid leukemia 
+(AML) worsened14out of 162 participants 
+(9%)22out of 160 participants 
+(14%)
+Blood poisoning (sepsis) 14 out of 162 participants 
+(9%)10 out of 160 participants 
+(6%)
+Urine infection 9 out of 162 participants 
+(6%)4 out of 160 participants 
+(3%)
+Fever 11 out of 162 participants 
+(7%)11 out of 160 participants 
+(7%)
+In the Intensive Treatment group, 90 ( 45%) participants who were taking glasdegib 
+plus intensive chemotherapy died during the study.  There were 88 (43%) participants
+who took placebo plus intensive chemotherapy who died .  The most common cause 
+of death was the AML worsening.  This was reported in 52(26%) participants taking 
+glasdegib plus intensive chemotherapy and 49(24%) participants taking placebo plus 
+intensive chemotherapy.In the Non-Intensive Treatment Group, 117 (7 2%) participants who were taking 
+glasdegib plus standard chemotherapy died during the study.  There were 113 ( 70%) 
+participants who were taking placebo plus standard chemotherapy who died.  The 
+most common cause of death was the AML worsening .  This was reported in 
+69(42%) participants taking glasdegib plus standard chemotherapy and 68 (42%) 
+participants taking placebo plus standard chemotherapy.
+Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier 
+NCT03416179
+www.clinicaltrialsregister.eu Use the study identifier 
+2017-002822 -19
+www.pfizer.com/research/
+research_clinical_trials/trial_resultsUse the protocol number 
+B1371019
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patient s.
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help patients , and you helped 
+us to do that !

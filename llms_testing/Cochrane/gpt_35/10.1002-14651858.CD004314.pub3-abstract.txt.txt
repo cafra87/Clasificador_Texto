@@ -1,0 +1,9 @@
+Plain Title: Comparison of Two Botulinum Toxins for Treating Cervical Dystonia
+
+Rationale: Cervical dystonia is a condition where people experience painful involuntary head movements. Botulinum toxin type A (BtA) is the usual treatment, but botulinum toxin type B (BtB) is also an option. We wanted to compare the effectiveness, safety, and tolerability of BtA and BtB in people with cervical dystonia to see if one is better than the other.
+
+Trial Design: We searched for studies that compared BtA and BtB in adults with cervical dystonia. We found three studies of low quality that included a total of 270 participants. The studies evaluated the effects of a single treatment session with different doses of BtA and BtB. The participants already had a positive response to BtA treatment.
+
+Results: We found that there was no significant difference in effectiveness between BtA and BtB. Both treatments were equally effective in reducing symptoms of cervical dystonia. However, treatment with BtB had a higher risk of sore throat/dry mouth compared to BtA. Other side effects and outcomes were similar between the two treatments. 
+
+Conclusion: Based on the available evidence, a single treatment session of either BtA or BtB is equally effective and safe for treating cervical dystonia. However, BtB may have a higher risk of causing sore throat/dry mouth. Overall, there is no strong evidence to support the use of one type of botulinum toxin over the other for treating cervical dystonia.

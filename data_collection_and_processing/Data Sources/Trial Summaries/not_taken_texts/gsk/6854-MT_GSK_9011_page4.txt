@@ -1,0 +1,31 @@
+A total of 2425 patients were randomised and received at least one dose of study
+medicine(s) in this study. The table below shows the gender and age of these patients.
+Patients who were randomised and received at least one dose of
+study medicine(s)
+Umeclidinium and Umeclidinium Salmeterol
+vilanterol
+812 patients 804 patients 809 patients
+Gender
+Female 319 (39%) 327 (41%) 342 (42%)
+Male 493 (61%) 477 (59%) 467 (58%)
+Age - in years
+Range 41 to 89 41 to 89 40 to 92
+Average 65 65 64
+Where was this study done?
+Study sites were in 12 countries.
+Number of patients who received at least one dose of
+study medicine(s) in each country
+Argentina 549
+Australia 35
+Canada 83
+France 36
+Germany 645
+Italy 77
+Mexico 35
+Netherlands 37
+South Africa 63
+Spain 78
+Sweden 109
+United States 678
+0 100 200 300 400 500 600 700 800
+Number of patients

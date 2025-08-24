@@ -1,0 +1,15 @@
+Background
+Using a pilot system we have categorised this review as: “Current question – no update intended: further research unlikely to change conclusions" (see published notes). 
+Electronic mosquito repellents (EMRs) are marketed to prevent mosquitoes biting and to prevent malaria. 
+Objectives
+To assess whether EMRs prevent mosquito bites, and to assess any evidence of an effect on malaria infection. 
+Search methods
+In March 2009, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL, MEDLINE, EMBASE, LILACS, Cambridge Scientific Abstracts, and the Science Citation Index. We also checked conference proceedings, contacted international specialist centres and EMR manufacturers, and checked reference lists. 
+Selection criteria
+Field entomological studies, which controlled for geographic site, time, and attractiveness of human participants, of EMRs for preventing mosquito bites; and randomized and quasi‐randomized controlled trials of EMRs to prevent malaria infection. 
+Data collection and analysis
+Two authors assessed trial quality, and extracted and analysed the data.
+Main results
+Ten field entomological studies met the inclusion criteria. All 10 studies found that there was no difference in the number of mosquitoes caught from the bare body parts of the human participants with or without an EMR. No randomized or quasi‐randomized controlled trials on the efficacy of EMR on malaria infection were found. 
+Authors' conclusions
+Field entomological studies confirm that EMRs have no effect on preventing mosquito bites. Therefore there is no justification for marketing them to prevent malaria infection. 

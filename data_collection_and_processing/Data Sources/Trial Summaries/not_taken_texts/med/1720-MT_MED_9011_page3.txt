@@ -1,0 +1,32 @@
+Clinical Study Results
+The chart below shows the treatments the participants got.
+Number of Dose of
+Treatment group participants MEDI4276
+Group 1 3 0.05 mg/kg
+Group 2 3 0.1 mg/kg
+Group 3 3 0.2 mg/kg
+Group 4 3 0.3 mg/kg
+Group 5 6 0.4 mg/kg
+Group 6 3 0.5 mg/kg
+Group 7 11 0.6 mg/kg
+Group 8 12 0.75 mg/kg
+Group 9 3 0.9 mg/kg
+What happened during the study?
+Before giving the participants any MEDI4276, the study doctors did a physical exam and
+checked to make sure the participants could join the study. The study doctors:
+• took blood and urine samples
+• checked the participants’ heart health using an electrocardiogram, also called an ECG
+• took pictures of the heart using an echocardiogram or a multigated acquisition, also called
+MUGA, scan
+If needed, the study doctors also took pictures of the liver using magnetic resonance
+cholangiopancreatography, also called MRCP.
+Some participants may have had a tumor biopsy. In this procedure, the doctor uses a needle to
+take some of the tumor tissue to examine.
+During the study, the participants got MEDI4276 infusions every 3 weeks. They visited their
+study site up to 5 times per treatment cycle. At some of these visits, the study doctors:
+• did a physical exam
+• took blood samples
+• took urine samples
+• measured the participants’ vital signs
+• checked the participants’ heart health using an ECG
+3

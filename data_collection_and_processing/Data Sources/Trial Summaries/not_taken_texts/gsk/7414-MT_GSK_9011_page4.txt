@@ -1,0 +1,28 @@
+A total of 732 patients received at least one dose of the study medicine(s). The table
+below shows the gender and age of these patients.
+Patients who received at least one dose of the study medicine(s)
+Single inhaler Multiple inhaler
+triple therapy group triple therapy group
+366 patients 366 patients
+Gender - Number of patients (percent)
+Female 180 (49%) 179 (49%)
+Male 186 (51%) 187 (51%)
+Age - in years
+Range 41 to 87 42 to 88
+Average 66 65
+For more detailed information about the patients included in this study, see the
+scientific results summaries (links to those summaries are provided at the end of this
+document).
+Where was this study done?
+Study sites were in three countries.
+Number of patients who received at least one dose of the
+study medicine(s)
+Czech
+59
+Republic
+Germany 91
+United
+582
+States
+0 100 200 300 400 500 600
+Number of patients

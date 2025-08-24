@@ -1,0 +1,17 @@
+1. Plain Title: 
+Understanding Whether Nutritional Supplements Help People with Non-Alcohol Related Fatty Liver Disease
+
+2. Rationale: 
+Non-alcohol related fatty liver disease (NAFLD) is a common liver condition that can shorten life and may lead to serious issues like liver scarring, cancer, or need for a liver transplant. About 19% to 33% of people are diagnosed with NAFLD. There's a lot of discussion about whether nutritional supplements could help those with NAFLD, but we don't know enough about it - so no supplements are recommended as a routine part of treatment for these patients yet. Therefore, we decided to study if different nutritional supplements could be beneficial, and if so, which are the safest and most efficient. 
+
+3. Trial Design: 
+We looked for medical studies published up until February 2021 that randomly assigned NAFLD patients to take different types of nutritional supplements. We wanted to include as many people as possible in our study, so we didn't limit to specific age groups, methods of diagnosing NAFLD, or whether they also had other related conditions. However, we didn't include people who had already had a liver transplant. We found 202 such medical studies involving around 14,200 participants. This took us anywhere from 1 to 28 months.
+
+4. Results:
+Seeing that the studies used 32 different kinds of treatment, it was a little tricky to compare them. Out of the 202 studies, 115 had results that we could use in our comparison. The rest did not report on the specific results we were looking for. 
+
+With these 115 studies, we looked at how the supplements affected serious side effects and events related to the liver disease, like death, liver scarring, need for liver transplant, and liver cancer. But these events were rare, and none of the studies measured life quality in a standard way.
+
+So, this made it difficult for us to form a clear idea of how well the supplements worked. However, some of the findings suggest that people taking certain supplements could have more side effects. For instance, we found that those taking a supplement called PUFA (polyunsaturated fatty acid) may have more side effects than those taking no active supplement. As for other kinds of supplements (that aren’t vitamins, fatty acids, phospholipids, and antioxidants), it was also indicated they might lead to more side effects.
+
+Our conclusions suggest that we're really not sure if nutritional supplements help patients with NAFLD. Because of this, we think it would be beneficial to have more high-quality studies comparing treatments like Vitamin E, prebiotics/probiotics/synbiotics, PUFAs to no nutritional supplementation. These future studies should look at how these treatments affect death rates, life quality, advanced liver scarring, need for liver transplant, and costs. Importantly, they should follow the patients for a minimum of 8 years to notice if there are meaningful differences in important outcomes.

@@ -1,0 +1,22 @@
+Clinical Study Results
+The doses of AZD7594 were measured in micrograms, also known as μg.
+The participants took 1 puff of their inhaler once a day. There were 6 different
+treatment groups in this part. The table below shows the treatments that were
+planned in the double-blind part.
+There was also an “open-label” part of the study. This means the participants,
+researchers, study doctors, and other study staff knew what each participant was
+taking. In this part of the study, 112 participants took an ICS asthma treatment
+called fluticasone furoate, also called FF. The participants took 1 puff of their FF
+inhaler once a day.
+The table below shows the treatments that were planned in the study.
+Group Treatment
+Group 1 (111 participants) 50 µg of AZD7594
+Group 2 (112 participants) 90 µg of AZD7594
+Group 3 (111 participants) 180 µg of AZD7594
+Group 4 (113 participants) 360 µg of AZD7594
+Group 5 (134 participants) 720 µg of AZD7594
+Group 6 (113 participants) Placebo
+Group 7 (112 participants) 100 µg of FF
+If the participants had asthma symptoms at any time during the study, they could
+also take an asthma treatment called salbutamol/albuterol, also called SABA.
+5

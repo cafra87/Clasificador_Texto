@@ -1,0 +1,25 @@
+How many participants had Grade 3 or Grade 4 adverse events?
+Overall, 1.5% of participants had a Grade 3 adverse event. This was 375 out of
+24,244 participants.
+• 1.7% of participants who received AZD1222 had a Grade 3 adverse event. This
+was 211 out of 12,282 participants.
+• 1.4% of participants who received the MenACWY or saline control had a Grade 3
+adverse event. This was 164 out of 11,962 participants.
+Overall, 0.3% of participants had a Grade 4 adverse event. This was 82 out of
+24,244 participants.
+• 0.4% of participants who received AZD1222 had a Grade 4 adverse event. This
+was 48 out of 12,282 participants.
+• 0.3% of participants who received the MenACWY or saline control had a Grade 4
+adverse event. This was 34 out of 11,962 participants.
+What do the results of the trials mean?
+Based on these results, the researchers consider AZD1222 to be generally well
+tolerated and 66.7% effective overall at preventing symptomatic COVID-19
+confirmed by a positive test.
+These calculations are based on 332 symptomatic COVID-19 infections confirmed
+by a positive test, out of 17,178 participants. This means the efficacy of AZD1222
+is higher than the minimum requirement from the FDA and the WHO.
+In general, vaccines are considered to be safe. This is because many years of
+research has provided data that have been measured and carefully analysed for
+all vaccines. The safety results for AZD1222 were similar to the controls and the
+safety results that researchers have seen for other vaccines.
+18

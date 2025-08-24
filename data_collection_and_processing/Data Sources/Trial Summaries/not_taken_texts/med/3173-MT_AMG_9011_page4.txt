@@ -1,0 +1,34 @@
+5. Which medicines [or vaccines] were studied?
+What medicinal products were studied?
+ Patients received denosumab as an injection under the skin or zoledronic acid given
+as an infusion into a vein.
+ Neither the patient nor the study doctor could choose whether they received
+denosumab or zoledronic acid. Patients agreed to be put into one of two treatment
+groups (the denosumab group or the zoledronic acid group) by chance (randomised).
+This is like flipping a coin or drawing numbers out of a hat, and there is an equal
+chance of being placed in either group.
+ The different ways denosumab and zoledronic acid are given (denosumab as an
+injection under the skin and zoledronic acid as an infusion into a vein) would have told
+the patient, the study doctor and the study staff which treatment the patient was being
+given.
+ If the patient, the study doctor or the study knew which treatment the patient was
+being given they might have changed their behaviour on the study. This could have
+influenced the results of the study.
+ To stop this from happening, patients randomised to receive denosumab also received
+a placebo infusion (which did not contain any medicine), and patients randomised to
+receive zoledronic acid also received a placebo injection (which did not contain any
+medicine). This is shown in Figure 2. devorppA
+ These steps ensured that neither the patient nor the study doctor nor his/her study
+staff knew which treatment the patient was receiving until after the study was over.
+Figure 2. What medicines did the participants receive?
+At the beginning
+At six months
+of the study
+One injection of
+Denosumab densoumab + One injection of
+(321 women) one infusion of denosumab
+placebo
+One injection of
+Zoledronic acid placebo + One injection of
+(321 women) one infusion of placebo
+zoledronic acid

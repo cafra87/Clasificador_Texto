@@ -1,0 +1,24 @@
+Part 1 Part 2
+(out of 29 participants) (out of 9 participants)
+How many participants had adverse events? 100.0% (29) 100.0% (9)
+How many participants had serious adverse events? 41.4% (12) 44.4% (4)
+How many participants stopped getting MEDI5083 due 24.1% (7) 22.2% (2)
+to adverse events?
+How many participants stopped getting durvalumab 10.3% (3) 11.1% (1)
+due to adverse events?
+The most common serious adverse event was sudden kidney injury.
+The most common adverse events were:
+X injection site reaction
+X fatigue
+X low appetite
+X constipation
+The study doctors also counted the number of “dose limiting toxicities” the
+participants had during the study. A dose limiting toxicity is a medical problem
+that is severe enough to stop the study doctor from increasing the dose of study
+treatment in the next group of participants. A dose limiting toxicity is also known
+as a “DLT”.
+In Part 1, 23 out of 29 participants could be checked for DLTs. This is because only
+23 participants got MEDI5083 as planned and completed the safety follow-up. Of
+these participants, 8.7% had a DLT. This was 2 out of 23 participants.
+None of the participants in Part 2 had a DLT.
+7 | Clinical Study Results

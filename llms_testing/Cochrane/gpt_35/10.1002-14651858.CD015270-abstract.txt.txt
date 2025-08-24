@@ -1,0 +1,16 @@
+Plain Title: Interventions to Increase COVID-19 Vaccination and Decrease Vaccine Hesitancy: A Scoping Review
+
+Rationale:
+COVID-19 is a serious disease that can lead to disability or death, but vaccines have been shown to be effective in preventing severe illness. Widespread vaccination can protect those who are unable to get vaccinated, and it can also help limit the spread of the virus and reduce the development of new vaccine-resistant mutations. However, vaccine hesitancy poses a significant threat to achieving nationwide vaccination and is a concern for public health.
+
+Trial Design:
+This study aimed to review existing research on interventions to increase COVID-19 vaccination and decrease vaccine hesitancy. The researchers searched various databases for studies published up to October 2021. They included randomized controlled trials, non-randomized studies, observational studies, case studies, systematic reviews, and meta-analyses with more than 100 participants. The researchers did not limit the review to specific populations or outcomes, but they excluded interventions related to other vaccines.
+
+Results:
+The scoping review included a total of 96 studies, with 61 studies having published results and 35 studies still ongoing. The interventions tested in these studies varied, but most focused on communication strategies to enhance COVID-19 vaccine uptake. Many of the studies were conducted in English-speaking high-income countries and used digital interventions in an online setting. The populations addressed in the studies were diverse, including healthcare workers, ethnic minorities, students, at-risk patients, and the general population.
+
+The ongoing studies also primarily focused on educational and communication interventions and were mainly conducted in high-income countries. Unlike the studies with published results, most of the ongoing studies were not conducted online. The addressed populations in these studies ranged from minority populations in the USA to healthcare workers and students. Some of the ongoing studies are expected to be completed in 2022.
+
+The findings of this scoping review demonstrate that there is ongoing research on various interventions to increase COVID-19 vaccination and decrease vaccine hesitancy. However, there is a research gap in studies conducted in low and middle-income countries, as well as studies investigating policy interventions, improved access, and interventions for children and adolescents. It is important not to neglect these populations and interventions in future research as COVID-19 vaccines become more widely available.
+
+In conclusion, this scoping review provides a comprehensive overview of interventions aimed at increasing COVID-19 vaccine uptake. The findings highlight the need for further research and systematic reviews to determine the effectiveness of these interventions. By addressing the research gaps and targeting diverse populations, we can continue to enhance COVID-19 vaccination rates and overcome vaccine hesitancy.

@@ -1,0 +1,28 @@
+PET-CT scans were used to follow radiolabelled GSK3128349 in the body. A
+PET scan produces three-dimensional images of the inside of the body. A CT
+scan shows pictures of a person’s body in very thin sections.
+Which people were included in this study?
+Eight healthy male volunteers received one dose of radiolabelled
+GSK3128349. The youngest volunteer was 53 years old and the oldest was 60.
+The average age of the volunteers was 55.
+What were the overall results of the study?
+The volunteers received radiolabelled GSK3128349 through a needle in a vein
+(intravenous (IV) infusion). The volunteers stayed in the clinic for 24 hours
+after their dose. Four PET-CT scans were performed within 12 days of the
+dose.
+Researchers focused on certain parts of the body (these are called Regions of
+Interest or ROIs). The Regions of Interest included the blood, brain, kidney,
+liver, and thigh muscle. The results from the four PET-CT scans were used to
+estimate the following:
+• Standardised Uptake Values (SUVs) in the Regions of Interest.
+• Volume of GSK3128349 in the Regions of Interest.
+Standardised Uptake Values (SUVs) are calculated with a mathematical
+equation that compares the concentration of the radiolabel in the region of
+interest with the concentration in the rest of the body. A higher SUV means a
+higher concentration in the region of interest. A higher concentration is like
+the difference between a strong and a weak cup of tea.
+The volume of radiolabelled GSK3128349 in each region of interest is
+measured in millilitres (mLs). Volume measures the amount of space that a
+substance occupies in a container, or in this case, in the Region of Interest.
+Across the four PET-CT scans, the average concentration of radiolabelled
+GSK3128349 was highest in the kidneys and blood and lowest in the brain.

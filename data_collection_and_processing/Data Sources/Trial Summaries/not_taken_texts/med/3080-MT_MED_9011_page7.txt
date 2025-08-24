@@ -1,0 +1,31 @@
+Adverse events may or may not be caused by the treatments in the study. A lot of
+research is needed to know whether a treatment causes an adverse event.
+Group 1 Group 2
+(out of 27 participants) (out of 23 participants)
+How many participants had adverse events? 96.3% (26) 100.0% (23)
+How many participants had serious adverse 63.0% (17) 73.9% (17)
+events?
+How many participants stopped getting study 14.8% (4) 13.0% (3)
+treatment due to adverse events?
+The most common serious adverse events were:
+X Low white blood cell counts with fever
+X Infection of the lungs
+X Blood poisoning
+X Streptococcus bacteria, or other types of bacteria, in the blood
+The most common adverse events in Group 1 were:
+X Low red blood cell counts
+X Low white blood cell counts with or without fever
+X Low blood platelet counts, which can lead to bleeding and bruising
+The most common adverse events in Group 2 were:
+X Low red blood cell counts
+X Low white blood cell counts with or without fever
+X Low blood platelet counts, which can lead to bleeding and bruising
+X Diarrhea
+X Fatigue
+X Constipation
+X Nausea
+X Vomiting
+X Cough
+X Swelling in the ankles and feet
+X Low levels of phosphate in the blood
+7 | Clinical Study Results

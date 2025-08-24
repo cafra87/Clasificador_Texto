@@ -1,0 +1,7 @@
+Endoscopic scoring indices for evaluation of disease activity in Crohn's disease
+What is Crohn's disease?  Crohn's disease is a long‐term (chronic) inflammatory bowel disease characterized by pain (abdominal cramping), tiredness, diarrhea and weight loss. When people with Crohn's disease are experiencing symptoms the disease is said to be "active" and when symptoms stop this is called "remission". 
+What is an endoscopic scoring index?  An endoscopic scoring index measures disease activity based on what a doctor sees during endoscopy. An endoscopy is a non‐surgical procedure used to view the digestive tract using a camera. The doctor who performs the endoscopy can rate disease activity using the index, or this can be done by another off‐site doctor if a video of the procedure was recorded. 
+The most commonly used endoscopic scoring indices are the Crohn's Disease Endoscopic Index of Severity (CDEIS) and the Simple Endoscopic Score for Crohn's Disease (SES‐CD). 
+What did the researchers investigate?  It is important that endoscopic scoring indices are valid, meaning that they accurately measure what they are supposed to measure. The researchers investigated whether studies have assessed the validity of the CDEIS and/or the SES‐CD. 
+What did the researchers find? 
+The researchers found that neither the CDEIS nor the SES‐CD has been fully validated.

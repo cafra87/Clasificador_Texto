@@ -1,0 +1,15 @@
+Plain Title:
+Investigating New Methods to Treat Advanced Cervical Cancer
+
+Rationale:
+Cervical cancer is a dangerous illness that often leads to death. Currently, treatment options for women with advanced forms of this cancer are limited. This study looks at new treatments, known as anti-angiogenesis therapies, that aim to combat the growth of the cancer. These treatments work by stopping new blood vessels from forming, which can prevent the tumor from receiving the blood it needs to grow. It is important to study these treatments as they could offer a new way to manage advanced cervical cancer.
+
+Trial Design:
+This study analyzed data from previous research which had been published up until May 27, 2020. The research used in this study examined new treatments, both on their own or combined with usual chemotherapy treatments, in ongoing trials. These trials included women with advanced cervical cancer of various ages and health conditions. The total number of participants across all the trials used in this study was 808. 
+
+Results:
+The study found that a treatment called 'bevacizumab', when added to usual chemotherapy, could reduce the risk of death. However, this combined treatment increased the chance of complications, such as issues with the gut, serious blood clots, and high blood pressure. Another treatment, called 'cediranib', did not appear to change the risk of death or complications when combined with usual chemotherapy. The treatments 'apatinib' and 'pazopanib', combined with chemotherapy or a different type of cancer treatment called brachytherapy, may not change the chance of death. However, these treatments could increase the chance of high blood pressure. 
+
+One concerning find was that using 'pazopanib' with a type of treatment called 'lapatinib' may increase the risk of death compared to just using 'lapatinib'. Using 'pazopanib' alone appeared to have no change on the risk of death compared to 'lapatinib'. But like the other new treatments, 'pazopanib' could potentially increase the chance of high blood pressure. 
+
+The study concluded that the treatment 'bevacizumab' could be beneficial when added to usual chemotherapy, despite the potential increase in complications. However, 'cediranib', 'apatinib', and 'pazopanib', whether alone or in combination with other treatments, did not seem to make a positive difference. It is important to note that these results may change as more information becomes available.

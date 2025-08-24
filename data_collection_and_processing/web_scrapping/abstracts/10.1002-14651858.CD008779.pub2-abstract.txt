@@ -1,0 +1,14 @@
+Background
+The reduced production of thyroid hormones is the main feature of the clinical state termed hypothyroidism. In Chinese philosophical and medical theory, it results from Yang deficiency. Chinese herbal medicines (CHM) are thought to restore Yang and have been used in China to treat hypothyroidism for many years. 
+Objectives
+To assess the effects of CHM for hypothyroidism.
+Search methods
+We searched The Cochrane Library, MEDLINE, EMBASE, the Chinese Biomedical Literature Database on Disc, and the China National Knowledge Infrastructure for randomised clinical trials (RCTs). The date of the last search was September 2014 for all databases. We also searched for ongoing trials in trial registers. 
+Selection criteria
+We considered RCTs of CHM alone or combined with thyroid hormone therapy compared with no treatment, placebo or thyroid hormone therapy. We also planned to compare different formulae of CHM with each other, alone or combined with thyroid hormone therapy. Hypothyroid individuals had to be diagnosed by the standard criteria valid at the time of the beginning of the trial regardless of the cause of hypothyroidism. 
+Data collection and analysis
+Data extraction and risk of bias assessment were not performed because no study could be included. 
+Main results
+We found no RCTs and therefore could not establish the effects of CHM on hypothyroidism.
+Authors' conclusions
+Currently, there is no evidence available from RCTs on CHM for the treatment of hypothyroidism. We also did not find any ongoing registered trial. 

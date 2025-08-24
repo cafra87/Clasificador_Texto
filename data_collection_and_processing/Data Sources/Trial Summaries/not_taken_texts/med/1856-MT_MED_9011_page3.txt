@@ -1,0 +1,39 @@
+Clinical Study Results
+What kind of study was this?
+There were 3 parts to this study. The participants in Parts 1 and 3 had advanced cancer that was no
+longer responding to standard treatment. The participant in Part 2 had CTCL. Each part was “open-
+label”. This means the researchers and the participant knew which study treatment the participant
+was getting.
+In each part, a group of participants started out getting a low, fixed dose of MEDI9197. The study
+doctors looked at the safety results for these participants. Depending on the safety results and
+general health of the participants, the researchers decided whether to increase or decrease the dose
+in the next group of participants.
+There were 3 study treatments that could be given in this study: MEDI9197, radiation therapy, and
+durvalumab. Durvalumab is a cancer treatment that is approved to use for some types of cancer.
+Researchers are also studying how to use it alone, and with other treatments, for other types of
+cancer. Different combinations of treatments and doses were given to the participants.
+The doses of MEDI9197 were given through a needle into the tumor. This is also called an
+intratumoral injection. The doses of durvalumab were given through a needle into a vein. This is also
+called an intravenous infusion or an IV infusion. MEDI9197 and durvalumab doses were measured in
+milligrams, also called mg.
+Some participants had tumors that were easy for doctors to access called surface tumors. Others
+had tumors that were not easy for doctors to access called deep tumors.
+The tables below show the different treatment groups in each part of the study. The researchers
+expected to include other groups with different doses in the study, but no participants joined these
+groups.
+Part 1
+Group number Treatment given
+1 (7 participants with • 0.037 mg MEDI9197 every 28 days
+surface tumors)
+2 (5 participants with • 0.037 mg MEDI9197 every 28 days
+surface tumors)
+• Radiation therapy every 28 days
+3 (10 participants with • 0.012 mg MEDI9197 every 28 days
+surface tumors)
+4 (4 participants with deep • 0.012 mg MEDI9197 every 28 days
+tumors)
+5 (1 participant with • 0.055 mg MEDI9197 every 28 days
+surface tumors)
+6 (8 participants with • 0.005 mg MEDI9197 every 28 days
+surface tumors)
+3

@@ -1,0 +1,13 @@
+1. Plain Title: 
+Studying Fast Tests for Detecting a Type of Malaria 
+
+2. Rationale:
+Malaria is a dangerous disease caused by tiny organisms called plasmodium. There are different types of plasmodium and they all cause malaria, but they have different effects. Plasmodium vivax (P vivax) is one type that is particularly difficult to get rid of because some people who have it do not show any signs of being sick, and it also needs a different treatment compared to other types of malaria. To really defeat malaria, we need to get rid of all P vivax. We can create test kits (Rapid diagnostic tests or RDTs) to quickly identify the existence of P vivax in the body which can help to pick the right treatment or completely eliminate it.
+
+3. Trial Design:
+The study aimed to check how well RDTs can spot P vivax in sick individuals in places where malaria is common. It also wanted to find out which type of RDT is best for detecting P vivax. The study involved looking at data from 10 different studies where RDTs were compared with other more traditional detection methods like looking at a blood sample under a microscope or using a method called Polymerase chain reaction (PCR) which finds malaria's DNA in blood. The studies took place in different parts of the world where malaria is common. 
+
+4. Results:
+The study analyzed six different types of RDTs. Two of these were investigated more than once across the different studies. The study found that the CareStart Malaria Pf/Pv Combo test was really good at detecting P vivax, about as good as the traditional methods. For every 100 tests, only about 2 folks would get an incorrect result. Another brand, the Falcivax Device Rapid Test, had a bit less success, with about 46 incorrect results in every 1000 tests. 
+
+But, it's important to say that this study only included 10 other studies, and there was a lot of missing information in those studies that could have affected the results. What this tells us is that more studies are needed to really confirm how well these RDTs work and how they compare to each other. For now, the CareStart Malaria Pf/Pv Combo test seems to be a good choice for detecting P vivax.

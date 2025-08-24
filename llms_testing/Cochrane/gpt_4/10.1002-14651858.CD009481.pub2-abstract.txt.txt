@@ -1,0 +1,25 @@
+1. Plain Title: 
+Understanding Treatment Options for Psoriasis Using Different Light Therapies
+
+2. Rationale: 
+Psoriasis is a skin condition that causes red, flaky patches on the skin, which can be itchy or sore. It can be a burden to those who have it because of discomfort and the impact on self-esteem. There are various treatments available with different levels of effectiveness. In particular, doctors often use light therapies. Among those, Narrow-Band Ultraviolet B (NB-UVB), Broad-Band Ultraviolet B (BB-UVB), and Psoralen Ultraviolet A photochemotherapy (PUVA) are the most common. However, it's unclear which one is the most effective. This study was done to compare these treatments and understand which one may work best. 
+
+3. Trial Design: 
+This study was designed to compare several light therapies used to treat psoriasis. It involved people of different ages, health conditions, and genders who have psoriasis. Researchers looked at several databases of past related studies up to the year 2013. They then included all studies where patients were randomly selected (called Randomised Controlled Trials or RCTs) for different light therapies. Two independent authors reviewed each study for fairness and quality of the data. 
+
+4. Results: 
+The study looked at 13 RCTs involving a total of 662 patients suffering from different types of psoriasis. The results showed mixed findings.
+
+When comparing NB-UVB and a type of PUVA therapy (oral PUVA), there was no clear-cut winner for treating chronic plaque psoriasis (a type of psoriasis). Some studies showed no major difference between the two therapies, while others slightly favored PUVA therapy. The number of participants who had to stop the treatment due to side effects was also not significantly different in either group.
+
+The evidence was also mixed when comparing NB-UVB with another type of PUVA therapy (bath PUVA). One study favored bath PUVA, but other studies saw no significant difference between the groups.
+
+For treating palmoplantar psoriasis (a type found on the palms of the hands and soles of the feet), there wasn't a significant difference between NB-UVB and a topical form of PUVA.
+
+When a retinoid (a form of Vitamin A) was added to either NB-UVB or PUVA therapies, there was no clear difference for treating chronic or guttate psoriasis (a drop-like form of psoriasis).
+
+NB-UVB seemed to be as effective as selective BB-UVB for clearing chronic plaque psoriasis without significant difference in side effects.
+
+There were no studies comparing NB-UVB with conventional BB-UVB, so researchers weren't able to draw a conclusion here. 
+
+In conclusion, the study showed that current evidence is very mixed and should be interpreted carefully. Future larger studies are recommended to verify these findings, as well as to confirm the long-term safety of NB-UVB, which may be more convenient as it does not require prior preparation with a photosensitizer. For people with palmoplantar psoriasis, NB-UVB did not seem to provide significant benefits.

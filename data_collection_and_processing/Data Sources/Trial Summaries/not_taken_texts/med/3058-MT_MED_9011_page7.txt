@@ -1,0 +1,21 @@
+Clinical Trial RESULTS
+The table below shows how many participants had medical problems in this study
+after taking Dose A and Dose B.
+Dose A Dose B
+(out of 28 participants) (out of 28 participants)
+How many participants had
+5 (17.9%) 0 (0.0%)
+medical problems?
+How many participants had
+0 (0.0%) 0 (0.0%)
+serious medical problems?
+What were the most common medical problems?
+The only medical problems that happened in more than 1 participant after taking
+Dose A were:
+• 2 participants (7.1%) had nausea
+• 2 participants (7.1%) had pain in the arm or hand from blood tests
+What serious medical problems did participants have?
+A medical problem is considered serious when it is life threatening, causes lasting
+problems, or needs hospital care.
+No participants had serious medical problems or died during this study.
+7

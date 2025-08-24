@@ -1,0 +1,9 @@
+Plain Title: Blue Light Treatment for Bladder Cancer
+
+Rationale: Bladder cancer that doesn't invade the muscle can come back or get worse even after treatment. One way to improve the treatment is by using blue light to remove the cancer. We wanted to see if blue light treatment is better than white light treatment for bladder cancer.
+
+Trial Design: We looked at many different medical databases and trial registers to find studies that compare blue light treatment to white light treatment for bladder cancer. We only included studies where the participants had a high chance of having bladder cancer. We excluded studies where blue light was used just for checking if the cancer came back. We analyzed the data from 16 studies that had a total of 4325 participants.
+
+Results: Blue light treatment may decrease the chance of the cancer coming back over time compared to white light treatment. The decrease in risk depends on how severe the cancer is. For participants with low, intermediate, and high-risk bladder cancer, blue light treatment could result in fewer recurrences per 1000 participants compared to white light treatment. Blue light treatment may also reduce the risk of the cancer getting worse over time. Blue light treatment may not have a big effect on serious surgical complications. We are not sure about the effect of blue light treatment on minor complications or the risk of dying from bladder cancer over time. Further research is needed to know more about the effects and to improve the certainty of the findings.
+
+In conclusion, using blue light treatment for non-muscle invasive bladder cancer may reduce the risk of the cancer coming back and getting worse over time. It may also not have many serious complications. However, more studies are needed to confirm these findings and improve our understanding of the treatment.

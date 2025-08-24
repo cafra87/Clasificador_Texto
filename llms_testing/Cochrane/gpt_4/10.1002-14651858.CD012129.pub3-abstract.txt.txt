@@ -1,0 +1,15 @@
+1. Plain Title: 
+Studying the Use of Aspirin for Pain Relief after Childbirth
+
+2. Rationale: 
+Often, women experience perineal pain after delivering their babies vaginally. This pain can be due to natural tears, episiotomy (a surgical cut made during childbirth), or even if no tear occurs. This pain can have short and long term negative effects on the mother and her baby since it can interfere with newborn care including breastfeeding. One of the treatments for this pain is aspirin, but we need to be sure of its effectiveness and safety. The goal of this study was to understand how effective a single dose of aspirin can be in reducing this pain after childbirth.
+
+3. Trial Design:
+For this study, we specifically looked at randomised controlled trials (RCTs), a type of study where people are randomly put into one of two groups: those who received the treatment (in this case, aspirin), and those who did not (they received a placebo or no treatment). We searched through different databases and research platforms to make sure we included all relevant studies that were completed between 1967 and 1997. We included only those studies which studied the use of aspirin for women who had perineal pain after childbirth due to episiotomy and were not breastfeeding. In total, we included data from 17 studies involving over 1000 women, administered either aspirin or placebo.
+
+4. Results: 
+After looking at all the data, it seems that aspirin might provide more pain relief for women 4 to 8 hours after taking it, than those who received the placebo. However, it is uncertain whether aspirin reduced the need for additional pain relief or caused any side effects within this time frame. The studies also compared different doses of aspirin but it is unclear whether the amount of aspirin affected the pain relief or the need for additional pain relief. 
+
+No adverse effects were seen in babies but none of the studies reported on certain outcomes such as the length of hospital stay due to perineal pain, re-hospitalisation due to perineal pain, breastfeeding status at discharge, breastfeeding status at six weeks, perineal pain at six weeks, mothers' views, or mothers' postpartum depression. 
+
+In conclusion, it appears that a single dose of aspirin may help women with post-childbirth perineal pain but we can't say for sure whether it affects the need for more pain relief or causes any side effects. Also, the studies we examined didn't include women who were breastfeeding, so we don't know if aspirin has any adverse effect on babies or breastfeeding.

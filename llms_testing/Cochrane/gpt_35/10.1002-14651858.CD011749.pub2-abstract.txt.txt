@@ -1,0 +1,11 @@
+Plain Language Summary (PLS):
+
+1. Plain Title: Medications for Delirium Treatment in Critically Ill Adults
+
+2. Rationale: Delirium is a condition where patients experience confusion and impaired thinking abilities. It can have serious consequences for critically ill patients. We wanted to find out if medications can help treat delirium in these patients. We also wanted to know if the medications are safe and effective.
+
+3. Trial Design: This study involved looking at different research articles and trials that investigated the use of medications for treating delirium in critically ill adults. We examined the effects of these medications on the duration of delirium, as well as on other outcomes such as length of stay in the hospital and quality of life. The study included patients of different ages and with various health conditions. The time a person spent in the study varied for each trial.
+
+4. Results: We reviewed 14 studies that included a total of 1844 participants. These studies looked at different types of medications, such as antipsychotics, alpha2 agonists, statins, opioids, serotonin antagonists, and cholinesterase inhibitors. Our analysis showed that the medication dexmedetomidine, which belongs to the alpha2 agonist class, may help reduce the duration of delirium. Dexmedetomidine was also associated with a shorter time on mechanical ventilation and a shorter stay in the intensive care unit (ICU). On the other hand, the cholinesterase inhibitor rivastigmine was linked to a longer ICU stay. No significant differences were found between placebo (sugar pill) and any medication in terms of other outcomes like delirium-free and coma-free days, length of stay, cognitive outcomes, or mortality. Adverse events were rarely reported in these studies.
+
+In conclusion, this review showed that dexmedetomidine may have a small effect in reducing delirium duration in critically ill adults. It may also help with mechanical ventilation and shorten the stay in the ICU. However, more research is needed to confirm these findings. The use of other medications did not show significant benefits for treating delirium in this population. Further studies still in progress may change these conclusions.

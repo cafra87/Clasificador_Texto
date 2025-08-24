@@ -1,0 +1,42 @@
+What were the overall results of the study?
+Lung function tests measure how well a patient’s lungs move air in and out of the body.
+Doctors can use the results of these tests to see if lung function is stable, getting
+better, or getting worse.
+One measure of lung function is Forced Expiratory Volume in one second (FEV ). FEV
+1 1
+measures the amount of air that a patient can breathe out in the first second when
+asked to blow as hard as possible into a tube connected to a machine (spirometer).
+Higher values of FEV mean more air is flowing out of the lungs and that lung function
+1
+is better.
+Study doctors measured the FEV values on Day 1 (baseline) and at Week 12. The
+1
+difference between the FEV values at baseline and after 12 weeks of treatment is
+1
+called the Week 12 change from baseline in FEV .
+1
+The Week 12 change from baseline in FEV values from individual patients in each
+1
+treatment group were combined and averaged. These averaged values were compared
+between the two treatment groups. The Week 12 change from baseline in FEV could
+1
+be calculated for 737 patients who had both baseline and Week 12 values. The results
+are shown in the table below.
+Week 12 change from baseline in average FEV
+1
+Triple therapy
+Tiotropium group
+group
+Number of patients with FEV values at
+1
+362 375
+baseline and at Week 12
+Week 12 change from baseline in
+115 mL 20 mL
+average FEV (in millilitres [mL])
+1
+After 12 weeks of treatment, the improvement in the average FEV (lung function) of
+1
+patients in the triple therapy group was greater compared with the tiotropium group.
+More information about the study results is available in the scientific results summaries
+(links to those summaries are provided at the end of this document).

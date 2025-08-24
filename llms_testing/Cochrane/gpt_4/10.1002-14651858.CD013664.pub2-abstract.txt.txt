@@ -1,0 +1,11 @@
+1. Plain Title: 
+Examining if Certain Treatments during Cataract Surgery Help Keep the Success of a Previous Glaucoma Surgery
+
+2. Rationale: 
+Glaucoma is an eye condition where the pressure inside the eye is too high, leading to blur or fog in vision, and could even cause blindness. So, some glaucoma patients undergo a surgery called trabeculectomy to lower this pressure. Usually, this surgery works well. But, another common eye problem for many people is cataracts which causes difficulties seeing in bright light or darkness. Cataracts are tackled with a surgery too. But having cataract surgery sometimes messes up the success of the glaucoma surgery. In fact, this happens to around 3 to 4 out of every 10 patients. So, researchers are trying to figure out if there’s a way to give certain treatments during cataract surgery to help secure the success of the previous glaucoma surgery. 
+
+3. Trial Design: 
+To tackle this issue, researchers searched several databases for any testing (trials) where patients, who have had successful glaucoma surgery and are now having cataract surgery, took extra treatments during their cataract surgery. These extra treatments, also called adjuvant therapies, work to help healing wounds (like 5-fluorouracil, mitomycin C, or anti-vascular endothelial growth factor therapy). The researchers looked for trials where these adjuvant therapies were compared with no extra treatment to find out effects on the success of the glaucoma surgery from six months to a year after the cataract surgery. They planned to study things like the eye pressure difference and necessity of extra medications post-surgery.
+
+4. Results: 
+Unfortunately, the researchers couldn't find any trials like the ones they were looking for. So, it's still unclear whether or not these adjuvant therapies during cataract surgery will help maintain the benefits of the prior glaucoma surgery. The researchers think that more study in this area is needed. They suggest a future trial where patients having cataract surgery are given adjuvant wound healing treatments and observed to see if this helps prolong the success of their previous glaucoma surgery.

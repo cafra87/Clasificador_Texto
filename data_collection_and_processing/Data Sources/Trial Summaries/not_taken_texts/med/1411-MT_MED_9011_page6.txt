@@ -1,0 +1,22 @@
+Clinical Study Results
+Doctors keep track of all the adverse events that happen in studies, even if they do
+not think the adverse events might be related to the study treatment.
+Later in this document, there will be a summary of the adverse events that the
+study doctors thought might be related to the study treatment. This section
+is a summary of all the adverse events, whether they might be related to the
+study treatment or not. An adverse event is considered “serious” when it is life-
+threatening, causes lasting problems, or the participant needs hospital care.
+Adverse events may or may not be caused by the treatments in the study. A lot of
+research is needed to know whether a treatment causes an adverse event.
+How many participants had adverse events?
+During this study:
+• There were 100% of participants who had adverse events. This was 32 out of 32
+participants.
+• There were 65.6% of participants who had serious adverse events. This was 21 out of
+32 participants.
+• There were 18.8% of participants who left the study due to adverse events. This was 6
+out of 32 participants.
+• There were 6.3% of participants who died due to serious adverse events during the
+study. This was 2 out of 32 participants. These deaths were not thought to be related
+to the study treatments.
+6

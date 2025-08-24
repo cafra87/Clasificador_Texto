@@ -1,0 +1,13 @@
+Plain Title: 
+Understanding Measures to Keep Schools Open During the COVID-19 Pandemic
+
+Rationale:
+The COVID-19 pandemic has caused a lot of changes in our world, the most noticeable of which was the closing of schools all over the globe. To control the spread of the virus, over 90% of student population worldwide couldn't go to school by mid-April 2020. This closing caused many problems: students' learning was affected, and it brought economic problems. As a result, many schools had to reopen. But to ensure that these reopenings didn't spread the virus even more, various measures were put in place. However, these methods differed from place to place, making it difficult to know which ones were most effective. This study aims to understand and picture all the various techniques used to keep schools open in this pandemic.
+
+Trial Design:
+Between October 8 and November 5, 2020, we reviewed a large number of studies to understand what measures were used to keep schools open. This study is intended to be a precursor to a more detailed review of effectiveness which will then help set guidelines by the World Health Organization. It included adults and youngsters at risk of getting infected with COVID-19 or those affected by interventions, including students, teachers, other school staff, and contacts of these groups, as well as the wider community. All types of studies that quantitatively assessed the impact were included. 
+
+Results:
+A total of 42 studies were included. The majority of them used mathematical modeling (31), with a few using observational designs (9), and two using experimental or quasi-experimental designs. The studies applied different measures to reduce case numbers such as organizational measures (36), structural/environmental measures (11), and surveillance and response measures (19). Most studies measured how well their methods controlled the spread of the virus (29), while others assessed healthcare utilization (8), other health outcomes (3), and societal, economic, and ecological outcomes (5). However, the studies' results varied highly showing the need for evaluating these measures in a standardized manner to provide clear guidelines. 
+
+To conclude, with this review, we have begun to understand the available evidence on various methods used to keep schools open during the pandemic. This information will be used to make rapid reviews on this topic to provide clear and effective guidelines.

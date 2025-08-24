@@ -1,0 +1,24 @@
+Clinical Trial RESULTS
+What medical problems did participants have
+during the study?
+A lot of research is needed to know whether a drug causes a medical
+problem. So, when new drugs are studied, researchers keep track of all
+medical problems that participants develop during the study. These
+medical problems are called “adverse events”. They may or may not be
+caused by the study drug.
+How many participants developed medical problems during the study?
+The table below shows how many participants in each treatment group
+had medical problems. None of the participants stopped taking the
+study drug because of a medical problem. Researchers do not think the
+study drug caused any of the medical problems.
+Capsule A - Tablet - Capsule B - Capsule C - Capsule B -
+100 mg of 100 mg of 100 mg of 100 mg of 300 mg of
+AZD9496 AZD9496 AZD9496 AZD9496 AZD9496
+(Out of 14 (Out of 14 (Out of 12 (Out of 12 (Out of 12
+participants) participants) participants) participants) participants)
+How many
+participants
+developed 2 (14.3%) 1 (7.1%) 1 (8.3%) 0 (0.0%) 1 (8.3%)
+medical
+problems?
+6

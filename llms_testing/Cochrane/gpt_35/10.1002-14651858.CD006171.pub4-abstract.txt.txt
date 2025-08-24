@@ -1,0 +1,19 @@
+Plain Title: The Effects of Prenatal Education to Prevent Congenital Toxoplasmosis
+
+Rationale: 
+Congenital toxoplasmosis is a rare but serious infection that can harm babies. We wanted to find out if teaching pregnant women about congenital toxoplasmosis can help prevent it. We looked at different studies to see if prenatal education is effective.
+
+Trial Design: 
+We searched for studies that tested different ways of teaching pregnant women about toxoplasmosis. We found two studies with a total of 5455 women. These studies looked at how well the education worked and the risks involved. We assessed the quality of the studies and checked for any potential biases.
+
+Results: 
+Both studies had limitations in how they measured the effects of the education. This means we couldn't combine the results to get a clear answer. The studies had a high risk of bias, which means the results may not be completely reliable.
+
+In one study from Canada, 432 pregnant women were enrolled, but the study had low quality. They didn't report on the main outcomes we were interested in, and the results they did report were not very clear. They did find that the prenatal education helped pregnant women adopt better hygiene practices.
+
+The second study from France also had low quality. They found that the education improved women's knowledge about congenital toxoplasmosis, but it didn't change their behaviors. The study had a high dropout rate, which means some women stopped participating. The number of women who got toxoplasmosis during the study was too small to draw any conclusions about the effectiveness of the education.
+
+We couldn't find any other studies that looked at the effects of prenatal education on the rate of congenital toxoplasmosis or seroconversion during pregnancy.
+
+Conclusions: 
+While it's important to prevent congenital toxoplasmosis, we don't have enough good evidence to say if prenatal education is effective. The two studies we found had limitations and didn't provide strong conclusions. We need more studies to confirm if prenatal education can truly help prevent congenital toxoplasmosis and to understand which educational interventions work best.

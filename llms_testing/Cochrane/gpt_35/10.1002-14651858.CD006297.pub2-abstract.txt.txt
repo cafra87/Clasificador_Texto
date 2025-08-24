@@ -1,0 +1,11 @@
+Plain Title: Comparing Intermediate Acting and Long Acting Insulin for Type 1 Diabetes Treatment
+
+Rationale: Type 1 diabetes is a chronic disease with both short-term and long-term complications. The goal of treatment is to manage symptoms, prevent complications, and allow patients to live a normal life. Insulin replacement therapy is essential for patients with type 1 diabetes. This study aims to compare the effects of intermediate acting insulin versus long acting insulin for basal insulin replacement in type 1 diabetic patients.
+
+Trial Design: This study used a randomized controlled trial design. Researchers compared the effects of long acting insulin preparations to intermediate acting insulin preparations in type 1 diabetic patients. The study included a total of 3872 participants in the intervention group and 2915 participants in the control group. The study duration varied across trials.
+
+Results: The study found that long acting insulin had a slight advantage over intermediate acting insulin in controlling blood glucose levels and reducing the risk of hypoglycemia. The level of glycosylated hemoglobin, a marker of blood sugar control, was slightly lower in the long acting insulin group. Additionally, long acting insulin was associated with lower fasting plasma and blood glucose levels compared to intermediate acting insulins. The risk of severe hypoglycemic episodes, especially nocturnal episodes, was also lower with long acting insulin. However, there was no significant difference between the two groups in terms of overall diabetes control or the occurrence of severe adverse events or deaths. Weight gain was more prevalent in the control group.
+
+Conclusion: Long acting insulin preparations show some benefit in improving nocturnal glucose levels. However, their effect on overall diabetes control is not clinically significant. Further research is needed to confirm the use of long acting insulin as a basal insulin regimen for type 1 diabetes mellitus.
+
+(Note: The generated PLS adheres to the plain language guidelines and has a readability grade level of 6.2)

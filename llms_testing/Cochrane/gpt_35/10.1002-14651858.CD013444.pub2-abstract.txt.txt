@@ -1,0 +1,32 @@
+Title: Cannabinoids for Reducing Symptoms in Multiple Sclerosis: A Review
+
+Rationale: 
+Spasticity and chronic neuropathic pain are common symptoms in people with multiple sclerosis (MS). These symptoms worsen with disease progression and can negatively affect daily life and quality of life. Current medications for spasticity and pain relief have limited benefits or are not well tolerated. Cannabinoids, including synthetic or herbal/plant-derived cannabinoids, may have potential in reducing these symptoms for people with MS. It is important to understand the existing evidence on the benefits and harms of these drugs to determine their effectiveness.
+
+Trial Design:
+This study aimed to evaluate the benefits and harms of cannabinoids for reducing symptoms in adults with MS. We conducted a comprehensive search of various databases and clinical trial registers to find relevant studies. We included randomized trials that compared different types of cannabinoids, regardless of dose, route, frequency, or duration of use, in adults with MS. We assessed the bias in the included studies using a standardized tool and rated the certainty of evidence for various outcomes.
+
+Results:
+We included 25 randomized trials with a total of 3763 participants, of whom 2290 received cannabinoids. The age of participants ranged from 18 to 60 years, with a majority of female participants across the studies. The duration of the included studies varied from 3 to 48 weeks. The different types of cannabinoids evaluated in the studies included nabiximols, synthetic cannabinoids mimicking THC, oral THC extract, and inhaled herbal cannabis.
+
+The main findings of the study are as follows:
+
+1. Spasticity:
+Nabiximols, an oromucosal spray with a combination of THC and CBD, probably reduces the severity of spasticity in the short-term. Compared to placebo, more people reported a significant reduction in spasticity with nabiximols.
+
+2. Chronic Neuropathic Pain:
+There was limited evidence available to determine the effect of cannabinoids on chronic neuropathic pain intensity. Only one small trial reported substantial pain relief with a synthetic cannabinoid compared to placebo.
+
+3. Treatment Discontinuation due to Adverse Events:
+Cannabinoids may slightly increase the number of participants who discontinue treatment compared to placebo. However, the overall certainty of evidence for this outcome was low.
+
+Other important outcomes include the following:
+
+- Patient Global Impression of Change (PGIC): Cannabinoids are likely to improve health status in more people compared to placebo.
+- Health-Related Quality of Life (HRQoL): There is little to no effect of cannabinoids on HRQoL.
+- Serious Adverse Events (SAEs): Cannabinoids do not seem to significantly increase the occurrence of SAEs compared to placebo.
+- Nervous System and Psychiatric Disorders: Cannabinoids may slightly increase the risk of these disorders compared to placebo.
+- Drug Tolerance: The evidence regarding the effect of cannabinoids on drug tolerance is highly uncertain.
+
+Conclusion:
+In conclusion, nabiximols appears to be effective in reducing the severity of spasticity in people with MS. However, the evidence regarding the effects of cannabinoids on chronic neuropathic pain and health-related quality of life is uncertain. Cannabinoids may slightly increase the risk of treatment discontinuation, nervous system and psychiatric disorders compared to placebo. The overall certainty of evidence is limited due to the short duration of the included studies.

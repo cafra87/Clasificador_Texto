@@ -1,0 +1,301 @@
+Clinical Study Results
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study vaccine works, how it works, 
+and if it is safe to prescribe to study participants.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor :    BioNTech SE
+Sponsor Agent: Pfizer Inc.
+Vaccine(s) Studied: BNT162b2 RNA -Based COVID -19 Vaccines, 
+Compound Number: PF -07302048
+Protocol Number: C4591017
+Dates of Study: 15 February 2021 to 22 July 2021 
+Title of this Study: A Phase 3 Study to Evaluate the Safety, Tolerability, 
+and Immunogenicity of Multiple Production Lots and 
+Dose Levels of BNT162b2 RNA -Based COVID -19 
+Vaccines Against COVID -19 in Healthy Participants
+[Final Report: A Phase 3, Randomized, Observer -Blind 
+Study to Evaluate the Safety, Tolerability, and 
+Immunogenicity of Multiple Production Lots and 
+Dose Levels of the Vaccine Candidate BNT162b2 
+Against COVID -19 in Healthy Participants 12 
+Through 50 Years of Age and the Safety, Tolerability, 
+and Immunogenicity of BNT162b2 RNA -Based 
+COVID -19 Vaccine Candidates as a Booster Dose in 
+Healthy Participants 18 Through 50 Years of Age ]
+Date(s) of this Report: 18February 202 2
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+–Thank You –
+If you or your child participated in this study, Pfizer, the Sponsor agent, would like to 
+thank you for participating . 
+This summary will describe the study results.  If you have any questions about the 
+study or the results, please contact the doctor or staff at your study sit e.
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+Why was this study done?
+What is COVID -19?
+A new respiratory disease appeared in Wuhan, China in December 2019 and has since 
+rapidly spread to many other countries around the world.  In January 2020, the cause 
+of this disease was found to be a new Coronavirus; and the disease it causes was 
+named COVID -19 (Coronavirus disease 2019).  Since then, many companies around 
+the world have quickly started to look for ways to prevent COVID -19 disease . 
+People can get COVID -19 through contact with another pers on who has the virus. 
+COVID -19 is mainly a disease of the respiratory system, but it can also affect other 
+organs in the body.  COVID -19 can cause a wide range of symptoms, such as fever, 
+cough, shortness of breath, and loss of sense of taste or smell.  CO VID-19 symptoms 
+can sometimes be severe .
+What are BNT162b2 RNA -Based COVID -19 Vaccines? 
+A vaccine is used to help the body to fight off germs. After a vaccine is injected into a 
+person’s body, the body responds by making “antibodies”, which are proteins t hat 
+fight infections and help to prevent disease .  This is known as the body’s “immune 
+response”.
+The BNT162b2 investigational vaccine does not contain the whole virus, or the
+parts of the virus that can cause COVID -19. Instead, BNT162b2 is made up of part 
+of the virus’s genetic code, surrounded by fatty particles called lipids. It uses the 
+body’s own cells to produce a “spike protein”. This spike protein may help the body 
+to produce antibodies to fight against COVID -19. 
+At the time of this study, BNT162b2 was an investigational vaccine and it was not 
+approved for general use. BNT162b2 has now been approved for use in many 
+countries worldwide .  BNT162b2 is given as 2 doses, about 3 weeks apart.
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+What was the purpose of this study?
+The main purpose of this study was to learn about the safety and about the body’s 
+immune response to 4 different batches, or “lots”, of the BNT162b2 vaccine, given at 
+2 different doses.  Three of the lots of were intended for use in the United States (US 
+lot), and 1lot was intended for use in the European Union (EU lot).  All 4 lots 
+contained the same components and were made in the same way.  The researchers 
+needed to compare the investigational vaccines from the different lots and doses to be 
+sure that they worked the same way and were safe to use . 
+Researchers wanted to know: 
+Did participants who received vaccines from the 3 US lots have 
+similar immune responses? 
+Did participants who received a low -dose vaccine have similar 
+immune responses to participants who received a standard -dose 
+vaccine from the same lot? 
+*Results for this study question will be available at a later date.
+Did participants who received vaccin es from the EU lot have 
+similar immune responses to participants who received vaccines 
+from the US lots? 
+*Results for this study question will be available at a later date.
+How many participants had pain, redness, or swelling at the 
+injection site within 7 days after vaccination? 
+How many participants had fever, tiredness, headache, chills, 
+vomiting, diarrhea, muscle pain, or joint pain within 7 days after 
+vaccination? 
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+How many participants had any medical problems within 1 month 
+after their second vacci nation?
+How many participants had serious medical problems within 
+1month after their second vaccination? 
+The researchers also studied a third (“booster ”) dose , given about 3 months after 
+Dose 2.  The main purpose of this part of the study was to learn a bout the safety and 
+about the body’s immune response to the booster dose.
+Researchers wanted to know:
+Did participants have an immune response to the booster dose?
+*Results for this study question will be available at a later date.
+How many participants had pain, redness, or swelling at the 
+injection site within 7 days after the booster dose?
+How many participants had fever, tiredness, headache, chills, 
+vomiting, diarrhea, muscle pain, or joint pain within 7 days after the 
+booster dose?
+How many participants had any medical problems within 1 month 
+after the booster dose?
+How many participants had serious medical problems within 
+1month after the booster dose?  
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+What happened during the study? 
+How was the study done?
+Part 1
+In the first part of t he study, researchers studied 5 groups of study participants.  Each 
+group received 2 doses of the BNT162b2 vaccine, given about 3 weeks apart :  
+Group 1 (351 participants): US lot 1, standard dose
+Group 2 (352 participants): US lot 2, standard dose
+Group 3 (347 participants): US lot 3, standard dose
+Group 4(173 participants): EU lot, standard dose
+Group 5: (351 participants): US lot 1, low dose
+This was as an “observer blinded” study, which means that the researchers and the 
+participants did not know which lot or dose they received, but the healthcare workers 
+who prepared and administered the study vaccines did know. Study participants were 
+assigned to each group by chance alone.
+Participants were first screened by a doctor to make sure they met the requirements to 
+join the study.  This was known as the screening period.  Participants were in Part 1
+for about 2 months, and were expected to attend 3 visits at the study center during 
+this time.  At these visits, participants received study vaccines, had their blood drawn
+and other lab samples collected , and were monitored for any medical problems.
+The figure below shows what happened during Part 1.
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+Part 2 (Booster Study)
+In the booster study, researchers studied 2 groups of study participants who had 
+previously received 2 standard doses of BNT162b2 (US lot) during the first part of 
+the study .  Each group received 1 booster dose of either BNT162b2 o r 
+BNT162b2 beta, given about 3 months after they received the second dose in the first 
+part of the study.   BNT162b2 beta is a slightly modified version of BNT162b2, made 
+to help provide protection against a variant of COVID -19 from South Africa. 
+Booster Group 1 (31 participants): BNT162b2 
+Booster Group 2 (31 participants): BNT162b2 beta
+This was as an “observer blinded” study, which means that the researchers and 
+participants did not know which booster they received, but the healthcare workers 
+who prepa red and administered the study vaccines did know.  Study participants were 
+assigned to each group by chance alone.
+Participants were in the booster study for about 1 month, and were expected to attend 
+3 visits at the study center during this time.  At thes e visits, participants received study 
+vaccines, had their blood drawn and other lab samples collected , and were monitored 
+for any medical problems.
+The figure below shows what happened during the booster study.
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+Where did this study take place? 
+The Sponsor ran the first part of the study at 16 locations in the United States, and 
+the booster study at 8 of these 16 locations.
+When did this study take place?
+It began 15 February 2021 and ended 22 July 2021 .
+Who participated in this study?
+Participants 1 2 to 50 years of age could join Part 1 , and participants 18 to 50 years of 
+agecould join the booster study .  Study participants:
+Were examined by the study doctor and determined to be appropriate for study 
+participation
+Had never been diagnosed with COVID -19
+Had never received a COVID -19 vaccine outside of this study
+Were not allergic to any of the ingredients in the study vaccines
+Were not pregnant or breast -feeding
+A total of 815 men (52%) participated in Part 1
+A total of 758 women (48%) participated in Part 1
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+All participants in Part 1 were 12 to 50 years of age
+A total of 31 men (50%) participated in the booster study
+A total of 31 women (50%) participated in the booster study
+All participants in the booster study were 19 to 50 years of age
+A total of 1574 participants joined Part 1 , and 1573 participants (more than 99%) 
+received at least 1 study vaccine.  1570 participants (more than 99%) received both 
+doses.  16 participants (1%) left the study early, and 2 participants (less than 1%) did 
+not receive the second dose due to a medical problem or pregnancy, but remained in 
+the study. 1557 participants (99%) completed the study.
+A total of 62 participants joined the booster study and received the booster vaccine.  
+All 62 participants (100%) completed the b ooster study.
+How long did the study last?
+Study participants were in Part 1 for about 2 months and the booster study for an 
+additional 1 month.  The entire study took about 5 months to complete.  
+When the study ended in July 2021, the Sponsor began revie wing the information 
+collected.  The Sponsor then created a first report of the results.  This is a summary of 
+that report.
+What were the results of Part 1 of the study?
+Did participants who received vaccines from the 3 US lots have 
+similar immune responses?
+The researchers measured the amount of antibodies in participants’ blood 1 month 
+after the second dose of BNT162b2 . The researchers found that antibody levels in 
+participants from Groups 1, 2, and 3 (standard -dose BNT162b2 Lots 1, 2, and 3 ) 
+were within a range considered to be comparable to each other. Therefore, the 
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+participants who received vaccines from the 3 US lots had similar immune 
+responses.  Based on these results, the researchers have decided that the results are 
+not likely the result of chance. 
+This does not mean that everyone in this study had these results.  This is a summary 
+of just some of the main results of this study.  Other studies may have different 
+results.
+Did participants who received a low -dose vaccine have similar 
+immu ne responses to participants who received a standard -dose 
+vaccine from the same lot?
+Results for this study question are still being reviewed, and will be available at a later 
+date.
+Did participants who received vaccines from the EU lot have 
+similar immune responses to participants who received vaccines 
+from the US lots?
+Results for this study question are still being reviewed, and will be available at a later 
+date.
+What were the results of the booster study?
+Did participants have an immune response to the booster dose?
+Results for this study question are still being reviewed, and will be available at a later 
+date.
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+What medical problems did participants have during 
+Part 1 of the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study vaccine or by another medicine th e participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many vaccine groups in many studies, doctors try to 
+understand what effects a study vaccine might have on a participant.
+How many participants had pain, redness, or swelling at the 
+injection site within 7 days after vaccination?
+A total of 1412 out of 1573 participants (90%) had redness, swelling, or pain at the 
+injection site within 7 days after receiving either dose of BNT162b2 .  These were 
+mostly mild to moderate, and were already known to be side effects of BNT162b2.  
+The percentage of participants with redness, swelling, or pain at the injection site was 
+similar across each vaccine group, and similar after Dose 1 and Dose 2.  Pai n at the 
+injection site was the most common of these medical problems.
+How many participants had fever, tiredness, headache, chills, 
+vomiting, diarrhea, muscle pain, or joint pain within 7 days after 
+vaccination?
+A total of 1397 out of 1573 participants (89%) had fever, tiredness, headache, chills, 
+vomiting, diarrhea, muscle pain, or joint pain within 7 days after receiving either dose 
+of BNT162b2 .  These were mostly mild to moderate, and were already known to be 
+side effects of BNT162b2.  The percentage of participants with these medical 
+problems was similar across each vaccine group, and these medical problems were 
+more common after Dose 2 than Dose 1. Tiredness, headache, and muscle pain were 
+the most common of these medical problems.
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+How many participan ts had any medical problems within 1 month 
+after vaccination?
+A total of 100 out of 1573 participants (6%) had at least 1 medical problem.  Skin rash 
+and swollen lymph nodes were the most common medical problem, occurring in 
+7out of 1573 participants (less than 1%) each.  No medical problem happened in at 
+least 1% of participants.  One participant (less than 1%) from Group 5 left the study 
+because of medical problems that were considered to be related to BNT162b2 (skin 
+inflammation and swelling under the s kin), and 1 participant (less than 1%) from 
+Group 3 left the study due to pregnancy.  
+What medical problems did participants have during 
+the booster study?
+How many participants had pain, redness, or swelling at the 
+injection site within 7 days after the booster dose?
+A total of 57 out of 62 participants (92% ) had redness, swelling, or pain at the 
+injection site within 7 days after receiving the booster. These were mostly mild to 
+moderate, and were already known to be side effects of BNT162b2 and BNT162b2
+beta.The percentage of participants with pain, redness, or swelling at the injection 
+site was similar in both booster vaccine groups.  Pain at the injection site was the most 
+common of these medical problems, and occurred more frequently after the boost er 
+dose than after the 2nddose.
+How many participants had fever, tiredness, headache, chills, 
+vomiting, diarrhea, muscle pain, or joint pain within 7 days after the 
+booster dose?
+A total of 54 out of 62 participants (87% ) had fever, tiredness, headache, chills, 
+vomiting, diarrhea, muscle pain, or joint pain within 7 days after receiving the booster. 
+These were mostly mild to moderate, and were already known to be side effects of 
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+BNT162b2 and BNT162b2 beta.  The percentage of p articipants with these medical 
+problems was similar in both vaccine groups. These medical problems occurred at a 
+similar rate after Dose 2 and the booster dose.  Tiredness, headache, and muscle pain 
+were the most common of these medical problems.
+How many participants had any medical problems within 1 month 
+after the booster dose?
+A total of 3 out of 62 participants (5%) had at least 1 medical problem within 
+1month after the booster dose.  These medical problems included neck pain, 
+abnormal growth of cell s in the abdomen, and swollen lymph nodes .  Swollen lymph 
+nodes wasconsidered to be related to the booster .  No participants left the booster 
+study because of medical problems.
+Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.
+How many participants had serious medical problems within 
+1month after vaccination?  
+During the first part of the study, 2 out of 1573 participants (less than 1%) had a 
+serious medical problem within 1 month after vaccination: 1 participant from 
+Group 4 had a long -lasting migraine headache, and 1 participant from Group 3 
+received BNT162b2 while pregnant and had a miscarriage 30 days later.  The study 
+doctor did not consider these medical problems to be related to BNT162b2.
+How many participants had serious medical problems within 
+1month after the booster dose?  
+No participants had serious medical problems during the booster study.
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)
+No participants died during the first part of the study or the booster study.
+Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, plea se visit:
+www.clinicaltrials.gov Use the study identifier NCT04713553
+Please remember that researchers look at the results of many studies to find out which 
+vaccines can work and are safe for study participants.
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help study participants, and you 
+helped us to do that !
+090177e1996b0e4c\Approved\Approved On: 22-Feb-2022 06:52 (GMT)

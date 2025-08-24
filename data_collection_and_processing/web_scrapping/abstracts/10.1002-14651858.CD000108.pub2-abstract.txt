@@ -1,0 +1,14 @@
+Background
+Biochemical tests of placental or feto‐placental function were widely used in the 1960s and 1970s in high‐risk pregnancies to try to predict, and thus try to avoid, adverse fetal outcome. 
+Objectives
+To assess the effects of performing biochemical tests of placental function in high‐risk, low‐risk, or unselected pregnancies. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (10 May 2012). 
+Selection criteria
+Controlled trials (randomized or 'quasi‐randomized') that compare the use of biochemical tests of placental function in pregnancy with non‐use. 
+Data collection and analysis
+Trial quality was assessed and data were extracted by the review author.
+Main results
+A single eligible trial of poor quality was identified. It involved 622 women with high‐risk pregnancies who had had plasma (o)estriol estimations. Women were allocated to have their (o)estriol results revealed or concealed on the basis of hospital record number (with attendant risk of selection bias). There were no obvious differences in perinatal mortality (relative risk (RR) 0.88, 95% confidence interval (CI) 0.36 to 2.13) or planned delivery (RR 0.97, 95% CI 0.81 to 1.15) between the two groups. 
+Authors' conclusions
+The available trial data do not support the use of (o)estriol estimation in high‐risk pregnancies. The single small trial available does not have the power to exclude a beneficial effect but this is probably of historical interest since biochemical testing has been superseded by biophysical testing in antepartum fetal assessment. 

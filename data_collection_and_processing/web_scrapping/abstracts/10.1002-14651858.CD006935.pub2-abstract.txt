@@ -1,0 +1,14 @@
+Background
+Hepatocellular carcinoma is a major worldwide health problem, involving more than half a million new patients yearly, with a different incidence in different parts of the world. Hepatocellular carcinoma develops in about 80% of cirrhotic patients, and cirrhosis is considered the strongest predisposing factor for it. Surgical resection and liver transplantation are conventional treatment modalities that can offer long‐term survival for patients with hepatocellular carcinoma. 
+Objectives
+To assess the benefits and harms of surgical resection compared with those of liver transplantation in patients with hepatocellular carcinoma. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded (SCI‐EXPANDED) at ISI Web of Science (last search February 2013). We also searched the abstracts from annual meetings of the American Society of Clinical Oncology, the American Association for the Study of Liver Diseases (AASLD), and the European Association for the Study of the Liver (EASL), provided through The Cochrane Hepato‐Biliary Group until February 2013. 
+Selection criteria
+Randomised clinical trials comparing surgical resection and hepatic transplantation.
+Data collection and analysis
+The search strategies were run and two authors individually evaluated whether the retrieved studies fulfilled the inclusion criteria. 
+Main results
+No randomised clinical trials comparing surgical resection and liver transplantation as the major methods of treating hepatocellular carcinoma were found. 
+Authors' conclusions
+There are no randomised clinical trials comparing surgical resection and liver transplantation for hepatocellular carcinoma treatment. 

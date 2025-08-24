@@ -1,0 +1,40 @@
+Clinical Study Results
+Researchers look at the results of many studies to decide which treatments work
+best and are safest. Other studies may provide new information or different results.
+Always talk to a doctor before making any treatment changes.
+There was 1 participant who did not finish the study. So, the results below only
+include information from 40 participants who completed the study.
+Did MEDI0382 change the levels of glucose in the blood?
+Yes, the researchers found that MEDI0382 changed the participants’ blood glucose
+levels.
+To answer this question, the researchers looked at the participants ’blood glucose
+levels before and after they took the study treatment. They measured the average
+total amount of glucose in the blood 4 hours after the participants ate a meal.
+The researchers compared the average total amounts of blood glucose for the
+participants who took MEDI0382 and the participants who took the placebo.
+They calculated the average percentage difference between before and after
+treatment. The researchers found:
+• the participants who took MEDI0382 had a 26.7% decrease in average total amounts
+of blood glucose
+• the participants who took the placebo had a 3.7% increase in average total amount s
+of blood glucose
+The chart below shows these results.
+Percentage change in blood glucose level
+10
+5 3.7%
+MEDI0382
+0 )%(
+Placebo
+egnahc
+-5
+-10
+egatnecreP
+Decrease means
+-15
+less glucose
+in the blood
+-20
+-25
+-26.7%
+-30
+5

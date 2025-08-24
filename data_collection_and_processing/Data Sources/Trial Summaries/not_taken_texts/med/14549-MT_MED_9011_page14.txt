@@ -1,0 +1,24 @@
+In COV002, some of the participants were also given a weekly swab test for
+COVID-19 throughout the trial, even if they did not have symptoms. This let the
+researchers check for “asymptomatic” COVID-19, meaning someone who has
+COVID-19 but has no symptoms.
+In all 4 of the trials, independent reviewers looked at the results. These are professionals
+who do not work for the University of Oxford, AstraZeneca, or any other sponsor, and were
+not involved in performing the trials. This helps make sure that the results are looked at
+fairly. Independent reviewers do this for both the results about effectiveness and the results
+about safety.
+What are the results of these trials?
+The effectiveness of a vaccine or treatment at preventing infection during a clinical
+trial is known as “efficacy”. Researchers look at the results of many trials to decide
+which vaccines are most effective and are safest. Other trials may provide new
+information or different results.
+How effective was AZD1222 more than 14 days after the second
+injection?
+To measure the efficacy of AZD1222, the researchers compared:
+• the number of participants who had symptoms and tested positive for COVID-19
+in the AZD1222 groups more than 14 days after their second injection
+• the number of participants who had symptoms and tested positive for COVID-19
+in the control groups more than 14 days after their second injection
+Then, the researchers used a mathematical model to calculate the efficacy as a
+percentage.
+14

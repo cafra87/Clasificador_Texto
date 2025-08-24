@@ -1,0 +1,9 @@
+Plain Title: Effectiveness of Memantine in Treating Autism Symptoms
+
+Rationale: Autism spectrum disorder (ASD) is a developmental disability that affects around 1% to 2% of children and can impact their quality of life, school achievements, and social interactions. Memantine, a medication commonly used for dementia, has been suggested as a potential treatment for autism symptoms. It is important to review the evidence on whether memantine is effective in reducing the core symptoms of autism and other associated symptoms such as hyperactivity and language difficulties.
+
+Trial Design: This study involved three randomized controlled trials (RCTs) with a total of 204 participants. The trials focused on children and adolescents with an average age of 9.40 years. The diagnosis of ASD was based on standardized criteria. The participants were given different doses of memantine based on their weight, ranging from 3 mg to 15 mg per day. The duration of the study was short-term, immediately after the intervention.
+
+Results: The main findings of the study showed no clear evidence that memantine is effective in reducing the severity of core autism symptoms. However, the certainty of this evidence is very low. The study also found that there may be no significant difference between memantine and placebo in terms of adverse effects, language abilities, memory, adaptive behavior, hyperactivity, and irritability. The studies included in this review were rated as having a high risk of bias.
+
+Conclusions: Based on the available evidence, it remains uncertain whether memantine is an effective treatment for children with autism. It should be noted that none of the included trials investigated the effectiveness of memantine in adults. Future studies with larger sample sizes, longer follow-up periods, and meaningful outcome measures are needed to enhance our understanding of the effects of memantine in autism.

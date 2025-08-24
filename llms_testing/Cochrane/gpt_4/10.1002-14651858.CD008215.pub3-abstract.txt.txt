@@ -1,0 +1,17 @@
+1. Plain Title: 
+Understanding If Fertility Drugs Could Raise Ovarian Cancer Risk
+
+2. Rationale:
+Ovarian cancer is a type of cancer that begins in the ovaries. This study seeks to understand whether using drugs to help with fertility might increase the chances of getting ovarian cancer. It's important to look into this because fertility drugs have helped many women who have trouble falling pregnant, but if these drugs increase the risk of ovarian cancer, it's vital that we know. The aim of this study is to determine if a link exists between fertility drugs and ovarian cancer. 
+
+3. Trial Design:
+This study looked at research from 1990 to 2018. It collected data from both planned and unplanned experiments, as well as case studies involving more than 30 women. In total, we looked at the data of more than 4 million women. Some of these women were treated with fertility drugs, while others were not. By comparing these two groups, we hoped to see if fertility drugs were linked to ovarian cancer.
+
+4. Results:
+The study looked at 13 case-control studies and 24 cohort studies, which included over 4.6 million women. Some research suggested that women who have trouble getting pregnant and used fertility drugs are slightly more at risk of getting ovarian cancer than those who don't use these drugs. However, the study also found that it wasn't a big increase and was not likely to be a cause of worry for women using these drugs. 
+
+The results also showed that women who still could not get pregnant after taking a certain drug were at a slightly higher risk than women who could get pregnant after using the drug. Yet, there was no increase in cancer risk for women using fertility drugs who have a certain gene mutation known as BRCA. 
+
+Regarding a less harmful type of growth known as 'borderline ovarian tumours', certain fertility drugs seemed to make the risk a bit higher, but again, this was based on a limited number of cases and need more studies. 
+
+In conclusion, while some studies suggest a very small increase in the risk of ovarian cancer and these borderline ovarian tumours, none of the studies provided strong evidence. Better studies are needed to understand the connection between fertility drugs and ovarian cancer better.

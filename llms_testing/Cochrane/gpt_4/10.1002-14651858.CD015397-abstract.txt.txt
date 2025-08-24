@@ -1,0 +1,15 @@
+1. Plain Title: 
+Impacts of COVID-19 School Safety Measures: Beyond Virus Control
+
+2. Rationale:
+The COVID-19 outbreak led to many safety rules in order to stop the spread of the virus. Many of these were put in place in schools, so kids and teachers could keep learning while staying safe. But, these rules may have other effects. They could impact things like student's mental health, school performance, or teachers' stress levels. The main question of this study is: besides stopping the spread of the virus, what else are these safety rules in schools doing? Is it more good or bad? We hoped to get a clear picture of these 'extra' effects to help officials make well-informed decisions about school safety during the pandemic.
+
+3. Trial Design:
+We looked at all sorts of studies, like surveys and case studies, which talked about any unexpected things happening because of the COVID-19 school safety rules. Our main source of files was from big databases, like Cochrane and MEDLINE, as of March 2021. We looked at studies that involved kids or teachers, and catalogued impacts in six areas: school learning, mental and social wellness, physical health, health behaviors, rule impacts on the planet, and social and economic effects. 
+
+4. Results:
+We found 18 studies that fit what we were looking for. Thirteen used numbers to show their findings, four were based on people's thoughts and feelings, and one used both methods. Most of these studies looked into rules that made close contacts safer, while four studies looked into rules limiting contacts, and six studies looked at ways schools watched for the virus and responded. The rest of the studies looked at all these rule types together.
+
+There were a lot of unintended effects, mostly bad. Eleven studies found impacts on learning. Seven studies showed impacts on mental and social wellness. Three studies showed impacts on physical health and behaviors unrelated to COVID-19. Two studies showed social and economic impacts. Sadly, none of the studies mentioned impacts on fairness and equality.
+
+Our work shows us a mixed-picture of the extra effects of these safety rules. More work needs to be done to fully understand these findings before we can make a full review. We noticed that we don't have enough information on mental and social wellness, fairness, and rules that aim to limit contacts. Also, we need more data on things like the age and sex of the people involved so we can better tailor rules to those who need them most. This kind of research can help those in charge make better decisions in these tough times.

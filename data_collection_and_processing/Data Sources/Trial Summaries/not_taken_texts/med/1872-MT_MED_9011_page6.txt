@@ -1,0 +1,43 @@
+Clinical trial results
+The table below shows the medical problems that were not considered serious that developed
+in at least 2 participants in any treatment group in Part A.
+50 μg 200 μg 400 μg 900 μg 1800 μg 2100 μg Placebo
+AZD8871 AZD8871 AZD8871 AZD8871 AZD8871 AZD8871 (12
+Part A (6 participants) (6 participants) (6 participants) (6 participants) (6 participants) (5 participants) participants)
+3 1 2 2 1 0 3
+Headache
+(50.0%) (16.7%) (33.3%) (33.3%) (16.7%) (0.0%) (25.0%)
+3 1 0 0 0 2 1
+Common cold
+(50.0%) (16.7%) (0.0%) (0.0%) (0.0%) (40.0%) (8.3%)
+Part B
+In Part B, the only medical problems that were not considered serious that happened in at least
+2 participants in any treatment group were common cold (13.2%), COPD (10.5%), and headache.
+One participant (2.6%) had at least 1 medical problem that researchers thought was possibly related
+to treatment. This participant got only tiotropium in this study. This possibly related medical problem
+was headache (31.6%).
+The table below shows the medical problems that were not considered serious that developed
+in at least 2 participants in any treatment group in Part B.
+400 μg 1800 μg 150 μg 18 μg
+AZD8871 AZD8871 Indacaterol Tiotropium Placebo
+Part B (34 participants) (31 participants) (32 participants) (30 participants) (32 participants)
+5 3 4 7 7
+Headache
+(14.7%) (9.7%) (12.5%) (23.3%) (21.9%)
+2 1 1 0 0
+COPD
+(5.9%) (3.2%) (3.1%) (0.0%) (0.0%)
+1 1 2 1 1
+Common cold
+(2.9%) (3.2%) (6.3%) (3.3%) (3.1%)
+How did AZD8871 affect the body?
+Researchers wanted to learn how AZD8871 affected the body. Researchers measured participants’
+breathing to find out if their breathing improved during the study.
+Part A
+Overall, researchers found that:
+• In Part A, participants who got higher doses of AZD8871 had improved breathing.
+• In Part A, participants’ breathing improved quickly and stayed improved for up to
+36 hours when they got AZD8871.
+• In Part A, participants’ breathing improved more when they got the 200ug dose or higher
+doses of AZD8871 compared to the placebo.
+6

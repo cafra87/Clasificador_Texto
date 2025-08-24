@@ -1,0 +1,28 @@
+Clinical Study Results
+What kind of study was this?
+This was an “open-label” study. This means the study doctors and the participant knew what the
+participant was getting.
+In this study, the participants got their treatment during periods called “cycles.” The participants
+could take part in as many cycles as they wanted unless their cancer got worse. If their cancer
+got worse, the participants stopped the treatment cycles. If the study treatment was helping the
+participants’ cancer at the end of the study, the participants could choose to continue treatment.
+There were 3 treatment groups during the study: Group 1, Group 2, and Group 3. The treatments
+are listed below:
+• Group 1 - durvalumab alone
+• Group 2 - durvalumab and tremelimumab
+• Group 3 - SOC treatment
+The study doctors chose the SOC treatment that the participants got. In this study, the doctors
+used different combinations of cancer drugs for the SOC treatment. These cancer drugs are
+listed below
+• paclitaxel
+• carboplatin
+• gemcitabine
+• cisplatin
+• pemetrexed
+Durvalumab, tremelimumab, and the SOC treatment were given through a needle into the vein.
+This is known as intravenous infusion, also called IV infusion. The doses were measured in
+milligrams per kilograms of body weight, also called mg/kg.
+A computer program was used to randomly choose the treatment that each participant got. This
+helps make sure the groups are chosen fairly. Researchers do this so that comparing the results
+of each treatment is as accurate as possible.
+3

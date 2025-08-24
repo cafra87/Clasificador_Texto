@@ -1,0 +1,9 @@
+Target of rapamycin inhibitors (TOR‐I; sirolimus and everolimus) for primary immunosuppression in kidney transplant recipients 
+What is the issue? 
+Kidney transplantation is the treatment of choice for many patients with end‐stage kidney disease. However, some kidney transplants do not work for long periods so it is important to find ways to improve long‐term transplant function by choosing the best therapies to maintain kidney function and keep transplant recipients healthy with minimal side effects. 
+What did we do? 
+We reviewed 70 studies, with 17,462 randomised participants, which compared TOR‐1 (everolimus or sirolimus) with other agents for initial immunosuppressive therapy for kidney transplant recipients. 
+What did we find? 
+We found that everolimus or sirolimus combined with cyclosporin or tacrolimus prevented kidney transplant failure and rejection as effectively as mycophenolate (an antimetabolite) with cyclosporin or tacrolimus in studies with follow‐up from six months to three years. The risk for viral infections (CMV and BK) was lower with TOR‐I. However, wound complications were more common with TOR‐I and more people had to stop TOR‐I and change to other immunosuppressive medications. 
+Conclusions 
+Although the results indicate that TOR‐I were effective in preventing transplant failure and rejection in the short term, studies do not follow‐up participants beyond six months to three years. Therefore, we do not need further studies but we do need much longer periods of follow‐up of participants in existing studies to determine how useful these medications are for maintaining kidney transplant function in the longer term. 

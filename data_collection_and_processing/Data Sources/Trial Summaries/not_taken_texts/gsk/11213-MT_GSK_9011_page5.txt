@@ -1,0 +1,23 @@
+Page 5 of 10
+How was the study done?
+This was a double-blind study which means neither participants nor study doctors knew
+who was receiving which study medicine.
+At the start of the study, participants were randomised into one of the treatment groups as
+shown in the study design figure below. Participants were divided in a way that each
+treatment group had similar numbers of participants with PD-L1 highly positive and low
+positive cancers. This allowed a similar mix of participants within each treatment group.
+However, GSK decided to stop feladilimab treatment in April 2021 based on an early look at
+the data while the study was ongoing.
+What were the main results of the study?
+Study doctors assessed each participants’ cancer using physical examinations, scans, and
+blood tests.
+How long did the participants live after randomisation to treatment?
+Overall survival (OS) is measured from the time of randomisation to treatment until
+participants’ death.
+The median OS was calculated in weeks for all participants and PD-L1 highly positive
+participants. This was calculated at the time of data cut-off, 17 months after starting the
+study. Median is the number in the middle of the ordered list, with equal values above and
+below this number.
+All participants:
+The results were available for 157 participants in the feladilimab + pembrolizumab group
+and 156 participants in the placebo + pembrolizumab group.

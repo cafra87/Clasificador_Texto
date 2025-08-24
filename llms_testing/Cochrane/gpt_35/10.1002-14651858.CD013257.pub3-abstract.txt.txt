@@ -1,0 +1,11 @@
+Plain Title: Immune Checkpoint Inhibitors for Advanced Lung Cancer: Benefits and Safety
+
+Rationale: Immune checkpoint inhibitors (ICIs) have revolutionized the first-line treatment for advanced non-small cell lung cancer (NSCLC). These medications, such as pembrolizumab and atezolizumab, target specific immune system proteins to help the body fight cancer. This study aimed to determine the effectiveness and safety of ICIs compared to traditional chemotherapy for people with advanced NSCLC, based on the level of a specific protein called PD-L1.
+
+Trial Design: The study included a comprehensive search of various medical databases and conferences. Researchers analyzed randomized controlled trials involving adults with advanced NSCLC who had not received any previous cancer treatment. The trials compared ICIs alone or in combination with chemotherapy to standard first-line therapy. The outcomes assessed included overall survival, progression-free survival, objective response rate, adverse events, and quality of life.
+
+Results: The analysis included 15 trials involving over 5,800 participants. In patients with PD-L1 expression ≥ 50%, single-agent ICIs were found to improve overall survival, progression-free survival, and objective response rate compared to chemotherapy. These patients also experienced fewer severe treatment-related adverse events and potentially had a better quality of life. However, the effect of double-agent ICIs on progression-free survival, objective response rate, and quality of life is not known due to limited data.
+
+Overall, this study concluded that for patients with PD-L1 expression ≥ 50%, single-agent ICIs are likely to provide better overall survival rates and potentially improved quality of life compared to chemotherapy. The use of double-agent ICIs may also improve overall survival rates. However, more research is needed to fully understand the benefits and safety of double-agent ICIs. Adverse events were generally similar between groups.
+
+This study provides valuable evidence for the use of ICIs as first-line treatments for advanced NSCLC, and it highlights the importance of PD-L1 expression in decision making. Future research should focus on exploring ICIs in combination with other therapies and their effectiveness in patients with different PD-L1 levels.

@@ -1,0 +1,9 @@
+Plain Title: Effectiveness of Surgery for Advanced Ovarian Cancer
+
+Rationale: Ovarian cancer is a common cancer in women and surgery is an important part of treatment. The goal of surgery is to remove as much of the tumor as possible. The amount of tumor left after surgery can affect a woman's chance of survival. We wanted to find out if removing smaller amounts of tumor during surgery leads to better outcomes for women with advanced ovarian cancer.
+
+Trial Design: We looked at studies that included women with advanced ovarian cancer who had surgery to remove the tumor. We wanted to see if removing smaller amounts of tumor during surgery improved overall survival. We searched for studies that were published before August 2010.
+
+Results: We found 11 studies that met our criteria. These studies showed that removing all visible tumor during surgery improved survival. Women who had no visible tumor left after surgery had longer overall survival and longer time before the cancer came back. When we compared removing smaller amounts of tumor (up to 2 cm) to larger amounts, the results were not as clear. There was a small difference in overall survival and time before the cancer came back, but it was not statistically significant. It is important to note that these studies had some limitations and biases.
+
+Conclusions: Based on our review, it is important for surgeons to try to remove as much tumor as possible during surgery for advanced ovarian cancer. Even removing smaller amounts of tumor can improve outcomes. However, more research is needed to determine if it is the surgery itself or other factors that contribute to better survival. We suggest using the term "near optimal" instead of "suboptimal" for cases where less than 1 cm of tumor is left after surgery.

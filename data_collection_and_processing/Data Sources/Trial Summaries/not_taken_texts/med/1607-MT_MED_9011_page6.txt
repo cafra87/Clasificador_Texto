@@ -1,0 +1,28 @@
+Clinical Trial RESULTS
+What medical problems did participants have?
+A lot of research is needed to know whether a drug causes a medical problem. So,
+when new drugs are being studied, researchers keep track of all medical problems that
+participants have during the study. These medical problems are called “adverse events”.
+They may or may not be caused by the study drug.
+Out of the 87 participants in the study, researchers had information about medical
+problems from 86 participants. The missing information was because one participant
+was assigned to take 10 mg of ticagrelor but did not have at least four days of pain
+during the first four weeks when everyone took the placebo.
+How many participants had medical problems in the study?
+About the same number of participants in each treatment group had medical problems
+in the study. One participant in the 45 mg ticagrelor group and one participant in the
+placebo group stopped taking the study drug because of medical problems. The table
+below shows how many participants in each treatment group had medical problems.
+10 mg of Ticagrelor 45 mg of Ticagrelor Placebo
+(Out of 26 (Out of 30 (Out of 30
+participants) participants) participants)
+How many participants had
+19 (73.1%) 21 (70.0%) 20 (66.7%)
+medical problems?
+How many participants had
+6 (23.1%) 5 (16.7%) 6 (20.0%)
+serious medical problems?
+How many participants
+stopped taking the study drug 0 (0.0%) 1 (3.3%) 1 (3.3%)
+because of medical problems?
+6

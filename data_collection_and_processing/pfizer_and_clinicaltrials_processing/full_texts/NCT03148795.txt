@@ -1,0 +1,181 @@
+Clinical Study Results
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer Inc. 
+Medicine(s) Studied: Talzenna ( PF-06944076)
+Protocol Number: C3441006 (MDV3800 -06)
+Dates of Study: 04 July 2017 to 02 September 2022
+Title of this Study: A Study of Talazoparib in Men With Metastatic 
+Castration -Resistant Prostate Cancer and DNA Repair 
+Defects
+[TALAPRO -1: A Phase 2, Open -Label, Response Rate 
+Study of Talazoparib in Men With D NARepair 
+Defects and Metastatic Castration -Resistant Prostate 
+Cancer Who Previously Received Taxane -Based 
+Chemotherapy and Progressed on at Least 1 Novel 
+Hormonal Agent (Enzalutamide and/or Abiraterone 
+Acetate/Prednisone) ]
+Date(s) of this Report: 05 Septem ber2022
+–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation. This summary will describe the study results.  If you have any questions about the study 
+or the results, please contact the doctor or staff at your study site.Why was this study done?
+What is metastatic castration -resistant prostate cancer ?
+Prostate cancer is the name for cancer that starts in the prostate, which is a small, 
+walnut -sized gland that lies at the base of the bla dder in men and is part of the male 
+reproductive system .  Prostate cancer is a common cancer in men, and it is often a 
+slow-growing cancer with few symptoms.
+“Metastatic” means that the cancer has spread to a part of the body beyond the 
+prostate.  In earlier stages of the d isease, male hormones, or “androgens”, are usually 
+stimulating prostate cancer cells to grow. “Castration -resistant” means that the 
+prostate cancer continued to worsen despite receiving treatment that reduces 
+androgen production fro m the testis.
+What is talazoparib ?
+Talazoparib (Talzenna®) is known as a PARP inhibitor.  PARP inhibitors are drugs 
+that stop the normal activity of certain proteins called “Poly (ADP -ribose) 
+polymerases”, also called “PARPs”.  PARPs are proteins that are found in all normal 
+and cancer cells, and that are involved in the repair of DNA.  PARPs are needed to 
+repair mistakes that ca n happen in DNA when cells divide.  If the mistakes are not 
+repaired, the cell will usually die and be replaced.  Cells with mistakes in their DNA 
+that do not die can become cancer cells.  This is known as a “DNA -repair defect”.   
+PARP inhibitors selective ly kill specific cancer cells through a mechanism called 
+“synthetic lethality ”, in which loss of function in 2 genes together causes cell death, 
+but a loss of function in either gene alone would not.  Clinical trials have shown that 
+the use of talazoparib, as well as other PARP inhibitors, may reduce tumor size and 
+slow tumor growth in some men with prostate cancer.  Talazoparib is given in a 
+capsule and is taken by mouth once daily at around the same time every day.What was the purpose of this study?
+The main purposes of this study were to learn more about the safety and about the 
+possible effectiveness o f talazoparib in men with metastatic castration -resistant 
+prostate cancer and DNA -repair defects .
+Researchers wanted to know:
+How many participants ha d a partial or complete response to 
+talazoparib treatment?
+What medical problems did participants have or report during the 
+study ? 
+What happened during the study? 
+How was the study done?
+Researchers studied a group of participants to learn more about the safety and the 
+possible effectiveness of talazoparib in men with metastatic castration -resistant 
+prostate cancer and DNA -repair defects.
+Participants included in the study :
+Were examined by a study doctor and determined to be appropriate to 
+participate 
+Were adult men
+Had a recent biopsy of their prostate cancer
+Had confirmed prostate cancer with a DNA -repair defect (mistake in DNA)Were currently either receiving drugs or had their testes removed with the aim 
+to reduce androgen in the body . This strategy is called ADT (androgen 
+deprivation therapy)
+Had prostate cancer that was metastatic and was progressive (getting worse)
+Had previously been treated with 1 or 2 differe nt chemotherapy regimens 
+First, a study doctor checked each potential participant to make sure they were 
+appropriate to join the study.  This isknown as the screening period.  Most 
+participants received 1 milligram (mg) talazoparib once a day (participants with 
+moderate kidney disease received 0.75 mg talazoparib once a day) , and could continue 
+receiving talazoparib until their cancer worsened , they had unacceptable medical 
+problems, they chose to stop taking talazoparib, they passed away , or they were no 
+longer benefitting from talazoparib .  Participants also continued to take ADT
+throughout the study.  This was an open -label study, which means that the 
+participants, researchers, and study doctors knew which treatment the participants
+received .
+Participants were expected to attend visits at the study center every 2 weeks for the 
+first 8 weeks (through Week 9), then every 4 weeks through Week 25, and every 
+12weeks thereafter.   They had imaging tests done at some of these visits, to see if 
+their prostate cancer was growing or shrinking .  Participants were also expected to 
+attend an end -of-treatment visit about 4 weeks after their last dose of talazoparib, plus 
+safety follow -up visits every 8 to 12 weeks until the study ended .
+The figure belo w shows what happened during the study.Where did this study take place? 
+Participants were recruited from 43 hospitals, cancer centers, and medical centers in 
+Australia, Austria, Belgium, Brazil, France, Germany, Hungary, Italy, the Netherlands, 
+Poland , Spain, South Korea, the U nited Kingdom , and the U nited States .
+When did this study take place?
+It began 04 July 2017 and is scheduled to end 02 September 2022 .  The Sponsor 
+review edthe information collected andcreated a report of the results.  This is a 
+summary of that report.
+Who participated in this study?
+A total of 128men joined this study , and 127 men received study treatment .All 
+participants were between the ages of 46 and 84 years .
+Of the 127participants who received study treatment , 97(76%) completed treatment.  
+At the time th e Sponsor reviewed the information collected , 30participants were still 
+receiving study treatment.  
+What were the results of the study?
+How many participants had a partial or complete response to 
+talazoparib treat ment?
+A total of 31 out of 104 (30%) participants responded to talazoparib treatment, with 
+24 (23%) participants achieving a partial response and 7 (7%) participants achieving 
+a complete response.  Partial response means that the participant had at least a
+30% reduction in tumor size.  Complete response means that the participant’s 
+cancer tumors disappeared completely.
+This does not mean that everyone in this study had these results.  This is a summary 
+of just some of the main results of this study.  Other studies may have different 
+results.
+What medical problems did participants have or 
+report during the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease, such as their prostate cancer, or by chan ce).  
+Or, medical problems could also have been caused by the study treatment or by 
+another medicine the participant was taking.  Sometimes the cause of a medical 
+problem is unknown.  By co llating medical problems across many treatment groups in 
+many studi es, doctors try to understand what effects a study medication might have 
+on a participant.
+Of the 127 participants who received study treatment, 121 (95%) participants 
+reported at least 1 medical problem during their treatment in the study.   A total of 
+15(12%) participants stopped taking study treatment because of medical problems.  The table below shows the most common medical problems —those occurring in at 
+least 20% of participants —that happened during the study.
+Below are instructions on how to read Tables 1 and 2. 
+Instructions for Understanding Tables 1 and 2. 
+The 1stcolumn of Table 1 lists medical problems that were commonly reported 
+during the study.  All medical problems reported by at least 20% of participants are 
+listed.
+The 2ndcolumn tells how many of the 127 participants treated with talazoparib 
+reported each medical problem.  Next to this number is the percentage of the 
+127participants treated with talazoparib who reported the medical problem. 
+Using these instructions, yo u can see that 62 out of 127 (49%) participants had low 
+number of red blood cells.Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  A total of 43out of 127(34%) participants reported 
+at least 1 serious medical problem during their treatment in the study , and 11 out of 
+127 (9%) participants reported at least 1 serious medical problem during their 
+treatment in the study that wasconsidered to be related to study treatment.  The table 
+below shows the most common serious medical problems —those occurring in at least 
+2% of participants —that happened during the study.Table 1. Commonly reported medical problems by study participants 
+Medical Problem Talazoparib
+(127Participants)
+Low number of red blood cells 62out of 127participants
+(49%)
+Nausea 42out of 127participants
+(33%)
+Decreased appetite 36out of 127participants
+(28%)
+Feeling weak 30out of 127participants
+(24%)A total of 69 out of 127 (54%) participants who received study treatment died during 
+this study.  Most of t hese deaths were due to worsening cancer ,and none of the 
+deaths were considered to be related to study treatment .
+Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+www.clinicaltrials.gov Use the study identifier NCT03 148795
+www.clinicaltrialsregister.eu Use the study identifier 2016-002036 -32
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients .Table 2. Commonly reported serious medical problems by study 
+participants 
+Serious Medical Problem Talazoparib
+(127Participants)
+Blood clot in lung 8out of 127participants
+(6%)
+Low number of red blood cells 5out of 127participants
+(4%)
+Worsening prostate cancer 4out of 127participants
+(3%)
+Pneumonia (lung infection) 3out of 127participants
+(2%)
+Urinary tract infection 3out of 127participants
+(2%)Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you helped 
+us to do that !

@@ -1,0 +1,30 @@
+Page 5 of 12
+Where was this study done?
+Study sites were in 23 countries.
+Number of participants who received at least one
+dose of the study medicine
+Argentina 38
+Australia 4
+Belgium 3
+Brazil 64
+Canada 8
+Chile 11
+Colombia 1
+France 15
+Germany 10
+Greece 4
+Ireland 1
+Italy 23
+Mexico 15
+Peru 5
+Poland 1
+Portugal 5
+Puerto Rico 5
+Romania 9
+South Africa 5
+Spain 6
+Taiwan 1
+United Kingdom 1
+United States 136
+0 50 100 150
+Number of participants

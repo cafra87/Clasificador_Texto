@@ -1,0 +1,14 @@
+Plain Title:
+Effects of Vitamin D Supplementation on Pregnancy and Newborn Health Outcomes
+
+Rationale:
+Vitamin D deficiency during pregnancy can lead to serious complications such as pre-eclampsia, gestational diabetes, preterm birth, and low birthweight. In a previous study, we found that supplementing pregnant women with vitamin D can reduce the risk of these complications, but the effects of different vitamin D regimens are still not clear. This study aims to determine the effects and safety of different doses and combinations of vitamin D supplementation during pregnancy.
+
+Trial Design:
+This study involves randomized trials with pregnant women to assess the effects of various regimens of vitamin D supplementation. The trials will compare different doses of vitamin D alone or in combination with calcium or other nutrients. The study will also consider the timing and duration of the supplementation. The participants will be women who are pregnant and at risk of vitamin D deficiency. The study will last for a certain period of time to observe the effects on both the mother and the newborn.
+
+Results:
+Our review included data from 30 trials involving 7289 women. The results showed that supplementation with higher doses of vitamin D may reduce the risk of gestational diabetes during pregnancy. However, it may not have a significant effect on the risk of pre-eclampsia, preterm birth, and low birthweight. The study also found that higher doses of vitamin D did not increase the risk of these complications. Adverse events related to vitamin D supplementation were generally not reported or were similar between groups, indicating that it is a safe intervention during pregnancy.
+
+Conclusion:
+Supplementing pregnant women with higher doses of vitamin D may help in reducing the risk of gestational diabetes. However, it may not have a significant impact on the risk of pre-eclampsia, preterm birth, and low birthweight. It was also found that higher doses of vitamin D did not pose any increased risk. The certainty of these findings is considered low due to limitations in the research. Future trials should provide consistent reporting of adverse events to improve the understanding of the safety of vitamin D supplementation during pregnancy. Further research is underway to expand our knowledge in this area.

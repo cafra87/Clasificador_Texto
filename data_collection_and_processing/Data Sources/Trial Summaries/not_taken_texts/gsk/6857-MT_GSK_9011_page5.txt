@@ -1,0 +1,17 @@
+A total of 271 patients received at least one dose of study medicine. The table below
+shows the gender and age of these patients.
+Patients who received at least one dose of study medicine
+Daprodustat Darbepoetin alfa
+136 patients 135 patients
+Gender
+Female 45 (33%) 46 (34%)
+Male 91 (67%) 89 (66%)
+Age - in years
+Range 34 to 87 34 to 89
+Average 64 64
+What were the overall results of the study?
+Study doctors collected blood samples from all patients. They measured each patient’s
+Hgb level on Day 1 and every four weeks during the study.
+The main focus of the study was to see whether daprodustat is similar to darbepoetin
+alfa in maintaining Hgb levels between Week 40 to Week 52. All patients’ Hgb levels at
+Weeks 40, 44, 48, and 52 were combined and averaged.

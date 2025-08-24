@@ -1,0 +1,37 @@
+Non-small cell lung cancer (NSCLC) is the most common type of lung cancer.  In 
+some patients with NSCLC, the patient’s liver may not work properly.  Doctors often 
+describe this as “hepatic impairment”.  Hepatic is a Latin word for things that are 
+related to the liver and impairment means something that is not working properly.  
+The liver is a large organ in the body that has many different jobs including cleaning 
+the blood and making different proteins and chemicals, as well as acting as a store for 
+other chemicals and energy.  If the liver is not working properly, it can mean a patient 
+is not able to take certain types of drugs.  This is because the drug could build up in 
+the body and cause medical problems or that not enough drug is able to get into the 
+blood to treat the patient’s disease.  
+Dacomitinib (Vizimpro®) is a medicine that has been approved in the United States, 
+Japan and the European Union as treatment for patients with a certain type of 
+advanced NSCLC that is known as epithelial growth factor receptor positive 
+(EGFR+).  Advanced NSCLC means the lung cancer has spread to other parts of the 
+body.  EGFR+ means the tumor has a mutation (or change) in the gene that makes 
+EGFR proteins.  These are proteins on the surface of cells that can stimulate cancer 
+cells to grow and multiply.  Dacomitinib works by blocking the activity of a group of 
+proteins called the human epidermal growth factor receptor (HER) family that 
+including EGFR (also known as HER1, HER2, and HER4) in patients who are 
+EGFR+.  By blocking the activity of these proteins dacomitinib may be able to help 
+limit the growth and spread of cancer cells.  Dacomitinib is given as a tablet once a 
+day to be taken by mouth. 
+The researchers wanted to know what could happen to dacomitinib in the blood of 
+participants with severe hepatic impairment (e.g., a liver that is hardly working).  They 
+also wanted to know if severe hepatic impairment altered how quickly dacomitinib got 
+into the blood and if the amount of drug in the blood changed.   
+   
+ 3To answer this question, the researchers collected blood samples over several days 
+from participants with severe hepatic impairment and from participants with no 
+hepatic impairment (e.g., livers that were working properly).  The researchers then 
+measured the amount of dacomitinib in the samples to see if it was different in 
+participants with severe hepatic impairment compared to participants with properly 
+working livers.  As food can change how long it takes a drug to reach the blood, this 
+study looked at what happened to dacomitinib in the blood of participants who had 
+not eaten for at least 10 hours.  By doing this, the researchers knew that the food the 
+participant had eaten previously was unlikely to change how much dacomitinib got 
+into the blood and how quickly this happened.

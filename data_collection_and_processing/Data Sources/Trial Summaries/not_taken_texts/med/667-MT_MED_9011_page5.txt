@@ -1,0 +1,30 @@
+What happened during this study?
+The study started in December 2016 and ended in December 2020. This summary
+includes the study results as of August 2019.
+Before the participants took study treatment, the study doctors did genetic
+tests on their blood samples and tumor samples. This was done to find out if
+the participants had mutations in common cancer genes called “BRCA1” and
+“BRCA2”. The BRCA mutations that were found in the blood samples could be
+inherited mutations, also called “germline” mutations. Or they could be mutations
+in their tumor cells, also called “somatic” mutations or “acquired” mutations.
+The study doctors also tested the tumor samples to see if the cancer cells had
+gene mutations that make it difficult for the cells to repair themselves when they
+are damaged. This reduced ability is also called homologous recombination
+deficiency also known as “HRD”.
+Based on the results of these tests, the participants were placed into 1 of the
+following 5 groups:
+X Group 1: Participants with an inherited mutation in their BRCA1 or BRCA2
+genes
+X Group 2: Participants with an acquired mutation in their tumor BRCA1 or
+BRCA2 genes, and normal inherited BRCA1 and BRCA2 genes
+X Group 3: Participants with tumor-cell HRD and normal BRCA1 and BRCA2
+genes
+X Group 4: Participants without tumor-cell HRD and with normal BRCA1
+and BRCA2 genes
+X Group 5: Participants with missing or unavailable information on their
+tumor-cell HRD and/or BRCA gene mutations
+The participants were in the study until one of the following happened:
+X the participant chose to stop taking part
+X the participant died
+X the study team could not contact the participant
+5 | Clinical Study Results

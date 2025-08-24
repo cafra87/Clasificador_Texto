@@ -1,0 +1,27 @@
+ACQ-6
+The participants received scores from 0 to 6 on each question based on their
+responses to the ACQ-6. Then, the researchers calculated average scores. A high
+average score meant that the participant’s asthma was not well controlled. A low
+average score meant that the participant’s asthma was well controlled.
+The researchers compared the average scores before treatment to after 48 weeks
+of treatment. They compared the results for the participants who got tezepelumab
+to those who got the placebo. A decrease in average score meant that the
+participants felt that study treatment helped control their asthma.
+Overall, the researchers found that the change in average ACQ-6 scores was:
+> a decrease of 0.87 for the participants who got tezepelumab
+> a decrease of 0.51 for the participants who got the placebo
+EQ-5D-5L
+In the EQ-5D-5L questionnaire, participants reported their health in a visual
+way. They marked a point on a line between ‘The best health you can imagine’
+and ‘The worst health you can imagine’, also called a visual analogue scale. The
+placement of each point was turned into a score. The higher the score, the better
+the participant felt about their quality of life.
+The researchers compared the average EQ-5D-5L visual analogue scale scores
+before treatment to after 48 weeks of treatment. They compared the results for
+the participants who got tezepelumab to those who got the placebo. An increase
+in average EQ-5D-5L visual analogue scale score meant that the participants felt
+that the study treatment helped their quality of life.
+Overall, the researchers found that the change in average EQ-5D-5L score was:
+> an increase of 9.21 for the participants who got tezepelumab
+> an increase of 2.00 for the participants who got the placebo
+10 | Clinical Study Results

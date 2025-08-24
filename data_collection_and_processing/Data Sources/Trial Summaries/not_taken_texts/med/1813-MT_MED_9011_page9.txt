@@ -1,0 +1,29 @@
+Clinical Study Results
+How many participants had adverse reactions?
+A higher percentage of participants in Part A had adverse reactions compared to
+participants in Part B.
+A higher percentage of participants in Part A had serious adverse reactions compared
+to participants in Part B.
+None of the participants in Part A stopped treatment because of adverse reactions they
+had during the study. Some of the participants in Part B stopped treatment because of
+adverse reactions they had during the study.
+The table below shows how many participants had adverse reactions during the study.
+Adverse reactions during the study
+Part A 200 mg Part A 175 mg Part B 175 mg
+AZD1775 AZD1775 AZD1775 Total
+(out of 7 (out of 5 (out of 80 (out of 92
+participants) participants) participants) participants)
+How many participants
+had adverse reactions 100.0% (7) 80.0% (4) 83.8% (67) 84.8% (78)
+during the study?
+How many participants
+had serious adverse
+14.3% (1) 20.0% (1) 10.0% (8) 10.9% (10)
+reactions during the
+study?
+How many participants
+stopped treatment
+0.0% (0) 0.0% (0) 3.8% (3) 3.3% (3)
+because of adverse
+reactions?
+9

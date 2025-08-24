@@ -1,0 +1,23 @@
+To answer this question, the researchers kept track of the participants’ symptoms
+and how they felt by asking them to complete a questionnaire called Functional
+Assessment of Cancer Therapy – Bladder, also known as FACT-BL. The
+researchers gave the participants “scores” based on their answers to the FACT-BL
+questionnaire. They compared the scores throughout the study. A bigger change
+in FACT-BL score meant that the participants’ symptoms were more severe. The
+scores were measured in points.
+The researchers found that the participants’ FACT-BL scores changed by an
+average of:
+> 4.7 points in the participants getting MEDI4736 alone
+> 7.2 points in the participants getting MEDI4736 with tremelimumab
+> 8.8 points in the participants getting chemotherapy
+The study doctors also used some of the participants’ answers from the FACT-BL
+questionnaire to get a score called FACT-BL Trial Outcome Index, also known as
+FACT-BL TOI. A bigger change in FACT-BL TOI score meant that the participants’
+symptoms were more severe. The researchers compared the scores throughout
+the study.
+The researchers found that the participants’ FACT-BL TOI scores changed by an
+average of:
+> 3.9 points in the participants getting MEDI4736 alone
+> 5.5 points in the participants getting MEDI4736 with tremelimumab
+> 7.2 points in the participants getting chemotherapy
+11 | Clinical Study Results

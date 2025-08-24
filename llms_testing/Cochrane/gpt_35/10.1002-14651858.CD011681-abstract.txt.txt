@@ -1,0 +1,15 @@
+Plain Title: Effectiveness of Antidepressants for Preventing Tension-Type Headaches
+
+Rationale:
+Tension-type headaches are a very common condition that can cause a lot of pain and have a negative impact on people's lives. This study looked at whether certain medications called selective serotonin re-uptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) can prevent tension-type headaches. These medications work by affecting certain chemicals in the brain that may be involved in causing pain. It is important to study these medications because they have the potential to help people with tension-type headaches.
+
+Trial Design:
+The study involved adults who had tension-type headaches and compared the use of SSRIs or SNRIs with other treatments or with a placebo (a substance with no active ingredients). The study lasted for two to four months.
+
+Results:
+The study included a total of 412 participants with chronic tension-type headaches. The results showed that there was no significant difference in headache frequency between the group taking SSRIs or SNRIs and the group taking a placebo or another medication called amitriptyline. However, the use of SSRIs did reduce the need for other pain medications during headache attacks compared to a placebo. Amitriptyline was found to be more effective in reducing pain medication use than SSRIs.
+
+The study found no differences in headache duration and intensity between the groups. The use of SSRIs and SNRIs was generally well-tolerated, with no significant difference in the number of participants who had to stop taking the medication due to side effects compared to other medications.
+
+Conclusion:
+Based on the evidence from this study, the use of SSRIs or SNRIs as preventive medications for chronic tension-type headaches is not supported. These medications did not show a significant impact on reducing headache frequency compared to a placebo or amitriptyline. However, SSRIs did reduce the need for other pain medications during headache attacks. It is important to note that this study only looked at a short-term treatment period, and more research is needed to determine the long-term effects of these medications on tension-type headaches.

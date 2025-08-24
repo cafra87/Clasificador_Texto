@@ -1,0 +1,264 @@
+1CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Abrocitinib (PF -04965842)
+Protocol Number: B7451013
+Dates of Trial: 29 June 2018 to 13 August 2019 
+Title of this Trial: Study to Measure the Efficacy and Safety of Abrocitinib 
+(PF-04965842) in Subjects Aged 12 Years And Older, With 
+Moderate to Severe Atopic Dermatitis 
+[A Phase 3 Randomized, Double -Blind, Placebo -Controlled, 
+Parallel Group, Multi -Center Study to Evaluate the Efficacy 
+and Safety of PF -04965842 Monotherapy in Subjects Aged 
+12Years and Older, With Moderate to Severe Atopic 
+Dermatitis] 
+Date of this Report: 02 March 2020 
+–Thank You –
+Pfizer, the Sponsor, would like to thank you and/or your child for participation in this 
+clinical trial and provide you a summary of results representing everyone who 
+participated.  If you have any questions about the study or results, please con tact the 
+doctor or staff at your study site.
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+2WHY WAS THIS STUDY DONE?
+Atopic dermatitis (or “AD”), which is also sometimes called atopic eczema, is a 
+common skin disorder that causes patches of flaky, red, and very itchy skin.  AD 
+occurs in 1% to 3% of adults and 15% to 20% of children worldwide.  Some of the 
+current medicines available for AD can only be used for short time periods, or can 
+cause other health problems.  Researchers are looking for new treatments for AD that 
+can be taken for long periods of time.
+While researchers think that many things cause AD, it is made worse by the body’s 
+immune system (the body’s defense against infection) causing redness and swelling 
+(inflammation).  Cells in the immune system cause inflammation by making special 
+proteins called “cytokines”.  Researchers think that medicines that lower the amount 
+of cytokines that the body makes could help treat patients with AD. 
+The drug tested in this study was PF -04965842, which now has the generic name 
+abrocitinib.  Abrocitinib is an experimental drug that has not been approved for sale.  
+Abrocitinib blocks the activity of a protein called “Janus kinase 1”, which acts like a 
+switch for the cells of the immune system.  By turning off this switch, the cells of the 
+immune system are expected to produce fewer cytokines that are believed to make 
+AD worse.  The researchers wanted to ask,
+• Are patients who take abrocitinib more likely to have their AD 
+improve compared to patients who are treated with a placebo?  
+To do this, researchers u sed 2 tests to measure the severity of each patient’s AD at the 
+beginning of the study.  The researchers measured the severity of AD during 12 weeks 
+of study treatment.  The difference in severity was used to decide if a patient’s AD 
+had improved or not.
+WHAT HAPPENED DURING THE STUDY?
+This study compared 3 groups of patients to find out if patients taking abrocitinib had 
+their AD improved compared to patients taking placebo.  A placebo does not have 
+any medicine in it, but looks just like the medicine. 
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+3The study included adult men and women, and adolescents who were aged 12 years 
+and older.  Patients included in the study:
+Had chronic (long -term) AD for at least 1 year, and had moderate to severe 
+AD when they entered the study.
+Also had one of the followin g: 
+oHad been treated up to 6 months earlier for AD with medicines 
+applied to the skin, and their AD did not get better;
+oWere unable to use medicines on the skin because of a medical 
+problem;
+oNeeded to use medicines that reach all parts of the body to contr ol 
+their AD (for example, taking medicines by mouth).
+The patients and researchers did not know who took abrocitinib and who took the 
+placebo.  This is known as a “double -blinded” study.  This is done to make sure the 
+results of the research study cannot b e unfairly influenced by anyone .  Patients were 
+assigned to 1 of 3 treatment groups by chance alone (like the flip of a coin or drawing 
+straws) to receive either abrocitinib at a dose of 100 mg, abrocitinib at a dose of 200 mg, 
+or placebo.  Patients had an 80% (4 out of 5) chance of receiving abrocitinib and a 
+20% (1 out of 5) chance of receiving placebo.   This is known as a “randomized” study.  
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+4This study used 2 different tests to measure the severity of the patients’ AD at the 
+beginning of the study an d throughout 12 weeks of treatment.  The first test is called 
+the Investigators Global Assessment scale and measures the severity of AD on a 
+5-point scale (0 being the best and 4 being the worst).  The second test is called the 
+Eczema Area and Severity Ind ex, and measures how severe a patient’s AD is based on 
+4different signs, as well as the amount of skin affected by AD.  The difference in 
+each patient’s score between the start of the study and after 12 weeks of treatment 
+was used to decide if their AD ha d improved.
+While patients were only in the study for 12 weeks, the entire study took 14 months to 
+complete.  The sponsor ran this study at 106 locations in 13 countries in the United 
+States, Poland, Republic of Korea, Japan, Australia, Bulgaria, Canada, Germany, 
+United Kingdom, China, Latvia, Hungary, and Czech Republic .  It began 
+29June 2018 and ended 13 August 2019.  A total of 229 men or boys and 162 women 
+or girls participated.  All patients were 12 years of age or older.  The average age of 
+patients in this study was 31 years.  Approximately 10% of the patients were between 
+the older than 12 and younger than 18 years of age. 
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+5Patients were to be treated until the end of the 12 -week treatment period.  Of the 
+391patients who started the study, 52 out of 78 patients (67%) that received placebo 
+finished the study, 137 out of 158 patients (87%) that received 100 mg abrocitinib 
+finished the study, and 141 out of 155 patients (91%) that received 200 mg abrocitinib 
+finished the study.  Some patients did not finish the study because 26out of 
+78patients (33%) on placebo, 21 out of 158 patients (13%) on 100 mg abrocitinib, 
+and 14 out of 155 patients (9%) on 200 mg abrocitinib left before the study was over 
+by their choice or a doctor decided it was best for a patient to stop the study.
+When the study ended in August 2019, the Sponsor began reviewing the information 
+collected.  The sponsor then created a report of the results.  This is a summary of that 
+report. 
+WHAT WERE THE RESULTS OF THE STUDY?
+Were patients who took abrocitinib more likely to have their 
+AD improve compared to patients who took placebo?
+In this study, more patients in the abrocitinib 100 mg or 200 mg treatment groups had 
+their AD improve compared to the placebo group.  
+When the change in sev erity of AD was measured using the Investigator’s Global 
+Assessment scale, 44 out of 155 evaluated patients (28%) in the abrocitinib 100 mg 
+treatment group and 59 out of 155 patients (38%) in the abrocitinib 200 mg treatment 
+group had their AD improve to ‘ clear’ or ‘almost clear’ (score of 0 or 1) and had an 
+improvement of 2 points or more in their AD after 12 weeks.  In comparison, 7 out 
+of 77 patients (9%) in the placebo group had their AD improve to ‘clear’ or ‘almost 
+clear’ after 12 weeks.  
+When the ch ange in severity of AD was measured using the Eczema Area and 
+Severity Index, 69 out of 155 patients (45%) in the abrocitinib 100 mg treatment 
+group and 94 out of 154 patients (61%) in the abrocitinib 200 mg treatment group 
+had their AD improve by at least 75% after 12 weeks.  In comparison, 8 out of 
+77patients (10%) in the placebo group had their AD improve by at least 75% after 
+12weeks.  
+These results are also shown in the graphs below.
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+6Based on these results, the researchers determined that the re sults are not likely due to 
+chance.  Abrocitinib may be an option for treating AD in adults and in children aged 
+12years and older.
+This does not mean that everyone in this study had these results.  Other studies may 
+produce different results, as well.  T hese are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this 
+summary.  
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+7WHAT MEDICAL PROBLEMS DID PATIENTS 
+HAVE DURING THE STUDY?
+The researchers recorded any medical problems the participants had during the study. 
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment, or by another medicine the participant 
+was taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be .
+All 391 patients in this study had at least 1 medical problem.  A total of 10 out of 
+78patients (13%) who took placebo, 6 out of 158 patients (4%) who took abrocitinib 
+100mg, and 5 out of 155 patients (3%) who took abrocitinib 200 mg left the study 
+because of medical problems.  The most common medical problems are listed below. 
+Most Common Medical Problems
+(Reported by 2% or More of Patients)
+Medical ProblemPlacebo
+(78 Patients 
+Treated)Abrocitinib
+100 mg
+(158 Patients 
+Treated)Abrocitinib
+200 mg
+(155 Patients 
+Treated)
+Low platelet (small 
+particles in the blood 
+that help with clotting) 
+count0 0 5 (3%)
+Stomach pain 0 2 (1%) 6 (4%)
+Loose stools 3 (4%) 2 (1%) 3 (2%)
+Nausea 2 (3%) 12 (8%) 22 (14%)
+Vomiting 1 (1%) 2 (1%) 8 (5%)
+Fever 0 4 (3%) 1 (1%)
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+8Infection of one or 
+more of the pockets 
+from which hair grows 
+(follicles)2 (3%) 0 5 (3%)
+Herpes simplex (virus 
+infections causing 
+contagious sores 
+around mouth or on 
+genitals)1 (1%) 3 (2%) 6 (4%)
+Common cold 5 (6%) 20 (13%) 12 (8%)
+(Oral herpes) Cold 
+sores2 (3%) 2 (1%) 2 (1%)
+Sinus infection 
+(inflammation of the 
+spaces inside the nose 
+and head)2 (3%) 3 (2%) 0
+Nose and throat 
+infection3 (4%) 14 (9%) 5 (3%)
+Muscle protein 
+(creatine 
+phosphokinase) 
+increased in the blood2 (3%) 3 (2%) 5 (3%)
+Headache 2 (3%) 9 (6%) 12 (8%)
+Cough 2 (3%) 4 (3%) 1 (1%)
+Acne 0 2 (1%) 9 (6%)
+Atopic dermatitis 12 (15%) 9 (6%) 6 (4%)
+Skin rash caused by 
+allergic reaction2 (3%) 1 (1%) 1 (1%)
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+9WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  
+Eight patients had serious medical problems as shown in the below table.  One out of 
+78patients (1%) in the placebo group, 5 out of 1 58patients (3%) in the abrocitinib 
+100mg group, and 2 out of 155 patients (1%) in the abrocitinib 200 mg group had 
+serious medical problems.  Six patients each had 1 serious medical problem and 
+2patients had 2 serious medical problems each.  There was 1 patient who died during 
+the study.  The researchers assessed that the study medication did not cause the death 
+and that the patient passed away due to other medical problems.
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+10Serious Medical Problems
+(Reported by 1 or More Patients) 
+Serious Medical 
+Prob lemPlacebo
+(78 Patients 
+Treated)Abrocitinib
+100 mg
+(158 Patients 
+Treated)Abrocitinib
+200 mg
+(155 Patients 
+Treated)
+Sudden death 0 1 (1%) 0
+Severe, 
+life-threatening 
+allergic reaction0 0 1 (1%)
+Eczema 
+herpeticum
+(virus infection 
+of the skin that 
+causes painful 
+rash)1 (1%) 0 0
+Herpangina 
+(virus infection 
+that cause sores 
+in mouth and 
+throat)0 1 (1%) 0
+Bone infection 0 1 (1%) 0
+Lung infection 0 1 (1%) 0
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+11Infection of the 
+bloodstream 
+caused by 
+Staphylococcus 
+bacteria (type 
+of germ found 
+on skin or in 
+the nose)0 1 (1%) 0
+Staphylococcal 
+infection 
+(infection 
+caused by 
+Staphylococcus 
+bacteria)1 (1%) 0 0
+Broken hip 0 0 1 (1%)
+Atopic 
+dermatitis0 1 (1%) 0
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on this study protocol, please visit:
+www.clinicaltrials.gov Use the study identifier NCT03575871
+www.clinicaltrialsregister.eu Use the study identifier 2018-001136 -21
+Please remember that researchers look at the results of many studie s to find out which 
+medicines can work and are safe for patients.
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)
+12Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e192fbddf5\Approved\Approved On: 06-Mar-2020 03:55 (GMT)

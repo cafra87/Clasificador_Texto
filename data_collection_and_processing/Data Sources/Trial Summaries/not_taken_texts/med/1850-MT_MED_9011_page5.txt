@@ -1,0 +1,37 @@
+Clinical Study Results
+The graph below shows the change in bad cholesterol for participants in Part B from the
+beginning of the study to Day 36 of the study.
+Change in bad cholesterol from the beginning of the study to Day 36 of the study
+50 mg 200 mg 400 mg
+MEDI4166 MEDI4166 MEDI4166 Placebo
+0
+-1.3
+)Ld/gm(
+-20 dab
+-40 ni
+loretselohc
+-48.4 egnahC
+-60
+-75.9
+-80
+-76.1
+-100
+Treatment group
+How did MEDI4166 affect the blood sugar levels in participants?
+Researchers compared the change in the blood sugar levels of participants from the beginning
+of the study to Day 36 of the study for both Part A and Part B. When the data were analyzed,
+researchers found that:
+Part A
+In Part A, participants who got the different MEDI4166 doses had a decrease in their blood
+sugar levels, but researchers did not think these results were significant.
+Part B
+In Part B, participants who got the different MEDI4166 doses had a decrease in their blood
+sugar levels, but researchers did not think these results were significant.
+• Participants who got 50 mg of MEDI4166 had an average decrease in blood sugar of
+195.6 milligram hours per deciliter of blood, or mg-h/dL
+• Participants who got 200 mg of MEDI4166 had an average decrease in blood sugar of
+76.2 mg-h/dL
+• Participants who got 400 mg of MEDI4166 had an average decrease in blood sugar of
+46.7 mg-h/dL
+• Participants who got the placebo had an average decrease in blood sugar of 87.1 mg-h/dL
+5

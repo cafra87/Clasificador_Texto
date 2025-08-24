@@ -1,0 +1,37 @@
+Clinical Study Results
+Creatinine is a waste product made by muscles when they move. When the kidneys are
+healthy, they remove creatinine from the bloodstream into urine.
+When the kidneys are not working properly, they do not remove creatinine from the blood
+as efficiently, and albumin leaks into urine. This means that the amount of albumin in
+urine goes up and the amount of creatinine goes down.
+Low UACR means that there is less albumin than creatinine in urine, which means
+there is little or no kidney damage. High UACR means that the amount of albumin
+has increased relative to creatinine, which means there is more kidney damage. The
+researchers measured UACR before, during, and after participants took RDEA3170 and
+febuxostat or the placebos.
+The researchers used the “least square mean” calculation to compare the difference in
+UACR after taking each treatment. This is a calculation that researchers use to account
+for any measurements taken before starting treatment. In this study, researchers used
+the least square mean to account for any differences between each participant’s UACR
+measurements before they started the treatment. This helps make sure that study results
+are as accurate as possible.
+After 12 weeks of treatment, the UACR decrease compared to the start of the treatment
+was calculated.
+• UACR was 48.7% lower in the participants who took RDEA3170 and febuxostat
+• UACR was 15.3% lower in the participants who took the placebos
+The figure below shows these results.
+Decrease in UACR after 12 weeks
+100
+RCAU
+80
+ni
+esaerced
+60
+48.7%
+40
+15.3% tnecreP
+20
+0
+RDEA3170 and Placebo
+febuxostat
+5

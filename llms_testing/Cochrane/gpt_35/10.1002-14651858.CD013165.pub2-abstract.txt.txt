@@ -1,0 +1,14 @@
+Plain Title:
+Potassium Binders for Treating High Potassium Levels in Kidney Disease
+
+Rationale:
+High potassium levels, known as hyperkalaemia, are common in patients with chronic kidney disease (CKD) and can cause various complications. Current treatments, such as sodium polystyrene sulfonate and calcium polystyrene sulfonate, can lead to unwanted side effects like constipation. Newer treatments, such as patiromer and sodium zirconium cyclosilicate, have the potential to be more tolerable with fewer gastrointestinal symptoms. However, there is limited evidence regarding their safety and effectiveness. This study aims to review the evidence on potassium binders for hyperkalaemia in CKD patients to provide guidance to patients, healthcare professionals, and policymakers.
+
+Trial Design:
+This study looked at randomized controlled trials and controlled studies to evaluate the benefits and harms of different potassium binders in adults and children with CKD. The study duration varied, ranging from 12 hours to 52 weeks. The participants included adults with CKD stages 1 to 5 who did not require dialysis, as well as those receiving haemodialysis. The age of the participants ranged from 53.1 years to 73 years. Unfortunately, no studies evaluating treatment in children were found.
+
+Results:
+Fifteen studies, involving 1849 adult participants, were included in this review. The studies assessed the effectiveness of various potassium binders, including calcium polystyrene sulfonate, sodium polystyrene sulfonate, patiromer, and sodium zirconium cyclosilicate. The results showed that patiromer or sodium zirconium cyclosilicate may have little or no difference in terms of death from any cause in CKD patients. However, the evidence certainty was low. The effects of older potassium binders on death were unknown. There was no significant difference between these newer binders and placebo for cardiovascular death or health-related quality of life. The effects of potassium binders on nausea, diarrhea, vomiting, constipation, and blood pressure were uncertain. Additionally, no studies evaluated the effects on cardiac arrhythmias or major gastrointestinal events. 
+
+Conclusion:
+The evidence regarding the use of different potassium binders to treat hyperkalaemia in adults with CKD is of low certainty, and no studies were found in children. The available studies did not focus on major clinical outcomes, such as cardiac arrhythmias or significant gastrointestinal symptoms. This review highlights the need for larger, well-designed studies that assess the clinical outcomes of potassium binders in CKD patients. This information is important for determining the cost-effectiveness and clinical importance of these treatments in managing hyperkalaemia in people with CKD.

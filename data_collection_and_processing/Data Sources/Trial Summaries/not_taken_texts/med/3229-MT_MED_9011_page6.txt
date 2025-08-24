@@ -1,0 +1,37 @@
+Clinical Study Results
+Did MEDI0382 affect the participants’ weight?
+Yes. Overall, the researchers found that the participants in all 4 treatment groups
+lost weight after getting treatment. They also found that the participants who got
+MEDI0382 lost more weight compared to the participants who got the placebo.
+To answer this question, the researchers measured the participants’ weight before
+they got treatment, and at the end of the study. Then, the researchers compared
+the percent change in these measurements.
+The researchers found that after 7 weeks of treatment, the participants in:
+• Group 1, who got the lowest dose of MEDI0382, had an average decrease in
+their weight of 2.1%.
+• Group 2, who got the middle dose of MEDI0382, had an average decrease in
+their weight of 3.3%.
+• Group 3, who got the highest dose of MEDI0382, had an average decrease in
+their weight of 3.3%.
+• Group 4, who got the placebo, had an average decrease in their weight of
+0.8%.
+The figure below shows these results.
+Average percent change in weight after 7 weeks
+Group 1: Group 2: Group 3:
+Lowest dose Middle dose Highest dose Group 4:
+of MEDI0382 of MEDI0382 of MEDI0382 Placebo
+0 )%(
+thgiew
+-1.0
+0.8%
+decrease
+-2.0 ni
+2.1%
+egnahc
+decrease
+-3.0
+3.3% 3.3% tnecreP
+-4.0
+decrease decrease
+-5.0
+6

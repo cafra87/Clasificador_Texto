@@ -1,0 +1,18 @@
+Plain Title: "Aspirin for Treating Perineal Pain after Vaginal Birth: A Study Update"
+
+Rationale:
+After vaginal birth, many women experience perineal trauma, which can cause pain and discomfort. This pain can have negative effects on both the mother and her baby, including difficulties with newborn care and breastfeeding. Aspirin has been used to manage postpartum perineal pain, but its effectiveness and safety need to be evaluated further.
+
+Trial Design:
+This study aimed to determine the effects of a single dose of aspirin on relieving acute postpartum perineal pain. The researchers conducted a review of randomized controlled trials that compared aspirin with placebo or other pain relief methods. The study included women with perineal pain shortly after childbirth. The duration of the study varied among the included trials.
+
+Results:
+The review included 17 randomized controlled trials involving a total of 1132 women. The findings showed that aspirin may lead to more women reporting adequate pain relief compared to a placebo. However, it is uncertain whether aspirin has an effect on the need for additional pain relief or maternal adverse effects. Further analysis based on different doses of aspirin did not reveal any significant differences.
+
+In terms of specific doses, there was uncertainty regarding the effects of 300 mg compared to 600 mg aspirin and 600 mg compared to 1200 mg aspirin on pain relief, the need for additional pain relief, and maternal adverse effects. Similarly, there was uncertainty regarding the effects of 300 mg compared to 1200 mg aspirin on pain relief and the need for additional pain relief.
+
+None of the included trials reported on neonatal adverse effects or other secondary outcomes such as hospitalization due to perineal pain, breastfeeding rates, or maternal postpartum depression.
+
+The investigators concluded that a single dose of aspirin may provide better pain relief for women experiencing perineal pain after an episiotomy compared to a placebo. However, due to study limitations and uncertainties, the evidence is not strong. Aspirin may be considered as a treatment option for non-breastfeeding women with perineal pain, but the effects on breastfeeding and neonatal outcomes are not known.
+
+Future studies should address the limitations of previous trials, aim for low risk of bias, and explore the effects of aspirin on various types of perineal pain.

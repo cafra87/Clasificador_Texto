@@ -1,0 +1,19 @@
+Plain Language Summary:
+
+1. Plain Title:
+Cognitive Training for Dementia: Effects and Outcomes
+
+2. Rationale:
+Dementia is a condition that affects a person's memory and thinking abilities. It can make it difficult for people to perform everyday tasks on their own. Cognitive training is a type of therapy that helps improve or maintain cognitive abilities for people with mild to moderate dementia. This study aimed to assess the effects of cognitive training on cognitive and non-cognitive outcomes for people with dementia and their caregivers. It also compared the effects of cognitive training with other non-drug treatments for dementia. The study wanted to find out why cognitive training works and how it can be more effective for people with dementia.
+
+3. Trial Design:
+The study included randomized controlled trials with people who had mild to moderate dementia. The participants were divided into different groups. Some groups received cognitive training, while others received different types of non-drug treatments. The study lasted between two and 104 weeks. Researchers collected data from published papers and contacted the authors for more information. They used different measures and gathered information on 19 outcomes at the end of treatment and 16 outcomes in the medium term. They analyzed the data using statistical methods.
+
+4. Results:
+The study included 33 trials conducted in 12 countries. Most of the trials were unregistered and had a small to medium number of participants. The cognitive training interventions lasted between two and 104 weeks. Researchers classified most interventions as "straight cognitive training", but some were "augmented cognitive training" or multi-domain interventions. The quality of the studies varied, but most had a high or unclear risk of bias. 
+
+The study found that cognitive training had a positive effect on global cognition and verbal semantic fluency at the end of treatment. These improvements were maintained in the medium term. However, the quality of evidence for other outcomes, such as disease severity, was low, so the researchers could not determine if cognitive training had meaningful benefits for those areas.
+
+When compared to alternative treatments, cognitive training did not show a significant effect on global cognition. However, the evidence for this was of low quality. There was no evidence available to assess the effect of cognitive training on disease severity in the medium term. One trial showed that cognitive training improved the mood of caregivers, but more research is needed to confirm this. The evidence for other outcomes, such as mood, behavioral and psychological symptoms, and daily activities, was not strong enough to determine if cognitive training had any benefits.
+
+In conclusion, cognitive training probably has small to moderate positive effects on global cognition and verbal semantic fluency for people with dementia. These benefits seem to last in the medium term. However, more research is needed to understand the extent of these benefits and to compare cognitive training with other treatments directly. Future studies should also address biases and include long-term follow-up to better understand the lasting effects of cognitive training.

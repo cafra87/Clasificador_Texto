@@ -1,0 +1,32 @@
+found in the scientific results summary (a link to the summary is provided at the end of
+this document).
+If the study doctor thinks that the event was caused by the study medicine and/or the
+injections, they record this as a possible side effect (adverse reaction).
+In this summary, “side effects” refer to those events that the study doctor thinks may
+have been caused by the study medicine and/or the injections. The side effects in this
+summary may be different to those in the Informed Consent or other documents
+related to the study medicine.
+In blinded studies, the doctor does not know which study medicine the patient is
+taking. In some cases, side effects will be assigned to placebo.
+No serious side effects were reported by patients up to Week 12.
+The table below shows the number of patients (percent) reporting non-serious side
+effects in any treatment group up to Week 12.
+Number of patients (percent) reporting non-serious side effects up to
+Week 12
+Botulinum toxin
+Placebo
+type A
+10 patients
+11 patients
+Study medicine-related non-serious side effect
+Inability to empty the bladder completely 0 1 (9%)
+Injection-related non-serious side effect
+Abnormal high blood pressure caused by
+overactivity of the body’s involuntary 0 1 (9%)
+nervous system
+Blood in the urine 1 (10%) 1 (9%)
+How has this study helped patients and researchers?
+This was a Phase III study. Phase III studies collect information about how well a new
+medicine works and how safe it is. The study showed that the addition of botulinum
+toxin type A to Japanese patients’ regular medicine(s) for NDO reduced the number of
+urinary incontinence episodes compared with placebo. Side effects were limited and

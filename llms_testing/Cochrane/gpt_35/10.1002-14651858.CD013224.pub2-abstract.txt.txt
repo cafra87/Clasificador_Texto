@@ -1,0 +1,11 @@
+Plain Title: Proton and Photon Radiation Therapy for Chordoma: Effects and Safety
+
+Rationale: Chordoma is a rare bone tumor that often comes back after surgery, and current radiation therapy may not fully control it. This study aims to evaluate the effects and safety of using proton and photon radiation therapy in people with chordoma.
+
+Trial Design: This study included adults with confirmed chordoma who received radiation therapy using protons or photons. Different types of radiation techniques were analyzed. The study collected data from multiple sources and followed standard procedures for data analysis. The study included six observational studies with a total of 187 participants.
+
+Results: Local control, mortality, recurrence, and treatment-related toxicity were assessed as primary outcomes. However, the certainty of the evidence was very low due to the observational nature of the included studies. It is uncertain whether proton therapy is better or worse than photon therapy in terms of local control, mortality, or recurrence. Median survival time ranged between 45.5 and 66 months, and median recurrence-free survival ranged between 3 and 10 years.
+
+One study reported that proton therapy had some treatment-related toxicity, including radiation-induced necrosis and damage to certain areas of the body. However, there is no evidence to show that protons led to reduced toxicity compared to photons.
+
+In conclusion, there is a lack of published evidence to determine which radiation therapy—proton or photon—is more effective for treating chordoma. As radiation techniques improve, it is important to collect and publish data from multiple institutions to better understand which patients would benefit most from available radiation treatment options.

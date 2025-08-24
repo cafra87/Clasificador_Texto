@@ -1,0 +1,13 @@
+1. Plain Title: 
+Does More Intense Kidney Cleaning Help Patients with Severe Kidney Problems?
+
+2. Rationale: 
+Sometimes, people who are very sick need to stay in a part of the hospital called intensive care. Some of these people get a problem with their kidneys not working right, hurting them and making them even sicker. One way doctors try to help is by cleaning the blood with a machine, like a really good wash for the insides. This process is often called kidney cleaning or Continuous Renal Replacement Therapy (CRRT). But it's still not clear if using the machine more intensely would make a big difference in helping patients get better. We wanted to find out if doing a more intense blood cleaning would help these very sick patients improve more quickly or survive longer.
+
+3. Trial Design: 
+To understand this, we searched for and gathered studies done before February 2016. We looked for studies that had tested blood cleaning. In these studies, they had tried different levels of cleaning - some did cleaning that was pretty intense, and some did not that much intense. We included all patients sick enough to be in intensive care and with bad kidney problems who were part of these studies. Once we found such studies, two of our teams looked at the data separately to make sure we didn't miss anything.
+
+4. Results: 
+After looking at six studies with 3185 people in them, we found that having more intense cleaning didn't make much of a difference. It did not seem to help patients live longer or get better quicker. It didn't make them stay shorter or longer in the hospital or the intensive care either. But we did find that more intense cleaning can make some patients have too little of a nutrient called phosphorous in their blood. Also, in one smaller group - patients who had gotten their kidney problem after surgery - intense cleaning did seem to help them live longer. 
+
+In the end, we have come to understand that doing more intense blood cleaning might not make a big difference for most people with severe kidney problems. For patients with kidney problems after surgery, more intense cleaning might help. But doing it a lot can also lead to too little phosphorus in the blood.

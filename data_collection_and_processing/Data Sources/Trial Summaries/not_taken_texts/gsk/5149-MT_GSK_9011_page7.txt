@@ -1,0 +1,13 @@
+Organization Website Study Number
+European Medicines Agency www.clinicaltrialsregister.eu 2013-003459-39
+United States National Institutes www.clinicaltrials.gov NCT01978093
+of Health (NIH)
+Your doctor can help you understand more about this study and the results. You should not make
+changes to your care based on the results of this or any single study.
+This document was developed and approved by GSK on <<08-FEB-2019>>. The information in this
+summary does not include additional information available after this date.
+For readers of this document in text form, the websites associated with the hyperlinks above are:
+EudraCT summary:
+https://www.clinicaltrialsregister.eu/ctr-search/search?query=2013-003459-39
+US NIH/clinicaltrials.gov:
+https://clinicaltrials.gov/ct2/show/NCT01978093

@@ -1,0 +1,12 @@
+Molecular tests to detect infections in newborn babies
+Review question: Do molecular tests detect infection better than the standard culture methods for detecting infection in newborn babies? 
+Background 
+The current method of detecting infection (illness caused by germs) in newborn babies is to obtain blood or other body fluids (or both) and culture (grow) the bacteria (germs) in a laboratory. However, culture methods may miss some infections and take a long time to produce results (48 to 72 hours). Newer methods of detecting infection are based on detecting DNA (a molecule that carries the genetic instructions used in growth, development, functioning, and reproduction) from bacteria and other organisms that cause infections. Advances in microbiology have introduced new molecular tests for detecting infections. Molecular tests are rapid and may detect more infections compared to the traditional culture methods. 
+Study characteristics 
+We searched for evidence for the use of the molecular methods to detect infection in newborn babies. We found 35 studies that compared the new molecular methods to culture methods of the blood and spinal fluid to diagnose infection. 
+Study funding sources 
+None.
+Key results 
+We found that the molecular methods may be very helpful additional tests because they provide rapid results. 
+Quality of evidence 
+Although there were some issues with selection of newborn babies for this review, overall the methods used by the studies were adequate. We rated the quality of the evidence as moderate to low. 

@@ -1,0 +1,23 @@
+1. Plain Title: 
+Understanding and Evaluating the Effectiveness and Safety of Surgery for a Children's Eye Condition called Infantile Nystagmus Syndrome 
+
+2. Rationale: 
+Infantile Nystagmus Syndrome (INS) is a condition that affects the way the eyes move, leading to disturbed vision. At present, though we can't completely cure INS, we can manage its impacts through drugs, glasses, or surgery. This review specifically looks at surgical treatments for INS. 
+
+There are now several different surgeries being offered to treat INS, however, there is no clear agreement about which is the most effective and safe. Currently, there are no widely accepted guidelines about which treatment to recommend. We need a clearer understanding of these surgical options, including any possible side effects, in order to make the best decisions when managing INS. 
+
+3. Trial Design: 
+In this review, we searched various databases, registries, and platforms up until July 3, 2020, with no limits on language. We examined randomized control trials (RCTs), a kind of scientific experiment where participants are randomly chosen to receive one treatment or another. These RCTs looked at how effective and safe various surgical treatments were for INS. 
+
+In our review, we were mainly looking at changes in several factors, including vision, head posture, eye movement patterns, and quality of life. We were also interested in any side effects related to the treatments, especially permanent ones. 
+
+Two of us independently went through all RCT titles and summaries, as well as complete articles. We extracted the necessary data and assessed any potential biases in the RCTs. In the end, we only found one eligible RCT from India, which included 10 participants. These participants received one of two specific types of surgery. Unfortunately, we didn't find any RCTs that compared surgery for INS with not having any treatment at all. 
+
+4. Results: 
+The outcome of the one RCT we found is not entirely clear or reliable. The trial did not make clear how the participants' vision changed or if the intensity and frequency of their eye movements changed. We were also unable to calculate relative effects due to lack of data. Thankfully though, none of the participants experienced any adverse effects six months after surgery. 
+
+There wasn't any specific data about the participants' quality of life, but overall, it was reported that both surgical treatments improved it somewhat. Unfortunately, some of the things we were interested in, such as changes in head posture and visual recognition times, were not reported in the study. 
+
+Because of the lack of reliable and comprehensive information in the RCT, we're unsure about the effectiveness and safety of the surgical treatments being used to manage INS. The surgeons, caregivers, and those with INS need to take the limited amount of evidence into account when deciding on treatment, particularly as these surgical procedures are not reversible and are usually performed on children. 
+
+In conclusion, we definitely need more high-quality RCTs to properly understand the effectiveness and safety profile of surgeries for INS. This will help everyone involved make the best possible treatment decisions.

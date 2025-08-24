@@ -1,0 +1,14 @@
+Background
+Abdominal decompression was developed as a means of pain relief during labour. It has also been used for complications of pregnancy, and in healthy pregnant women in an attempt to improve fetal wellbeing and intellectual development. 
+Objectives
+The objective of this review was to assess the effects of antenatal abdominal decompression for maternal hypertension or impaired fetal growth, on perinatal outcome. 
+Search methods
+The Cochrane Pregnancy and Childbirth Group's Trials Register (2 February 2012).
+Selection criteria
+Randomised or quasi‐randomised trials comparing abdominal decompression with no decompression in women with pre‐eclampsia and/or fetuses thought to be compromised. 
+Data collection and analysis
+Eligibility and trial quality were assessed by one review author.
+Main results
+Three studies were included, all with the possibility of containing serious bias. Therapeutic abdominal decompression was associated with the following reductions: persistent pre‐eclampsia (relative risk 0.36, 95% confidence interval 0.18 to 0.72); fetal distress in labour (relative risk 0.37, 95% confidence interval 0.19 to 0.71); low birthweight (relative risk 0.50, 95% confidence interval 0.40 to 0.63); Apgar scores less than six at one minute (relative risk 0.26, 95% confidence interval 0.12 to 0.56); and perinatal mortality (relative risk 0.39, 95% confidence interval 0.22 to 0.71). 
+Authors' conclusions
+Due to the methodological limitations of the studies, the effects of therapeutic abdominal decompression are not clear. The apparent improvements in birthweight and perinatal mortality warrant further evaluation of abdominal decompression where there is impaired fetal growth and possibly for women with pre‐eclampsia. 

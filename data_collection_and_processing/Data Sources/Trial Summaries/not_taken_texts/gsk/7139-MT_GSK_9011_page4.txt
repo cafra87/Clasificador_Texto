@@ -1,0 +1,25 @@
+A total of 248 patients received the study medicine. The table below shows the gender
+and age of these patients.
+Patients who received the study medicines
+Placebo GSK1358820
+124 patients 124 patients
+Gender
+Female 94 (76%) 92 (74%)
+Male 30 (24%) 32 (26%)
+Age - in years
+Range 34 to 89 21 to 86
+Average 66 66
+For more detailed information about the patients included in this study, see the
+scientific results summary (link provided at the end of this document).
+What were the overall results of the study?
+At the start of the study, each patient was given a diary to write down their bladder
+symptoms, including urinary incontinence. The patients were asked to bring the diary
+to each clinic visit.
+The study doctor noted the number of urinary incontinence episodes for each patient
+over any three consecutive days before visiting the clinic. The number of episodes were
+averaged for each patient at Day 1 (baseline) and Week 12. This is called a daily
+average number of urinary incontinence episodes.
+The results from all patients within each treatment group were combined and averaged
+to get the baseline and Week 12 values for each treatment group. The difference
+between these two values of the daily average number of urinary incontinence
+episodes is called the change from baseline.

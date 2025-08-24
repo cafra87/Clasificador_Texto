@@ -1,0 +1,14 @@
+Background
+Plague is endemic in China, Mongolia, Burma, Vietnam, Indonesia, India, large parts of Southern Africa, the United States and South America. There are three types of vaccines (live attenuated, killed and F1 fraction) with varying means of administration. 
+Objectives
+ The objective of this review was to assess the effects of vaccines to prevent plague.
+Search methods
+We searched MEDLINE (1966 to February 2011), EMBASE (1985 to February 2011), CENTRAL (The Cochrane Library 2011, Issue 2) and reference lists of articles. We handsearched the journal 'Vaccine' (up to 1997) and contacted experts in the field. 
+Selection criteria
+Randomized trials comparing live and killed plague vaccines against no intervention, placebo, other plague vaccines or vaccines against other disease (control vaccines). 
+Data collection and analysis
+Three reviewers assessed the eligibility of trials.
+Main results
+No trials were included.
+Authors' conclusions
+There is not enough evidence to evaluate the effectiveness of any plague vaccine, or the relative effectiveness between vaccines and their tolerability. Circumstantial data from observational studies suggest that killed types may be more effective and have fewer adverse effects than attenuated types of vaccine. No evidence appears to exist on the long‐term effects of any plague vaccine. 

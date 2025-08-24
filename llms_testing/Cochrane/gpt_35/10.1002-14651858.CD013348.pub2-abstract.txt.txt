@@ -1,0 +1,17 @@
+Plain Title: Evaluating VEGF Targeting Agents for Cervical Cancer Treatment
+
+Rationale: Cervical cancer is a leading cause of cancer-related death in women. Patients with advanced or recurring cervical cancer have limited treatment options. This study aims to assess the benefits and potential harms of vascular endothelial growth factor (VEGF) targeting agents, a new type of therapy that restricts tumor growth by blocking the blood supply.
+
+Trial Design: The study examined randomized controlled trials involving VEGF targeting agents used alone or in combination with conventional chemotherapy. The participants included patients with persistent, recurrent, or metastatic cervical cancer. The study duration varied depending on each trial.
+
+Results: Four studies with a total of 808 participants were included. Treatment with bevacizumab plus chemotherapy showed a lower risk of death compared to chemotherapy alone. However, it was associated with specific adverse events such as gastrointestinal perforations or fistulae, serious thromboembolic events, hypertension, and serious hemorrhage. The incidence of serious adverse events was also higher. The cost-effectiveness ratio of bevacizumab plus chemotherapy was determined to be USD 295,164 per quality-adjusted life-year.
+
+Treatment with cediranib plus chemotherapy did not show a significant difference in the risk of death compared to chemotherapy alone. However, the results for specific adverse events were uncertain, and the incidence of serious adverse events may be similar.
+
+Similarly, the study found uncertain results for the efficacy of apatinib plus chemotherapy or chemotherapy/brachytherapy compared to chemotherapy alone or chemotherapy/brachytherapy alone. There may be a higher incidence of hypertension events with apatinib treatment.
+
+Pazopanib plus lapatinib treatment was associated with a higher risk of death compared to lapatinib alone. The results for specific adverse events were uncertain, but the incidence of hypertension events was probably higher. The incidence of serious adverse events may or may not be similar to lapatinib alone.
+
+Treatment with pazopanib alone showed no significant difference in the risk of death compared to lapatinib alone. The results for specific adverse events were uncertain, but the incidence of hypertension events was probably higher. The risk of serious adverse events may or may not be similar to lapatinib alone.
+
+In conclusion, the use of bevacizumab plus chemotherapy may be beneficial for cervical cancer treatment. However, it is important to consider the increased risk of specific adverse events and serious adverse events. The use of cediranib plus chemotherapy, apatinib plus chemotherapy, apatinib plus chemotherapy/brachytherapy, and pazopanib monotherapy did not show significant benefits. The VEGF inhibitors apatinib and pazopanib may increase the probability of hypertension events.

@@ -1,0 +1,14 @@
+Plain Title: Treatments for Seizures Related to Menstrual Cycle in Women with Epilepsy
+
+Rationale: 
+Catamenial epilepsy is a condition where seizures get worse during the menstrual cycle and affects about 40% of women with epilepsy. Certain days of the menstrual cycle, such as before menstruation, during ovulation, and during the luteal phase, are more vulnerable to seizures. This happens because of changes in hormone levels, specifically a decrease in progesterone before menstruation and during luteal phase, and a surge in estrogen during ovulation. These hormonal changes increase the risk of seizures. Current treatments include hormonal and non-hormonal options, but there is uncertainty about which treatment works best and when it should be taken. There are also concerns about the impact on fertility, menstrual cycle, bone health, and cardiovascular health. This study aims to evaluate the effectiveness and safety of different treatments for seizures related to the menstrual cycle in women with epilepsy.
+
+Trial Design: 
+This study involved analyzing the results of previous randomized and quasi-randomized controlled trials. The researchers searched various databases for relevant studies. They included studies that involved women with catamenial epilepsy of any pattern, whether they had regular or irregular menstrual cycles. The interventions included hormonal or non-hormonal drugs, which were added to the participants' existing antiepileptic drug regimen. The minimum treatment duration was 12 weeks. 
+
+Results:
+After screening the title, abstract, and full text of articles, the researchers included eight articles reporting on four double-blind, placebo-controlled trials. These trials involved a total of 192 women aged between 13 and 45 years with catamenial epilepsy. They found no trials for non-hormonal treatments or for women with irregular menstrual cycles. The analysis showed that there was no significant difference in seizure frequency between the hormonal treatments (norethisterone and progesterone) and placebo. The studies reported conflicting results for other outcomes such as proportion of seizure-free participants and responders. Data on adverse events and quality of life outcomes were limited.
+
+The researchers concluded that there is very low-certainty evidence to support the use of norethisterone or progesterone for catamenial epilepsy. The studies were underpowered, meaning they may not have had enough participants to detect important effects. The review also highlighted a lack of evidence on the effectiveness of other hormonal and non-hormonal treatments, especially for women with irregular menstrual cycles. More clinical trials are needed in this area.
+
+Please note that this Plain Language Summary is a simplified version of the original abstract and should not be used as a substitute for professional medical advice.

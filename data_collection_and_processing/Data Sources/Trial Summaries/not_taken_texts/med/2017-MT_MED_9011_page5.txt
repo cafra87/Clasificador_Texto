@@ -1,0 +1,24 @@
+Clinical Study Results
+How many participants had adverse events? 100.0% (33 out of 33 participants)
+How many participants had serious adverse events? 54.5% (18 out of 33 participants)
+How many participants stopped taking study treatment 33.3% (11 out of 33 participants)
+because of adverse events?
+The most common serious adverse events were:
+• kidney injury
+• difficulty breathing
+• fluid build-up in the lungs
+• loss of fluid from blood vessels into the body
+The most common adverse events were:
+• a low number of red blood cells
+• nausea
+• fatigue
+• decreased appetite
+• difficulty breathing
+• fluid build-up in the lungs
+• high levels of liver proteins called ALT, AST, and GGT
+The study doctors also counted the number of dose-limiting toxicities the participants had during
+the study. A dose-limiting toxicity is an adverse event that is severe enough to stop the study
+doctor from increasing the participant’s dose of study treatment. A dose-limiting toxicity is also
+known as a DLT.
+3.0% of the participants had a DLT during the study. This happened in 1 out of 33 participants.
+5

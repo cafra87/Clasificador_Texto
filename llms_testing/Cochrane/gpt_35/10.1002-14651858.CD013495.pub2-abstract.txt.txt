@@ -1,0 +1,26 @@
+Plain Title: Effectiveness and Safety of Stopping Long-Term Antidepressants: A Review
+
+Rationale: 
+Depression and anxiety are common reasons why people take antidepressants. However, many people continue taking these medications for a long time without knowing if it's still needed. This unnecessary use of antidepressants can put people at risk of side effects. We don't have enough evidence about the best ways to stop taking long-term antidepressants safely and effectively.
+
+Trial Design:
+We looked at different studies to find out how to stop taking long-term antidepressants. We included studies that compared different approaches to stopping with continuing to take antidepressants. The studies involved adults with depression or anxiety who had been taking antidepressants for at least six months. Some of the approaches we studied were stopping suddenly, stopping slowly with psychological support, or stopping with minimal intervention. We collected data until January 2020.
+
+Results:
+We found 33 studies with a total of 4995 participants. Most studies were done in specialized mental healthcare services and included people who had experienced depression multiple times before trying to stop. All the studies had limitations that could affect the results. One of the main limitations was that withdrawal symptoms were often mistaken for the return of depression symptoms. These withdrawal symptoms, like feeling down or dizzy, could affect many aspects of a person's life.
+
+Abrupt discontinuation:
+Thirteen studies looked at stopping antidepressants suddenly. The evidence is not very strong, but it suggests that stopping suddenly without psychological support may increase the risk of the depression coming back. We aren't sure if stopping suddenly has an effect on side effects. We are also uncertain about the effects of sudden discontinuation on withdrawal symptoms.
+
+Discontinuation by "taper":
+Eighteen studies explored stopping antidepressants by gradually reducing the dose. In these studies, the tapering regimens usually lasted four weeks or less. The evidence is not very strong, but it suggests that tapering off may increase the risk of the depression coming back. It doesn't seem to make much of a difference in terms of side effects. We are also uncertain about the effects of tapering off on withdrawal symptoms.
+
+Discontinuation with psychological support:
+Four studies investigated stopping antidepressants with the help of psychological support. The evidence is not very strong, but it suggests that combining psychotherapy with tapering off may lead to successful discontinuation rates of 40% to 75%. Unfortunately, we don't have data from the control groups in these studies yet, so we can't make any conclusions about relapse rates. We also don't have information on withdrawal symptoms or side effects.
+
+Discontinuation with minimal intervention:
+One study provided low-certainty evidence that sending a letter to the general practitioner to review antidepressant treatment may not have much of an effect on successful discontinuation or relapse rates compared to usual care. However, we don't have any data on withdrawal symptoms or side effects from this study.
+
+Overall, we need more studies that address the bias caused by withdrawal symptoms and distinguish between relapse and withdrawal symptoms. Future studies should include a wider range of people, like those who have only experienced depression once or not at all, older individuals, and those taking antidepressants for anxiety. We should also look at tapering off methods that take longer than four weeks.
+
+In conclusion, we don't have enough evidence to determine the best ways to stop taking long-term antidepressants. The current studies have limitations, and the results may be affected by withdrawal symptoms. We need more research to understand the effects and safety of different approaches to stopping antidepressants.

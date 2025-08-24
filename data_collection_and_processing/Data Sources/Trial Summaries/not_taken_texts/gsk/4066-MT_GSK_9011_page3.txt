@@ -1,0 +1,23 @@
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Men and women were included in the study if they:
+• Were at least 40 years old.
+• Had COPD with symptoms.
+• Were current or former smokers.
+• Had at least one hip bone that could be scanned to measure bone
+mineral density.
+Men and women were excluded from the study if they had:
+• Asthma or any other lung disease.
+• A specific genetic condition that led to COPD.
+• Bone disease(s) that could affect their bone mineral density.
+• Poorly controlled COPD shown by:
+➢ Sudden worsening of COPD that was managed by
+corticosteroids or antibiotics (medicines that fight bacteria), or
+required hospitalisation in the three months before starting the
+study.
+OR
+➢ Two or more cases of moderate or severe COPD exacerbations
+and/or infection of the lower respiratory tract, within the year
+before starting the study.

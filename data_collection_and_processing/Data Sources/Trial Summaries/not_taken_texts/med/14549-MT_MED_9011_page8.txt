@@ -1,0 +1,31 @@
+How did the participants receive the vaccine?
+All of the participants in all 4 of the trials received either AZD1222 or the control
+as an injection into the muscle of the upper arm.
+The amount of vaccine in each injection is measured in units called “1010 viral
+particles”. A unit of 1 × 1010 viral particles is equal to 10,000,000,000 viral
+particles.
+In COV001, the dose level of the AZD1222 injection was 5 × 1010 viral particles.
+This is known as the standard dose level.
+When this trial first started, it was planned that the participants who received
+AZD1222 would get only 1 injection. After the researchers started looking at the
+results from the first few participants, they decided that the remaining participants
+should get a second injection. This was because of the results of 10 participants at
+the beginning of the trial. In these 10 participants, their immune responses were
+stronger when they received 2 injections. Those results are in a different medical
+article and are not in this summary.
+In COV002, the researchers planned to give the participants the standard dose
+level of AZD1222.
+The researchers realised that about a third of the participants who received
+AZD1222 had been given a lower dose level of 2.2 × 1010 viral particles for their
+first injection. This is known as the low dose level.
+All of the participants who got AZD1222 in COV002 received the standard dose
+level for their second injection. The majority of COV002 participants waited at
+least 12 weeks between each injection.
+In COV003, all of the participants who got AZD1222 received 2 standard
+dose level injections. There was an average of less than 6 weeks between each
+injection.
+In COV005, almost all of the participants who got AZD1222 received 2 standard
+dose level injections. There was a very small number of participants who received
+the low dose level of AZD1222 for 1 of their injections. There was an average of
+4 weeks between each injection.
+8

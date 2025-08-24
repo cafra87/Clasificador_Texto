@@ -1,0 +1,15 @@
+1. Plain Title: 
+    Understanding The Effect of New Surgical Techniques on Urinary Control after Prostate Cancer Surgery
+
+2. Rationale:
+    Men undergoing a type of prostate cancer surgery (called robotic-assisted laparoscopic prostatectomy, or RALP) often find that they have a hard time controlling their urine afterward. This is a major problem. To fix this, surgery experts have thought of some new techniques to repair the muscle part at the back of the urinary control muscle, the rhabdosphincter, after prostate removal. But, we don't know well these techniques work. So, this study was aimed to understand the effects of these new surgical techniques.
+
+3. Trial Design:
+    The researchers looked at different studies from major health databases until March 2021. They only selected studies in which men were randomly chosen to either get the new surgery technique (posterior musculofascial reconstruction RALP) or the standard RALP prostate cancer surgery. They were most interested in how many men could control their urine one week after the catheter (a tube to help empty the bladder) was removed, three months after surgery and also if there were any serious side effects. They also looked at urine control and potency (ability to get an erection) after six and twelve months, exposure of cancer on the edge of removed tissue, and cancer-free survival.
+
+4. Results:
+    The researchers found and used information from eight unique studies, including 1085 men. About 89% (963 men) completed these studies. 
+   
+   From the data, they found that men who got the new surgical technique might have better urinary control one week after the catheter is removed compared to the standard way. But, the new technique did not seem to have a major effect on urine control three months after surgery or the number of serious side effects compared to the standard surgery. After twelve months, it looked like both types of surgery had similar effects on urine control, ability to get an erection, exposure of cancer on the edges of removed tissue, and cancer-free survival.
+   
+   From this, the researchers concluded that the new surgical technique may help men control their urine sooner (one week) after surgery compared to the standard RALP prostate cancer surgery. But, it does not seem to help with long-term urine control or reduce the risk of serious side effects. It was not clear how age, nerve-sparing status, or clinical stage might affect these results. The review suggested that more special studies will be set up to better understand these results.

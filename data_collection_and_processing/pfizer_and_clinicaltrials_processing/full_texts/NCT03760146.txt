@@ -1,0 +1,413 @@
+1CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer Inc .
+Medicine(s) Studied: 20-valent Pneumococcal Conjugate Vaccine ( diphtheria 
+CRM 197protein ), Compound Number: PF-06482077
+Protocol Number: B7471007
+Dates of Trial: 12 December 2018 to 16 December 2019
+Title of this Trial: Trial to Evaluate the Safety and Immunogenicity of a 
+20-valent Pneumococcal Conjugate Vaccine in 
+Pneumococcal Vaccine -Naïve Adults
+[Final Report: A Phase 3, Randomized, Double -Blind Trial to 
+Evaluate the Safety and Immunogenicity of a 20 -valent 
+Pneumococcal Conjugate Vaccine in Pneumococcal 
+Vaccine –Naïve Adults 18 Years of Age and Older ]
+Date of t his Report: 4September 2020 
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results, please contact the doctor or staf f at 
+your study site. 
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+2WHY WAS THIS STUDY DONE?
+Streptococcus pneumoniae is a bacteria that can cause serious diseases, including infections 
+of the lung ( pneumonia ), brain lining ( meningitis ), blood ( bacteremia ), or ear ( otitis ).  
+These infections may be very serious in young children and older adults.  Streptococcus 
+pneumoniae is also known as S.pneumoniae .  There are 100 types of S. pneumoniae.
+This study is about a vaccine called the “20 -valent pneumococcal conjugate vaccine”, 
+or 20vPnC.  A vaccine is used to help prevent infection by helping the body to fight 
+off germs.  20vPnC may help to prevent infections caused by S.pneumoniae.  It is call ed 
+"20-valent" because 20vPnC prevents 20 of the most common types of S.pneumoniae .
+20vPnC is an investigational vaccine, which means that it has not been approved for 
+general use and it is not yet known if it will protect against disease caused by 
+S. pneumoniae, although studies are ongoing to assess how well 20vPnC works.
+After a vaccine is injected into a person’s body, the body responds to help fight 
+infections and prevent diseases.  The response to vaccines includes making 
+“antibodies”, which are p roteins that fight infections and help to prevent diseases .  
+In the United States, the “13 -valent pneumococcal conjugate vaccine”, or 13vPnC, is 
+currently approved for preventing S. pneumoniae diseases in children and adults.  
+13vPnC is made up of compon ents to prevent diseases caused by 13 types of 
+S.pneumoniae.  20vPnC has the same components found in 13vPnC, plus 7 additional 
+components that may widen protection .The Pneumovax 23 vaccine, or PPSV23, is 
+made up of components to prevent diseases caused by 23 types of S. pneumoniae.
+The purpose of this study was to learn about the safety and about the antibody 
+response to 20vPnC .  
+To learn about the antibody response, researchers asked these questions:
+For the 13 components found in both 13vPnC and 20vPnC, did participants 
+aged 60 or older who received 20vPnC have antibody responses that were 
+within a range considered to be comparable (noninferior) to those who 
+received 13vPnC ?
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+3For the 7 additional compo nents found in both PPSV23 and 20vPnC, did 
+participants aged 60 or older who received 20vPnC have antibody responses 
+that were within a range comparable to those who received PPSV23 ?
+To answer this question, the researchers measured the amount of antibodie s in 
+participants’ blood 1 month after being vaccinated .
+To learn about the safety of 20vPnC , researchers asked these questions :  
+What percentage of participants had redness, swelling, or pain at the injection 
+site within 10 days after being vaccinated ?
+What percentage of participants had fever, headache, tiredness, muscle pain, or 
+joint pain within 7 days after being vaccinated ?
+What significant medical problems did participants have within 1 month after 
+being vaccinated ?
+Did participants have any newly diagnosed chronic medical problems or any 
+serious medical problems within 6 months after being vaccinated ? 
+WHAT HAPPENED DURING THE STUDY?
+This study included 3 different age ranges of participants to learn about the safety and 
+about the antibody response to 20vPnC . The main age range studied was participants 
+60 years old and above.  The vaccines used in this study included 20vPnC, 13vPnC, 
+PPSV23, and salt water (saline) placebo.  A placebo is given in the same way as the 
+vaccines used in study but does n ot have active ingredients.  20vPnC and 13vPnC 
+looked the same; however, the saline and PPSV23 looked different and were injected 
+by staff that were not involved in other aspects of the study. Participants were asked 
+to turn their heads when the PPSV23 or saline was injected so they would not know 
+which one they had received.  
+Participants were checked (screened) to make sure they were a good fit for the study.  
+This study included adult men and women who:
+Were at least 18 years old
+Were considered to be healthy or with stable chronic disease by the study 
+doctors
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+4Did not have a disease or take medicine that would be associated with a 
+weakened immune system
+Never received any vaccine for S.pneumoniae
+Never had a disease caused by S.pneumoniae
+Never had a severe medical problem caused by a vaccine or an allergic reaction 
+to any of the components in the vaccines used in this study
+Participants of 3 different age ranges were entered into the study.
+60 years of age and older ( 3009 participants)
+50 through 59 y ears of age (445 participants)
+18 through 49 years of age (44 8participants)
+Next, participants in the 3 age ranges were assigned to vaccine groups by chance 
+alone, and received the following vaccinations :
+60 years and older :  
+Vaccine Group 1: 20vPnC at Visit 1 and placebo at Visit 2 one month later 
+(1507participants)
+Vaccine Group 2: 13vPnC at Visit 1 and PPSV23 at Visit 2 one month later 
+(1490participants )
+50 through 59 years of age:
+Vaccine Group 1: 20vPnC at Visit 1 (33 4participants)
+Vaccine Group 2: 13vPnC at Visit 1 (111 participants)
+18 through 49 years of age: 
+Vaccine Group 1: 20vPnC at Visit 1 (335 participants)
+Vaccine Group 2: 13vPnC at Visit 1 (112 participants)
+This was a “randomized” study, which means that participants were assigne d to 
+groups based on chance alone.  Randomization is done to make the groups similar so 
+that differences in antibody response or safety are most likely due to the different 
+vaccines p articipants received.   
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+5This study was also “double -blinded”.  This means that participants and study staff 
+members who administered the vaccine did not know who was given which vaccine.  
+This was done to make sure that the study results were not influenced in any way.
+Participants 60 years of age and older were expected to par ticipate in 3 study visits.   
+At the first visit, blood samples were collected first and then participants received 
+either 20vPnC or 13vPnC.  The second visit was done about 1 month after the first 
+visit. Blood samples were collected before the participants received either saline 
+placebo or PP SV23, and they were checked for medical problems.  The third visit was 
+done about 1 month after the second visit.  Blood samples were collected and 
+participants were asked about medical problems.
+Participant s 18 to 59 years of age were expected to participate in 2 study visits.  At the 
+first visit, blood samples were collected first and then participants received either 
+20vPnC or 13vPnC.  The second visit was done about 1 month after the first visit. 
+Blood s amples were collected and participants were asked about medical problems.
+All participants were also contacted over the phone about 6 months after Visit 1.  The 
+participants were asked about medical problems and whether they had received any 
+other vaccines besides the study vaccines.
+The figure on the following page shows what happened during the study .
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+6
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)7While participants were in this study for about 6 months, the entire study took more 
+than a year to complete as participants entered the study at different times.  The 
+Sponsor ran this study at 61 locations in the United States and Sweden.  It began 
+12December 2018 and ended 16 December 2019.  1558 men (40%) and 2331 women 
+(60%) received the study vaccines .  All participants were between the ages of 18 and 
+91years. 
+Of the 3902 participants who joined the study, 3690 (95%) completed it.  A total of 
+212 participants (5%) left the study early. The most common reasons for leaving early 
+were the participant's choice or because a doctor decided it was best for them to stop 
+the study.
+Throughout the course of the study, the Sponsor reviewed the data. When the study 
+ended in December 2019 and after antibody testing was completed, the Sponsor then 
+created a report of the results.  This is a summary of that report .
+WHAT WERE THE RESULTS OF THE STUDY?
+For the 13 components found in both 13vPnC and 20vPnC,
+did participants aged 60 or older who received 20vPnC have 
+antibody responses that were within a range considered to 
+be comparable (noninferior) to those who received 13vPnC?
+To evaluate antibody response, the researchers measured the amount of antibodies in 
+participants’ blood 1 month after being vaccinated with 13vPnC or 20vPnC.   
+The researchers found that antibody levels for each of these 13 vaccine components 
+in participants after 20vPnC wer e within a range considered to be comparable 
+(noninferior) to those in participants after 13vPnC.  Therefore, the participants who 
+received 20vPnC had comparable antibody responses to the participants who received 
+13vPnC. Based on these results, the resea rchers have decided that the results are not 
+likely the result of chance.  20vPnC may be an option for preventing S.pneumoniae 
+diseases.
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+8For the 7 additional components found in both PP SV23 and 
+20vPnC, did participants aged 60 or older who received 
+20vPnC have antibody responses that were within a range 
+comparable to those who received PP SV23?
+To evaluate antibody response, the researchers measured the amount of antibodies in 
+participant s’ blood 1 month after being vaccinated with PPSV23 or 20vPnC .   
+The researchers found that antibody levels for 6 of the 7 additional vaccine 
+components after 20vPnC were within a range considered to be comparable 
+(noninferior) to those in participants af ter PP SV23.  Therefore, the participants who 
+received 20vPnC had antibody responses that were comparable to the participants 
+who received PP SV23 for these 6 components, and in fact had higher antibody levels.  
+For 1 of these 7 additional vaccine component s, antibody levels were found to be in a 
+slightly lower range in participants who received 20vPnC compared to those who 
+received PPSV23.  However, the researchers still expected 20vPnC to produce an 
+adequate antibody response for this component. Based on these results, the 
+researchers have decided that the results are not likely the result of chance.  20vPnC 
+may be an option for preventing S.pneumoniae diseases.
+This does not mean that everyone in this study had these results.  Other studies may 
+produce different results, as well.  These are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this
+summary.  
+WHAT MEDICAL PROBLEMS DID 
+PARTICIPANTS HAVE DURING THE STUDY?
+The researchers recorded any significant medical problems the participants had during 
+the study.  Participants could have had medical problems for reasons not related to 
+the study (f or example, caused by an underlying disease or by chance).  Or, medical 
+problems could also have been caused by study vaccine or by another medicine the 
+participant was taking.  Sometimes the cause of a medical problem is unknown.  By 
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+9looking at significan t medical problems across many treatment groups in many 
+studies, doctors try to understand what the side effects of an experimental drug (in 
+this case experimental vaccine) might be.
+What significant medical problems did participants have 
+within 1 month af ter being vaccinated?
+For participants 60 years of age and older, 314 out of 2997 (10%) had at least 1 
+significant medical problem within 1 month after being vaccinated with 20vPnC or 
+13vPnC, including 148 out of 1507 (10%) participants in Vaccine Group 1 and 
+166out of 1490 (11%) participants in Vaccine Group 2 .  11participants (1%) in 
+Vaccine Group 1 and 8 participants (1%) in Vaccine Group 2 left the study due to 
+medical problems.  The table below shows the most common significant medical 
+problems in the participants 60 years of age and older .
+Most Common Significant Medical Problems (Reported by 
+At Least 4 Participants in a Group) 1 Month After 20vPnC or 
+13vPnC –60 Years of Age and Older
+Vaccine Group 1
+20vPnC + Placebo
+(1507Participants)Vaccine Group 2
+13vPnC + PP SV23
+(1490Participants) 
+Infection of the nose, 
+throat, and airways12 (1%) 8 (1%)
+Joint pain 6 (less than 1%) 1 (less than 1%)
+Fall 5 (less than 1%) 7 (less than 1%)
+Cough 5 (less than 1%) 5 (less than 1%)
+Viral infection 5 (less than 1%) 0 (0%)
+Sinus infection 4 (less than 1%) 6 (less than 1%)
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+10Inflammation of the 
+tubes that carry air to 
+the lungs4 (less than 1%) 3 (less than 1%)
+Common cold 2 (less than 1%) 7 (less than 1%)
+Diarrhea 2 (less than 1%) 4 (less than 1%)
+Tiredness 2 (less than 1%) 4 (less than 1%)
+High blood pressure 1 (less than 1%) 7 (less than 1%)
+Lung disease that 
+causes breathing 
+problems0 (0%) 4 (less than 1%)
+Acid reflux disease 0 (0%) 4 (less than 1%)
+For participants 50 through 59 years of age, 43 out of 445 (10%) had at least 1 
+significant medical problem within 1 month after being vaccinated, including 34 out 
+of 334 (10%) participants in Vaccine Group 1 and 9 out of 111 (8%) participants in 
+Vaccine G roup 2.  The table below shows the most common significant medical 
+problems in participants 50 through 59 years . 
+Most Common Significant Medical Problems (Reported in At 
+Least 4 Participants in a Group )1 Month After 20vPnC or 
+13vPnC –50 to 59 Years of Age
+Vaccine Group 1
+20vPnC 
+(334Participants)Vaccine Group 2
+13vPnC
+(111 Participants) 
+Infection of the nose, 
+throat, and airways4 (1%) 3 (3%)
+Fall 4 (1%) 0 (0%)
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+11For participants 18 through 49 years of age, 64 out of 447 (14%) had at least 1 
+significant medical problem within 1 month after being vaccinated, including 51 out 
+of 335 (15%) participants in Vaccine Group 1 and 13 out of 112 (1 2%) participants in 
+Vaccine Group 2.  The table below shows the most common significant medical 
+problems in participants 18 through 49 years of age. 
+Most Common Significant Medical Problems (Reported in At 
+Least 4 Participants in a Group )1 Month After 20vPnC or 
+13vPnC –18 to 49 Years of Age
+Vaccine Group 1
+20vPnC 
+(335 Participants)Vaccine Group 2
+13vPnC
+(112 Participants) 
+Infection of the nose, 
+throat, and airways7 (2%) 1 (1%)
+Flu 7 (2%) 1 (1%)
+Common cold 6 (2%) 2 (2%)
+No participants 59 years of age and younger left the study due to medical problems .
+What percentage of participants had redness, swelling, or 
+pain at the injection site within 10 days after being 
+vaccinated?
+The percentage of participants with redness, swelling, or pain at the injection site 
+within 10 days after being vaccinated was similar for both vaccine groups in each age 
+range.  The tables on the following page show the percentage of participants with 
+these reactions .
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+12Percentage of Participants With Redness, Swelling, or Pain at 
+Injection Site Within 10 Days After Being Vaccinated with 
+20vPnC or 13vPnC –60 Years of Age and Older
+Vaccine Group 1
+20vPnC + Placebo
+(1505 Participants)Vaccine Group 2
+13vPnC + PP SV23
+(1483 Participants) 
+Redness at injection 
+site110 (7%) 92 (6%)
+Swelling at injection 
+site113 (8%) 118 (8%)
+Pain at injection site 834 (55%) 803 (54%)
+Percentage of Participants with Redness, Swelling, or Pain at 
+Injection Site Within 10 Days After Being Vaccinated with 
+20vPnC or 13vPnC –50 to 59 Years of Age
+Vaccine Group 1
+20vPnC 
+(331 Participants)Vaccine Group 2
+13vPnC
+(111 Participants) 
+Redness at injection
+site27 (8%) 6 (5%)
+Swelling at injection 
+site29 (9%) 12 (11%)
+Pain at injection site 240 (73%) 77 (69%)
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+13Percentage of Participants with Redness, Swelling, or Pain at 
+Injection Site Within 10 Days After Being Vaccinated with 
+20vPnC or 13vPnC –18 to 49 Years of Age
+Vaccine Group 1
+20vPnC 
+(335 Participants)Vaccine Group 2
+13vPnC
+(112 Participants) 
+Redness at injection 
+site30 (9%) 11 (10%)
+Swelling at injection 
+site39 (12%) 14 (13%)
+Pain at injection site 272 (81%) 92 (82%)
+What percentage of participants had fever, headache, 
+tiredness, muscle pain, or joint pain within 7 days after 
+being vaccinated?
+The percentage of participants with fever, headache, tiredness, muscle pain, or joint 
+pain within 7 days after being vaccinated was similar for both vaccine groups in each 
+age range.  A fever is a body temperature that is 38.0 degrees Celsius or higher 
+(100.4 degrees Fahrenheit or higher).  The tables on the following page show the 
+percentage of participants with these reactions.
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+14Percentage of Participants With  Fever, Headache, Tiredness, 
+Muscle Pain, or Joint Pain Within 7 Days After Being 
+Vaccinated with 20vPnC or 13vPnC –60 Years of Age and 
+Older
+Vaccine Group 1
+20vPnC + Placebo
+(1505 Participants)Vaccine Group 2
+13vPnC + P PSV23
+(1483 Participants) 
+Fever 14 (1%) 12 (1%)
+Tiredness 454 (30%) 455 (3 1%)
+Headache 324 (22%) 345 (23%)
+Muscle pain 588 (39%) 553 (37%)
+Joint pain 190 (13%) 203 (14%)
+Percentage of Participants With Fever, Headache, Tiredness, 
+Muscle Pain, or Joint Pain Within 7 Days After Being 
+Vaccinated with 20vPnC or 13vPnC –50 to 59 Years of Age
+Vaccine Group 1
+20vPnC 
+(331 Participants)Vaccine Group 2
+13vPnC
+(111 Participants) 
+Fever 5 (2%) 1 (1%)
+Tiredness 130 ( 39%) 40 (36%)
+Headache 107 (32%) 40 (36%)
+Muscle pain 165 (50%) 55 (50%)
+Joint pain 51 (15%) 23 (21%)
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+15Percentage of Participants With Fever, Headache, Tiredness, 
+Muscle Pain, or Joint Pain Within 7 Days After Being 
+Vaccinated with 20vPnC or 13vPnC –18 to 49 Years of Age
+Vaccine Group 1
+20vPnC 
+(335 Participants)Vaccine Group 2
+13vPnC
+(112 Participants) 
+Fever 4 (1%) 2 (2%)
+Tiredness 143 (43%) 49 (44%)
+Headache 130 (39%) 38 (34%)
+Muscle pain 223 (67%) 83 (74%)
+Joint pain 45 (1 3%) 20 (18%)
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.   
+Did participants have any newly diagnosed chronic medical 
+problems or any serious medical problems within 6 months 
+after being vaccinated?
+There were 69 participants 60 years of age and older (2%) with newly diagnosed 
+chronic medical problems within 6 months after being vaccinated , including 34 out of 
+1507 (2%) participants in Vaccine Group 1 and 35 out of 1490 (2%) participants in 
+Vaccine Group 2 .  
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+16There were 2 participants 50 through 59 years of age (less than 1%) who had newly 
+diagnosed chronic medical problems within 6 months after being vaccinated, 
+including 1 out of 334 (less than 1%) participants in Vaccine Group 1 and 1 out of 
+111 (1%) participants in Vaccine Group 2 .
+There were 2 participants 18 through 49 years of age ( less than 1%) who had newly 
+diagnosed chronic medica l problems within 6 months after being vaccinated, 
+including 2 out of 335 (1%) participants in Vaccine Group 1 and 0 out of 112 (0%) 
+participants in Vaccine Group 2.   
+In participants 60 years of age and older, 65 out of 2997 ( 2%) had serious medical 
+probl ems within 6 months after being vaccinated , including 36 out of 1507 (2%) 
+participants in Vaccine Group 1 and 29 out of 1490 (2%) participants in Vaccine 
+Group 2 .  None of the serious medical problems were thought to be related to the 
+study vaccine by the study doctors.  One participant 60 years of age or older died 
+during this study.  This death was not considered to be related to the study vaccine . 
+In participants 50 through 59 years of age, 2 out of 445 (less than 1%) had serious 
+medical problems within 6months after being vaccinated ,including 1 out of 334 (less 
+than 1%) participants in Vaccine Group 1 and 1 out of 111 (1%) participants in 
+Vaccine Group 2 .None of the serious medical problems were thought to be related 
+to the study vaccine by the stud y doctors. No participants 50 through 59 years of age 
+died during this study.  
+In participants 18 through 49 years of age, 3 out of 447 (1%) had serious medical 
+problems within 6 months after being vaccinated , including 2 out of 335 (1%) 
+participants in Vaccine Group 1 and 1 out of 112 (1%) participants in Vaccine 
+Group 2. None of the serious medical problems were thought to be related to the 
+study vaccine by the study doctors. No participants 18 through 49 years of age died 
+during this study.  
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)
+17www.c linicaltrials.gov Use the study identifier NCT03760146
+www.clinicaltrialsregister.eu Use the study identif ier 2018-004279 -11
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients.  Further clinical trials with 20vPnC are 
+planned.
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e194d66610\Approved\Approved On: 23-Sep-2020 07:13 (GMT)

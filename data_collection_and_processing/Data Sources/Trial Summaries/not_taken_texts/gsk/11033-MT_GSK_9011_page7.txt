@@ -1,0 +1,5 @@
+For readers of this document in text form, the websites associated with the hyperlinks above are:
+EudraCT summary:
+https://www.clinicaltrialsregister.eu/ctr-search/search?query=2018-001986-18
+US NIH/clinicaltrials.gov:
+https://clinicaltrials.gov/ct2/show/NCT03954743

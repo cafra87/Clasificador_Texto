@@ -1,0 +1,25 @@
+Which medicines were studied?
+During the study, patients were included in one of the following two treatment groups
+by chance (randomisation). The patients switched the ESA, which they were previously
+taking, with the study medicine(s) as shown in the figure below.
+Medicines used in the study
+Each patient received:
+1. Daprodustat tablet once daily*
+Daprodustat
+2. Placebo (containing no active medicine) into a vein
+(intravenously [IV]) once a week
+Each patient received:
+Darbepoetin
+1. Placebo tablet once daily
+alfa
+2. Darbepoetin alfa IV once a week**
+*Daprodustat was given as 4 milligram (mg) tablet for the first four weeks, the dose
+could be raised or lowered every four weeks thereafter (dose ranged from 1 mg to
+24 mg) to maintain the patient’s Hgb levels within a target Hgb range#.
+**Darbepoetin alfa starting dose varied depending on which ESA a patient was
+previously taking. At Week 2, the dose ranged from 10 micrograms (mcg) to 60
+mcg. It could be raised or lowered every two weeks to maintain the patient’s Hgb
+levels within a target Hgb range#.
+#Target Hgb range = 10.0 to 12.0 grams per decilitre (g/dL).
+Neither patients nor study doctors knew who was receiving which treatment. This is
+called a double-blind study.

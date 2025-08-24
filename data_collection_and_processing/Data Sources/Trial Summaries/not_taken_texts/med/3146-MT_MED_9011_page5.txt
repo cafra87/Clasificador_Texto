@@ -1,0 +1,31 @@
+Clinical Study Results
+Did MEDI0382 help lower the participants’ blood sugar levels?
+Yes. Overall, the researchers found that the participants who got MEDI0382 had a greater
+decrease in their blood sugar levels compared to the participants who got the placebo.
+To answer this question, the researchers measured the participants’ blood sugar levels before
+they got treatment and throughout the study. Then, they compared the measurements before
+treatment to the measurements after 1 month of treatment. The blood sugar levels were
+measured in milligram hours per deciliter, also called mg*h/dL.
+Overall, the researchers found that after 1 month of study treatment:
+• The participants who got MEDI0382, metformin, and dapagliflozin had an average decrease in their
+blood sugar levels of 151.3 mg*h/dL. This was an average decrease of 22.0%.
+• The participants who got the placebo, metformin, and dapagliflozin had an average decrease in their
+blood sugar levels of 14.6 mg*h/dL. This was an average decrease of 0.4%.
+The figure below shows these results.
+Average decrease in blood sugar levels
+MEDI0382,
+metformin, and Placebo, metformin,
+dapagliflozin and dapagliflozin
+0
+)Ld/h*gm(
+14.6 mg*h/dL
+-40
+(0.4% decrease)
+-80 esaerced
+-120
+egarevA
+-160
+151.3 mg*h/dL
+(22.0% decrease)
+-200
+5

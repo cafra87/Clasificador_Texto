@@ -1,0 +1,13 @@
+Plain Title: 
+Understanding If a Dementia Medication Can Help With Autism-Related Symptoms in Kids 
+
+Rationale:
+Autism is a condition that shows up early in childhood and affects about 1% to 2% of children. This condition makes it difficult for children to communicate and interact socially and can lead to repeated behaviors that limit the child's life. Autism can make school difficult and affect a child's relationships with others. Researchers believe that a drug called memantine, usually used in treating dementia, could help reduce autism symptoms and potentially improve hyperactive behavior and language issues. This study aimed to gather and review evidence on whether memantine effectively alleviates autism symptoms.
+
+Trial Design:
+For this study, the researchers looked at studies from nine different databases and trial registers up until February 2022. They focused on studies where memantine was tested against a placebo (a treatment with no active effects) in people diagnosed with autism. The researchers also included studies where all participants received additional treatments like behavioral intervention, but only one group received memantine. The study involved three trials with 204 participants, most of whom were kids and teens (average age of about 9.4 years). Most were boys, and their autism diagnosis was confirmed using different recognized methods. The dosage of memantine given was based on each child's weight and ranged from 3 mg to 15 mg per day.
+
+Results:
+The study did not find strong evidence that memantine makes a significant difference in treating the core symptoms of autism. The trials did not show evidence of significant improved language, memory, behavior, hyperactivity, or irritability in children taking memantine compared to those given a placebo.  Also, while side-effects were noted, they were determined to be unrelated to the treatment. 
+
+The researchers concluded that it is uncertain whether memantine can effectively treat autism symptoms in children. The studies included did not examine the effects of memantine on adults with autism. The study recommends that future research should use more rigorous methods, larger groups of people, and consider results that are meaningful for individuals with autism and their families to understand the potential effects of memantine on autism better.

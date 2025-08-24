@@ -1,0 +1,9 @@
+Plain Title: Antibiotic Treatment for Community-Acquired Pneumonia
+
+Rationale: Community-acquired pneumonia (CAP) is a lung infection caused by different types of germs. Doctors usually give antibiotics to treat CAP, but it's not clear if these antibiotics should cover all types of germs, or only certain ones. We need to find out if giving antibiotics that cover all types of germs is better or worse for patients. 
+
+Trial Design: This study was designed to see if antibiotics that cover all types of germs are better than antibiotics that cover only certain types. The study included adults who were hospitalized for CAP. They were randomly given either antibiotics that cover all types of germs or antibiotics that cover only certain types. The study lasted for a certain period of time.
+
+Results: We looked at 28 different studies with a total of 5,939 patients. Most of the studies gave antibiotics that cover all types of germs as the only treatment, except for a few studies that combined it with another antibiotic. We found that there was no difference in the number of deaths between the two groups. Antibiotics that cover all types of germs did not show a clear advantage in treating CAP. 
+
+Conclusion: This study shows that it doesn't make a difference if antibiotics cover all types of germs or only certain ones when treating CAP. This conclusion is based on comparing one type of antibiotic to another. We suggest that more studies should be done comparing different combinations of antibiotics to find the best treatment for CAP.

@@ -1,0 +1,14 @@
+Background
+There is a wide geographical variation in the prevalence of asthma and observational studies have suggested that dietary sodium may play a role. 
+Objectives
+To assess the effect of dietary sodium manipulation on asthma control.
+Search methods
+We carried out a search using the Cochrane Airways Group asthma register. We searched the bibliographies of included randomised controlled trials (RCTs) for additional studies. We carried out the most recent search in November 2010. 
+Selection criteria
+We considered only RCTs that involved dietary sodium reduction or increased sodium intake in patients with asthma. 
+Data collection and analysis
+Both review authors assessed study and extracted data. We conducted data analyses in RevMan 5 using mean differences and random effects. 
+Main results
+We identified a total of nine studies in relation to sodium manipulation and asthma, of which five were in people with asthma (318 participants), and four in people with exercise‐induced asthma (63 participants). There were no significant benefits of salt restriction on the control of asthma. There was some evidence from the exercise‐induced asthma studies that a low sodium diet may improve lung function after exercise and possibly baseline lung function, but this is based on findings from a very small numbers of participants. 
+Authors' conclusions
+This review did not find any evidence that dietary sodium reduction significantly improves asthma control. Although dietary sodium reduction may result in improvements in lung function in exercise‐induced asthma, the clinical significance of this effect is unclear. 

@@ -1,0 +1,16 @@
+Plain Title: Evaluating the Benefits and Risks of Osteotomy for Knee Osteoarthritis
+
+Rationale: 
+Osteoarthritis of the knee is a condition that causes pain and dysfunction in patients. Unicompartmental osteoarthritis in particular affects a specific part of the knee joint. Osteotomy is a treatment option that aims to relieve the burden of the disease on the knee joint. This study was conducted to assess the benefits and potential harms of osteotomy as a treatment for knee osteoarthritis. The main goal was to compare different treatment outcomes such as pain and function scores, quality of life, serious adverse events, mortality, and reoperation rate. This study was necessary to determine if osteotomy is a viable option for patients with knee osteoarthritis and if it is more effective than other treatments.
+
+Trial Design:
+The study design involved reviewing previous research studies on osteotomy for knee osteoarthritis. The researchers searched various databases for relevant studies published until November 2013. They specifically looked for randomized and controlled clinical trials that compared osteotomy with other treatments for patients with unicompartmental osteoarthritis of the knee. The researchers analyzed the selected studies, including patient population information and the duration of the study.
+
+Results:
+A total of 21 studies involving 1065 people were included in this update, with the addition of eight new studies. The analysis of these studies revealed interesting findings. When comparing different osteotomy techniques, the closing wedge high tibial osteotomy (CW-HTO) group had a slightly higher pain score compared to the alternative high tibial osteotomy (aHTO) group, but this finding was not statistically significant. There were no significant differences in function scores, health-related quality of life, or mortality between the two groups. However, the reoperation rate was higher in the aHTO group compared to the CW-HTO group, indicating a need for further procedures. 
+
+Furthermore, two studies compared high tibial osteotomy with unicompartmental knee replacement. Both groups had similar treatment failure rates, pain, and function scores after a mean follow-up of 7.5 years. The osteotomy group experienced slightly more adverse events, but this difference was not statistically significant. No data on health-related quality of life and mortality were provided. 
+
+It is important to note that no study compared osteotomy with conservative treatment, and few studies reported significant differences in perioperative or postoperative conditions after high tibial osteotomy.
+
+Based on the analyzed evidence, the conclusion remains the same as the previous review: valgus high tibial osteotomy can alleviate pain and enhance knee function in patients with medial compartmental osteoarthritis of the knee. However, this conclusion is based on comparisons within the same treatment method and not on non-operative controls. The evidence does not show any significant differences between different osteotomy techniques. It also does not provide enough information to determine if osteotomy is more effective than other surgical treatments or non-operative approaches. Therefore, more research is needed to determine the overall benefits of specific high tibial osteotomy techniques for knee osteoarthritis.

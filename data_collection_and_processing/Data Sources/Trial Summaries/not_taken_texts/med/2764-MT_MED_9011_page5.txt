@@ -1,0 +1,39 @@
+Clinical Trial RESULTS
+How much RDEA3170 was in participants’ blood after each dose?
+In Part 1 and 2 of the study, researchers measured the highest amount of RDEA3170 in participants’ blood in
+nanograms per milliliter. The highest amount of RDEA3170 in participants’ blood depended on which dose
+they took.
+Researchers also measured the amount of time it took for RDEA3170 to reach the highest amount in
+participants’ blood. The median time is the amount of time halfway between the shortest time and the longest
+time it took for RDEA3170 to reach the highest amount in the blood. The median time for RDEA3170
+to reach the highest amount in participants’ blood was 4 hours after single doses of 4.5, 6, and 12 mg
+RDEA3170.
+In Part 1 of the study, researchers took blood samples on Days 1, 5, and 9 about 30 minutes before
+participants took RDEA3170. Then, more blood samples were taken every few hours each day until they were
+discharged from the clinical research unit.
+The figure below shows the median time RDEA3170 took to reach the highest amount in the blood and the
+highest amount of RDEA3170 in participants’ blood after single doses of 4.5, 6, and 12 mg RDEA3170.
+Highest amount of RDEA3170 in the blood and median time to reach the highest
+amount in the blood after single doses of 4.5, 6, and 12 mg RDEA3170
+30 4 hours
+doolb
+28.6
+25 )retilillim
+eht
+20 ni
+0713AEDR
+rep
+15 4 hours
+4 hours smargonan(
+13.4
+10 11.8
+fo
+tnuomA
+5
+0
+4.5 mg 6 mg 12 mg
+RDEA3170 RDEA3170 RDEA3170
+In Part 2 of the study, researchers took blood samples on Days 1 and 7 about 30 minutes before participants
+took RDEA3170. Then, more blood samples were taken every few hours for 1 day after the participants took
+RDEA3170.
+5

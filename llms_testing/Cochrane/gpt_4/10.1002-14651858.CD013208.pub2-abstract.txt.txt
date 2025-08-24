@@ -1,0 +1,13 @@
+1. Plain Title: 
+How Accurate and Quicker Tests for HIV at Patient's Side Compare to Lab-based Tests?
+
+2. Rationale: 
+People living with HIV (PLHIV) need frequent check-ups to see how well their drugs (antiretroviral therapy or ART) are working. This involves measuring how much virus is present in the body, known as viral load (VL). Standardly, clinics send blood samples to main labs for testing and then wait for the results, which takes time and is complex. However, there's a new type of quick-check test that can be done right beside the patient at the health center. These tests could save time and money, and might be able to replace the lab tests. This study was done to find out how good these patient-side tests are at picking up high levels of HIV virus in people's bodies.
+
+3. Trial Design: 
+We looked for all the studies we could find that compared these two types of VL tests. We didn't care about the patients' age, gender, or where they lived, though they had to be PLHIV receiving care or follow-up. We excluded studies that didn't give enough data or studies that used healthy controls. We got information from each study, looked at how well done it was, and used some math models to find out the overall accuracy of the patient-side tests. Our main test standard was whether the patient-side tests could pick up VL of 1000 copies/mL or more since this is a common cut-off point used by the WHO.
+
+4. Results: 
+We found 18 studies and used data from 14 of them in our final analysis because they looked at the right VL cut-off point for us. These 14 studies, in total, included 8659 people. All these studies defined a high viral load as 1000 or more copies/mL. Most of the tests used were commercially available and they were given to patients at health centers, some at a lab close to the patient, some at a main lab. For this WHO cut-off point, the overall accuracy of the patient-side VL test was very high - it found high VL correctly 96.6 percent of the time and gave a correct negative result 95.7 percent of the time. 
+
+We concluded that these patient-side VL tests seem to be very good at catching high VL in PLHIV who are getting health care. They can do this quickly and accurately, which could be helpful for ABHIV getting care.

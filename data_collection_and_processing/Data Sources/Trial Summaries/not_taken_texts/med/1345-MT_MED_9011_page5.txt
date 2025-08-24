@@ -1,0 +1,46 @@
+Clinical Trial Results
+Highest amount of AZD7594 in the blood
+Researchers measured the highest amount of AZD7594 in participants’ blood in picomoles per
+liter of blood (pmol/L). The figure below shows this amount for the 3 AZD7594 treatments.
+Highest amount of AZD7594 in the blood (16 participants)
+198.0
+200
+168.0
+161.9
+160 4957DZA
+)L/lomp(
+120
+fo
+tnuoma doolb
+80
+eht
+tsehgiH
+ni
+40
+0
+Large particles Medium particles Small particles
+How long it took for AZD7594 to reach its highest amount in the blood
+Researchers measured how long it took in hours (h) for AZD7594 to reach its highest amount in
+the blood. The figure below shows this amount of time for the 3 AZD7594 treatments.
+How long it took for AZD7594 to reach its highest amount
+in the blood (16 participants)
+1.00
+hcaer
+)h(
+doolb
+ot
+0.75
+4957DZA
+0.63
+eht
+ni
+0.49
+0.50 rof tnuoma
+koot
+tsehgih
+0.25 ti
+0.25 gnol
+woH sti
+0
+Large particles Medium particles Small particles
+5

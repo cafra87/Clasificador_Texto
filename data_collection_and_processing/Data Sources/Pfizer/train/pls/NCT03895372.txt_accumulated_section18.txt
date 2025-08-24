@@ -1,0 +1,18 @@
+What is moderate to severe plaque psoriasis?
+Moderate to severe plaque psoriasis is a skin disease characterized by red, scaly, raised patches (plaques) that may itch or burn. Moderate to severe plaque psoriasis can greatly affect the quality of life for patients.
+In clinical trials, psoriasis is measured using a tool called Psoriasis Area and Severity Index (PASI). PASI measures plaque psoriasis using the following items:
+- Amount of the body (body surface area [BSA]) that has patches (plaques)
+- Redness of patches
+- Thickness of patches
+- Level (degree) of scaling (extra flaky skin)
+What is PF-06826647?
+The study medication, PF-06826647, is a medication that researchers think may help with moderate to severe plaque psoriasis. PF-06826647 blocks a small protein (called tyrosine kinase 2; TYK2) that may cause inflammation and skin patches. When there are too many TYK2 proteins, inflammation and skin patches develop, as seen in psoriasis.
+What was the purpose of this study?
+- The primary purpose of this study was to compare the efficacy of multiple dose levels of PF-06826647 versus placebo. Efficacy means how well a drug improves a disease or condition. This study measured the proportion (how many out of the total) of participants with moderate to severe plaque psoriasis who had a reduction in their patches by 90% (90 out of 100) from the beginning of the study to Week 16. This measurement is called PASI90 (that means 90% or more PASI score reduction) for this study.
+- This study compared the effects of the study drug, PF-06826647, or a placebo to find out which improves moderate to severe plaque psoriasis.
+- Other purposes of this study were to provide additional safety and pharmacokinetic (PK) data. PK data means what amount of PF-06826647 was in the blood at various times.
+- Previous studies of PF-06826647 showed adequate safety and improvement of plaque psoriasis to support progression into additional clinical trials requiring longer-term therapy. This study explored whether an oral tablet containing PF-06826647 improves the signs and symptoms of moderate to severe psoriasis.
+- A placebo was used as the comparator to the study drug. A placebo does not have any medicine in it, but it looks just like the study medicine.
+How was the study done? Researchers tested PF-06826647 in groups of study participants during 2 periods of time: an Investigational Treatment Period (Weeks 0-16) and an Extension Treatment Period (Weeks 16 -40). 
+- Participants were randomized to receive placebo or 1 of 4 doses of study medication (PF-06826647, oral daily dose of 50 mg, 100 mg, 200 mg, or 400mg) during the Investigational Treatment Period for up to 16 weeks. Randomization means that participants were assigned to a treatment group by chance. Twice as many participants were assigned to the placebo, PF-06826647 200 mg, or PF-06826647 400 mg groups compared to the PF-06826647 50 mg or PF-06826647 100 mg groups.
+- During the Investigational Treatment Period, the study participants and researchers did not know who took PF-06826647 or who took the placebo. This is known as a “blinded” study. Study participants were assigned to each group by chance alone. The treatment doses in the Extension Treatment Period were also randomized and blinded.

@@ -1,0 +1,13 @@
+1. Plain Title
+Testing for HIV in Infants and Young Children Quickly at the Doctor's Office
+
+2. Rationale
+HIV is a serious disease that can be present in infants and children under 18 months. This disease can lead to severe health problems if not identified and treated early. Currently, doctors use a specific laboratory test, which is the gold standard to check for HIV. However, getting the test done and receiving the results can take time, especially in places where access to good healthcare or logistics are a challenge. Because of these issues, it's important to find a quicker way to test for HIV in young children. This study looked at using a faster, easier test, which can be done right at the doctor's office to detect HIV in children.
+
+3. Trial Design
+To figure out if the quick test was accurate, researchers compared the results of the fast test with the results from the usual laboratory test. The study included babies and children 18 months or younger who might have been exposed to HIV. The research gathered data from multiple studies conducted across the world, including a total of 12 studies and over 15,000 cases where this was tested. The testing was done at two different points: during the baby's first beck visit at birth and until they reach 18 months of age.
+
+4. Results
+Overall, it was found that the quick test was able to detect HIV in children accurately. It correctly identified the presence or absence of HIV 98.6 times out of every 100 tests. Also, it accurately said a child did not have HIV 99.9 times out of every 100 tests. These results were the same, even when the tests were conducted in different settings, like a doctor's office or a lab. 
+
+So, the quick test to check for HIV in babies and young children is highly accurate and could be a valuable tool to ensure that HIV can be caught and treated early.

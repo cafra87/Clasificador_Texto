@@ -1,0 +1,18 @@
+Plain Title: Cryotherapy for Liver Metastases: Benefits and Risks
+
+Rationale:
+Liver tumors can be divided into primary liver tumors and liver metastases from colorectal carcinoma. Primary liver cancer is less common than liver metastases, and many patients do not qualify for curative surgery. Cryotherapy is a treatment that involves freezing the tumor tissue using liquid nitrogen or argon gas, damaging the cancer cells.
+
+Trial Design:
+This study aimed to evaluate the effects of cryotherapy compared to no treatment, other ablation methods, or systemic treatments in patients with liver metastases. The study included randomized clinical trials that assessed the benefits and harms of cryotherapy. The trials involved patients with liver metastases, regardless of the primary tumor location. The study used standard methodological procedures and extracted information on participant characteristics, interventions, and important outcomes.
+
+Results:
+No randomized clinical trials were found that compared cryotherapy to no treatment or systemic treatments. However, one trial compared cryotherapy with conventional surgery. The trial included 123 participants with liver metastases. The participants were followed for up to 10 years. The trial reported that the mortality rate at 10 years was 81% in the cryotherapy group and 92% in the conventional surgery group. The evidence was assessed as low-certainty due to potential bias and imprecision.
+
+Regarding adverse events and complications, our analysis showed no difference in the recurrence of liver malignancy between the cryotherapy group and the conventional surgery group. Approximately 86% of participants in the cryotherapy group developed a new malignancy, compared to 95% in the conventional surgery group. The frequency of reported complications was similar between the two groups, except for postoperative pain.
+
+No evidence was found for health-related quality of life, cancer mortality, or time to progression of liver metastases. However, the study reported that the level of carcinoembryonic antigen, a marker for tumor response, was lower in the cryotherapy group compared to the control group.
+
+The evidence for the effectiveness of cryotherapy compared to conventional surgery in patients with liver metastases is of low certainty. It is unclear whether cryotherapy is beneficial or harmful compared to conventional surgery. Additionally, there is no evidence regarding the benefits or harms of cryotherapy compared to no treatment or systemic treatments.
+
+In conclusion, more research is needed to fully understand the benefits and risks of cryotherapy for liver metastases. The current evidence is limited and does not provide a clear answer regarding the effectiveness of cryotherapy as a treatment option.

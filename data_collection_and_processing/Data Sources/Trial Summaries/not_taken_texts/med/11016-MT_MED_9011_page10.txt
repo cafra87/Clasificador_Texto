@@ -1,0 +1,36 @@
+The table below shows the different methods the researchers used to find out if
+dapagliflozin was helping the participants.
+KCCQ-TSS KCCQ-PLS 6MWD
+What does it Kansas City Kansas City 6 Minute Walk Distance
+stand for? Cardiomyopathy Cardiomyopathy
+Questionnaire – Total Questionnaire – Physical
+Symptom Score Limitation Score
+What does it Overall heart failure Physical symptoms How far a person can walk in
+measure? symptoms caused by heart failure 6 minutes
+What does the Answering 7 questions Answering 6 questions The participant walks for 6
+test involve? about overall heart about physical minutes and the study doctor
+failure symptoms symptoms measures how far they walked
+What do the The questionnaires are scored from 0 to 100. A The distance the participant
+scores mean? higher score means fewer heart failure symptoms walked is measured in meters,
+or less severe physical symptoms also called m. A longer
+distance means less impact
+of severe symptoms on the
+participant’s ability to walk
+When were At study site visits or a phone call if a site visit was At study site visits
+these tests not possible due to the COVID-19 pandemic
+done during the
+study?
+Which The participants’ results were only included if they: The participant’s results were
+participants’ • had completed the tests at the start and end of only included if they:
+results were the study, and before the COVID-19 pandemic • had completed the
+included? started, or 6MWD at the start and
+end of the study, or
+• died during the study
+• died during the study
+How did the For all 3 tests, the study doctors compared the participants’ scores at the start
+researchers of the study with their scores 16 weeks after starting study treatment. Then, they
+use these test compared the results between the participants who took dapagliflozin and those
+results in the who took a placebo. To do this, they used a type of average called a median. In a
+study? set of numbers, the median is the middle number between the lowest and highest
+numbers.
+10 | Clinical Study Results

@@ -1,0 +1,46 @@
+Clinical Study Results
+The table below shows the different treatment groups in this study.
+Treatment groups in this study
+AZD1775 Chemotherapy
+Group treatment treatment Cycle length
+Group 1 175 mg of • AZD1775 Gemcitabine for 4 weeks
+(9 participants) AZD1775 once 2 days a week 3 weeks, then no
+a day for 3 weeks chemotherapy for
+1 week
+• No AZD1775
+for 1 week
+Group 2 225 mg of • AZD1775 Paclitaxel for 3 4 weeks
+(38 participants) AZD1775 every 2.5 days a week weeks, then no
+12 hours for 3 weeks chemotherapy for
+1 week
+• No AZD1775 for
+1 week
+Group 3 225 mg of • AZD1775 Carboplatin for 3 weeks
+(23 participants) AZD1775 every 2.5 days a week 1 week, then no
+12 hours for 1 week chemotherapy for
+2 weeks
+• No AZD1775 for
+2 weeks
+Group 4 225 mg of • AZD1775 Carboplatin for 3 weeks
+(12 participants) AZD1775 every 2.5 days a week 1 week, then no
+12 hours for 3 weeks chemotherapy for
+2 weeks
+Group 5 175 mg of • AZD1775 • Pegylated 4 weeks
+(6 participants) AZD1775 every 2.5 days a week liposomal
+12 hours for 1 week doxorubicin,
+also called PLD
+• No AZD1775 for
+3 weeks
+• PLD for 1
+week, then no
+chemotherapy
+for 3 weeks
+225 mg of • AZD1775 PLD for 1 4 weeks
+AZD1775 every 2.5 days a week week, then no
+Group 6
+12 hours for 1 week chemotherapy for
+(6 participants)
+3 weeks
+• No AZD1775 for
+3 weeks
+3

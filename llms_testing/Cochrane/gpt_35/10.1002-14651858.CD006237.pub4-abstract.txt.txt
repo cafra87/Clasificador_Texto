@@ -1,0 +1,21 @@
+Plain Title: "Reducing Work Disability in Employees with Depression: What Works?"
+
+Rationale: Depression often leads to work disability, causing individuals to miss work or take sick leave. This study aimed to evaluate the effectiveness of interventions that can help reduce work disability in employees with depressive disorders. The main goal was to find out if these interventions could improve the participants' ability to work and decrease the number of days they had to take off due to illness.
+
+Trial Design: The study included 45 different clinical trials involving 12,109 participants who had either a major depressive disorder or high levels of depressive symptoms. The participants were of different ages and genders. The study lasted for at least one year, during which the participants received work-directed and clinical interventions.
+
+Results: The interventions that combined work-directed and clinical approaches were found to be effective in reducing the number of sick leave days within the first year of follow-up. On average, there were 0.5 fewer sick leave days in the past two weeks or 25 fewer days during the year. However, this intervention did not lead to more people returning to work after one year. It did, however, have a positive impact on reducing depressive symptoms and improving work functioning during the first year.
+
+Specific work-directed interventions alone did not show a significant effect on reducing sick leave days or helping individuals return to work. They also did not have a significant impact on depressive symptoms or work functioning within the first year of follow-up.
+
+Psychological interventions, whether conducted face-to-face or through online platforms with professional guidance, were found to be effective in reducing the number of sick leave days compared to usual care. These interventions also had a positive impact on reducing depressive symptoms. However, their effect on improving work ability was uncertain and requires further investigation.
+
+Combining antidepressant medication with psychological interventions showed uncertain results in reducing sick leave days and depressive symptoms.
+
+Antidepressant medication alone did not show consistent results in reducing sickness absence.
+
+Improving clinical care had mixed results. While it did not lead to fewer sick leave days overall, studies with better research methods showed a reduction in sick leave days in the first year. It also had a positive impact on reducing depressive symptoms but may affect work functioning negatively.
+
+Exercise interventions showed that supervised strength exercise can reduce sick leave days compared to relaxation, but aerobic exercise did not show a significant effect.
+
+In conclusion, a combination of work-directed and clinical interventions is likely to reduce the number of sick leave days and improve work functioning for employees with depression. However, it may not lead to more individuals returning to work after one year. Psychological interventions can help reduce sick leave days and depressive symptoms, while improvements in clinical care can lead to lower sickness absence and better mental health outcomes. Further research is needed to determine the most effective combination of interventions for reducing work disability in employees with depression.

@@ -1,0 +1,17 @@
+A total of 111 patients received at least one dose of the study medicines. The table
+below shows the gender and age of these patients.
+Patients who received at least one dose of the study medicines
+Low-dose triple Low-dose to high-dose High-dose triple
+therapy group triple therapy group therapy group
+47 patients 9 patients 55 patients
+Female 23 (49%) 5 (56%) 36 (65%)
+Male 24 (51%) 4 (44%) 19 (35%)
+Age range
+20 to 74 41 to 66 26 to 78
+(years)
+Average age
+48 48 54
+(years)
+For more detailed information about the patients included in this study, see the
+scientific results summary (a link to the summary is provided at the end of this
+document).

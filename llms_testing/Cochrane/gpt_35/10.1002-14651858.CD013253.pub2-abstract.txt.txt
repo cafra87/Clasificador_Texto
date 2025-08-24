@@ -1,0 +1,9 @@
+Plain Title: Health Education Interventions for Early Detection of Endometrial Cancer
+
+Rationale: Endometrial (womb) cancer is often detected early because it causes abnormal vaginal bleeding, leading women to seek medical help. However, delays in seeking medical advice can result in late diagnosis and management, which can negatively affect treatment outcomes. This is especially a problem for women before and during menopause. Providing educational information about endometrial cancer symptoms to women and healthcare providers can increase awareness and reduce treatment delays.
+
+Trial Design: We searched various databases to find studies that assessed the effectiveness of health education interventions on promoting early detection and referral for women with endometrial cancer symptoms. We planned to include randomized controlled trials (RCTs) and well-designed non-randomized studies if no RCTs were available. However, we did not find any eligible studies.
+
+Results: Our search yielded a large number of references. After screening the titles and abstracts, we excluded most of them as they did not meet our inclusion criteria. We reviewed the full texts of the remaining references but found that none of them met our criteria. We also did not identify any ongoing trials. Therefore, we conclude that there is currently no evidence to support the effectiveness of health education interventions for promoting early detection and referral in women with endometrial cancer symptoms. However, high-quality RCTs are needed to investigate whether these interventions can indeed enhance early presentation and referral. If proven effective, further studies would be required to determine the most effective interventions for reducing treatment delays in endometrial cancer.
+
+Note: The text has been simplified to adhere to plain language guidelines and present the information in an easily understandable manner.

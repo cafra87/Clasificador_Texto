@@ -1,0 +1,33 @@
+Clinical Trial RESULTS
+The figure below shows these results.
+Amount of Study Drugs in the Blood
+40
+C D
+31.4 30.7
+30
+20
+C
+10.9
+D
+10
+C D
+5.9
+C D
+3.6 3.1
+1.3 1.1
+0
+Average amount Highest average Average amount Highest average
+of study drug over amount of study of study drug over amount of study
+time (μg*hr/mL) drug (μg/mL) time (μg*hr/mL) drug (μg/mL)
+Lesinurad Allopurinol
+What medical problems did participants have during
+the study?
+A lot of research is needed to know if a drug causes a medical problem. So when researchers
+study new drugs, they keep track of all the medical problems that participants have during
+the study. These problems are called “adverse events”. They may or may not be caused by
+the study drug.
+During this study, 29 participants (24.4%) had at least one medical problem. Some
+participants had medical problems with both doses they took.
+Three participants were removed from the study because of medical problems that the
+researchers believed were not serious.
+6

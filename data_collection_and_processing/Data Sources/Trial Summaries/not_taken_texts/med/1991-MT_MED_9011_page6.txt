@@ -1,0 +1,23 @@
+Clinical Study Results
+What were the results of the study?
+This is a summary of the main results from this study overall. The results each
+participant had might be different and are not in this summary. A full list of the
+questions the researchers wanted to answer can be found on the websites listed
+at the end of this summary. If a full report of the study results is available, it can
+also be found on these websites.
+Researchers look at the results of many studies to decide which treatments
+work best and are safest. Other studies may provide new information or different
+results. Always talk to a doctor before making any treatment changes.
+Did cediranib and olaparib shrink the participants’ tumors?
+To answer this question, the study doctors took pictures of the participants’
+tumors using CT or MRI scans. The study doctors measured the size of the
+participants’ tumors before they took study treatment and throughout the study.
+To do this, they used a set of rules called Response Evaluation Criteria in Solid
+Tumors, also called RECIST.
+The researchers calculated the percentage of participants whose tumors shrank.
+This percentage of participants needed to be at least 20% for the researchers to
+conclude that cediranib and olaparib shrank the tumors in a meaningful way.
+Out of the 62 participants in the study, there were 2 participants who did not take
+study treatment and 1 participant who did not meet the criteria to be included in
+this calculation. For this reason, the results below include 59 participants.
+6

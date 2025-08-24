@@ -1,0 +1,35 @@
+Study Site Locations
+Study sites were located in 31 countries. The graph below shows how many patients were
+from each country.
+Number of Patients by Country
+Argentina 251
+Australia 24
+Austria 8
+Belgium 6
+Bulgaria 251
+Canada 95
+Chile 150
+Croatia 45
+Czech Republic 24
+Germany 52
+Hungary 132
+Italy 29
+Republic of Korea 97
+Latvia 70
+Lithuania 14
+Malaysia 81
+Mexico 37
+Peru 219
+Philippines 52
+Poland 297
+Romania 8
+Russian Federation 269
+Serbia 130
+Slovakia 2
+South Africa 699
+Spain 17
+Taiwan 93
+Thailand 70
+Ukraine 176
+United Kingdom 33
+United States 2777

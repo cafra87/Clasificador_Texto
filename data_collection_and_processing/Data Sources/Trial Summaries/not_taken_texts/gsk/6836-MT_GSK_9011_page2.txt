@@ -1,0 +1,31 @@
+Overview
+Why was this study done?
+The researchers wanted to learn if changing the manufacturing process for a rotavirus vaccine changes
+how babies respond to 3 common childhood vaccines.
+What was studied? Who was in this study?
+ Babies responses (antibodies) to  1272 healthy American babies (655
+vaccines against common boys and 617 girls)
+childhood diseases: diphtheria,
+tetanus, whooping cough,
+hepatitis B, polio and diseases
+caused by H. influenza and
+pneumococcus were measured.
+ Possible side effects of study
+vaccines.
+What kind of study was it? Main results
+ Randomized: The babies were  All antibodies that were measured
+placed in 2 groups by chance (like were similar in both groups of
+tossing a coin). Each group got 1 babies.
+of the 2 study vaccines.
+ The side effects of the 2 rotavirus
+ Single blind: The study doctor vaccines were similar. Most side
+knew which vaccine the babies effects were those that are
+received. The babies’ typically associated with
+parents/guardians did not. vaccination. This study did not
+raise any safety concerns.
+ Controlled: PCV-free group
+antibody responses were
+compared to current rotavirus
+vaccine antibody responses.
+NCT number: NCT03207750
+EudraCT number: 2016-003210-27

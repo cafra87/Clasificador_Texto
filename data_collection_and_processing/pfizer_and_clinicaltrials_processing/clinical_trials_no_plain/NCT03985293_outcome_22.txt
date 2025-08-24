@@ -1,0 +1,6 @@
+A 16 Week Study to Evaluate the Efficacy and Safety of PF-06882961 in Adults With Type 2 Diabetes Mellitus
+ECG categorical abnormality criteria: 1. PR interval (the interval between the start of the P wave and the start of the QRS complex, corresponding to the time between the onset of the atrial depolarization and onset of ventricular depolarization): a) greater than or equal to (>=) 300 millisecond (msec), b) >=25% increase when baseline is > 200 msec or >=50% increase when baseline is less than or equal to (<=) 200 msec.
+
+2. QRS interval (time from ECG Q wave to the end of the S wave corresponding to ventricle depolarization): a) >=140 msec, b) >=50% increase from baseline.
+
+3. QTcF interval (QT corrected using the Fridericia formula): a) >450 msec and <=480 msec, b) >480 msec and <=500 msec, c) >500 msec, d) >30 msec and <=60 msec increase from baseline, e) >60 msec increase from baseline.

@@ -1,0 +1,11 @@
+Comparing carboplatin‐based chemotherapy with cisplatin‐based chemotherapy in the treatment of people with advanced lung cancer 
+Review question 
+Is carboplatin more effective and less toxic than cisplatin in the treatment of people with advanced non‐small cell lung cancer? 
+Background 
+Lung cancer is the leading cause of cancer death, and more than a half of people found to have the cancer have incurable disease at diagnosis. Non‐small cell is the most common type of lung cancer, corresponding to approximately 85% of all lung cancer cases. Despite recent advances in targeted therapies and immunotherapy, platinum‐based chemotherapy remains a useful and accessible option with well‐established survival benefits for people with advanced non‐small cell lung cancer. Although treatment regimens including cisplatin or carboplatin plus another agent are widely used, they can be associated with undesirable side effects. The aim of this systematic review was to determine which of these two frequently used drugs was more effective and caused fewer side effects. 
+Study characteristics 
+We found 11 trials (including 4046 people) that compared cisplatin with carboplatin, both combined with another modern drug, called a third‐generation drug. 
+Key results 
+The drugs were equally effective at prolonging survival, but the toxicity profile was different. Carboplatin caused a greater decrease in the number of platelets (which control clotting) in the blood. 
+Quality of evidence 
+In this Cochrane review, we found that the quality of evidence was high for overall survival, one‐year survival rate and response rate but moderate quality evidence for the other outcomes measured. 

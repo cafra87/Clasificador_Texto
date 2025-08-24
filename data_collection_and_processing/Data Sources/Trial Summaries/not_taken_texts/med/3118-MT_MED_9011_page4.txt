@@ -1,0 +1,35 @@
+Clinical Study Results
+Overall, the researchers found that:
+Average of the highest INR score that participants had during the study
+• After participants took only warfarin, the average of the highest INR score was about 1.7.
+• After participants took warfarin and MEDI0382 together, the average of the highest INR
+scores was about 1.8.
+Total INR score that participants had over the course of 144 hours
+• After participants took only warfarin, their average total INR score was 184.4.
+• After participants took warfarin and MEDI0382 together, their average total INR score
+was 196.3.
+The figures below show these results.
+Average of the highest INR scores that
+participants had during the study
+3.0
+2.5
+2.0
+1.7 1.8 erocs
+1.5
+RNI
+1.0
+.50
+0
+Warfarin only Warfarin and MEDI0382
+Total INR score over 144 hours
+250
+184.4 196.3
+200
+erocs
+150
+RNI
+100 latoT
+50
+0
+Warfarin only Warfarin and MEDI0382
+4

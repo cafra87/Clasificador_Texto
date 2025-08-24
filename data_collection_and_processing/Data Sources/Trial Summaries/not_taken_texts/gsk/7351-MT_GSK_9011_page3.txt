@@ -1,0 +1,26 @@
+At Week 24, the study doctor assessed patients’ asthma control. Patients taking low-
+dose triple therapy could switch to high-dose triple therapy if their asthma was not well
+controlled. The doctors and patients knew which treatment they received. This is called
+an open-label study.
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Japanese men and women were included in the study if they:
+• Were at least 18 years old.
+• Had been diagnosed with asthma at least one year before starting the
+study.
+• Were taking asthma treatment with medium to high-dose of ICS and
+LABA with or without LAMA for at least four weeks before starting the
+study.
+• Had controlled or not well-controlled asthma as scored using an asthma
+scoring scale.
+Men and women were excluded from the study if they:
+• Had worsened asthma symptoms that required a change in their regular
+asthma medicine within six weeks before starting the study.
+• Had chronic obstructive pulmonary disease or any other lung disease.
+• Were current smokers or former smokers with a history of smoking at
+least 20 cigarettes daily for 10 years.
+• Had pneumonia within six weeks before starting the study.
+• Had a risk of developing pneumonia during the study.
+• Had unstable liver or heart disease or any other disease that the study

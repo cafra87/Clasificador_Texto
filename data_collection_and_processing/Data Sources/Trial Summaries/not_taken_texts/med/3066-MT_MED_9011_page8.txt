@@ -1,0 +1,25 @@
+Did any dose-limiting toxicities happen during the study?
+The researchers found that there were dose-limiting toxicities during the study.
+A dose-limiting toxicity is a medical problem that is serious enough to stop the
+study doctor from increasing a participant’s dose of study treatment or give this or
+higher doses of study treatment to future study participants.
+Overall, the researchers found that there were 10.4% of participants who had
+dose-limiting toxicities. This was 7 out of 67 participants. Some of the participants
+had more than 1 dose-limiting toxicity.
+None of the participants who had AML had dose-limiting toxicities.
+There were 18.2% of participants who had DLBCL who had dose-limiting
+toxicities. This was 4 out of 22 participants. These dose-limiting toxicities were:
+> decrease in the number of platelets in blood, which means the body cannot
+stop bleeding as well as it should
+> decrease in the number of neutrophils
+There were 16.7% of participants who had MM who had dose-limiting toxicities.
+This was 3 out of 18 participants. These dose-limiting toxicities were:
+> decrease in the number of platelets in blood
+> decrease in the number of neutrophils
+> swelling in the prostate
+The researchers studied dose-limiting toxicities because they wanted to find
+the maximum tolerated dose of MEDI7247. This is the highest dose that does
+not result in a high percentage of dose-limiting toxicities. Because there was a
+small number of participants who had dose-limiting toxicities in this study, the
+researchers were not able to find out the maximum tolerated dose for MEDI7247.
+8 | Clinical Study Results

@@ -1,0 +1,25 @@
+Page 4 of 8
+Where was this study done?
+Study sites were in 10 countries.
+Number of participants who received at least one dose
+of the study medicines
+Australia 39
+Belgium 25
+Canada 25
+France 26
+Germany 81
+Japan 11
+Netherlands 5
+Spain 228
+United Kingdom 15
+United States 286
+0 100 200 300
+Number of participants
+What were the main results of the study?
+Study doctors collected blood samples and measured participants’ viral loads.
+The study compared the number of participants in the two treatment groups, who had
+a detectable viral load (50 c/mL or more) at Week 48.
+One of 369 participants (less than 1%) in the DTG and 3TC group and two of
+372 participants (less than 1%) in the TBR group had a detectable viral load at Week 48.
+At Week 48, there were 24 participants (7%) in each treatment group with no results.
+These participants either left the study before or missed the Week 48 visit.

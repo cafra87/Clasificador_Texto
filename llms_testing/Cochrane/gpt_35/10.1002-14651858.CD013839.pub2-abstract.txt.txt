@@ -1,0 +1,12 @@
+Plain Title: Comparing Through-Knee and Above-Knee Amputation for Lower Limb Treatment
+
+Rationale: 
+Diabetes and vascular disease are major causes of lower limb amputation, affecting millions of people worldwide. Amputation at different levels of the leg can impact functional recovery. Through-knee amputation, though less common, may offer potential functional benefits over above-knee amputation. This study aims to assess the effects of both procedures on clinical and rehabilitation outcomes, as well as complication rates, for patients undergoing lower limb amputation.
+
+Study Design:
+This study included a search of various databases to identify randomized controlled trials (RCTs) comparing through-knee amputation and above-knee amputation. Primary outcomes measured were wound healing and prosthetic limb fitting, while secondary outcomes included independent mobility with a prosthesis, quality of life, walking speed, pain, and 30-day survival. Data collection and analysis followed established guidelines. 
+
+Results:
+No RCTs meeting the inclusion criteria were found for this review. Therefore, there is currently no comparative evidence available to determine the outcomes or complication rates of through-knee amputation versus above-knee amputation in patients undergoing lower limb amputation. Medical professionals lack guidance to inform best practice and improve outcomes for patients in this group. Further research is necessary to fill this knowledge gap.
+
+In summary, this study aimed to compare through-knee amputation and above-knee amputation for patients undergoing lower limb amputation. Unfortunately, no randomized controlled trials were found to evaluate the clinical and rehabilitation outcomes or complication rates of these procedures. Future research is needed to provide guidance to healthcare professionals and improve outcomes for patients in this specific population.

@@ -1,0 +1,225 @@
+Clinical Study Results
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to study participants. The results of this study 
+might be different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Talazoparib (PF -06944076, formerly MDV3800)
+Protocol Number: C3441020
+Dates of Study: 27 August 2018 to 23 September 2020
+Title of this Study: Talazoparib For Neoadjuvant Treatment Of Germline 
+BRCA1/2 Mutation Patients With Early Human 
+Epidermal Growth Factor Receptor 2 Negative Breast 
+Cancer
+[A Phase 2, Non -Randomized, Open -Label, 
+Single -Arm, Multi -Center Study of Talazopari b for 
+Neoadjuvant Treatment of Germline BRCA1/2 
+Mutation Patients With Early Human Epidermal 
+Growth Factor Receptor 2 Negative Breast Cancer]
+Date(s) of this Report: 25June 2021
+–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation.
+This summary will describe the study results.  If you have any questions about the 
+study or the results, please contact the doctor or staff at your study site.
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+Why was this study done?
+What is breast cancer?
+Breast cancer is the most common cancer in women.  In 2012, about 1.7 million 
+women were diagnosed with breast cancer and over 522,000 women died due to the 
+disease.  
+Some people carry changes or “mutations” in their DNA in genes called breast cancer 
+susceptibility (BRCA) genes 1 and 2, or “BRCA1” and “BRCA2”.  BRCA gene 
+mutations can be inherited by a child from one of their parents (germline).  When a 
+person’s BRCA1 o r BRCA2 genes contain mutations, it can cause breast cancer.  
+Researchers are looking for treatments for breast cancer patients with BRCA 
+mutations. 
+What is talazoparib?
+Talazoparib (Talzenna®) is known as a PARP inhibitor.  PARP inhibitors aredrugs
+thatarebelieved to inhibit (stop) the normal activity of certain proteins called “Poly 
+(ADP -ribose) polymerases”, also called “PARPs”.  PARPs are proteins (made from 
+genes which are part of DNA) that are found in all normal and cancer cells that are 
+involved in the repair of DNA.  PARPs are needed to repair mistakes that can happen 
+in DNA when cells divide.  If the mistakes are not repaired, the cell will usually die 
+and be replaced.  Cells with mistakes in their DNA (like cells with BRCA1 and 
+BRCA2 gene muta tions) that do not die can become cancer cells.  
+Clinical trials have shown that the use of talazoparib, as well as other PARP inhibitors, 
+may reduce tumor size and slow tumor growth in patients with certain types of cancer 
+with BRCA1 or BRCA2 mutations. Talazoparib is given in a capsule and is taken by 
+mouth once daily at around the same time every day.  
+What was the purpose of this study?
+Talazoparib is now approved in the United States, the European Union, and other 
+countries for the treatment of people with a certain type of breast cancer (human 
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+epidermal growth factor receptor 2 [HER2] -negative), who have an abnormal 
+inherited BRCA gene, and their cancer has spread beyond the original tumor (“locally 
+advanced”) or has spread to other parts of the body (“metastatic”).  This study was 
+done to see if talazoparib treatment followed by surgery could result in a “pathologic 
+complete response” ( complete disappearance of cancer in the breast or underarm 
+lymph node tissues at surgery ) in participants with early breast cancer (original 
+location) who have inherited a BRCA1 or BRCA2 gene mutation in HER2 negative 
+breast cancer.  
+Researchers also wan ted to learn more about the safety of talazoparib.  They 
+monitored the participants for any medical problems that happened while they were 
+in the study.
+What happened during the study?
+How was the study done?
+Participants we re checked (screened) to make sure they were a good fit for the study. 
+Participants received 1 milligram (mg) talazoparib once per day by mouth, for 
+24weeks (participants with kidney disease received a lower dose, 0.75 mg talazoparib).  
+Within 6 weeks of finishing talazoparib treatment, participants had surgery and study 
+doctors took tissue samples to evaluate and remove breast cancer.
+This was an “open -label” study, which means that the participants and doctors knew 
+which treatment and dose they received.   Researchers wanted to know: 
+How many participants had a pathologic complete response 
+(complete disappearance of cancer at surgery) after 24 weeks of 
+treatment with talazoparib followed by surgery? 
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+Participants joined the study and received talazoparib for 24 weeks and were expected 
+to attend a follow -up visit about 4 weeks later. Within 6 weeks of completing 
+talazoparib treatment, participants had surgery (if appropriate) followed by another 
+follow-up visit 4 weeks later.  Participants were thereafter contacted by phone about 
+every 12 weeks for the remainder of the study.
+The figure below shows what happened during this study.
+Where did this study take place? 
+The Sponsor ran this study at 18 locations in the United States.
+When did this study take place?
+It began on 27 August 2018 and ended 23 September 2020. 
+Who participated in this study?
+This study included adult participants who:
+Had HER2 negative (HER2 is a type of protein receptor that may be on the 
+surface of cancer cells) or early invasive triple -negative breast cancer
+Had a BRCA 1 or BRCA 2 gene mutation 
+Were appropriate to receive treatment prior to surgery
+Had breast cancer which had not spread to parts of the body that are f ar away 
+from the breast
+Had a measurable tumor and lymph nodes which were less than 2 inches in size
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+Had not received other cancer treatment within the past 3 years (with the 
+exception of treatments for breast cancer of the milk ducts only)
+Had adequate ki dney, liver, and bone marrow function
+A total of 61 women participated
+No men participated  
+All participants were between the ages of 26 and 75 years 
+Participants received talazoparib treatment for 24 weeks.  Of the 61 participants who 
+started the study , 45 participants (74%) completed talazoparib treatment.
+A total of 16 participants (2 6%) stopped taking talazoparib early
+by their choice, 
+because their breast cancer was worsening,
+because they had a medical problem, or
+because a doctor decided it was best for them to stop talazoparib
+How long did the study last?
+The amount of time that each participant was in this study varied.  The entire study 
+took about 2 years to complete.
+After the last participant's surgical safety follow -up was completed, the st udy ended in 
+September 2020, and the Sponsor began reviewing the information collected.  The 
+Sponsor then created a report of the results.  This is a summary of that report.
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+What were the results of the study?
+How many participants had a pathologic co mplete response 
+(complete disappearance of cancer at surgery) after 24 weeks of 
+treatment with talazoparib followed by surgery?
+To answer this question, the researchers looked at the number of “evaluable 
+participants” who had a complete disappearance of cancer at surgery.  Evaluable 
+participants are participants thatthe researchers collected enough information from 
+to get a good idea of how well the study treatments worked.  There were 48 evaluable 
+participants in this study.
+22 out of 48 evaluable participants (46%) had a pathologic complete response 
+(complete disappearance of cancer at surgery) after 24 weeks of treatment with 
+talazoparib followed by surgery.
+The researchers also calculated the “confidence intervals”, which are used to show 
+what the uncertainty is for a particular result.  The 95% and 80% confidence intervals 
+showed:
+a 95% confidence interval was between 32% and 61%
+an 80% confidence interval was between 36% and 55%
+This does not mean that everyone in this study had these results.  These are just some 
+of the main findings of this study.  Other studies may have different results. 
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+What medical problems did participants have during 
+the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an unde rlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatme nt groups in many studies, doctors try to 
+understand what effects a study medication might have on a participant.
+60 out of 61 (98%) participants in this study had at least 1 medical problem.  A total 
+of 3 out of 61 (5%) participants discontinued talazopar ib because of a medical 
+problem. Medical problems were managed by holding talazoparib doses (33%), 
+providing blood transfusions (33%), and reducing talazoparib doses (39%).
+The most common medical problems –those reported by at least 10% of participants 
+–are described below.
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+Table 1. Commonly reported medical problems by study participants
+Medical ProblemTalazoparib
+(61 Participants Treated)
+Feeling tired 48 out of 61 participants (79%)
+Nausea 42 out of 61 participants (69%)
+Hair loss 35 out of 61 participants (57%)
+Low red blood cell count 30 out of 61 participants (49%)
+Headache 26 out of 61 participants (43%)
+Dizziness 20 out of 61 participants (33%)
+Constipation 19 out of 61 participants (31%)
+Loose stools 13 out of 61 participants (21%)Below are instructions on how to read Table 1 and Table 2. 
+Instructions for Understanding Table 1 and Table 2. 
+The 1stcolumn of Table 1 lists medical problems that were commonly 
+reported during the study.  All medical problems reported by at least 
+10% of participants are listed.
+The 2ndcolumn tells how many of the 61 participants taking 
+talazoparib reported each medical problem.  Next to this number is the 
+percentage of the 61 participants taking talazoparib who reported the 
+medical problem. 
+Using these instructions, you can see that 48 out of the 61 (79%) 
+participants taking talazoparib reported feeling tired.  
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+Table 1. Commonly reported medical problems by study participants
+Medical ProblemTalazoparib
+(61 Participants Treated)
+Nose, sinus, or throat infection 12 out of 61 participants (20%)
+Anxiety 11 out of 61 participants (18%)
+Joint pain 11 out of 61 participants (18%)
+Difficulty sleeping 11 out of 61 participants (18%)
+Difficulty breathing 10 out of 61 participants (16%)
+Cough 9 out of 61 participants (15%)
+Muscle pain 9 out of 61 participants (15%)
+Low levels of white blood cells (neutrophils) 9 out of 61 participants (15%)
+White blood cells count decreased 9 out of 61 participants (15%)
+Low appetite 8 out of 61 participants (13%)
+ALT liver test result increased 7 out of 61 participants (12%)
+Breast pain 7 out of 61 participants (12%)
+Hot flush 7 out of 61 participants (12%)
+Throat pain 7 out of 61 participants (12%)
+Rash 7 out of 61 participants (12%)
+Vomiting 7 out of 61 participants (12%)
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life-threatening, needs hospital 
+care, or causes lasting problems.
+11 out of 61 (18%) participants in this study had at least 1 serious medical problem.
+No deaths occurred during the safety reporting period.  A total of 2 participants died 
+during the long-term follow -up period due to progression of their breast cancer.  These 
+deaths were not considered to be related to talazoparib.
+The serious medical problems are described below.
+Table 2. Serious medical problems reported by study participants
+Medical ProblemTalazoparib
+(61 Participants Treated)
+Low red blood cell count 9 out of 61 participants (15%)
+Low white blood cell count1 out of 61 participants (2%)
+Blockage in bowel 1 out of 61 participants (2%)
+Flu-like illness 1 out of 61 participants (2%)
+Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+www.clinicaltrials.gov Use the study identifier NCT03499353
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for study participants.
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help study participants, and you 
+helped us to do that !
+090177e1976a02d4\Approved\Approved On: 28-Jun-2021 02:29 (GMT)

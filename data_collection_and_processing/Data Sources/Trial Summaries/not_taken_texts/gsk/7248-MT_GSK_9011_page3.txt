@@ -1,0 +1,32 @@
+Where was this study done?
+Study sites were in 15 countries.
+Number of patients who received at least one dose of the
+study medicines
+Argentina 195
+Australia 17
+Canada 72
+Germany 127
+Italy 37
+Japan 229
+Republic of Korea 58
+Netherlands 26
+Poland 238
+Romania 267
+Russian Federation 640
+South Africa 60
+Spain 58
+United Kingdom 13
+United States 399
+0 100 200 300 400 500 600 700
+Number of patients
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Men and women were included in the study if they:
+• Were at least 18 years old.
+• Had been diagnosed with asthma at least one year before starting the
+study.
+• Were taking daily asthma treatment (medium to high dose of ICS, and
+LABA) for at least 12 weeks before starting the study.
+• Had poorly controlled asthma as scored using an asthma survey.

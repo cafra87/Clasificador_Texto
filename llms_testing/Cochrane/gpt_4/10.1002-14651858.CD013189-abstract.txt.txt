@@ -1,0 +1,11 @@
+1. Plain Title
+How Well Does a New Imaging Tool Spot Skin Cancer?
+
+2. Rationale
+Skin cancer is a serious condition that requires early detection for effective treatment and to increase chances of survival. There are different types of skin cancer, with melanoma and squamous cell carcinoma (SCC) having the highest risk as they can spread to other parts of the body and lead to death. Another type, basal cell carcinoma (BCC), typically stays at one place but can damage surrounding tissues. There's a need to correctly identify skin cancer without mistakenly labeling harmless skin spots as cancerous. Optical coherence tomography (OCT) is a tool used to take magnified pictures of the skin and might help in correctly identifying skin cancer.
+
+3. Trial Design
+The study aimed to find out how accurately the OCT can detect three types of skin cancer: melanoma, BCC, and SCC. We searched several medical databases for studies that used OCT on adults with suspicious lesions, and compared the results to either a lab test of the skin sample or follow-up clinics. We collected information from five studies, which included a total of 529 skin spots, of which 282 were cancerous.
+
+4. Results
+The studies we found were not clear enough, and the information provided was not enough for us to say conclusively whether OCT can accurately detect melanoma and SCC. For BCC, data from two studies suggested that OCT may be more accurate than just looking at the skin or looking at the skin with a dermatoscope, a tool for examining skin lesions. In a scenario where 60% of the 1,000 skin spots are BCC, OCT would miss 31 BCCs but would mistakenly label 93 harmless spots as BCC. However, this is less than the number of mistakes that would be made by simply looking at the skin or using a dermatoscope. At the moment, more research is needed to really know whether OCT should be used for diagnosing skin cancer. Future studies that compare OCT to other tools such as dermatoscopes and reflectance confocal microscopy are needed.

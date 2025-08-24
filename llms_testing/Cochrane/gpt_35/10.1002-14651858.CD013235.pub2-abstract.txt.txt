@@ -1,0 +1,11 @@
+Plain Title: Rapid Testing for Bloodstream Infections: Does it Improve Patient Outcomes?
+
+Rationale: Bloodstream infections are a serious health concern that can lead to poor outcomes, such as death and prolonged hospital stays. Rapid antimicrobial susceptibility testing could potentially improve these outcomes by allowing clinicians to quickly identify the most effective antibiotics for treatment. This would help personalize therapy and reduce the unnecessary use of broad-spectrum antibiotics, which can contribute to antimicrobial resistance.
+
+Trial Design: In this study, researchers compared the effects of rapid susceptibility testing to standard testing for bloodstream infections. They conducted a search of relevant studies published between 1987 and October 2020. The study included randomized controlled trials that compared rapid testing (with results available within 8 hours) to conventional testing for individuals with a bloodstream infection caused by any bacteria. The researchers analyzed the data using statistical methods to determine if rapid testing had any significant impact on patient outcomes.
+
+Results: The study included six trials with a total of 1638 participants. The results showed that rapid antimicrobial susceptibility testing did not have a significant difference in mortality rates compared to conventional testing. The same was observed in subgroup analysis when comparing different types of rapid testing methods. In terms of other outcomes, such as time to discharge from the hospital and time to appropriate antibiotic change, the evidence was uncertain and inconclusive.
+
+Conclusion: The findings of this study suggest that rapid susceptibility testing does not directly improve patient outcomes, including mortality, time to discharge, and time to appropriate antibiotic treatment. However, it is important to note that more comprehensive studies are needed to better understand the potential benefits and optimize blood culture pathways. Future research should focus on clinically meaningful outcomes and strive to improve the overall management of bloodstream infections.
+
+Overall, rapid testing for bloodstream infections does not appear to have a significant impact on patient outcomes based on the available evidence.

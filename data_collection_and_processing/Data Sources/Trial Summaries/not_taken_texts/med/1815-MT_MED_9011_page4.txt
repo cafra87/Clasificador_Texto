@@ -1,0 +1,32 @@
+Clinical Study Results
+What were the results of the study?
+This is a summary of the main results from this study overall. The results each
+participant had might be different and are not in this summary.
+Researchers look at the results of many studies to decide which treatments
+work best and are safest. Other studies may provide new information or different
+results. Always talk to a doctor before making any treatment changes.
+A full list of the questions researchers wanted to answer can be found on the
+websites listed at the end of this summary. If a full report of the study results is
+available, it can also be found on these websites.
+What was the maximum tolerated dose of AZD1775 for the
+participants?
+In this study, the researchers wanted to find the “maximum tolerated dose” for
+AZD1775. The maximum tolerated dose is the highest dose of a drug that doesn’t
+cause “dose-limiting toxicities”, also called DLTs, in participants. A DLT is a medical
+problem that is severe enough to stop the researcher from increasing a participant’s
+study drug dose. The researchers also wanted to find out how often participants
+could take the AZD1775 maximum tolerated dose without developing DLTs.
+In general, the researchers found that:
+• Participants in Groups 1 and 2 had a maximum tolerated dose of 125 mg twice
+a day for AZD1775.
+• Participants in Groups 3 through 10 had a maximum tolerated dose of 300 mg
+once a day for AZD1775.
+• The overall maximum tolerated dose in the study was 300 mg once a day
+for AZD1775, taken for the first 5 days of weeks 1 and 2 during the 3-week
+treatment cycle.
+The researchers also wanted to know how many DLTs participants had. There
+were 2 participants who died before receiving enough of the treatment for
+researchers to be able to study their DLT results. One of these participants was
+in Group 4, and 1 of these participants was in Group 7. So, the researchers could
+only study the DLT results for 60 of the 62 participants.
+4

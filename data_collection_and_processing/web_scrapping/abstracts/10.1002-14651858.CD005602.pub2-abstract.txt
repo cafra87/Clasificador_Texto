@@ -1,0 +1,14 @@
+Background
+Non‐specific cough is defined as non‐productive cough in the absence of identifiable respiratory disease or known aetiology. It is commonly seen in paediatric practice. These children are treated with a variety of therapies including a variety of asthma medications. The leukotriene pathway is reported to be involved in the sensory (neurogenic) pathway, which is a mechanism thought to be involved in the pathogenesis of chronic cough. 
+Objectives
+To evaluate the effectiveness of leukotriene receptor antagonist (LTRA) in treating children with prolonged non‐specific cough. 
+Search methods
+The Cochrane Register of Controlled Trials (CENTRAL), the Cochrane Airways Group Specialised Register, MEDLINE and EMBASE databases were searched by the Cochrane Airways Group. The latest searches were carried out in October 2010. 
+Selection criteria
+All randomised controlled trials comparing LTRA with a placebo medication in children with non‐specific cough. 
+Data collection and analysis
+Results of searches were reviewed against pre‐determined criteria for inclusion. Two eligible trials that utilised montelukast were identified but no data was available for meta‐analysis. It was not possible to separate results from children with non‐specific cough from those without in one study and in the second, the groups were very small (5 in montelukast group and one in placebo group). 
+Main results
+There was no significant difference in all study endpoints between the montelukast and placebo groups (total N=256 plus 6 from second study). 
+Authors' conclusions
+With the lack of evidence, the routine use of LRTA in treating children with non‐specific cough cannot be recommended. 

@@ -1,0 +1,14 @@
+SIGNATURE PAGE
+This is a representation of an electronic record that was signed
+electronically and this page is the manifestation of the electronic signature
+Document Name: d9320c00001-lay-language-summary
+Document Title: D9320C00001 Lay Language Summary
+Document ID: Doc ID-004457984
+Version Label: 1.0 CURRENT LATEST APPROVED
+Server Date
+Signed by Meaning of Signature
+(dd-MMM-yyyy HH:mm ‘UTC’Z)
+08-Jan-2021 13:34 UTC Bhardwaj Desai - C Author Approval
+19-Jan-2021 16:47 UTC Kelly Brown C Qualified Person Approval
+12-Jan-2021 22:26 UTC Kwame Mensah Content Approval
+Notes: (1) Document details as stored in ANGEL, an AstraZeneca document management system.

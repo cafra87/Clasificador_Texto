@@ -1,0 +1,26 @@
+Page 4 of 6
+Where was this study done?
+Study sites were in six countries.
+Number of patients who took part in this study
+Argentina 21
+Belgium 9
+Canada 12
+Spain 46
+United Kingdom 5
+United States 9
+0 10 20 30 40 50
+Number of patients
+What were the main results of the study?
+The main focus of the study was to compare the total hip bone mineral density of
+patients in both the treatment groups at Week 48. The difference between the total
+hip bone mineral density values at Week 48 and at study start (baseline) is called
+change from baseline. The percent change from baseline value could be calculated for
+81 patients.
+Results are shown in the table below.
+Percent change from baseline in total hip bone mineral density at
+Week 48
+DTG and RPV group CAR group
+46 patients 35 patients
+Percent change from baseline 1.34% 0.05%
+The percent change from baseline in total hip bone mineral density showed greater
+improvement in patients taking DTG and RPV compared with patients taking CAR.

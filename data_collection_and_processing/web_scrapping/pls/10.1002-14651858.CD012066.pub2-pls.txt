@@ -1,0 +1,9 @@
+Which combination of inhaled medications are safe and effective for chronic obstructive pulmonary disease (COPD) 
+Background 
+Chronic obstructive pulmonary disease (COPD) is a long‐term lung condition characterised by cough, sputum production (fluids from the lungs, i.e. phlegm), and difficulty breathing. It is now possible to give two types of medicine using one inhaler device: the medicines are long‐acting muscarinic antagonist (LAMA) plus a long‐acting beta‐agonist (LABA) (LAMA+LABA) and a LABA plus an inhaled corticosteroid (ICS) (LABA+ICS). The recent guidelines recommend LAMA+LABA are preferable over LABA+ICS. 
+Study characteristics 
+We included 11 studies involving 9839 participants comparing the benefits and harms of LAMA+LABA and LABA+ICS for the treatment of people with COPD. 
+Key results 
+Although risk of serious side effects and death were not affected by the choice of treatment, compared to LABA+ICS, LAMA+LABA was associated with a lower risk of flare‐ups, fewer episodes of pneumonia, larger improvement in how well the lungs work, and improved quality of life. 
+Quality of evidence 
+Since most of the analysed studies were sponsored by pharmaceutical companies, we had to interpret the results carefully. However, we judged the included studies to be generally conducted in an acceptable manner. These data were supported by low or moderate quality evidence from trials in people with mainly moderate to severe COPD who were studied for less than one year. 

@@ -1,0 +1,15 @@
+Plain Title: 
+A Study on the Use of Special Tubes Used for Breathing Support in Newborn Babies
+
+Rationale:
+In hospitals, some newborn babies with breathing issues need a special helping device called an endotracheal tube (ETT) which is inserted into their windpipe. There are two types of ETTs, one includes a cuff (cuffed ETTs) that can be inflated once inserted in the airway to avoid leak or aspiration, while the other does not (uncuffed ETTs). For older children and adults, cuffed ETTs have been found to lower the chances of gas leak and accidental tube removal, and even safeguard healthcare workers from inhaling anesthetic gas during surgery. Given these benefits and an improved understanding of newborn airway structure, usage of cuffed ETTs in newborns is on the rise. Still, we need to understand if cuffed ETTs (both inflated or non-inflated) are more beneficial and safer than uncuffed ETTs in supporting newborn breathing.
+
+Trial Design: 
+This study searches for benefits and harms of using cuffed ETTs compared to uncuffed ETTs in newborns. We adopted a standard approach and utilized a database search on the 20th August 2021. The study considered trials that compared the three possibilities: inflated cuffed vs. uncuffed ETTs, non-inflated cuffed vs. uncuffed ETTs, and inflated cuffed vs. non-inflated cuffed ETTs. The aim is to find the best tube type for newborns' breathing support, with a study duration dependent on available data.
+
+Results:
+Despite extensive searching, we were only able to find one suitable study. This study looked at the use of cuffed (inflated if the tube had more than 20% leak with safe pressure) versus uncuffed ETTs. The study of 76 infants had 69 that fit the criteria for this project. Despite some issues with possible bias in the one study found, the results showed that newborns with a cuffed ETT are less likely to need tube insertion for a second time.
+
+Still, we are unsure about several important things because the study results varied a lot. For example, we don't know whether cuffed ETTs lower the risk of post-tube removal throat discomfort or blockage, or whether babies with cuffed ETTs are less likely to have accidental removal of the tube. It is also uncertain whether cuffed ETTs affect the death rates during hospital stay. Not one newborn in the study required a surgery for throat discomfort or blockage. Detailed results of throat checks for blockage were also not available. 
+
+In conclusion, the current evidence comparing cuffed versus uncuffed ETTs in newborns is limited due to the single study with possible bias. It's still unclear whether cuffed ETTs, either inflated or non-inflated, are good or bad for baby's breathing support. Thus, more studies including newborns are needed. They should look at short-term use of tubes (during surgery) and long-term use (like for chronic lung disease) of cuffed ETTs.

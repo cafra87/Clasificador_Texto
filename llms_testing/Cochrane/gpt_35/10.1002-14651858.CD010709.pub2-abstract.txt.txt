@@ -1,0 +1,17 @@
+Plain Title: Benefits and Risks of Early Treatment for Arteriovenous Access Stenosis in Dialysis Patients
+
+Rationale:
+Arteriovenous (AV) access stenosis is a common problem in dialysis patients, where the blood vessels used for dialysis become narrowed or blocked. Current guidelines recommend routine monitoring and early treatment of AV access stenosis using technology-based screening methods. However, it is unclear whether early treatment improves patient outcomes compared to waiting until the access becomes dysfunctional. This study aimed to evaluate the benefits and risks of early treatment for AV access stenosis.
+
+Trial Design:
+The study included 14 research studies involving 1,390 dialysis patients. The participants were either receiving dialysis through an AV fistula or a graft. The study followed the patients for 6 to 38 months. During this period, the participants underwent surveillance for AV access stenosis and received either early treatment or deferred treatment. The researchers compared the outcomes between these two groups.
+
+Results:
+The findings showed that early treatment of AV access stenosis reduced the risk of blood clot formation (thrombosis) by 21% compared to no surveillance and deferred treatment. This suggests that early treatment can help prevent access dysfunction. Additionally, early treatment improved the longevity of AV access, meaning that the access remained functional for a longer period of time.
+
+When the results were analyzed separately for AV fistulas and grafts, early treatment did not significantly reduce the risk of thrombosis or access loss in grafts. However, for AV fistulas, early treatment reduced the risk of thrombosis by 50% and the risk of access loss by 50%.
+
+Although there were positive effects of early treatment, it is important to note that the studies varied in their findings, and the evidence was of low to moderate quality. The benefits of early treatment on patient-centered outcomes were still uncertain due to heterogeneity or imprecision in the results. Additionally, early treatment may increase the rates of diagnostic procedures, infections, and mortality. The overall effects on harms and resource use were unclear.
+
+Conclusion:
+Based on the available evidence, early treatment of AV access stenosis does not improve the longevity of functional AV access. However, there may be potential benefits in AV fistulas, although more research is needed to fully understand their effectiveness. The risks and benefits of early treatment, such as increased diagnostic procedures and infections, need to be carefully considered by healthcare professionals when making treatment decisions. This study highlights the need for further research to guide clinical practice and health policy regarding the management of AV access stenosis in dialysis patients.

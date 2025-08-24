@@ -1,0 +1,246 @@
+Clinical Study Results
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer Inc. 
+Medicine(s) Studied: PF-06651600 (Ritlecitinib), PF -06700841 
+(Brepocitinib)
+Protocol Number: B7981005
+Dates of Study: 03 February 2017 to 10 May 2021
+Title of this Study: Study to Compare Oral PF -06651600, PF -06700841 
+and Placebo in Subjects With Moderate to Severe 
+Ulcerative Colitis
+[A Phase 2b, Double -Blind, Randomized, 
+Placebo -Controlled, Parallel Group, Dose Ranging 
+Study of Oral PF -06651600 and PF -06700841 as 
+Induction and Chronic Therapy in Subjects With 
+Moderate to Severe Ulcerative Colitis]
+Date(s) of this Report: 10May 2022
+–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation .  This summary will describe the study results .  If you have any 
+questions about the study or the results, please contact the doctor or staff at your 
+study sit e.Why was this study done?
+What is ulcerative colitis?
+Ulcerative Colitis (or “UC”) is a long -term inflammatory medical condition that 
+affects the large intestines (also known as the colon) .  Symptoms include cramping, 
+constipation, diarrhea, rectal bleeding, and fatigue (feeling very tired).
+The exact cause of UC is not known .   It is thought that UC is caused by an 
+overactive immune system, which is normally responsible for fighting infections .  
+Medicines are available that lower the activity of th e immune system, but some people 
+with UC do not get better when taking these medicines .   Some people who do get 
+better when taking these medicines still have worse UC over time .  
+Researchers are looking for new treatments that can help treat patients wit h UC .
+What are Ritlecitinib and Brepocitinib?
+Ritlecitinib is a “small molecule” oral medication (swallowed) .   Small molecules can 
+move easily through the cell membrane to interact with other molecules, such as 
+enzymes, inside a cell .  
+Ritlecitinib preve nts (inhibits) certain enzymes from working .   Enzymes are protein 
+molecules in cells which speed up chemical reactions in the body .   The enzymes that 
+ritlecitinib inhibits are known as janus kinase 3 (JAK3) and the tyrosine -protein (TEC )
+kinase family .  
+Both of these enzymes help control inflammatory pathways in the cell .   They also 
+cause molecules known as cytokines to be released .   Cytokines cause inflammation .   
+This inflammation is usually used by the immune system to fight infections that may 
+becaused by viruses or bacteria .   In people with UC, the body’s immune system 
+causes inflammation even although they are healthy.Brepocitinib is another small molecule oral medication .   It inhibits enzymes known as 
+janus kinase 1 (JAK1) and tyrosine kina se 2 (TYK2) .  These enzymes control signals 
+to the immune system cells that produce cytokines .  By stopping the function of 
+JAK1 and TYK2, brepocitinib may prevent the abnormal immune system response 
+and inflammation in people with UC.
+What was the purpose of this study?
+The main purpose of the study was to find out if ritlecitinib or brepocitinib was more 
+effective at relieving UC symptoms .  In addition, both study medications were 
+compared to placebo .  A placebo does not have any medicine in it, but it lo oks just 
+like the study medication.
+Researchers wanted to know:
+Did the participants taking Ritlecitinib or Brepocitinib have more 
+relief from their UC symptoms?
+What happened during the study? 
+How was the study done?
+Researchers tested various doses of ritlecitinib or brepocitinib on groups of study 
+participants to find out if study participants taking these study medicines experienced 
+relief from their UC symptoms .  
+Ritlecitinib (total of 150 participants):
+o51 participants received 20 mg
+o49 participan ts received 70 mg
+o50 participants received 200 mgBrepocitinib (total of 142 participants) :
+o48 participants received 10 mg
+o47 participants received 30 mg
+o47 participants received 60 mg
+Placebo (total of 25 participants)
+The study participants and researc hers did not know who took ritlecitinib or 
+brepocitinib and who took the placebo .  This is known as a “double -blinded” study .  
+Study participants were assigned to each group by chance alone.
+Researchers measured the symptom relief of UC for each treatment group by using a 
+Mayo score .  This is a scoring system that measures how many stools were passed 
+each day, amount of rectal bleeding (if any), mucosal appearance (doctors use a 
+camera on the end of a tube to look at the inside lining of the colon ), and a rating of 
+the disease by a doctor (normal, mild, moderate or severe).
+The Mayo score ranges from 0 to 12:
+Mayo score 0 to 2: Participant is in remission (no disease activity)
+Mayo score 3to 5: Participant has mild disease
+Mayo score 6to 10: Participant has moderate disease
+Mayo score 10and higher: Participant has severe disease
+All participants in the study started with moderate to severe UC according to their 
+Mayo score .  The difference in their score after the induction period would indica te 
+how effective the study treatment was.
+Where did this study take place? 
+The Sponsor ran this study at 154 locations in 19 countries (United States, Australia, 
+Bulgaria, Czech Republic, Denmark, Georgia, Germany, Hungary, Israel, Italy, 
+Republic of Kore a, Romania, Russian Federation, Serbia, Slovakia, Spain, Poland, 
+Turkey and Ukraine).
+When did this study take place?
+It began 03 February 2017 and ended 10 May 2021.
+Who participated in this study?
+The study included participants who had moderate to sever e UC, even although they 
+had tried other treatments .  
+A total of 182 men participated
+A total of 135 women participated
+All participants were between the ages of 18 and 73.
+Participants were to be treated in the induction period for 8 weeks .  Of the 
+317participants who started the study, 281finished the induction phase.
+Ten (10) participants in the ritlecitinib group, 4 participants in the brepocitinib group, 
+and zero participants in the placebo group, did not finish the induction phase because 
+of medical problems.Overall, 36 participants left before the study was over by their choice or a doctor 
+decided it was best for a participant to stop being in the study.
+How long did the study last?
+Study participants were in the induction phase of the study for 8 weeks.  The entire 
+study took 51 months to complete .  The study was completed as planned.
+When the study ended in May 2021, the Sponsor began reviewing the information 
+collected .  The Sponsor then created a report of the results .  This is a summary of 
+that report.
+What were the results of the study?
+Did the participants taking Ritlecitinib or Brepocitinib have more 
+relief from their UC symptoms?
+After 8 weeks of treatment, these were the results.
+The average Mayo score for participants taking ritlecitinib were as follows:
+20mg dose: 5.9
+70mg dose: 4.0
+200mg dose: 3.3
+The average Mayo score for participants taking brepocitinib were as follows:
+10mg dose: 6.1
+30mg dose: 5.6
+60mg dose: 4.7
+The average Mayo score for participants taking placebo was 7.9Did the study medications help relieve the symptoms of UC 
+compared to placebo?
+On average, participants who took the study medications (ritlecitinib or 
+brepocitinib) had a lower Mayo score (fewer UC symptoms), while participants 
+taking pl acebo had a higher Mayo score (more UC symptoms).
+Based on these results, the researchers have decided that the results are not likely 
+the result by chance .  Ritlecitinib and brepocitinib may help with decreasing the 
+symptoms and severity of UC .  
+This d oes not mean that everyone in this study had these results .  This is a 
+summary of just some of the main results of this study .  Other studies may have 
+different results.
+What medical problems did participants have during 
+the study?
+The researchers recorded any medical problems the participants had during the study .  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance) .  Or, medical problems could 
+also have bee n caused by a study treatment or by another medicine the participant was 
+taking .  Sometimes the cause of a medical problem is unknown .  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what effects a s tudy medication might have on a participant.
+One-hundred and forty-six(146)out of 317 (46%) participants in the induction of this 
+study had at least 1 medical problem .  A total of 14 participants left the study because 
+of medical problems .  The most common medical problems –those reported by 
+more than 5% of participants –aredescribed below.
+Below are instructions on how to read Table 1 .  
+Instructions for Understanding Table 1 .  
+The 1stcolumn of Table 1 lists medical problems that were commonly 
+reported during the study .  All medical problems reported by more 
+than 5% of participants are listed.
+The 2ndcolumn tells how many of the 150 participants taking 
+ritlecitinib reported each medi cal problem .  Next to this number is the 
+percentage of the 150 participants taking the ritlecitinib who reported 
+the medical problem .  
+The 3rdcolumn tells how many of the 142 participants taking 
+brepocitinib reported each medical problem .  Next to this number is the percentage of the 140 participants taking the brepocitinib who 
+reported the medical problem.
+The 4thcolumn tells how many of the 25 participants taking a placebo 
+reported each medical problem .  Next to this number is the percentage 
+of the 25 participants taking a placebo who reported the medical 
+problem.
+Using these instructions, you can see that 6 out of the 150 (4%) 
+participants taking ritlecitinib reported having a headache, and 5 out of 
+142 (4%) participants taking brepocitinib reported having a headache .  
+A total of 2 out of the 25 (8%) participants taking a placebo reported 
+having a headache.
+Table 1 .  Commonly reported medical problems by study 
+participants during 8 -week induction period
+Medical 
+ProblemPF-06651600
+(150 
+Participants)PF-06700841 
+(142 
+Participants)Placebo 
+(25 
+Participants)
+Anemia (low 
+number of red 
+blood cells)7 out of 150 
+participants (5%)6 out of 142 
+participants (4%)1 out of 25 
+participants (4%)
+Headache 6 out of 150 
+participants (4%)5 out of 142 
+participants (4%)2 out of 25 
+participants (8%)Table 1 .  Commonly reported medical problems by study 
+participants during 8 -week induction period
+Medical 
+ProblemPF-06651600
+(150 
+Participants)PF-06700841 
+(142 
+Participants)Placebo 
+(25 
+Participants)
+Infection of 
+nose and 
+throat3 out of 150 
+participants (2%)8 out of 142 
+participants (6%)0 out of 25 
+participants (0%)
+Stomach pain 2 out of 150 
+participants (1%)4 out of 142 
+participants (3%)2 out of 25 
+participants (8%)
+Fever 2 out of 150 
+participants (1%)5 out of 142 
+participants (4%)1 out of 25 
+participants (4%)
+Joint pain 3 out of 150 
+participants (2%)5 out of 142 
+participants (4%)0 out of 25 
+participants (0%)
+Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.
+Eleven (11) participants (3%, or 11 out of 317 participants) had serious medical 
+problems .  6 participants in the ritlecitinib group had serious medical problems .  These 
+included lung infection, severe UC, heart attack, brain inflammation 
+(encephalitis), and lung damage .  
+5 participants in the brepocitinib group had serious medical problems .  These 
+included severe UC, haemorrhoid (swollen veins in rectum/anus) operation, 
+blood clots, fever, and anaemia .  
+No participants in the placebo group had serious medical problems .  
+One (1) participant died during the study from a heart attack .  This was d etermined to 
+not be related to the study treatment .  
+Researchers believe most of the serious medical problems reported by participants 
+were not related to study medications, except for 1 case of severe UC (ritlecitinib 
+20mg group) and 1 case of fever (b repocitinib 30 mg group).Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT02958865
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients.
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you helped 
+us to do that !

@@ -1,0 +1,33 @@
+How was the study done?
+The study was done as described in the figure below. Researchers got information about possible vaccine
+side effects from the babies’ parents after every injection.
+Study design
+What were the main results of the study?Apr
+This report provides the main results of the study and the possible side effects. All results may be found in
+the clinical results summary.
+Antibodies 1 year after vaccinations
+We measured levels of bacteria-killing antibodies We used both rabbit and human proteins to see
+in the blood of babies who received the vaccine how many people had a level of 8 after
+to see if it is working. A level of 8 is considered vaccination. We also wanted to find out how
+enough to protect most people. Levels can be many people had antibody levels of 128 by using
+assessed with tests using rabbit or human the rabbit protein. Levels of 128 are often used
+proteins. Rabbit proteins have been widely used as an additional measure for assessing how well
+for these tests because they are easier to get. meningitis vaccines work.
+Figure 1. Babies with enough antibodies to kill meningitis bacteria 1 year after
+vaccinations
+99% 98%
+100%
+88% 90% 89%
+80%
+80% seibab
+69%
+61% 62%
+60% 54% fo
+egatnecreP
+39%
+40%
+30%
+20%
+0%
+Type A Type C Type W Type Y
+rSBA=8 or more rSBA=128 or more hSBA=8 or more

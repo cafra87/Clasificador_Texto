@@ -1,0 +1,17 @@
+1. Plain Title: 
+Exploring Diabetes Prevention Using Special Medicines
+
+2. Rationale: 
+Diabetes is a health condition that affects how your body uses sugar. Type 2 diabetes is the most common form and is becoming a major health problem worldwide. In some people, their bodies can't use sugar properly, but they don't have proper diabetes yet. This could lead to diabetes over time. We do not know whether two types of medicines, called DPP-4 inhibitors and GLP-1 analogues, can help delay or prevent these people from getting diabetes.
+
+3. Trial Design: 
+In this study, we compared the effect of these two medicines to other means of lowering sugar, changes in behavior, a salt solution, or no intervention at all. This was done in people with high sugars but not diabetes. We carefully read many articles and records to find studies that were done before, asking helpful questions, and using a grading system to decide how good the evidence was. The studies we found ranged from 12 weeks to 160 weeks long. 
+
+4. Results: 
+From our search, we included seven studies, which included around 98 people using DPP-4 inhibitors and 1620 people using GLP-1 analogues. The studies found that a few people who were treated with these medicines developed diabetes compared to those who were not treated. Some of the people on these medicines also had heart problems. 
+
+However, many people on the medicines did not get diabetes, and many even saw their sugar levels go back to normal. In one long study, some people got diabetes after they stopped the treatment. We found that very few people died, had a heart attack, or stroke. The one trial that assessed quality of life with a test showed a small improvement. 
+
+From what we have seen, while there is some proof that these medicines might help delay or prevent diabetes, it is not solid evidence. We need more research to say for sure. Many studies did not look at things that matter to patients directly. 
+
+Remember our aim is to help and not harm. We are working hard to find the best ways to prevent and treat this condition.

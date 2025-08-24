@@ -1,0 +1,15 @@
+1. Plain Title: 
+The Health Impact of Replacing Regular Salt with Low-Sodium Salt Substitute
+
+2. Rationale:
+High-blood pressure, or hypertension, is responsible for many avoidable deaths across the world. Our diets often contain too much sodium - found in salt - and not enough potassium, which leads to high blood pressure. To help curb this, the World Health Organization suggests reducing the amount of sodium we consume via safe and effective methods. One such method involves using low sodium salt substitutes (LSSS), which are especially beneficial in places where people add a lot of salt to their food. These LSSS are more health-friendly because they have less sodium and more potassium. The benefits include lowered blood pressure and they're typically affordable. However, there are known risks, specifically an elevated amount or ‘too-high’ level of potassium, especially in people with kidney disease or on certain medications.
+
+3. Trial Design:
+To determine the effectiveness and safety of LSSS, we included a range of studies involving individuals of all ages and from different countries - those with no pre-existing conditions, dealing with non-communicable diseases, or taking medications affecting potassium excretion. These studies compared the usage of LSSS with regular salt or with no change to normal salt usage. Two independent researchers thoroughly went through each study’s details to evaluate their reliability. The duration of these studies varied from two months to five years. 
+
+4. Results:
+Our research included 26 different studies, amounting to just under 35,000 adult participants and 92 children. We found no studies involving pregnant women. Results showed that replacing regular salt with LSSS probably slightly reduces both diastolic and systolic blood pressure (the numbers you hear when your blood pressure is read) as well as the chance of non-fatal strokes, acute coronary syndrome (sudden decreased blood flow to the heart) and death due to cardiovascular issues. On the other hand, it appears to increase potassium levels in the blood to some extent. LSSS seems to make little to no difference in cases of high blood pressure and ‘too-high’ potassium levels compared to normal salt. 
+
+For children, we do not have firm conclusions about the effects of LSSS on their blood pressure as the evidence is limited. We also couldn't find any evidence regarding its effect on hypertension or what it does to potassium levels in their blood.
+
+In conclusion, using LSSS instead of regular salt may slightly decrease blood pressure, non-fatal cardiovascular events, and deaths due to heart diseases in adults. However, it also might result in a slight increase in potassium levels. These minor impacts may become significant when applied to whole populations. Further studies are needed to make firm conclusions about its use in children, pregnant women, and those who might be negatively affected by an increase in potassium intake.

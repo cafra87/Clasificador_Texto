@@ -1,0 +1,17 @@
+Plain Title: 
+Evaluation of Short-Acting Inhalers for Respiratory Symptoms in Cystic Fibrosis
+
+Rationale:
+Respiratory disease is a major cause of illness and death in cystic fibrosis (CF) patients. Many different therapies are used to manage respiratory problems, including bronchodilator therapy. This type of therapy helps relieve shortness of breath and opens up the airways to clear mucus. However, there is limited evidence showing how effective inhaled bronchodilators are for CF. Previous reviews have been withdrawn, so we conducted this study to evaluate the use of short-acting inhalers in CF patients to determine their clinical outcomes and safety. 
+
+Trial Design:
+Our study involved children and adults with CF. We conducted a search of various databases to find relevant trials and collected data from 11 trials involving a total of 191 participants. These trials compared different types of short-acting inhalers to either placebo or other short-acting inhalers. The trials used various methods of delivering the medication, including pressurized metered dose inhalers, dry powder devices, and nebulizers. The duration of each trial varied, and participants were involved for a short period of time.
+
+Results:
+When comparing short-acting beta-2 agonists to placebo, we found that beta-2 agonists led to a greater improvement in forced expiratory volume in 1 second (FEV1) compared to placebo. This means that the beta-2 agonists helped improve lung function. Adverse events reported in these trials were mild. However, the certainty of evidence for these outcomes was very low, so we cannot be certain of the effects. 
+
+When comparing short-acting muscarinic antagonists to placebo, the certainty of evidence again was very low. There were limited trials available, but those that did exist showed that muscarinic antagonists had minimal effects on lung function and had few adverse events reported.
+
+We were unable to analyze the data for trials comparing short-acting beta-2 agonists to short-acting muscarinic antagonists due to the limitations of the available information.
+
+Overall, the trials included in this review were small and of a cross-over design, meaning participants tried different treatments in a specific order. Most trials focused on short-term effects and did not measure long-term outcomes. As a result, the certainty of evidence for all outcomes assessed was very low, and we cannot definitively describe the effects of these short-acting inhalers in CF patients. Further research is needed to determine their effectiveness and safety.

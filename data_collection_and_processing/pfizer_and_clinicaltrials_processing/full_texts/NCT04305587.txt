@@ -1,0 +1,402 @@
+Clinical Study Results
+This summary reports the results of only one study. Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to study participants. The results of this study 
+might be different than the results of other studies tha t the researchers review.
+Sponsor:    Pfizer Inc. 
+Medicine(s) Studied: PF-07081532
+Protocol Number: C3991002
+Dates of Study: 16 March 2020 to 14 July 2021 
+Title of this Study: A Phase 1 Study to Assess the Safety, Tolerability, and 
+Pharmacokinetics of Multiple Escalating Oral Doses of 
+PF-07081532 in Adults With Type 2 Diabetes Mellitus
+[A Phase 1, Randomized, Double -Blind, 
+Sponsor -Open, Placebo -Controlled Study to Assess 
+the Safety, Tolerability, and Pharmacokinetics of 
+Multiple Esca lating Oral Doses of PF -07081532 in 
+Adult Participants With Type 2 Diabetes Mellitus ]
+Date(s) of this Report: 10 Jul y2022
+–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation. 
+This summary will describe the study results.  If you have any questions about the 
+study or the results, please contact the doctor or staff at your study site.Why was this study done?
+What is Type 2 diabetes mellitus ?
+Type 2 diabetes mellitus (T2DM) is a disease which, over time, can cause higher than 
+normal levels of sugar in the blood (hyperglycemia) and this can harm the health of 
+people with T2DM.
+Insulin is a hormone that lowers the level of sugar in the blood and glucagon is a 
+substance which helps the body produce more sugar when it is needed.  With T2DM, 
+the body does not release enough insulin intothe blood and can have too much 
+glucagon in the blood .  This can lead to high levels of sugar in the blood.  If your 
+blood sugar increases and remains high over a l ong period of time, this can lead to 
+harmful effects such as heart problems, kidney disease, eye disorders and poor 
+circulation in your limbs. That is why it is important to keep your blood sugar levels 
+within a healthy range.
+What is PF-07081532 ?
+PF-07081532 is an experimental medicine that is taken as a tablet by mouth and is not 
+yet approved for use by health authorities.  PF -07081532 is type of medicine known 
+as a“glucagon -like peptide 1 receptor agonist ”and is intended to keep blood sugar at 
+healthy levels . These medicines work by increasing theamount of insulin released and 
+lowering the amount of glucagon released into the blood .  They also slow down the 
+digestion of food and increase the feeling of fullness after eating .  PF-07081532 may 
+help in lowering blood sugar levels and body weight if taken along with appropriate 
+diet and exercise .
+What was the purpose of this study?
+Researchers wanted to see if different doses of PF-07081532 were safe when given to 
+people with T2DM and people with obesity without diabetes . This report describes 
+what happened during the study, what the results of the study are, and how 
+participants can learn more about the study. Researchers wanted to know:
+Were different doses of PF -07081532 safe in pa rticipants with 
+T2DM and participants with obesity ?
+What medical problems did participants have during the 
+study?
+What happened during the study?
+How was the study done?
+In this study, participants were given either PF -07081532 or a placebo. A placebo 
+does not have any medicine in it but looks just like the medicine being tested. 
+Researchers measured the effect of PF-07081532 by comparing side effects and other 
+safety measurements of participants who took different doses of the study medicine
+to participants who took a placebo.  The participants and researchers did not know 
+who took different doses of PF -07081532 and who took the placebo.  This is known 
+as a “double -blinded” study.  Researchers use “double -blinded” studies to make sure 
+that th e results of the study are not influenced in any way.  Participants were assigned 
+to each group by chance alone, like the flip of a coin.  This is known as a 
+“randomized” study.   Randomization is done to make the groups more similar for 
+characteristics lik e age and sex .
+There were 2 participant populations enrolled in this study: participants with T2DM, 
+and participants with obesity without diabetes.  The study was conducted in 3 parts: 
+Part A, Part B ,and Part C.  Participants in each part were given either PF -07081532 
+or placebo.  Each group started at 10 mg of PF -07081532, which increased after a set 
+number of days until a target dose was reached.InPart A, 4 groups of participants with T2DM receiv ed PF -07081532 or 
+placebo once a day for 28 days.  The target doses for the 4 groups in Part A 
+were 10 mg, 30 mg, 60 mg,and 120 mg .  
+In Part B, 1 group of participants with obesity (without diabetes) received 
+PF-07081532 or placebo once a day for 42 days . The target dose for this group 
+was 180 mg .
+In Part C, 1 group of participants with T2DM received PF -07081532 or 
+placebo once a day for 42 days. The target dose for this group was 180 mg.
+After the Screening visit, participants began an in -patient stay at a study clinic and 
+took PF-07081532 or placebo once a day from Day 1 to Day 28 (Part A) or Day1 to
+Day 42 (Parts B and C).  Participants stayed at the clinic until after the last dose of
+study medication and came back for a follow -up visit 7-14 days after taking their last 
+dose of PF-07081532 or placebo.   
+The study design is shown in the graphic below.
+To find out if PF -07081532 was safe, the study doctors used different tests and 
+assessments, such as testing blood and urine samples throughout th e study.  
+Participants also had their heart rate, blood pressure, and electrical activity of the heart 
+(by electrocardiogram [ECG] test) monitored.   Researchers also checked the 
+participants’ health during the study and asked them how they were feeling. 
+Researchers then compared the results of participants taking different doses of the 
+study medication to the results of participants taking placebo.
+Where did this study take place?
+The Sponsor ran this study at 2locations in theUnited States .
+When did this study take place?
+It began 16 March 2020 and ended 14 July 2021 .
+Who participated in this study?
+The study included adult participants with T2DM and adult participants with obesity 
+without diabetes who met certain criteria for things such as type of diabetes and body 
+mass index ( BMI).  Participants with T2DM had blood sugar that was n ot under 
+control with standard treatment with metformin, an approved medicine prescribed to 
+them by their doctor.
+A total of 35men participated
+A total of 31women parti cipated
+All participants were required to be between the ages of 18and 70
+Of the 66participants who started the study, 61finished blinded treatment .Of the 
+5participants who did not finish the study , 3 stopped because of treatment -related 
+side effects given below :
+1 participant with T2DM experienced nausea (a feeling of sickness in the 
+stomach ), and left the study after receiving PF -07081532 for 13 days up to a 
+dose of 40 mg1participant with T2DM experienced hypoglycemia (low blood sugar level) , 
+and left the study after receiving PF -07081532 for 5 days up to a dose of 40 mg
+1participant with obesity felt upper abdominal pain (pain in upper belly) , and 
+stopped taking study drug after receiving PF -07081532 for 31 days up to a dose 
+of 150 mg.
+2particip ants (1 in T2DM and 1 in placebo) did not finish the study for other reasons .
+How long did the study last?
+Study participants were in the study for approximately 10 weeks (Part A), 12 weeks 
+(Part B and Part C)including the Screening visit andon-site follow -up visit .  The 
+entire study took about 16months to complete.
+When the study ended in July 2021 , the Sponsor began reviewing the information 
+collected.  The Sponsor then created a report of the results.  This is a summary of that 
+report.
+What were t he results of the study?
+Were doses of PF -07081532 safe in participants with T2DM and 
+participants with obesity ?
+Yes, doses of PF -07081532 from 10 mg to 180 mg given once a day were found to be 
+safe.
+There were no harmful trends in the results of any of the safety tests done as part of 
+the study (this included laboratory tests on blood and urine , blood pressure, pulse rate 
+and ECG parameters ).  This means that the results of these tests did not appear to be 
+meaningfully different with increasing PF -07081532 doses or placebo .Based on these results, comparing PF -07081532 to placebo, the researchers have 
+decided that the results arenotlikely the result of chance.
+This does not mean that everyone in this study had these results.  This is a summary 
+of just some of the main results of this study.  Other studies may have different 
+results.
+What medical problems did participants have during 
+the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants cou ld have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance). Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking. Sometimes the cause of a medical problem is unknown. By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what effects a study medication might have on a participant.
+44out of 51(86%)participants with T2 DMand 14 out of 15 (93%)participants with 
+obesity had at least 1 medical problem.   A total of 3participants left the study because 
+of medical problems.  The most common medical problems –those reported by more 
+than 5%of the total number of participant s–are described below.
+Below are instructions on how to read Table 1. 
+Instructions for Understanding Table 1. 
+The 1stcolumn of Table 1lists medical problems that were commonly 
+reported during the study.  All medical problems reported by more 
+than 5%of participants are listed in decreasing order .
+The 2nd-7thcolumn tells how many of the 66participants taking the 
+PF-07081532 or placebo reported each medical problem.  Next to this number is the percentage of the participants taking the PF-07081532 or 
+placebo who reported the medical problem. 
+For example, using these instructions, you can see that a total of 26 out 
+of the 52 (50%)participants taking PF -07081532 and a total of 4 out of 
+the 14 (29%)participants taking a placebo reported nausea.  Using 
+these instructions, you can see that nausea was reported by 19 out of 
+the 40 (48%)participants with T2DM taking PF 07081532 and 3 out of 
+the 11 (27%)participants with T2DM taking placebo .Table 1. Commonly reported medical problems by study participants
+Medical ProblemPart A + C
+(51Participants with T2DM)Part B (15 Participants with 
+Obesity)Total (66 Participants with
+T2DM + Obesity)
+PF-07081532 Placebo PF-07081532 Placebo PF-07081532 Placebo
+Feeling of sickness 
+in the stomach 
+(Nausea)19 out of 40 
+participants
+(48%)3 out of 11 
+participants
+(27%)7 out of 12 
+participants
+(58%)1 out of 3 
+participants
+(33%)26 out of 52 
+participants
+(50%)4 out of 14 
+participants
+(29%)
+Loose bowel 
+movement 
+(Diarrhoea)13 out of 40 
+participants
+(33%)2 out of 11 
+participants
+(18%)5 out of 12 
+participants
+(42%)1 out of 3 
+participants
+(33%)18 out of 52 
+participants
+(35%)3 out of 14 
+participants
+(21%)
+Decreased number 
+of or difficulty 
+making bowel 
+movements 
+(Constipation)10 out of 40 
+participants
+(25%)3 out of 11 
+participants
+(27%)6 out of 12 
+participants
+(50%)2 out of 3 
+participants
+(67%)16 out of 52 
+participants
+(31%)5 out of 14 
+participants
+(36%)
+Headache 12out of 40 
+participants
+(30%)2 out of 11 
+participants
+(18%)2 out of 12 
+participants
+(17%)1 out of 3 
+participants
+(33%)14 out of 52 
+participants
+(27%)3 out of 14 
+participants
+(21%)
+Low blood sugar 
+(Hypoglycaemia)8out of 40 
+participants
+(20%)0 out of 11 
+participants
+(0%)6 out of 12 
+participants
+(50%)0 out of 3 
+participants
+(0%)14 out of 52 
+participants
+(27%)0 out of 14 
+participants
+(0%)Table 1. Commonly reported medical problems by study participants
+Medical ProblemPart A + C
+(51Participants with T2DM)Part B (15 Participants with 
+Obesity)Total (66 Participants with
+T2DM + Obesity)
+PF-07081532 Placebo PF-07081532 Placebo PF-07081532 Placebo
+Decreased appetite 9 out of 40 
+participants
+(23%)0 out of 11 
+participants
+(0%)4 out of 12 
+participants
+(33%)1 out of 3 
+participants
+(33%)13 out of 52 
+participants
+(25%)1 out of 14 
+participants
+(7%)
+Vomiting 9 out of 40 
+participants
+(23%)1 out of 11 
+participants
+(9%)3 out of 12 
+participants
+(25%)1 out of 3 
+participants
+(33%)12 out of 52 
+participants
+(23%)2 out of 14 
+participants
+(14%)
+Feeling fullness 
+(Early satiety)9 out of 40 
+participants
+(23%)0 out of 11 
+participants
+(0%)2 out of 12 
+participants
+(17%)0 out of 3 
+participants
+(0%)11 out of 52 
+participants
+(21%)0 out of 14 
+participants
+(0%)
+Swelling in belly 
+(Abdominal 
+distension )5out of 40 
+participants
+(13%)0 out of 11
+participants
+(0%)5 out of 12
+participants
+(42%)1 out of 3
+participants
+(33%)10out of 52
+participants
+(19%)1out of 14
+participants
+(7%)
+Indigestion, trouble 
+digesting food with 
+discomfort after 
+meals (Dyspepsia)8 out of 40 
+participants
+(20%)1 out of 11 
+participants
+(9%)0 out of 12 
+participants
+(0%)0 out of 3 
+participants
+(0%)8 out of 52 
+participants
+(15%)1 out of 14 
+participants
+(7%)Table 1. Commonly reported medical problems by study participants
+Medical ProblemPart A + C
+(51Participants with T2DM)Part B (15 Participants with 
+Obesity)Total (66 Participants with
+T2DM + Obesity)
+PF-07081532 Placebo PF-07081532 Placebo PF-07081532 Placebo
+Dizziness 6 out of 40 
+participants
+(15%)3 out of 11 
+participants
+(27%)0 out of 12 
+participants
+(0%)0 out of 3 
+participants
+(0%)6 out of 52 
+participants
+(12%)3 out of 14 
+participants
+(21%)
+Pain in belly 
+(Abdominal pain )4 out of 40 
+participants
+(10%)0 out of 11 
+participants
+(0%)2 out of 12
+participants
+(17%)0 out of 3
+participants
+(0%)6out of 52
+participants
+(12%)0 out of 14
+participants
+(0%)
+Acid reflux 
+(Gastrooesophageal 
+reflux disease)0 out of 40 
+participants
+(0%)0 out of 11
+participants
+(0%)5 out of 1 2
+participants
+(42%)1 out of 3
+participants
+(33%)5 out of 52
+participants
+(10%)1out of 1 4
+participants
+(7%)
+Burping 
+(Eructation)2 out of 40 
+participants
+(5%)0 out of 11 
+participants
+(0%)2 out of 12 
+participants
+(17%)0 out of 3 
+participants
+(0%)4 out of 52 
+participants
+(8%)0 out of 14 
+participants
+(0%)Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life-threatening, needs hospital
+care, or causes lasting problems.
+1 participant ( 1out of 66 total participants )had serious medical problems.  
+1participant with T2DM in the PF-07081532 30 mg group had obstructive 
+pancreatitis .  
+Study doctors believed the serious medical problem reported by the participant might 
+be related to study medication. However, after final review, the serious medical 
+problem was not thought to be related to the study drug by the sponsor. There were 
+no deaths in this study .Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+The full scientific report of this study is available online at:
+www.clinic altrials.gov Use the study identifier NCT 04305587
+www.pfizer.com/research/
+research_clinical_trials/trial_resultsUse the protocol number C3991002
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients .
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help patients , and you helped 
+us to do that !

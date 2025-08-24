@@ -1,0 +1,26 @@
+Plain Title: Comparing Different Types of Light Therapy for Psoriasis Treatment
+
+Rationale:
+Psoriasis is a skin condition that causes red, itchy, and scaly patches on the skin. There are different types of light therapy used to treat psoriasis, but it is unclear which one is the most effective. This study aimed to compare the effects of narrow-band ultraviolet B (NB-UVB) therapy with broad-band ultraviolet B (BB-UVB) therapy or psoralen ultraviolet A (PUVA) therapy for psoriasis treatment. The goal was to find out which type of light therapy is the most beneficial for patients.
+
+Trial Design:
+To understand how different types of light therapy compare, the researchers reviewed several studies that had already been conducted. They searched various databases to find relevant information. The studies included adult patients with chronic plaque psoriasis, guttate psoriasis, or palmoplantar psoriasis. The total duration of the study varied depending on the specific study design.
+
+Results:
+The researchers included 13 randomized controlled trials in their analysis, involving a total of 662 participants. They looked at different outcomes, including participant-rated improvement, the percentage of participants achieving a 75% reduction in Psoriasis Area and Severity Index (PASI) score, withdrawal due to side effects, and clearance rate.
+
+The results showed that, compared to oral PUVA therapy, NB-UVB therapy did not significantly differ in terms of PASI 75 reduction in chronic plaque psoriasis. However, in some studies, oral PUVA therapy had better clearance rates than NB-UVB therapy. Withdrawal rates due to side effects were similar between the two groups.
+
+When comparing NB-UVB therapy with bath PUVA therapy, the results were inconsistent. In some studies, there was no significant difference in clearance rates between the two treatments, while in others, bath PUVA therapy was more effective. 
+
+For palmoplantar psoriasis, NB-UVB therapy and topical PUVA therapy showed no significant difference in clearance rates.
+
+Combining retinoid medication with either NB-UVB or PUVA therapy had similar effects in treating chronic plaque psoriasis or guttate psoriasis.
+
+There was no significant difference in clearance rates or withdrawals due to adverse events between NB-UVB therapy and selective BB-UVB therapy in chronic plaque psoriasis.
+
+Unfortunately, there were no studies that reported outcomes for NB-UVB therapy compared to conventional BB-UVB therapy.
+
+Overall, the results of the studies were inconsistent and varied. It is important to interpret the evidence with caution. NB-UVB therapy may be more convenient to use because it does not require the use of an exogenous photosensitizer before treatment. However, larger studies are needed to confirm the long-term safety of NB-UVB therapy.
+
+In conclusion, the study suggests that different types of light therapy have varying effects on psoriasis treatment. More research is needed to determine which therapy is the most effective and safe for long-term use.

@@ -1,0 +1,17 @@
+1. Plain Title: 
+Examining the Effectiveness of Manual Ear Cleaning in People with Long-term Ear Infections 
+
+2. Rationale:
+Chronic suppurative otitis media, known also as a long-lasting inflammation or infection of the middle ear, is a common condition. It often involves more than one type of germ and is characterized by fluid discharge and hearing loss. Typically, a process called aural toileting is used to manually clean the infected ears. Methods used in aural toileting can include direct cleaning with soft materials, sucking out the fluid with specialized equipment or washing out with water using a syringe. While this cleaning method can remove the sticky discharge from the ear, it is somewhat less successful with other types of debris or thicker fluid. It's usually used alone or alongside other treatments like antibiotics. This study was designed to understand how effective aural toileting methods are for individuals with this type of chronic ear inflammation. 
+
+3. Trial Design:
+This study was structured to include adults and children suffering from a chronic ear infection that produces discharge for more than two weeks. Different aural toileting methods were used for cleaning the ears, with no regard to the frequency or duration of treatment. The comparison was made between using the aural toileting method versus not using it or comparing it to another method. Finally, other ongoing treatments like antibiotics or antiseptics used by patients were noted separately. The main outcomes considered were whether the ear discharge was resolved, whether quality of life improved, and whether there were any side effects like pain or discomfort.
+
+4. Results:
+Three studies involving 431 participants were included in this research. Two studies were only conducted with children in a community setting, and the third study included both children and adults who had ear discharge for at least six weeks. Unfortunately, none of the studies reported on outcomes such as quality of life or ear bleeding. 
+
+In one comparison, 351 children underwent daily ear cleaning with soft materials as compared to receiving no treatment. However, the certainty of these studies was low and hence the results were not very definite. 
+
+In the second grouping, one study compared daily suction cleaning with administration of antibiotic ear drops in a clinic to only one suction cleaning session followed by daily self-administered ear drops. The effects between these two groups were uncertain as well.
+
+In conclusion, it is unclear if using aural toileting is effective for resolving ear discharge for individuals with chronic ear infections. Limited data and the poor quality of evidence raise doubt. It also remains uncertain whether daily suction cleaning followed by clinic-administered antibiotics is better than single suction cleaning followed by self-applied ear drops. More high-quality studies are needed to understand and quantify these effects.

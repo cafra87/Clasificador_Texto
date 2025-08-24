@@ -1,0 +1,13 @@
+Plain Title: Treating Acute High Altitude Illness: What Works and What Doesn't?
+
+Rationale: Acute high altitude illness refers to a range of brain and lung conditions that can occur when traveling to high altitudes. It can affect anyone, especially those who are more at risk. There are different treatments available, but it's uncertain how well they work or if they cause any harm.
+
+Trial Design: We conducted a review of different studies to find out how effective and safe the treatments for acute high altitude illness are. We included studies that looked at both medications and non-medication treatments. The studies involved adults, and some also included teenagers. Most of the studies took place in the European Alps. The follow-up time was usually less than one day.
+
+Results: We analyzed 13 studies with a total of 468 participants. Two ongoing studies were also identified. The evidence we reviewed was of low quality due to biases and imprecise results. Here are the main findings:
+
+Non-pharmacological interventions: Three studies with 124 participants showed that a simulated descent may help reduce symptoms of acute mountain sickness. We didn't find any report on all-cause mortality or complete relief of symptoms. The use of hyperbaric chambers and supplementary oxygen did not result in complications.
+
+Pharmacological interventions: Eleven trials involving 375 participants were analyzed. Dexamethasone, a medication, was shown to provide greater relief from acute mountain sickness symptoms compared to placebo. Acetazolamide, another medication, had uncertain effects on symptom severity. Gabapentin and magnesium, two other medications, also had uncertain effects on symptom severity. No adverse events were reported with these treatments.
+
+In conclusion, there is limited evidence on the effectiveness of treatments for acute high altitude illness. Dexamethasone and acetazolamide may help reduce symptoms, but more research is needed to understand their benefits and potential harms. The current evidence has limited practical significance in the clinical field. It is important to conduct high-quality research in this area to better understand how to treat acute high altitude illness.

@@ -1,0 +1,25 @@
+What was the purpose of this study?
+This was a Phase I study. Phase I studies are usually the first time a new
+medicine or molecule is given to people. This study was designed to measure
+biodistribution of an antibody that binds to a protein called albumin.
+Biodistribution is where a molecule goes in the body.
+Researchers will look at the results of this study, as well as other Phase I
+studies, and decide whether additional studies are needed. Researchers want
+to understand more about the safety of the antibody, how long it stays in the
+body, and what other substances could be attached to it.
+Which molecule was studied?
+GSK3128349 isn’t a medicine, it is a molecule. Scientists call molecules like
+GSK3128349 albumin-binding domain antibodies or AlbudAb for short.
+GSK3128349 attaches to albumin. Albumin is made naturally in the liver and
+carries hormones and nutrients in the blood.
+Albumin
+GSK3128349
+Medicine
+(to be added in
+future studies)
+In this study, no medicines were attached to GSK3128349. Researchers
+wanted to learn where GSK3128349 goes in a human body. They used a
+radioactive label called 89Zirconium so they could see the molecule on scans.
+The PET-CT scans measure the radiolabel. Researchers assumed that
+GSK3128349 remained bound to the radiolabelled GSK3128349 throughout
+the study.

@@ -1,0 +1,11 @@
+Plain Title: Risk of Ovarian Cancer in Women Using Infertility Drugs: Study Summary
+
+Rationale: Infertility drugs are used to help women conceive, but there has been controversy about whether these drugs increase the risk of ovarian cancer. This study aimed to evaluate the risk of ovarian cancer and borderline ovarian tumors in women who have used infertility drugs.
+
+Trial Design: The researchers looked at various studies published between 1990 and 2018. They included both randomized controlled trials and non-randomized studies that involved at least 30 participants. The researchers analyzed the data from these studies to determine the risk of ovarian cancer and borderline ovarian tumors in women who used infertility drugs.
+
+Results: The study included a total of 4,684,724 women from 13 case-control and 24 cohort studies. The researchers found that there was a slight increase in the risk of invasive ovarian cancer in women who used infertility drugs compared to those who did not. However, the increase was not considered clinically significant. The risk was slightly higher in women who did not have any children compared to women who had multiple children. For borderline ovarian tumors, the risk was also increased in women who used infertility drugs. However, the number of studies on this topic was limited, and the evidence was of very low certainty.
+
+Overall, the study suggests that there may be a slight increase in the risk of ovarian cancer and borderline ovarian tumors in women who use infertility drugs. However, more research is needed to fully understand this relationship. It is important to note that the number of cancers observed in these studies was very small, and more information about the specific drugs used is needed to draw definitive conclusions.
+
+In conclusion, this study provides some evidence to suggest a potential link between infertility drug use and a slight increase in the risk of ovarian cancer and borderline ovarian tumors. However, more studies are needed to confirm these findings and to better understand the specific factors that contribute to this increased risk.

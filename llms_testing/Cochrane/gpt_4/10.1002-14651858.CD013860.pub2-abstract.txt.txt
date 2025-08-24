@@ -1,0 +1,11 @@
+Plain Title: The Effect of Preemptive Nausea Medicine on Opioid-induced Nausea and Vomiting
+
+Rationale: Opioids are often given to patients for pain relief in hospitals. However, these medicines can cause negative side effects such as nausea and vomiting – this is experienced by more than a third of patients. Anti-nausea and anti-vomiting drugs (antiemetics), given before the opioids (prophylactically), could be a way to reduce these side effects. This study was carried out because it's important to know if these antiemetics are safe and effective before they are given routinely to patients. 
+
+Trial Design: This study reviewed trials where antiemetics were given to adults aged 16 years and older, who were receiving opioids intravenously (that is, through a drip), in hospitals. Two authors reviewed the data, assessed the risks of the trials, and determined how trustworthy the evidence was. They were looking at primary outcomes (the main things targeted), such as if the patients experienced nausea, vomiting, and any harmful events. They also assessed secondary outcomes (extra results of interest), like how severe the nausea was, how many times the patients vomited, and if the patients needed more antiemetic drugs as a backup treatment. 
+
+Results: The authors found three trial studies to review, including 527 patients (187 women and 340 men) who were around 42 years old on average. All these trials used an antiemetic called metoclopramide (given through a drip), with a placebo (a harmless, inert substance) as the comparison. No other antiemetic was tested, and metoclopramide wasn't compared with regular care.
+
+Compared to placebo, metoclopramide didn't reduce the number of patients experiencing vomiting or nausea. There was no difference in harmful events either. While metoclopramide did lessen the severity of nausea, it did not decrease the need for additional antiemetic drugs as a backup treatment. Overall, the certainty of these findings was rated low. 
+
+The authors concluded that giving metoclopramide before giving intravenous opioids in hospitals did not clearly reduce the risk or need for backup treatment of nausea and vomiting. Any difference in nausea severity was not clinically significant. Future research could focus on specific patient groups, and new studies are needed to evaluate other prophylactic antiemetics.

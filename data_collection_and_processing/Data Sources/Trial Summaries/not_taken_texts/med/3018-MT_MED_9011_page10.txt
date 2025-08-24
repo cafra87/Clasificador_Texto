@@ -1,0 +1,24 @@
+What adverse reactions happened during this study?
+The most common adverse reaction was an injection site reaction.
+The tables below show the adverse reactions that happened in more than
+1 participant during the study. There were other adverse reactions, but these
+happened in fewer participants.
+Most common adverse reactions related to MEDI5083
+Part 1 Part 2
+(out of 29 participants) (out of 9 participants)
+Injection site reaction 86.2% (25) 100.0% (9)
+Fatigue 13.8% (4) 11.1% (1)
+Fever 10.3% (3) 11.1% (1)
+Injection site pain 10.3% (3) 0.0% (0)
+Injection site redness 6.9% (2) 0.0% (0)
+Most common adverse reactions related to durvalumab
+Only 18 of the 29 participants in Part 1 received any durvalumab. So, the results
+below are for those 18 participants.
+Part 1 Part 2
+(out of 18 participants) (out of 9 participants)
+Fatigue 11.1% (2) 22.2% (2)
+Diarrhea 11.1% (2) 11.1% (1)
+Low levels of thyroid hormones 11.1% (2) 0.0% (0)
+Joint pain 11.1% (2) 0.0% (0)
+Itchiness 11.1% (2) 0.0% (0)
+10 | Clinical Study Results

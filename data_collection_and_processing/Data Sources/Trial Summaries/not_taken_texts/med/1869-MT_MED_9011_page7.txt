@@ -1,0 +1,27 @@
+Clinical Trial Results
+How many participants had serious medical problems?
+A medical problem is considered serious when it is life threatening, causes lasting problems,
+or needs hospital care. In this study, no participants had serious medical problems, and no
+participants died.
+What were the most common non-serious medical problems in the study?
+The most common non-serious medical problems that participants had in this study were headache
+and a flat and raised rash on the skin. The table below shows the most common non serious medical
+problems that happened in Part A of the study.
+Most common non-serious medical problems in Part A of the study
+AZD4831 AZD4831 AZD4831 AZD4831 AZD4831
+Placebo 5 mg 15 mg 45 mg 135 mg 405 mg
+(10 participants) (6 participants) (6 participants) (6 participants) (6 participants) (6 participants)
+Headache 4 (40.0%) 0 (0.0%) 1 (16.7%) 2 (33.3%) 1 (16.7%) 0 (0.0%)
+Flat and raised
+0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (16.7%) 1 (16.7%) 2 (33.3%)
+rash on the skin
+Throat pain 0 (0.0%) 1 (16.7%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (16.7%)
+Restlessness 1 (10.0%) 1 (16.7%) 0 (0.0)% 0 (0.0)% 0 (0.0)% 0 (0.0)%
+Common cold 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (16.7%) 0 (0.0%)
+Nosebleed 0 (0.0%) 0 (0.0%) 1 (16.7%) 0 (0.0%) 0 (0.0%) 0 (0.0%)
+Stomach illness 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (16.7%) 0 (0.0%) 0 (0.0%)
+Stuffy nose 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (16.7%)
+A total of 4 participants who took AZD4831 in Part A of the study had a flat and raised rash on the
+skin after taking the study drug. Study doctors thought the rashes could be caused by AZD4831.
+No participants had a rash after taking the placebo.
+7

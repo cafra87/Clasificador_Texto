@@ -1,0 +1,20 @@
+1. Plain Title: 
+   Understanding the Value of Virtual Reality for Learning Eye Surgery Techniques
+
+2. Rationale: 
+   Cataract surgery is the most popular eye surgery. It's crucial for students studying eye health to learn these skills. However, we don't know for sure if using virtual reality (VR) - a sort of "video game" training - helps these students do their surgeries better. Our goal was to investigate how VR training affects student skill and performance when conducting cataract surgeries. 
+
+3. Trial Design: 
+   We did a thorough review of research done in this area. We looked at research studies where they compared VR training to any other type of training. In these studies, they randomly organized the students into different groups (like VR training or traditional classroom learning) to see which group did better. We specifically included studies that gave us data about how long surgeries took, if there were any issues during surgery, how well the students did according to their supervisors, and how well they did on their VR tasks. 
+
+4. Results:
+   We found six suitable studies from different parts of the world. These studies included 151 students in total, with the number of students in each study ranging from 12 to 60. Unfortunately, we couldn't combine the results of these studies because the data wasn't suitable. We also noted that not all of the studies were perfectly reliable.
+
+   The results were a bit mixed. Students who trained using VR did their surgeries faster compared to those who didn't do any extra training, but results were inconsistent when compared with those doing wet lab training. Also, one study showed that students with VR training had fewer issues during surgery than those with no extra training, but another study suggested VR trained students had similar rates of surgery problems compared to those who received conventional training.
+
+   For other measurements, like time taken in simulated settings, the evidence was also unclear. One study revealed that VR trained students did better than those with no extra training, and another study suggested VR trained students did the same or better than those who trained in a wet lab. Also, it seemed like supervisors tended to rate VR trained students better than those without extra training. 
+
+   In the end, it was tough to draw clear conclusions because the evidence was not very certain.
+
+5. Authors' conclusions:
+   Virtual reality training might help eye health students perform surgeries in real or simulated settings better than providing no additional training. However, when compared to traditional lab training, the results are unclear. This is an area that needs more research to get more certain answers.

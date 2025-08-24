@@ -1,0 +1,17 @@
+What adverse reactions happened during this study?
+The most common adverse reaction was a low number of neutrophils.
+The table below shows the adverse reactions that happened in 8 or more of
+participants during the study. There were other adverse reactions, but these
+happened in fewer participants.
+Most common adverse reactions
+Participants who got a Participants who got a
+low dose of AZD2811 high dose of AZD2811
+Adverse reaction (out of 22 participants) (out of 50 participants)
+Low number of neutrophils 13.6% (3) 38.0% (19)
+Fatigue 27.3% (6) 24.0% (12)
+Nausea 22.7% (5) 26.0% (13)
+Diarrhea 22.7% (5) 14.0% (7)
+Extremely low number of neutrophils 4.5% (1) 30.0% (15)
+Anemia, which is a decrease in the number 4.5% (1) 18.0% (9)
+of red blood cells in the blood
+10 | Clinical Study Results

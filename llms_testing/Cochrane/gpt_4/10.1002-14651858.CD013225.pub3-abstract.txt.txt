@@ -1,0 +1,29 @@
+1. Plain Title
+Effectiveness of Hormonal and Non-Hormonal Treatments for Women with Seizures Linked to Menstrual Cycle 
+
+2. Rationale
+Catamenial epilepsy refers to the worsening of seizures (sudden, uncontrolled electrical disturbance in the brain) that are linked to a woman's menstrual cycle. About 40% of women with epilepsy might experience this. The risk of seizures can increase at specific points in the menstrual cycle due to changes in hormone levels - like just before menstruation or during ovulation. 
+
+This condition is a significant burden for many women, as seizures can disrupt everyday life, and there's currently some uncertainty about which treatments work best and when to use them. This uncertainty may leave some women inadequately treated for their seizures. 
+
+Existing treatments range from hormonal drugs, such as progesterone, to non-hormonal treatments like clobazam or acetazolamide. Another approach is to stop menstruation completely with synthetic hormones, specifically in women whose menstrual cycles are irregular. 
+
+This study explored how effective and safe these treatments are in managing seizures related to the menstrual cycle. The goal was to provide clearer information about the best treatment options to help women manage their epilepsy more effectively. 
+
+3. Trial Design
+Researchers reviewed evidence from all well-conducted randomized controlled trials (RCTs) they could find that studied hormonal and non-hormonal treatments for catamenial epilepsy. They focused on studies of women with regular or irregular menstrual cycles. 
+
+They gathered data on factors like study design, participant demographics and primary outcomes such as seizure rates and the frequency of adverse events like heart issues, bone health, mood disorders, and menstrual cycle disorders. 
+
+The study included eight articles reporting on four double-blind studies involving 192 women between 13 and 45 years old, suffering from menstrual cycle-related epilepsy. 
+
+4. Results
+Unfortunately, the study review did not find strong support that the hormonal treatments, progesterone or norethisterone, were significantly better than the placebo in decreasing the frequency of seizures. Some progesterone studies showed that seizure rates reduced, but others did not corroborate those findings. 
+
+Furthermore, the researchers found no evidence for the effectiveness of non-hormonal treatments as per their trial design. 
+
+Side effects reported from both hormonal treatments didn't show a significant difference from placebo treatment, and no evidence was available on how the treatments might affect quality of life. 
+
+The researchers concluded that currently, there is low certainty of evidence that hormonal treatments offer significant benefits over a placebos for catamenial epilepsy. Nevertheless, they did not rule out the potential that these treatments could have significant effects. This tepid endorsement primarily results from limitations they noted in the available studies.
+
+The researchers stress the need for more comprehensive and rigorous trials to understand better and evaluate hormonal and non-hormonal treatments' effectiveness and safety used for women with epilepsy linked to their menstrual cycles.

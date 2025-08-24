@@ -1,0 +1,321 @@
+Clinical Study Results
+This summary reports the results of only one study. Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to study participants. The results of this study 
+might be different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc.
+Medicine(s) Studied: PF-06826647
+Protocol Number: C2501004
+Dates of Study: 27 June 2019 to 26 November 2020
+Title of this Study: A Study to Evaluate Safety and Efficacy of 
+PF-06826647 For Moderate To Severe Plaque Psoriasis 
+[A Phase 2, Randomized, Double Blind, 
+Placebo -Controlled, Study to Evaluate the Safety and 
+Efficacy of PF -06826647 in Participants With 
+Moderate to Severe Plaque Psoriasis ]
+Date(s) of this Report: 04 August 2021; amended 16 December 2021 and 
+30 May 2022
+–Thank You –If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation. 
+This summary will describe the study results.  If you have any questions about the study 
+or the results, please contact the doctor or staff at your stu dy site.Why was this study done?
+What is moderate to severe plaque psoriasis?
+Moderate to severe plaque psoriasis is a skin disease characterized by red, scaly, raised 
+patches (plaques) that may itch or burn .  Moderate to severe plaque psoriasis can 
+greatly affect the quality of life for patients. 
+In clinical trials, psoriasis is measured using a tool called Psoriasis Area and Severity 
+Index (PASI). PASI measures plaque psoriasis using the following items:
+Amount of the body (body surfa ce area [BSA]) that has patches (plaques)
+Redness of patches 
+Thickness of patches
+Level (degree) of scaling (extra flaky skin)
+What is PF -06826647 ?
+The study medication, PF -06826647, is a medication that researchers think may help 
+with moderate to severe plaque psoriasis. PF-06826647 blocks a small protein (called 
+tyrosine kinase 2; TYK2) that may cause inflammation and skin patches. When there 
+are too many TYK2 proteins, inflammation and skin patches develop, as seen in 
+psoriasis.
+What was the purpose o f this study?
+The primary purpose of this study was to compare the efficacy of multiple dose 
+levels of PF -06826647 versus placebo.  Efficacy means how well a drug 
+improves a disease or condition. This study measured the proportion (how 
+many out of the tot al) of participants with moderate to severe plaque psoriasis 
+who had a reduction in their patches by 90% (90 out of 100) from the 
+beginning of the study to Week 16.  This measurement is called PASI90 (that 
+means 90% or more PASI score reduction) for this study. This study compared the effects of the study drug ,PF-06826647 ,or a placebo 
+to find out which improves moderate to severe plaque psoriasis.
+Otherpurposes of this study were to provide additional safety and 
+pharmacokinetic (PK ) data. PK data means what amount of PF-06826647 was 
+in the blood at various times.
+Previous studies of PF-06826647 showed adequate safety and improvement of 
+plaque psoriasis to support progression into additional clinical trials requiring 
+longer term the rapy. This study explored whether an oral tablet containing 
+PF-06826647 improves the signs and symptoms of moderate to severe 
+psoriasis.
+A placebo was used as the comparator to the study drug. A placebo does not 
+have any medicine in it, but it looks just like the study medicine .
+What happened during the study?
+How was the study done?
+Researchers tested PF-06826647 in groups of study participants during 2 periods of 
+time: an Investigational Treatment Period ( Weeks 0-16) and an Extension Treatment 
+Period ( Weeks 16 -40). 
+Participants were randomized to receive placebo or 1 of 4 doses of study 
+medication (PF-06826647 , oral daily dose of 50 mg, 100 mg, 200 mg, or 
+400mg)during the Investigational Treatment Period for up to 16 weeks. 
+Randomization means that participants were assigned to a treatment group by 
+chance. Twice as many p articipants were assigned to the placebo, PF-06826647
+200 mg ,or PF-06826647 400 mg groups compared to the PF-06826647 50 mg 
+or PF -06826647 100 mg groups .
+During the Investigational Treatment Period, the study participants and 
+researchers did not know who took PF -06826647 orwho t ook the placebo.  
+This is known as a “blinded” study.  Study participants were assigned to each 
+group by chance alone. The treatmen t doses in the Extension Treatment 
+Period were also randomized and blinded .All participants completing the 16 -week Investigational Treatment Period and 
+who were able to continue to the24-week Extension Treatment Period ( which 
+was from Week 16 to Week 40) received oral daily doses of PF-06826647
+(either 200 mg or 400 mg ).  There was no placebo in the Extension Treatment 
+Period.
+The participants continuing into the Extension Treatment Period who were 
+originally assigned to the PF-06826647 200 mg and PF-06826647 400 mg 
+treatment groups continued to receive their same doses. 
+Participants who received placebo, PF-06826647 50 mg, or PF-06826647 
+100mg in the Investigational Treatment Period were randomly assigned to 
+receive either PF-06826647 200 mg or PF-06826647 4 00 mg during the 
+Extension Treatment Period . 
+Researchers then compared the results of study participants taking the study 
+medication to the results of study participants taking a placebo .  
+Study Design
+Where did this study take place? 
+The Sponsor ran this study at 36 locations in 4 countries in North America, Europe, 
+and Asia. The study locations were in Canada (7 locations), Japan (6 locations), 
+Poland (6 locations), and the United States (17 locations ).
+When did this study take place?
+It began on 27 June 2019 and ended on26 November 2020.
+Who participated in this study?
+The study included participants who were adults at least 18 years old, were diagnosed 
+with moderate to severe plaque psoriasis for at least 6 months, and had stopped other 
+psoriasis treatments.
+A total of 122 men participated (6 9% of participants)
+A total of 56 women participated (3 1% of participants)
+All participants were between the ages of 18 years old and 72 years old
+Participants were to be treated in the Investigational Treatment Period until Week 16.  
+Of the 179 participants who started the study, 153 participants (8 5%) finished the 
+Investigational Treatment Period.  One (1) participant of the 179 participants who 
+started the study was not treated and is not counted in the number who were treated; 
+178 participants were treated in the Investigational Treatment Period. 
+25 participants (14%) did not finish the Investigat ional Treatment Period because:
+8 participants ( 4%) had a medical problem 
+3participants (2%) left before the study was over for other reasons
+1 participant (1%) did not respond to the study medication
+1 participant (1%) was lost to follow -up
+1 participan t (1%) had an unplanned change to the study design
+11 participants (6%) left before the study was over by their choice or a doctor 
+decided it was best for a participant to stop being in the study.
+A total of 153 participants entered the Extension Treatment Period (Week 16 to 
+Week 40).  A total of 152 of these participants were treated in the Extension 
+Treatment Period , and 130(85%) participants completed the Extension Treatment 
+Period.
+23 participants (13 %) did not finish the Extension Treatment Period because:8 participants ( 5%) had a medical problem 
+1 participant (1%) left because of pregnancy 
+7participants (4 %) left before the study was o ver by their choice 
+7 participants (4%) left before the study was over for other reasons
+How long did the study last?
+Study participants were in the study for 16 weeks during the Investigational Treatment 
+Period and 24 weeks during the Extension Treatment Period for a total of 40 weeks , 
+plus a screening period of up to 6 weeks and a follow -up period of 4 weeks . The 
+entire study took about 1½ years to complete.
+The study was completed as planned, including during the Covid -19 pandemic 
+period .
+7 participants left the study during the Covid -19 pandemic period (2 in the 
+Investigational Treatment Period and 5 durin g the Extension Treatment 
+Period); the data from these 7 participants were not analyzed for this report.
+5 participants reported missed doses or delayed doses due to the pandemic.
+When the study ended in November 2020, the Sponsor began reviewing the 
+infor mation collected.  The Sponsor then created a report of the results.  This is a 
+summary of that report .
+What were the results of the study?
+What proportion of participants with moderate to severe plaque 
+psoriasis taking PF-06826647 achieved PASI90, compared to 
+participants taking placebo?
+PASI90 for this study means a response greater than or equal to a 90% (90 out of 
+100) reduction in the PASI score from the beginning of the study compared with 
+PASI90 at Week 16. Did the study med ication help participants achieve PASI90 
+compared to placebo at Week 16?
+Yes.  The results are described below and shown in the graph on the next page.
+21 participants out of 41 (51%) participants who took PF-06826647 400 mg
+achieved PASI90 response ;
+17 participants out of 45 (38%) participants who took PF-06826647 200 mg 
+achieved PASI90 response ;
+2 participants out of 21 (10%) participants who took PF-06826647 100 mg 
+achieved PASI90 response;
+3 participants out of 22 (14%) participants who took PF-06826647 50 mg 
+achieved PASI90 response;
+2 out of 42 (5%) participants who took placebo achieved PASI90 response.
+Based on these results, the researchers have decided that the results for participants 
+taking PF-06826647 400 mg or 200 mg were not likely the result of chance.  The 
+study medication at 400 mg or 200 mg doses may help participants with moderate 
+to severe plaque psoriasis achieve PASI90 response .  
+The results for participants taking PF-06826647 100 mg or 50 mg were similar to
+placebo and may be the result of chance.   This means the study results for 
+participants taking PF-06826647 100 mg or 50 mg did not show that one treatment 
+was better than another at helpingparticipants with moderate to severe plaque 
+psoriasis achieve PASI90response .Proportion of Participants Achieving PASI90 Response at Week 16
+What medical problems did participants have during 
+the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Ormedical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what effects a study medication might have on a participant.
+A total of 109 out of 178 (61%) participants during the Investigational Treatment 
+Period had at least 1 medical problem.  A total of 9 participants (5%) left the study 
+during the Investigational Treatment Period because of medical problems.  The most 
+common medical problems –those reported by more than 3 participants –are 
+described in the table below:Below are instructions on how to read Table 1 and Table 2 . 
+Instructions for Understanding Table 1 and Table 2 . 
+The 1stcolumn of Table 1 lists medical problems that were commonly 
+reported during the study during the Investigational Treatment Period.   
+All commonly reported medical probl ems that happened in 3 or more 
+participants are listed.
+The 2ndcolumn of Table 1 tells how many of the 133 participants 
+taking the study medication, PF-06826647, at all of the doses (50 mg, 
+100 mg, 200 mg, and 400 mg combined) reported each medical 
+problem.  Next to this number is the percentage (%) of the 
+133participants taking PF-06826647 at all doses who reported the 
+medical problem.
+The 3rdcolumn of Table 1 tells how many of the 45 participants 
+taking the placebo reported each medical problem.  Next to this 
+number is the percentage (%) of the 45 participants taking the placebo 
+who reported the medical problem.
+Using these instructions forTable 1, in the 2ndcolumn you can see 
+that 23out of the 133(17%)participants taki ng the PF-06826647 at all 
+doses reported inflammation of the nose and throat .  In the 3rd
+column, you can see that 6out of t he 45 ( 13%) participants taking the
+placebo reported inflammation of the nose and throat.Table 1 . Commonly reported medical problems by study 
+participants -Investigational Treatment Period
+Medical ProblemPF-06826647
+50 mg, 100 mg, 200 mg, 
+400mg
+(133Participants)Placebo
+(45Participants)
+Inflammation of nose and 
+throat23out of 133 participants
+(17%)6out of 45participants 
+(13%)
+Infection of nose and 
+throat12out of 133participants 
+(9%)2out of 45participants 
+(4%)
+Increased enzyme in heart, 
+brain, and muscle around 
+bones8out of 133 participants 
+(6%)1out of 45 participants 
+(2%)
+Increased blood pressure 
+(short -term)11out of 133 participants 
+(8%)1 out of 45 participants 
+(2%)
+Increased blood pressure
+(long -term)7 out of 133 participants 
+(5%)0 out of 45 participants 
+(0%)
+96 participants out of the 152 (63%) participants in the Extension Treatment Period 
+had at least 1 medical problem.  A total of 9 participants out of 152 (6%) participants 
+left the study during the Extension Treatment Period because of medical problems.  
+The most common medical prob lems –those reported by more than 3 participants –
+are described in the table below.Table 2. Commonly reported medical problems by study 
+participants -Extension Treatment Period
+Medical ProblemPF-06826647 200 mg
+(78Participants)PF-06826647 400mg
+(74Participants)
+Increased enzyme in heart, 
+brain, andmuscle around 
+bones5out of 78participants ( 6%) 7outof 74 participants ( 9%)
+Headache 3out of 78participants ( 4%) 5 out of 74 participants (7%)
+Increased blood pressure 
+(long -term)3 out of 78 participants (4%) 6out of 74participants (8%)
+Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.   During the Investigational Treatment Period , 
+2participants out of 178 participants (1%, or 1 out of 100 participants) had serious 
+medical problems.  
+During the I nvestigational Treatment Period:
+o1 participant in the PF-06826647 50 mg group had a serious medical 
+problem of temporary ,limited hearing loss .  Researchers did not think 
+this was related to PF-06826647 .
+o1 participant in the PF-06826647 200 mg group had a serious medical 
+problem of chest pain with increased blood pressure and nervous system 
+symptoms.  Researchers thought th is was related to PF-06826647 . 
+Noparticipants in the placebo group had a serious medical problem during the 
+Investigational Treatment Period. 
+There were nodeaths during the Investigational Treatment Period.The serious medical problems that happened during the Investigational Treatment 
+Period are listed in the table below. 
+Below are instructions on how to read Table s3and 4 . 
+Instructions for Understanding Table 3 and Table 4. 
+The 1stcolumn of Table 3 lists serious medical problems that were 
+reported during the study during the Investigational Treatment Period.  
+All serious medical problems are listed.
+The 2ndcolumn in Table 3 tells how many of the 133 participants 
+taking the study medication , PF-06826647 ,reported a serious medical 
+problem.  Next to this number is the percentage (%) of the 
+133participants taking the study medication who reported the serious 
+medical problem.
+The 3rdcolumn in Table 3 tells how many of the 45 participants 
+taking a placebo reported a serious medical problem.  Next to this 
+number is the percentage of the 45 participants taking a placebo who 
+reported the serious medical problem.
+Using these i nstructions forTable 3 ,you can see that in the 2nd
+column, 1 participant (1%) out of the 133participants taking the study 
+medication reported temporary , limited hearing loss.   In the 3rd
+column, a total of 0participants (0%) out of the 45 participants taking 
+the placebo reported temporary , limited hearing loss .Table 3. Reported serious medical problems by study participants -
+Investigational Treatment Period
+Serious Medical 
+ProblemPF-06826647
+(133Participants)Placebo
+(45 Participants)
+Temporary ,limited hearing
+loss1 out of 133participants (1%) 0 out of 45 participants (0%)
+Chest pain with increased 
+blood pressure and nervous 
+system symptom s1 out of 133participants (1%) 0 out of 45 participants (0%)
+During the Extension Treatment Period, 5participants out of 152 ( 3%, or 3out of 
+100) had a serious medical problem.   
+The serious medical problem that rese archers thought was related to the study 
+drug, PF-06826647 ,was 1instance of a positive COVID -19test during the 
+Extension Treatment Period.
+There were no deaths during the Extension Treatment Period.
+The serious medical problems that happened during the Extension Treatment Period 
+are listed in the table below. Table 4. Reported serious medical problems by study participants -
+Extension Treatment Period
+Serious Medical 
+ProblemPF-06826647 200 mg
+(78Participants)PF-06826647 400 mg
+(74Participants)
+Miscarriage 1out of 78participants (1%) 0out of 74participants ( 0%)
+COVID -19 positive test 1 out of 78 participants (1%) 1 out of 74 participants (1%)
+Almost fainted from 
+dizziness0 out of 78 participants ( 0%) 1 out of 74 participants ( 1%)
+Inflammation or infection of 
+organs from germ0 out of 78 participants (0%) 1 out of 74 participants (1%)
+Increased protein in blood 
+after a blood clot 0 out of 78 participants (0%) 1 out of 74 participants (1%)
+Chest pain 1 out of 78 participants (1%) 0 out of 74participants (0%)
+Worsening of increased 
+blood pressure0 out of 78 participants (0%) 1 out of 74 participants (1%)Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+www.clinicaltrials.gov Use the study identifier NCT03895372
+www.clinicaltrialsregister.eu Use the study identifier 
+EUDRACT 2018 -004669 -16
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for study participants.
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help study participants, and you 
+helped us to do that !

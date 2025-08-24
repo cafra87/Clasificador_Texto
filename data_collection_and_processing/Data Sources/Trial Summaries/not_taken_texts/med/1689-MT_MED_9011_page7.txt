@@ -1,0 +1,23 @@
+Clinical Study Results
+Did MEDI3902 affect the number of participants who developed
+bacterial pneumonia?
+No. Overall, the researchers found that there were differences in the percentage of
+participants who developed bacterial pneumonia among the treatment groups. But,
+the researchers did not consider these differences to be meaningful.
+To answer this question, the researchers counted the number of participants in
+each treatment group who developed bacterial pneumonia within 3 weeks of
+getting treatment. Then, they calculated the percentage in each treatment group
+and compared the results.
+Overall, the researchers found that the treatment group that got 1,500 mg of
+MEDI3902 had the highest percentage of participants who developed bacterial
+pneumonia. The researchers also found that the treatment group that got 500 mg
+of MEDI3902 had the lowest percentage of participants who developed bacterial
+pneumonia.
+The researchers found that 3 weeks after treatment:
+• 12.5% of participants who got 500 mg of MEDI3902 developed bacterial pneumonia.
+This was 2 out of 16 participants.
+• 22.4% of participants who got 1,500 mg of MEDI3902 developed bacterial pneumonia.
+This was 19 out of 85 participants.
+• 18.1% of participants who got the placebo developed bacterial pneumonia. This was
+15 out of 83 participants.
+7

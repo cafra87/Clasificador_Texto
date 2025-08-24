@@ -1,0 +1,13 @@
+Plain Title: 
+Comparing Full and Partial Breast Radiation Treatments After Breast Cancer Surgery
+
+Rationale: 
+Breast cancer can be a great burden for women and is typically treated with surgery to remove the tumor, followed by radiotherapy, which uses radiation to kill any remaining cancer cells. This radiotherapy usually targets the whole breast, though the majority of recurrences occur in the same area as the original tumor. This study investigates whether just treating a limited area around where the tumor was reduces recurrence and if it results in less harm and better outcomes than treating the whole breast.
+
+Trial Design: 
+The study was conducted using online databases and trial registries, with no language restrictions, up until late August 2020. Trials needed to be randomized and controlled and focused on comparing both types of radiotherapy after breast surgery. Only trials without confusing factors were included. From these criteria, nine trials were included in our analysis. These trials involved 15,187 women who had undergone surgery for early-stage (Grade I and II) invasive breast cancer or a type of non-invasive breast cancer, ductal carcinoma in-situ. The cancers were all small and the surgery had achieved clear margins.
+
+Results: 
+The results suggest that the chance of local recurrence may be slightly higher for those who receive partial breast irradiation compared to those who receive whole-breast radiotherapy. The impact of radiotherapy on the appearance of a woman’s breast is also worse with partial than whole breast treatment. Meanwhile, we found that overall survival, survival without cancer spreading, and the necessity for mastectomy were similar for both treatment options. However, partial breast irradiation may result in increased late radiation toxicity. 
+
+While partial breast irradiation appears to have some downside, the differences are small. Over time, more information will become available from ongoing trials. This will help draw clearer conclusions about the effectiveness and safety of these two different types of radiotherapy treatments.

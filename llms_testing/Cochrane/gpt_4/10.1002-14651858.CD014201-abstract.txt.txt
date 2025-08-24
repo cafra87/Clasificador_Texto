@@ -1,0 +1,15 @@
+1. Plain Title: 
+Effect of Preventative Treatment Versus Treatment Upon Bleeding in People with Hemophilia
+
+2. Rationale: 
+Hemophilia is a serious condition where a person's blood doesn't clot properly. This causes them to bleed longer than expected after an injury or surgery. Severe Hemophilia, type A or B, can lead to frequent and heavy bleeding into joints and soft tissues, causing damage over time. Some people take a treatment that helps stop the bleeding once it has started, but there is controversy around starting a treatment to prevent the bleeds from happening in the first place. This can be due to medical reasons, social reasons, or the cost of treatment. This study was performed to see if this preventive treatment could help people who have hemophilia A or B and have been previously treated for their condition.
+
+3. Trial Design: 
+To find an answer, the study researchers searched and reviewed multiple databases of health-related trials. After shortlisting, they picked random trials that evaluated people who have either Hemophilia A or B and have undergone previous prophylactic (preventative) treatment. Two authors independently reviewed and analysed these trials, considering risk and comparing the different treatments. The trials investigated included 608 people in total.
+
+4. Results: 
+Out of the ten trials selected, eight compared two or more treatment types or schedules with each other and four trials compared preventative treatment to on-demand treatment. The study found that preventive treatment likely reduced the number of bleeds compared to on-demand treatment, even though it couldn't prevent damage to the joints as seen in MRI scans. But, Joint function, quality of life, and level of pain showed improvement with preventive treatment. There also seemed to be a small increase in the occurrence of side effects from treatment. 
+
+When looking at different preventive treatments, no significant differences were found in terms of protection from bleeding. However, adjusting the dosing might result in better outcomes. Because these results vary widely, it was not possible to combine the data for a single general conclusion. 
+
+The authors concluded that preventive treatment might reduce bleeding frequency and improve the quality of life for people who have been treated for Hemophilia before. However, more carefully planned trials still need to be conducted to determine the best and most cost-effective treatment plans.

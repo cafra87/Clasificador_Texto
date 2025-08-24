@@ -1,0 +1,13 @@
+Plain Title: The Effects of Humour-Based Interventions for People with Schizophrenia
+
+Rationale:
+People with schizophrenia face challenges with mental health and overall quality of life. Humour-based interventions aim to promote health and wellness by embracing the humorous aspects of life. Although these interventions have been suggested as a complement to standard care, there is a lack of evidence summarizing their effectiveness.
+
+Trial Design:
+This study examines the effects of humour-based interventions as an additional treatment for people with schizophrenia. The researchers searched various databases for randomized controlled trials that compared these interventions to active controls, other psychological interventions, or standard care. They assessed the quality of the included studies and analyzed the data to determine the outcomes.
+
+Results:
+The review included three studies, but one study did not report relevant outcomes. Therefore, the quantitative analysis included two studies involving a total of 96 participants. Unfortunately, there was no data available regarding the primary outcomes, such as changes in general mental state, negative symptoms, overall quality of life, and adverse effects. Compared to active control interventions, humour-based interventions may not improve the average endpoint score of a general mental state scale, positive symptoms, negative symptoms, and anxiety. However, these interventions may reduce depressive symptoms. When compared to standard care, humour-based interventions may not improve depressive symptoms either. The researchers remain uncertain about the impact of humour-based interventions on leaving the study early.
+
+Conclusion:
+Based on the available evidence, it is currently unclear whether humour-based interventions are effective for people with schizophrenia. Further research with rigorous methodology and a focus on clinically important outcomes is needed to determine their potential benefits.

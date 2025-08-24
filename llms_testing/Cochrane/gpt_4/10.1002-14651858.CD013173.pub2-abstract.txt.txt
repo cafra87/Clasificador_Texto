@@ -1,0 +1,11 @@
+1. Plain Title: 
+Understanding if Cognitive Behavioural Therapy Helps People With Autism and Obsessive Compulsive Disorder
+
+2. Rationale:
+Autism Spectrum Disorder (ASD) impacts the brain, affecting how one learns and utilises skills. People with ASD often have difficulty socializing and communicating and frequently repeat certain behaviors. This condition often goes hand-in-hand with mental health disorders such as Obsessive Compulsive Disorder (OCD), a disorder categorized by repeated troubling thoughts and actions. People with ASD sometimes think differently, which can affect how they respond to treatment. This study aimed to find out if Cognitive Behavioural Therapy (CBT), a common treatment for OCD, can effectively help individuals who have both ASD and OCD. 
+
+3. Trial Design:
+We gathered information through various sources, like medical databases and professional experts. We only included studies that involved people who have both ASD and OCD and used different types of experimental designs. This included trial types like cross-over and cluster schemes. We did not include people with severe learning difficulties. The treatments tested could be in any setting and involved behavioural therapy (BT) and cognitive behavioural therapy (CBT), which might have been altered for those with ASD. The outcomes we measured included changes in OCD symptoms and completion of treatment. We also checked if the therapy helped reduce symptoms of depression, anxiety, or other behavioural difficulties. 
+
+4. Results:
+We only found one study that met our criteria, which included 46 participants. This study compared CBT for OCD in people with high-functioning ASD to a control group who only received anxiety management. The same number of people completed the treatment in both the CBT (87%) and anxiety management (87%) groups. The study showed that CBT might have some benefits over just managing anxiety when it came to reducing OCD symptoms, as well as symptoms of depression and anxiety. However, the evidence isn't strong enough to say this for certain. Therefore, we decided that more research is needed to confidently say if CBT can effectively treat OCD in people with ASD. We also recommend studying more about how OCD shows up in people with ASD and how their families can help in the treatment.

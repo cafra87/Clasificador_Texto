@@ -1,0 +1,28 @@
+Who took part in the study?
+The researchers asked for the help of men and women with 1 of 3 different types
+of cancer:
+> acute myeloid leukemia, also called AML
+> diffuse large B-cell lymphoma, also called DLBCL
+> multiple myeloma, also called MM
+The participants in this study were 32 to 88 years old when they joined.
+The study included 67 participants in France, the Republic of Korea, and the
+United States.
+Why was the research needed?
+Researchers are looking for a better way to treat cancer of the blood, bone
+marrow, or lymph nodes. Before a drug can be approved for people to take,
+researchers do clinical studies to find out how safe it is and how it works.
+Cancer is a disease that happens when the body cannot control the growth of
+cells. Acute myeloid leukemia, also called AML, is a blood cancer that starts in
+the bone marrow, the soft inner part of certain bones, where new blood cells
+are made. From the bone marrow, the cancer cells can move quickly to the
+blood. Diffuse large B-cell lymphoma, also called DLBCL, is a cancer that starts
+in the lymphocytes, which are a type of white blood cell that help the body fight
+infection and disease. Multiple myeloma, also called MM, is a blood cancer that
+starts in white blood cells other than lymphocytes.
+The cancer cells in people with AML, DLBCL, or MM produce more of a protein
+called ASCT2 than normal cells. The study treatment, MEDI7247, is toxic to cancer
+cells. MEDI7247 works by attaching itself to ASCT2 proteins at the surface of
+cancer cells, and then entering and killing the cells. In this study, the researchers
+wanted to learn more about the safety of MEDI7247 in participants with AML,
+DLBCL, or MM.
+2 | Clinical Study Results

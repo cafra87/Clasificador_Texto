@@ -1,0 +1,13 @@
+1. Plain Title:
+    Testing a New Line of Medicines in People with Advanced Lung Cancer
+
+2. Rationale:
+    Lung cancer is a common form of cancer, often presenting in advanced stages. For a small section of these patients, the cancer cells have changes ('rearrangements') in a gene called ALK which drives the disease. This can cause the cancer to grow and spread quickly. Currently, some medications, such as crizotinib, and new ones like ceritinib, alectinib, brigatinib, ensartinib, and lorlatinib, target these ALK-changed cancer cells to slow their growth. These are now used by doctors. But, we need to understand more about how safe and effective they are, and which one works best for patients with this type of lung cancer.
+
+3. Trial Design:
+    We searched databases for medical studies that involved people with advanced lung cancer caused by changes in the ALK gene. We only included studies that were rigorous and compared these ALK interventions with chemotherapy or with each other. We collected and analyzed data from these studies. Our aim was to understand the patient's survival without the disease getting worse, the side effects, the overall survival, if the tumor responded to the treatment, and the patient's quality of life. This process took place from 2007 to the early days of 2021.
+
+4. Results: 
+    We found eleven studies that fit our criteria. The studies showed that ALK-specific medicines helped slow down cancer growth better than chemotherapy. The risk of side effects was similar. These medicines also improved patient survival times, and tumorous response was seen to be better. Patients reported a slower decline in quality of life when compared with chemotherapy. The new ALK medicines performed even better; they were very good at slowing cancer growth and again, with similar rates of side effects as the first medicine, crizotinib. They also increased survival times, tumor responses, and were especially effective in cases where the cancer had spread to the brain. 
+
+    Our findings support that these new generation ALK medicines are currently the best first choice treatment for patients with advanced lung cancer which has changes in the ALK gene. But we still need to research which medicine to use first, and what the right sequence of treatment should be.

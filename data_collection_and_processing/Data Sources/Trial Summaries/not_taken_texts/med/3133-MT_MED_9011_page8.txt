@@ -1,0 +1,26 @@
+Adverse events may or may not be caused by the treatments in the study. A lot of
+research is needed to know whether a treatment causes an adverse event.
+Groups 1 and 2
+(out of 11 participants)
+How many participants had adverse events? 90.9% (10)
+How many participants had serious adverse events? 9.1% (1)
+How many participants stopped taking study treatment
+9.1% (1)
+because of adverse events?
+The serious adverse event was inflammation of the pancreas.
+The most common adverse events were:
+> Decreased numbers of blood cells that help form blood clots
+> Liver not working normally
+> Feeling generally unwell
+> Fever
+> Increased levels of the liver proteins called AST, ALT, and GGT
+> Decreased numbers of a type of white blood cell called neutrophils
+> Decreased appetite
+> Nausea
+The study doctors also counted the number of dose-limiting toxicities the
+participants had during the study. A dose-limiting toxicity is an adverse event that
+is severe enough to stop the study doctor from increasing the participant’s dose of
+study treatment. A dose-limiting toxicity is also known as a DLT.
+There was 9.1% of participants who had a DLT during the study. This was 1 out of
+11 participants.
+8 | Clinical Study Results

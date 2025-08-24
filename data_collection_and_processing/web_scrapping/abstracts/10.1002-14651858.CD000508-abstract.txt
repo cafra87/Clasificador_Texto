@@ -1,0 +1,14 @@
+Background
+Umbilical arterial catheters (UACs) are among the most commonly used monitoring methodologies in neonatal intensive care. Immediately after insertion of a UAC, local vascular compromise is frequently evident, usually in the form of blue or white toes, but occasionally with more severe and extensive ischemic manifestations. Aortic thrombi and renal ischemia have also been described. Some epidemiologic and case control studies have shown that the use of umbilical artery catheterisation is statistically associated with the later development of necrotizing enterocolitis. 
+Objectives
+To determine whether the design of an umbilical arterial catheter influences the frequency of ischemic events, aortic thrombosis, intraventricular hemorrhage, mortality or necrotising enterocolitis in newborn infants. 
+Search methods
+Randomized and quasi‐randomized controlled trials of umbilical catheterization use were obtained using the search methods of the Cochrane Neonatal Review Group. The Cochrane Library, MEDLINE (search via PubMed), CINAHL and EMBASE were searched from 1999 to 2009. 
+Selection criteria
+Randomized trials in newborn infants of any birthweight or gestation.  Comparison of end hole catheters with side hole catheters.  Clinically important end points such as ischemic events or aortic thrombosis. 
+Data collection and analysis
+There appears to be only a single trial which has addressed this issue (Wesstrom 1979). 
+Main results
+End hole catheters are associated with a much decreased risk of aortic thrombosis compared to side hole catheters. RR = 0.27 (95% CI 0.11, 0.67) 
+Authors' conclusions
+Side hole catheters should be avoided for umbilical arterial catheterisation in the newborn. 

@@ -1,0 +1,26 @@
+Plain Title: Probiotics for Children with Chronic Constipation - Does it Work?
+
+Rationale:
+Functional constipation, a type of chronic constipation without an underlying cause, is a common problem among children and can cause significant discomfort. Probiotic preparations, which can alter the gut microbiome, have been suggested as a potential treatment for functional constipation. However, more research is needed to determine if probiotics are effective in relieving constipation in children and if they are safe to use.
+
+Trial Design:
+This study aimed to evaluate the efficacy and safety of probiotics in managing chronic constipation in children. The researchers conducted a review of randomized controlled trials (RCTs) that compared probiotics to placebo or other interventions. The participants in these trials were children between the ages of 0 and 18 who had been diagnosed with functional constipation.
+
+Results:
+The study included a total of 14 trials with 1,127 participants. Most of the trials focused on probiotics alone, while a few examined synbiotic preparations (probiotics combined with other substances).
+
+The results indicated that there may not be a significant difference in the frequency of bowel movements or overall treatment success between children who took probiotics and those who received a placebo. Additionally, there was not enough evidence to determine if there was a difference in withdrawals due to adverse events between the two groups.
+
+In a small number of trials comparing probiotics plus an osmotic laxative to the laxative alone, there was no significant difference in the frequency of bowel movements or treatment success. The evidence regarding withdrawals due to adverse events was unclear.
+
+Comparisons between probiotics and magnesium oxide showed uncertain results for frequency of bowel movements, treatment success, and withdrawals due to adverse events. The certainty of the evidence for these outcomes was very low.
+
+One trial involving a synbiotic preparation showed that it may be more effective than a placebo in achieving treatment success, with no reported withdrawals due to adverse effects.
+
+Comparisons between synbiotic preparations and other interventions showed varied results, but the evidence was limited and of low certainty.
+
+The study did not find enough evidence to determine if probiotics combined with other interventions were more effective or safer than the interventions used alone.
+
+The researchers concluded that there is insufficient evidence to determine the efficacy of probiotics in treating chronic constipation in children or whether they have an impact on the frequency of bowel movements. They also emphasized the need for future studies to provide more conclusive evidence and to establish guidelines for conducting probiotic studies. Core outcome sets should be developed to ensure consistent interpretation of findings.
+
+In summary, while probiotics may show some promise in relieving chronic constipation in children, more research is needed to fully understand their effectiveness and safety.

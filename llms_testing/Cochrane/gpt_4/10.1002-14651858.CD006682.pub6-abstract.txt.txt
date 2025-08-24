@@ -1,0 +1,13 @@
+Plain Title: Understanding the Best Length of Antibiotic Use for Lung Infections in Cystic Fibrosis Patients
+
+Rationale: 
+
+Cystic fibrosis (or CF) is an illness that affects a person's lungs, making it hard to breathe. This happens because their lungs get filled with thick, sticky mucus. There can also be frequent lung infections that cause more damage to the lungs over time. One way that doctors have been helping patients to live longer, healthier lives is by using antibiotics. Antibiotics are medicines that kill bacteria causing infections. People with CF usually receive treatment with antibiotics for 14 days, but this can range from 10 to 21 days. We aren't certain yet about the best length of time for this treatment. Too short could mean not fully getting rid of the infections, causing more lung damage. Too long can bring various problems, such as allergies to the antibiotics, and is also expensive and inconvenient for the patient. However, we do know some lung infections in CF patients can be more stubborn and need longer treatment. 
+
+Trial Design:
+
+This study aimed to find out the best length of time for using antibiotics to tackle lung infections in people with CF. For that, we expected to check and compare studies where different lengths of time using antibiotics were tested among CF patients. It would be ideal to find studies that use the same antibiotics, as well as studies that explain if there were other helpful treatments used. 
+
+Results:
+
+Unfortunately, we could not find any studies that fit our needs. Thus, we can’t yet say which would be the best length of time to use antibiotics in cystic fibrosis patients experiencing lung infection. It seems, in many cases, the length of time antibiotics are used is based on the rules of the individual clinic or hospital, and how the patient reacts to the treatment. We suspect that shorter periods of treatment would make life more normal for the patient, reduce chances of experiencing side effects from the treatment and save costs. But, we are also concerned that a shorter time could let the infection linger and come back stronger. We realize we urgently need a large study that tests different lengths of the antibiotic treatment because answering this question has significant effects on patient's health and the cost of the care. There is a study, called the STOP2 trial, that is ongoing, and we hope it will help answer our questions when its findings are published.

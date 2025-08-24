@@ -1,0 +1,14 @@
+Plain Title:
+Overview of Mental Health Interventions for Migrants: Gaps and Recommendations
+
+Rationale:
+Leaving one's home and facing forced migration can lead to significant stress and mental health problems for refugees, asylum seekers, and internally displaced persons (IDPs). This study aimed to examine existing systematic reviews and registered review protocols on mental health interventions in this population to identify gaps and prioritize future research. It is crucial to understand which interventions are effective in promoting mental health, preventing mental health problems, and treating common mental disorders among involuntary migrants.
+
+Trial Design:
+This study conducted an overview of systematic reviews by searching various databases for reviews and protocols on mental health interventions for refugees, asylum seekers, and IDPs. There were no restrictions on the language, date, or publication status. The inclusion criteria focused on interventions aimed at mental health promotion, prevention, and treatment. Data on the characteristics of the reviews, interventions examined, and the number of primary studies included were extracted. The quality of the systematic reviews was assessed using AMSTAR 2.
+
+Results:
+The overview included 23 published systematic reviews and 15 registered review protocols. Of the published reviews, eight conducted meta-analyses. Reviews were more likely to include studies involving refugees rather than asylum seekers or IDPs. Most reviews did not restrict the participant age or were restricted to adults. The focus was primarily on post-traumatic stress disorder and trauma-related symptoms, with less attention to depression and anxiety disorders. Psychological therapy interventions were the most commonly identified. However, many reviews did not distinguish between promotion, prevention, and treatment goals. The methodological quality of the reviews had limitations, particularly in reporting selection criteria, absence of a protocol, reporting study design, search strategy, and funding sources of primary studies.
+
+Conclusions:
+There are gaps in the evidence on mental health interventions for refugees, asylum seekers, and IDPs. Internally displaced persons, who make up the majority of involuntary migrants, are often not specifically included in the selection criteria. There is a lack of reviews focusing on mental health promotion and prevention, particularly for children. The literature is disproportionately focused on trauma-related disorders, with less emphasis on depression and anxiety. Improving the quality and reporting of systematic reviews would be beneficial for implementing effective mental health interventions in this population.

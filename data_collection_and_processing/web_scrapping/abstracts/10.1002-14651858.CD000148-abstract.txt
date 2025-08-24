@@ -1,0 +1,14 @@
+Background
+One way of attempting to improve fetal growth has been nutrient supplementation for the mother when fetal growth is impaired. Different nutrients such as carbohydrates and amino acids have been suggested as treatments for impaired fetal growth. 
+Objectives
+The objective of this review was to assess the effects of nutrient administration for suspected fetal growth impairment on fetal growth and perinatal outcome. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (March 2010).
+Selection criteria
+Acceptably controlled trials of nutrient administration for suspected impaired fetal growth compared to placebo or no treatment. 
+Data collection and analysis
+We assessed trial quality.
+Main results
+Four studies, involving 165 women, were included. The trials were small or had methodological limitations, or both. Carnite was associated with shorter pregnancy duration after enrolment (mean difference ‐2.12, 95% confidence interval ‐3.58 to ‐0.66 weeks). Intraamniotic administration of nutrients was related to higher birthweight (2575 g, standard deviation (SD) 780) as compared to intravenous administration (2080 g SD 457). No other differences were found. 
+Authors' conclusions
+There is not enough evidence to evaluate the use of nutrient therapy for suspected impaired fetal growth. The studies were too small to assess clinical outcomes adequately. 

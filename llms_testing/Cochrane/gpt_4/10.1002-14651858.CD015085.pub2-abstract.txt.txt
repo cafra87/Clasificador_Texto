@@ -1,0 +1,38 @@
+1. Plain Title:
+Ways to Keep Care Homes Safe From COVID-19 Without Medication
+
+2. Rationale:
+COVID-19 seriously affects care homes, making the elderly living there very ill and potentially causing death. It is crucial to find ways to protect these vulnerable people. This study aimed to find out what methods that don't involve medicine can help stop the spread of the virus in these facilities.
+
+3. Trial Design:
+To figure out what helps, we looked at a big mix of studies on 22nd January 2021. These studies tested different strategies that care homes have tried to stop the virus from spreading. We included different types of studies: some tested new ideas, some looked at what happened in real life, and some used computer models to simulate different scenarios. All the studies were from wealthy countries.
+
+4. Results:
+We looked at 11 real life and 11 computer-based studies. Mostly, these studies compared care homes that tried the new method to care homes that didn't. Most of these studies had some issues that could make their results less trustworthy.
+
+We found five main ways that might help stop the spread:
+
+a) Restricting who comes in and out:
+- Keeping staff inside with the residents might help cut down on infections and deaths, and stop the virus from getting in.
+- Quarantining new arrivals might help cut down on infections.
+- Testing new people coming in and staff members after a break might also help cut down on infections.
+- Restricting new people moving in might help stop the virus from getting in.
+- Limiting visitors might help cut down on infections and deaths.
+
+b) Changing how people interact and reducing the chance of the virus passing on:
+- Things like barrier nursing or cleaning more often might help cut down on infections.
+- Using masks and other safety gear might reduce infections, stop major outbreaks, and cut down deaths.
+- Keeping people who usually stay together in the same groups might help cut down on infections.
+
+c) Regular checking for the virus (surveillance):
+- Regularly testing residents and staff, even if they don't have symptoms, might help cut down on infections.
+- Testing based on symptoms might help cut down on infections and stop major outbreaks.
+
+d) Steps to control the virus once it's in (outbreak control):
+- Keeping infected and non-infected residents apart might help cut down on infections and deaths.
+- Isolating infected cases might help cut down on infections and stop major outbreaks.
+
+e) Using multiple methods at once:
+- Using a mix of methods from the categories above might help cut down on infections and deaths.
+
+In conclusion, while these methods might be effective, we need more reliable studies, especially in countries with less money and to understand any possible negative side effects.

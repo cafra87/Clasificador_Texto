@@ -1,0 +1,22 @@
+Overview
+Why was this study done?
+GSK’s rotavirus vaccine is available for use in many countries. Some years ago, researchers found low
+amounts of fragments of porcine circovirus 1 (PCV-1), an animal virus, in the GSK vaccine. Although
+health authorities decided that PCV-1 was not a threat to public health and to vaccinated babies and
+children, GSK decided to develop a PCV-free rotavirus vaccine. The main goal of this study was to assess
+safety of the PCV-free rotavirus vaccine.
+What was studied? Who was in this study?
+Possible vaccine side effects. 693 girls and 658 boys from 5 countries took
+part in the study. They were 6 to 12 weeks
+old when they got their first vaccination.
+What kind of study was it? Main results
+Randomized: Babies who joined this This study did not raise any safety
+study were assigned to a study group concerns about the PCV-free Rotavirus
+by chance (like tossing a coin). vaccine.
+Observer-blind: neither the babies’ One baby withdrew from the study
+parents or guardians nor the medical because of a vaccine side effect. Less
+staff responsible for evaluation of the than 1% of study participants reported a
+study results knew which vaccine the serious medical event. This study did
+babies got. not raise any safety concerns.
+NCT number: NCT03954743
+EudraCT number: 2018-001986-18

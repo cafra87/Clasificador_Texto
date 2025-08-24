@@ -1,0 +1,14 @@
+Plain Title: Treatment for Loss of Smell due to COVID-19: Current Findings
+
+Rationale:
+Loss of the sense of smell is a common symptom of COVID-19 infection. While most people regain their sense of smell within a few weeks, some individuals experience persistent olfactory dysfunction. It is unclear if early treatment can promote recovery and prevent long-term issues. This study aims to evaluate the benefits and harms of different interventions for people with acute loss of smell due to COVID-19. By understanding the effects of these treatments, we can improve outcomes for affected individuals.
+
+Trial Design:
+The study included randomized controlled trials involving individuals with COVID-19-related loss of smell lasting less than four weeks. Various interventions, such as intranasal corticosteroid sprays, drops, hypertonic saline, and zinc sulphate, were evaluated. A total of 691 participants were involved in the five included studies. The outcomes assessed included normal olfactory function, adverse effects, change in sense of smell, prevalence of parosmia, change in sense of taste, disease-related quality of life, and other adverse effects like nosebleeds or bloody discharge.
+
+Results:
+The evidence regarding the efficacy of intranasal corticosteroid spray in promoting recovery of olfactory function is uncertain. Self-rated recovery and psychophysical testing showed no significant improvement. Similarly, the effect on the sense of smell was unclear, with contradictory findings at different time points. Intranasal corticosteroid drops also did not show significant improvement in self-rated recovery after four weeks. Limited information was available for hypertonic saline nasal irrigation and the use of zinc sulphate.
+
+The authors found very limited evidence on the effectiveness and harms of treatments for persistent loss of smell following COVID-19 infection. Ongoing trials are being conducted to further investigate this topic. As a living systematic review, this study will be regularly updated as new findings emerge.
+
+In conclusion, while there is currently limited evidence, this study provides valuable insights into the potential benefits and risks of different treatments for loss of smell due to COVID-19. It highlights the need for further research in this area to improve outcomes for individuals experiencing persistent olfactory dysfunction.

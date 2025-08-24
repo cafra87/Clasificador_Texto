@@ -1,0 +1,31 @@
+What were the ethnicities of the participants?
+White Black Asian Mixed Other
+COV001 (United Kingdom)
+90.7% 0.8% 4.8% 1.7% 2.0%
+AZD1222
+(323) (3) (17) (6) (7)
+(out of 356 participants)
+Control 92.2% 0.3% 4.2% 1.8% 1.8%
+(out of 385 participants) (355) (1) (16) (7) (6)
+COV002 (United Kingdom)
+91.5% 0.6% 5.4% 1.7% 0.8%
+AZD1222
+(3,725) (23) (220) (70) (33)
+(out of 4,071 participants)
+Control 92.2% 0.4% 4.9% 1.6% 0.8%
+(out of 4,136 participants) (3,815) (17) (203) (66) (35)
+COV003 (Brazil)
+66.6% 9.9% 2.4% 20.6% 0.5%
+AZD1222
+(2,273) (337) (83) (704) (17)
+(out of 3,414 participants)
+Control 67.4% 10.1% 2.0% 20.1% 0.5%
+(out of 3,339 participants) (2,249) (336) (66) (670) (18)
+COV005 (South Africa)
+15.1% 67.5% 0.0% 14.9% 2.5%
+AZD1222
+(114) (510) (0) (113) (19)
+(out of 756 participants)
+Control 16.8% 64.6% 0.0% 16.2% 2.4%
+(out of 721 participants (121) (466) (0) (117) (17)
+11

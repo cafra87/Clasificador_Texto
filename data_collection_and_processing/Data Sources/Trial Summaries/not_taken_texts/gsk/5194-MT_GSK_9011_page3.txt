@@ -1,0 +1,20 @@
+Results of the Clinical Study
+Results
+This study found no difference in arterial stiffness between patients treated with
+fluticasone furoate and vilanterol, vilanterol alone, and placebo as shown in the table
+below.
+Table 1. Main Results of the Study
+Measure of Arterial Stiffness: Fluticasone Vilanterol Placebo
+Average Pulse Wave Velocity in Furoate and
+meters per second (m/sec) Vilanterol
+Baseline
+Number of patients 131 patients* 153 patients* 141 patients*
+Average m/sec 13.2 m/sec 13.3 m/sec 13.2 m/sec
+Day 168
+Number of patients 103 patients* 117 patients* 85 patients*
+Adjusted average m/sec 11.5 m/sec 11.3 m/sec 11.3 m/sec
+Change from Baseline
+Change in adjusted average
+m/sec from -1.7 m/sec -2.0 m/sec -2.0 m/sec
+Baseline to Day 168
+*Results are from the patients who completed the necessary tests.

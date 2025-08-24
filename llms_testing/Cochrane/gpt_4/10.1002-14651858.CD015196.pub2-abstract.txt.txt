@@ -1,0 +1,13 @@
+1. Plain Title
+The Impact of Certain Medications on Elderly People with Memory Issues
+
+2. Rationale
+Many old people with memory problems, like dementia, are often given medicines that have a "stop sign effect". These medicines are called anticholinergics, and they can create kind of a traffic jam in the brain which slows down the normal messages running all around it. These "stop sign" medicines can pile up and cause harm - we call this the anticholinergic burden. Doctors think that high amounts of these medicines may make memory problems worse, or cause brain issues that can lead to needing hospital care. Since almost half of hospital stays for dementia are due to brain issues (like bad mood changes or trouble thinking), we really need to find out if there's a way to predict and prevent this from happening. One way might be by checking the amount of "stop sign" medicines a person is taking and adjust it to a safe level.
+
+3. Trial Design
+We wanted to find out if this anticholinergic burden really affects people with memory problems. We looked at different ways of measuring the impact of these "stop sign" medicines and how well they agree. We examined medical studies from all around the world up until November 2021. We focused on studies that monitored old people with memory issues for at least a month. These studies had to look at the relationship between the amount of "stop sign" medicines and bad health outcomes (like death, physical issues, or moving into a care home). Two of us picked the studies to include, collected the data, and checked the quality of the studies.   
+
+4. Results
+We found 18 studies (with 102,684 old people) that fit our criteria. Four out of ten studies found that people taking lots of "stop sign" medicines had quicker worsening of their memory problem. None of the studies looked at if these medicines caused brain issues leading to hospital care. One out of four studies saw a link with worse physical function. But none found a link between the "stop sign" medicines and needing to move to a care house. Though, six ten studies found that people with a high "stop sign" medicine burden were more likely to die. Worse yet, when we pooled all the studies and adjusted the numbers, those with an overload of "stop sign" medicines had about 15% higher risk of dying. But we can't be too sure of this because the proof we found was a bit shaky.
+
+In conclusion, our findings suggest that too much of these "stop sign" medicines might carry a higher risk of death for older people with memory problems. But more studies are needed to confirm the dangers of cognitive decline, brain issues, physical troubles, or moving into a care home.

@@ -1,0 +1,24 @@
+The researchers reported adverse reactions for each individual study drug.
+The results below are for the 265 out of 273 participants who took at least
+1 dose of their study treatment.
+Did any adverse reactions happen during this study?
+Olaparib Ceralasertib Adavosertib
+(out of 265 participants) (out of 109 participants) (out of 46 participants)
+How many participants had 86.4% (229) 84.4% (92) 97.8% (45)
+adverse reactions?
+How many participants had 8.3% (22) 6.4% (7) 30.4% (14)
+serious adverse reactions?
+A total of 23 participants stopped taking their assigned treatment due to medical
+problems that may or may not have been related to the study treatments,
+which means they may or may not be related to adverse reactions. This was:
+X 1.8% of participants who were taking olaparib on its own.
+This was 2 of 110 participants.
+X 11.0% of participants who were taking olaparib and ceralasertib.
+This was 12 of 109 participants.
+X 19.6% of participants who were taking olaparib and adavosertib.
+This was 9 of 46 participants.
+The olaparib and adavosertib group was stopped early because of an adverse
+reaction that happened in some participants in that group. This adverse reaction was
+a condition called “febrile neutropenia”. This is when a person has a fever and a low
+level of white blood cells called neutrophils, which help the body fight infections.
+12 | Clinical Study Results

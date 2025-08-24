@@ -1,0 +1,9 @@
+Plain Title: Mindfulness-Based Interventions for Substance Use Disorders
+
+Rationale: Substance use disorders (SUDs) are common and pose a significant burden on public health. While there are treatments available for SUDs, many people still experience symptoms and relapse is common. Mindfulness-based interventions (MBIs) have been tested as a potential treatment for SUDs, but the evidence is mixed.
+
+Trial Design: This study aimed to evaluate the effects of MBIs for SUDs compared to standard care, other interventions, or no treatment. The researchers searched various databases for relevant randomized controlled trials (RCTs). The participants included individuals with alcohol and/or drug use disorders. MBIs were defined as interventions that involved mindfulness meditation training and practice. The study followed standard methodological procedures expected by Cochrane.
+
+Results: The study included 40 RCTs, involving 2825 participants, which were eligible for meta-analysis. The evidence regarding the effects of MBIs compared to no treatment on substance use outcomes, craving, and adverse events was uncertain. The evidence for MBIs compared to other treatments was also very uncertain. However, MBIs may slightly reduce the number of days with substance use at post-treatment and follow-up (4 to 10 months). The attrition rate for participants in the MBIs group was similar to that in the no treatment or other treatments groups. Only a few studies reported adverse events.
+
+In conclusion, the impact of MBIs on SUD-related outcomes is uncertain compared to no treatment or other treatments. MBIs may have a small benefit in reducing days with substance use. The attrition rates were similar across all treatment groups. However, there is limited information on adverse events. Further research is needed to better understand the effectiveness of MBIs for individuals with SUDs.

@@ -1,0 +1,13 @@
+1. Plain Title
+Studying the Effectiveness of a Breathing Aid in Helping People with Cystic Fibrosis
+
+2. Rationale
+Cystic fibrosis, a severe health condition, affects people's lungs by making their airways thick with sticky mucus. This causes difficulty in breathing and can significantly lower the quality of life. Positive Expiratory Pressure (PEP) devices, which act like resistance training aids for the lungs, are often used to help people with cystic fibrosis. These devices help clear the lungs by pushing air behind the mucus, forcing it out. However, the value of these devices in providing relief, compared to other treatment methods, had not been fully explored. This study was conducted to see if and how these PEP devices improve the amount of mucus clearance and the overall health of people with cystic fibrosis.
+
+3. Trial Design
+The research was spread out amongst 28 individual studies, which included 788 participants - both children and adults with cystic fibrosis. The studies compared PEP devices with other forms of treatment for cystic fibrosis, such as chest physical therapy and breathing exercises. Primarily, researchers were interested in seeing the change in the amount of air a participant could force out in one second and the number times a patient's condition worsened, known as exacerbations.
+
+4. Results
+Across most studies, PEP devices and the other methods showed almost equal results in improving the amount of air a participant could force out in a second. Interestingly, participants who used PEP devices with a mask for at least a year noted fewer occurrences when their condition worsened. Additionally, given a choice, participants in the studies seemed to favor PEP devices over other methods. 
+
+However, the study found that results varied significantly, indicating that one size doesn't fit all when it comes to treating cystic fibrosis. The researchers concluded that PEP devices, breathing exercises, and a number of different treatments all have their roles in helping people with cystic fibrosis. They stressed the importance of personalizing treatments according to a patient's stage of life, personal preference, and the severity and progression of the disease.

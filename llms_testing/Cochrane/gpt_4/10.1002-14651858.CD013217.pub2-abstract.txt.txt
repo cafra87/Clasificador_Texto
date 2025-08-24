@@ -1,0 +1,25 @@
+1. Plain Title:
+Effects of Drug-Free Treatments on Drug Withdrawal in Newborn Babies
+
+2. Rationale:
+Many women of childbearing age use both prescribed and non-prescribed substances, which can lead to increased rates of a condition in newborns called neonatal abstinence syndrome (NAS). In simple terms, NAS is a group of symptoms experienced by a baby when it has been exposed to drugs in the mother's womb. One part of NAS, called neonatal opioid withdrawal syndrome (NOWS), is strictly related to opioid exposure. Opioids are a type of medicine given to relieve pain.
+
+Before we use drugs to help relieve the symptoms of NAS in newborns, we use something called non-pharmacological care. This is a simpler and safer way of caring for the baby without using their symptoms with any drugs. Even though this method is widely used, we don't have a fixed definition or standard ways to do it properly. We need a study to safely test this method and guide how doctors should use it. 
+
+That's why we conducted this study. We wanted to see if drug-free treatments for newborns either at risk or showing signs of drug withdrawal can lower the time the baby stays in the hospital and lessen the use of drug treatments.
+
+3. Trial Design:
+We looked for trials conducted in the past and analyzed their results. We focused on trials that compared drug-free treatments to either no treatments or to different drug-free treatments. We only included trials that used similar populations like age and health condition. These drug-free methods were divided into three categories: changing the baby's environment, feeding practices, and supporting the mother-baby bond.
+
+We analyzed the gathered data with standard methods to make sure that the results were as sure as we could be. The main outcomes we were looking for were the length of the baby's hospital stay and whether or not they needed drug treatment.
+
+4. Results:
+We found six trials done between 1975 and 2018 with a total of 353 babies showing signs of drug withdrawal. Notably, none of these trials included babies who were receiving drug treatments for drug withdrawal symptoms. Unfortunately, the results we got from all these trials ranged from very uncertain to just "okay."
+
+Four of these trials tried changing the baby's environment, like using a rocking bed or a low-stimulation nursery; one trial altered feeding methods; and one trial tried improving the mother-baby bond through tailored breastfeeding support. 
+
+The outcomes of these trials did not show clear evidence that these drug-free treatments could reduce the hospital stay or the need for drug treatments. We also found some additional results, such as the time it took for the babies to reach their birth weight and their lowest weight point.
+
+Finally, we concluded that the evidence we have now doesn't make us certain that drug-free treatments can affect crucial outcomes like the length of the hospital stay and the need for drug treatments. Even though doctors often recommend using non-drug care before starting drug treatments, we still don't have enough proof to set strict rules. The design and definitions of these previous trials varied too much, and many outcomes were not even reported.
+
+In conclusion, we need more, bigger, and better-designed studies to find out the effect of drug-free treatments for drug withdrawal in newborns.

@@ -1,0 +1,339 @@
+Clinical Study Results
+This summary reports the results of only one study. Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to study participants. The results of this study 
+might be different than the results of other studies tha t the researchers review.
+Sponsor:    Pfizer Inc. 
+Medicine(s) Studied: Palbociclib (PD -0332991)
+Protocol Number: A5481027
+Dates of Study: 23 March 2015 to 31 August 2020, the study is still 
+ongoing
+Title of this Study: A Study Comparing Palbociclib Plus Letrozole Versus 
+Placebo Plus Letrozole for the Treatment of Asian 
+Postmenopausal Women with Advanced Breast Cancer
+[A Multicenter, Randomized, Double -Blind Phase 3 
+Study of Palbociclib (Oral CDK 4/6 Inhibitor) Plus 
+Letro zole Versus Placebo Plus Letrozole for the 
+Treatment of Previously Untreated Asian 
+Postmenopausal Women with ER (+), HER2 ( -) 
+Advanced Breast Cancer]
+Date(s) of this Report: 15July 2021
+–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation. 
+This summary will describe the study results.  If you have any questions about the study 
+or the results, please contact the doctor or staff at your study site.
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+Why was this study done?
+What is Advanced Breast Cancer ?
+Sometimes, breast cancer can spread from the breast to other parts of the body, most 
+often to the bones, lungs, liver, or brain.  This is called advanced breast cancer.  
+Advanced breast cancer cannot be treated by surgery or radiation therapy with the 
+intention to cure the cancer, butto slow down the development of the cancer and 
+help the patient live longer.  The participants in this study had estrogen receptor -
+positive [ER (+)] breast cancer, human epidermal growth factor receptor 2 negative 
+[HER2 ( -)] advanced breast cancer.  The cells of ER (+) breast cancer have receptors 
+that allow them to use the hormone estrogen to grow and HER2 ( -) means that the 
+participants have a normal amount of HER2 proteins in the breast cells (too much of 
+this protein means that there is another type of cancer present).  This type [ER (+), 
+HER2 ( -)] of advanced breast cancer is sensitive to hormonal treatment.  
+What is Palbociclib ?
+Palbociclib is a medicine that has been used to treat a specific type of breast cancer 
+known as hormone receptor positive [HR (+)] andHER2 ( -).  A hormone receptor is 
+a receptor molecule that binds to a specific hormone .  A breast cancer is classified as 
+HR (+) if its cel ls have receptors for the hormones ;estrogen and progesterone.  
+Palbociclib targets the functioning of specific proteins or enzymes called 
+cyclin -dependent kinases (CDK4 and CDK6).  These enzymes are important for 
+normal cell division and when they are dam aged, they may cause cancer cells to grow 
+and spread.  Certain cancers, for example, ER (+), are more likely to have 
+disturbances in CDK4 and CDK6.  Palbociclib prevents the CDK4 and CDK6 
+enzymes from functioning which stops the cells from dividing and sto ps the growth 
+of breast cancer cells.  
+What was the purpose of this study?
+The purpose of this research study was to compare the effect of the study drug, 
+palbociclib, plus letrozole, with placebo plus letrozole to find out which is better for 
+treating ad vanced breast cancer in Asian women who have not received any previous 
+systemic treatment and have already experienced menopause (stopping of menstrual 
+periods permanently ).
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+Palbociclib is a n approved medicine.  
+Systemic treatment is any medication that travels through your body in the 
+bloodstream to find, damage ,or destroy cancer cells. It includes 
+chemotherapy, immunotherapy, hormone therapy ,or targeted therapy.
+A placebo looks like the medicine under study but does not contain any 
+medicine.  Researc hers use a placebo to see if the study medicine works better 
+or is safer than not taking it.
+Letrozole is a hormonal medicine that is approved for the treatment of 
+advanced breast cancer that is sensitive to hormonal treatment.  Letrozole is
+available outside of this research study by a doctor’s prescription .
+Researchers wanted to know: 
+Did the participants taking palbociclib plus letrozole have a better 
+progression -free survival (PFS) than participants that were ta king 
+placebo plus letrozole?
+Researchers wanted to determine the PFS of participants taking palbociclib 
+plus letrozole and compare it to the PFS of participants taking placebo plus 
+letrozole. 
+The PFS is the length of time during and after receiving a treatment for a 
+disease, during which a patient lives with the disease not getting worse.
+How participants tolerated palbociclib and whether it caused any 
+medical problems?
+Researchers also wanted to learn more about the safety and tolerability of 
+palbocic lib.  
+They monitored the participants for any medical problems that happened 
+while they were in the study.
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+What happened during the study?
+How was the study done?
+Researchers tested palbociclib (test medicine) combined with letrozole on a group of 
+study participants with advanced breast cancer to find out if it provided a longer PFS 
+than study participants with advanced breast cancer taking placebo plus letrozole.  A 
+description of the how the study was done can be seen in Figure 1 below.
+Figure 1.  A description of how the study was do ne.
+After the last dose of palbociclib treatment , study p articipants were contacted by the 
+study team every 6 months to asked about:
+Any changes in the health of the participant
+Any medications the participant was taking
+Study participants were assigned to each group by chance alone.  Neither the study 
+participants nor the researchers knew who took palbociclib and who took the 
+placebo. This is known as a “blinded” study. 
+Where did this study take place?
+The Sponsor ran this study at 52 locations across Mainland China, Hong Kong, 
+Taiwan, Thailand, and Singapore.
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+When did this study take place?
+It began 23 March 2015, and the primary completion date was 31 August 2020.  
+Primary completion date corresponds to the date when the last participant was 
+examined or received treatment and that results for the main results were collected.  
+This study is ongoing.
+Who participated in this study?
+The study included participants with advanced breast cancer, who were between the 
+ages of 18 and 70 years, had already experienced menopause, and had not received 
+any systemic treatment for their advanced disease.
+A total of 340 women participated and 339 women were treated in this study
+All participants were between the ages of 29 and 70 years
+Participants were to be treated until disease progression, death or unable to tolerate 
+the treatment, or withdrawal of consent, whichever occurred first .  PFS was 
+determined based on the disease progression or death of study participants .  Of the 
+340participants who started the study, 138 are still participating in the study.
+Two hundred and ninety participants discontinued the study treatment because
+The participant died
+The participant was lost to follow -up
+The participant ’s cancer got worse
+The partici pant experienced medical problems
+The p articipants left by their choice or a doctor decided it was best for a 
+participant to stop being in the study
+How long did the study last?
+The entire study took 5 years to the primary completion date, the study is still 
+ongoing.   However, when the primary completion point was reached in August 2020, 
+the Sponsor began reviewing the information collected.  The Sponsor then created a 
+report of the results.  This is a summary of that report.
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+What were the results of the study?
+Did the participants taking palbociclib plus letrozole have a longer 
+PFS than participants that were taking placebo plus letrozole?
+Researchers determined the median PFS (in months) for participants with advanced 
+breast cancer taking palbociclib pl us letrozole and for participants taking placebo plus 
+letrozole (Figure 2). The median is the middle number in a set of values when these 
+values are arranged from smallest to largest .
+Figure 2.  The median PFS of participants with advanced breast cancer .
+Researchers found that participants who took palbociclib plus letrozole had a longer 
+median PFS (22 months) in comparison to the participants taking placebo plus 
+letrozole (median PFS of 14 months).
+The hazard ratio (HR) was 0.677 (95% confidence interval [CI]: 0.529, 0.867 )which 
+favored the palbociclib plus letrozole group.  The HRis a comparison between the 
+probability of events in a treatment group (palbociclib plus letrozole ), compared to 
+the probability of events in a control group (placebo plus letrozole ).  
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+AnHRof 1 means that both groups (treatment and control) are experiencing 
+an equal number of events at any point in time .  
+The 95% CI is a range with an upper and lower number calculated from a 
+sample . Because the true population HRis unknown, this range describes 
+possible values that the HRcould be .
+Kaplan -Meier plots (graphs) are used to show what the probability of PFSis at a 
+certain time point.  It usually compar estwo treatment groups in a study and was used 
+to compare the palbociclib plus letrozole group and the placebo plus letrozole group 
+in this study .  The Kaplan -Meier Plot of PFS is shown below in Figure 3.  This figure 
+shows that participants in the palbociclib plus letrozole group had a higher probability 
+of PFS than participants in the placebo plus letrozole group for most of the follow -up 
+time.  
+Figure 2.  Kaplan -Meier Plot of PFS.
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+Researchers have decided that the results are not likely the result of chance.  The 
+addition of p albociclib to letrozole may help prolong the PFS of participants with 
+advanced breast cancer and could be used as a treatment for advanced breast cancer.  
+This does not mean that everyone in this study had these results.  These are just some 
+of the main findings of this study.  Other studie s may have different results. 
+What medical problems did participants have during 
+the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the s tudy (for 
+example, caused by an underlying disease or by chance).  Or medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what effects a study medication might have on a participant.
+Three hundred and twenty three out of 339 (95%) participants who received 
+treatment in this study had at least 1 medical problem.  A total of 18 participants 
+discontinued the study because of medical problems.  The most common medical 
+problems ,those reported by more than 20% of participants taking palbociclib plus
+letrozole ,are describ ed below.
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+Below are instructions on how to read Table 1 . 
+Instructions for Understanding Table 1. 
+The 1stcolumn of Table 1 lists medical problems that were commonly 
+reported during the study. All medical problems occurring in more 
+than 20% of participants taking palbociclib are listed. The severity of 
+the medical problems shown in Table 1 ranged from mild, moderate, 
+severe/medically significant, life -threatening, or resulted in death. 
+However , none of the medical problems shown in Table 1 was 
+associated with death .
+Some medical problems were grouped together because they were the 
+same problem but reported differently . For example, "White blood 
+cell decreased," and "leukopenia" or "Neutrophil count decreased" and 
+"Neutropenia" .  These areknown as clustered medical problems.  For 
+example , 144 of 168 (86%) participants taking palbociclib experienced 
+a low white blood cell count, including the white blood cells known as 
+leukocytes (leukopenia ).  These medical problems were grouped under 
+the leukopenia cluster.  Clustered medical problems are marked with a 
+star (*) and written in capital letters in column 1of Table 1.
+The 2ndcolumn tells how many of the 168participants taking 
+palbociclib reporte d each medical problem.  Next to this number is the 
+percentage of the 168participants taking the study medication who 
+reported the medical problem. 
+The 3rdcolumn tells how many of the 171 participants taking a 
+placebo reported each medical problem.  Nex t to this number is the 
+percentage of the 171 participants taking the placebo who reported the 
+medical problem.
+Using these instructions, you can see that 165 out of the 168 (98%) 
+participants taking palbociclib reported a low white blood cell count 
+(for the white blood cells known as neutrophils [ neutropenia ]).  A total 
+of 56out of the 171 (3 3%) participants taking a placebo reported an 
+increase in liver enzymes (alanine aminotransferase) .  An increase in 
+liver enzymes may indicate liver damage. 
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+Table 1. Commonly reported medical problems by study participants 
+(Medical problems reported in at least 20% of study participants taking 
+palbociclib )
+Medical ProblemPalbociclib
+(168 Participants)Placebo
+(171 Participants)
+LOW WHITE BLOOD CELL 
+(NEUTROPHILS) COUNT 
+(NEUTROPENIA) *165 out of 168 participants (98%) 29 out of 171 participants (17%)
+LOW WHITE BLOOD CELL 
+(LEUKOCYTES) COUNT 
+(LEUKOPENIA) *144 out of 168 participants (86%) 22 out of 171 participants (13%)
+LOW BLOOD PLATELETS 
+(THROMBOCYTOPENIA) *82 out of 168 participants (49%) 0 out of 171 participants (0%)
+LOW RED BLOOD CELL 
+COUNT *77 out of 168 participants (46%) 3 out of 171 participants (2%)
+Increase in liver enzymes (alanine 
+aminotransferase)56 out of 168 participants (33%) 56 out of 171 participants (33%)
+Increase in liver enzymes (aspartate 
+aminotransferase)58 out of 168 participants (35%) 48 out of 171 participants (28%)
+INFECTIONS *52 out of 168 participants (31%) 53 out of 171 participants (31%)
+Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, results in death, or causes lasting problems.   Forty -two out of 339 participants 
+(12%) had serious medical problems.  A larger percentage of participants in the 
+palbociclib plus letrozole group than in the placebo plus letrozole group had at least 
+1serious medical problem during the study.
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+Table 2. Serious medical problems reported by study participants who 
+received a treatment
+Serious Medical 
+ProblemPalbociclib
+(168 Participants)Placebo
+(171 Participants)
+INFECTIONS* 4out of 168 participants ( 2%) 5out of 171 participants ( 3%)
+Increased fluid around lungs 3out of 168 participants ( 2%) 0 out of 171 participants (0%)
+Broken ankle 2out of 168 participants ( 1%) 0 out of 171 participants (0%)Below are instructions on how to read Table 2. 
+Instructions for Understanding Table 2. 
+The 1stcolumn of Table 2lists serious medical problems that were 
+reported during the study.  The severity of the medical problems 
+shown in Table 2ranged from mild, moderate, severe/medically 
+significant, life -threatening, or resulted in death. One medical pro blem 
+shown in Table 2 resulted in death
+Clustered medical problems are marked with a star (*) and written in 
+capital letters in column 1of Table 2.
+The 2ndcolumn tells how many of the 168participants taking 
+palbociclib reported each serious medical prob lem.  Next to this 
+number is the percentage of the 168participants taking the study 
+medication who reported the serious medical problem. 
+The 3rdcolumn tells how many of the 171participants taking a 
+placebo reported each serious medical problem.  Next t o this number 
+is the percentage of the 171participants taking a placebo who reported 
+the serious medical problem.
+Using these instructions, you can see that 4 out of the 168 (2%) 
+participants taking palbociclib reported an infection.  A total of 5out 
+of the 171 (%) participants taking a placebo reported an infection. 
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+Table 2. Serious medical problems reported by study participants who 
+received a treatment
+Serious Medical 
+ProblemPalbociclib
+(168 Participants)Placebo
+(171 Participants)
+Uncontrolled spread and growth of 
+cancer cells2out of 168 participants ( 1%) 0 out of 171 participants (0%)
+Fever 2out of 168 participants ( 1%) 0 out of 171 participants (0%)
+Blood cancer of the bone marrow 1 out of 168 participants ( 1%) 0 out of 171 participants (0%)
+Uncontrolled bleeding in the brain 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+Clinical death 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+Cancer continued to grow or spread 1 out of 168 participants (1%) 1out of 171 participants ( 1%)
+Shortness of breath 1 out of 168 participants (1%) 1out of 171 participants ( 1%)
+Fall 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+Low white blood cell count with fever 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+Broken bone 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+Abnormal liver function 1 out of 168 participants (1%) 1 out of 171 participants ( 1%)
+Fluid leaking in space around the 
+lung1 out of 168 participants (1%) 0 out of 171 participants (0%)
+High blood pressure 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+Low blood sodium 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+Liver injury 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+Stage II cancer of the ovaries 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+BLOOD CLOT IN LUNG 
+ARTERY*1 out of 168 participants (1%) 0 out of 171 participants (0%)
+Thyroid cancer 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+LOW BLOOD PLATELETS* 1 out of 168 participants (1%) 1 out of 171 participants ( 1%)
+Partial or complete tear of a tendon 1 out of 168 participants (1%) 0 out of 171 participants (0%)
+High blood calcium 0 out of 168 participants (0%) 2 out of 171 participants (1%)
+Coronary artery (blood vessel) 
+disease0 out of 168 participants (0%) 1out of 171 participants ( 1%)
+Dizziness 0 out of 168 participants (0%) 1 out of 171 participants (1%)
+Ear dis order 0 out of 168 participants (0%) 1 out of 171 participants (1%)
+Liver damage caused by medication 0 out of 168 participants (0%) 1 out of 171 participants (1%)
+Broken bone of lower limb 0 out of 168 participants (0%) 1 out of 171 participants (1%)
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+Table 2. Serious medical problems reported by study participants who 
+received a treatment
+Serious Medical 
+ProblemPalbociclib
+(168 Participants)Placebo
+(171 Participants)
+Broken wrist 0 out of 168 participants (0%) 1 out of 171 participants (1%)
+Thyroid mass 0 out of 168 participants (0%) 1 out of 171 participants (1%)
+Seventy -nine participants died (all causes) in the p albociclib plusletrozole group 
+during the study.  Death of one participant (1%) was reported as palbociclib plus
+letrozole treatment related .  However, the study treatment causality could not be fully 
+excluded by the treating doctor. The conclusive death reason was unknown .  
+Eighty -six participants died (all causes) in the placebo plusletrozole group during the 
+study.  Most of the deaths happened more than 30 days after the participants received 
+the last dose of treatment andwere caused by advanced breast cancer .
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+Where can I learn more about this study?
+If you have questions abou t the results of your study, please speak with the doctor or 
+staff at your study site.
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT02297438
+www.pfizer.com/research/research_cli
+nical_trials/trial_resultsUse the protocol number A5481027
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for study participants.
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help study participants, and you 
+helped us to do that !
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)

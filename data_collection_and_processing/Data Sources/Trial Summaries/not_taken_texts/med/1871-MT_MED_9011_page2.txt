@@ -1,0 +1,44 @@
+Clinical Study Results
+What kind of study was this?
+This was a “double-blind” study. This means none of the participants nor the researchers knew
+which treatment the participants took.
+Some studies are done this way because knowing what treatment the participants are taking
+can affect the results of the study. When the study ended, the research sponsor found out which
+treatment each participant took so they could create a report of the study results.
+All of the participants in the study took 1 dose of AZD5634 and 1 dose of a placebo. A placebo
+looks like a drug but does not have any medicine in it. Researchers use a placebo to help make
+sure any of the effects they see in the participants who take the treatment are actually caused by
+the treatment.
+The participants took AZD5634 and the placebo 2 to 3 weeks apart. They took both treatments
+using an inhaler. The dose of AZD5634 was 612 micrograms, also called µg.
+A computer program was used to randomly choose the order of the treatment each participant
+took. This helps make sure the groups are chosen fairly. Researchers do this so that comparing
+the results of each treatment is as accurate as possible.
+What happened during the study?
+The figure below shows how the study was done.
+Before treatment During treatment After treatment
+The doctors The participants The doctors
+• checked the overall health of the • visited their study site 2 times • checked the overall health
+participants of the participants
+• took AZD5634 at one visit and a
+• checked participants’ heart health placebo at the other visit • checked participants' heart
+using an electrocardiogram, also health using an ECG
+The doctors
+called an ECG
+• tested how well the
+• checked the health of participants
+• tested how well the participants’
+participants’ lungs worked
+lungs worked • checked the participants’ heart
+• took blood and urine samples
+health using an ECG
+• took blood and urine samples
+• tested how well the participants’
+lungs worked
+• took blood and urine samples
+• measured how much mucus was
+in participants’ lungs
+2 to 3 weeks after the
+up to 4 weeks 2 to 3 weeks
+last treatment
+2

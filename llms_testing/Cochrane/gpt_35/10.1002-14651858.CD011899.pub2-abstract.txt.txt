@@ -1,0 +1,16 @@
+Plain Title: Computer-Based vs. In-Person Stress Management: A Comparison
+
+Rationale:
+Stress is a common problem that can have negative effects on both physical and mental health. It can also impact productivity and increase healthcare costs. Previous studies have shown that both computer-based and in-person interventions can help reduce stress in employees. However, it is unclear which method is more effective. Computer-based interventions may be more convenient and cost-effective, but we need to understand if they are as effective as in-person interventions.
+
+Trial Design:
+This study aimed to compare the effects of computer-based interventions with in-person interventions in preventing and reducing stress among workers. We searched various databases for relevant studies up until February 2017. We included randomized controlled studies that compared the effectiveness of computer-based and in-person stress management interventions. Participants from any occupation were included in the study.
+
+Results:
+After screening and reviewing multiple studies, we identified two studies that met our criteria. These studies involved a total of 159 participants, with some receiving computer-based interventions and others receiving in-person interventions. The participants were primarily white, middle-aged, and college-educated. Both interventions included education about stress and strategies to reduce it. However, the delivery method differed, with computer-based interventions using a computer and in-person interventions using small group sessions. The studies measured stress levels using different scales, and the follow-up period was less than one month.
+
+The results showed some inconsistency between the studies. In one study, the computer-based intervention group had higher stress levels compared to the in-person group. However, the other study showed lower stress levels in the computer-based group. Due to the heterogeneity of the results, we could not combine the data for a meta-analysis. Both studies were also judged to have a high risk of bias.
+
+In conclusion, the evidence from these two studies is of very low quality and the results are conflicting. We have very little confidence in the effect estimates. It is likely that future studies with larger sample sizes will provide more reliable conclusions.
+
+Overall, this study aimed to compare the effectiveness of computer-based and in-person stress management interventions in employees. While the results were inconclusive, it highlighted the need for further research in this area.

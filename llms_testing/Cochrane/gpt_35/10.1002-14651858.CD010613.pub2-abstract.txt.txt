@@ -1,0 +1,9 @@
+Plain Title: Effects of Different Intensities of Continuous Renal Replacement Therapy on Critically Ill Patients with Kidney Injury
+
+Rationale: Kidney injury is a common and serious condition among patients in intensive care units. Continuous renal replacement therapy (CRRT) is a treatment that helps to cleanse the blood in severe cases of kidney injury. However, it is not clear how effective different intensities of CRRT are in improving patient outcomes.
+
+Trial Design: We conducted a study to compare the effects of intensive and less intensive CRRT on mortality and recovery of kidney function in critically ill patients with kidney injury. We included patients of all ages who were admitted to the intensive care unit. The study lasted for a specific period of time.
+
+Results: Our study involved six different research studies with a total of 3185 participants. We found that there was no significant difference in mortality risk between intensive and less intensive CRRT after 30 days or after 30 days post randomization. Additionally, there were no significant differences in the number of patients who were free of renal replacement therapy (RRT) after discontinuation of CRRT. However, intensive CRRT did increase the risk of hypophosphataemia compared to less intensive CRRT. In subgroup analysis, intensive CRRT seemed to reduce the risk of mortality only in patients with post-surgical kidney injury.
+
+In conclusion, based on the current evidence, more intensive CRRT did not show beneficial effects on mortality or recovery of kidney function in critically ill patients with kidney injury. There was an increased risk of hypophosphataemia with more intense CRRT. However, intensive CRRT did reduce the risk of mortality in patients with post-surgical kidney injury.

@@ -1,0 +1,47 @@
+What were the overall results of the study?
+Lung function tests measure how well a patient’s lungs move air in and out of the body.
+Doctors can use the results of these tests to see if lung function is stable, getting
+better, or getting worse.
+One measure of lung function is Forced Expiratory Volume in one second (FEV ). FEV
+1 1
+measures the amount of air that a patient can breathe out in the first second when
+asked to blow as hard as possible into a tube connected to a machine (spirometer).
+Higher values of FEV mean more air is flowing out of the lungs and that lung function
+1
+is better.
+Study doctors measured FEV values before patients took the study medicine(s) and at
+1
+multiple time points over 24 hours after taking the study medicine(s) on Day 1 and at
+Week 12. Average of FEV at each of Day 1 and Week 12 was calculated for each
+1
+patient. FEV measured before taking study medicine(s) is called FEV at baseline. The
+1 1
+difference between average of FEV at Week 12 (after 12 weeks of treatment) and FEV
+1 1
+at baseline is called the Week 12 change from baseline in average FEV .
+1
+The Week 12 change from baseline in average FEV values from individual patients in
+1
+each treatment group were combined and averaged. These averaged values were
+compared between the two treatment groups. The Week 12 change from baseline in
+average FEV could be calculated for 551 patients who had both baseline and Week 12
+1
+values. The results are shown in the table below.
+Week 12 change from baseline in average FEV
+1
+Single inhaler triple Multiple inhaler triple
+therapy group therapy group
+Number of patients with average
+FEV values at baseline and at 274 277
+1
+Week 12
+Week 12 change from baseline in
+39 mL higher 29 mL higher
+average FEV (in millilitres [mL])
+1
+After 12 weeks of treatment, the difference in the Week 12 change from baseline in
+average FEV between the two treatment groups was small. Researchers concluded
+1
+that both the treatments had a similar effect on the lung function (FEV values) of the
+1
+patients.

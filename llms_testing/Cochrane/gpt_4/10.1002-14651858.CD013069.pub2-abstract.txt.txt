@@ -1,0 +1,19 @@
+1. Plain Title: 
+Studying the Impact of Brain Training Activities on Patients with Early and Mid-Stage Memory Loss 
+
+2. Rationale: 
+Memory loss in its early to mid-stages can greatly affect a person’s ability to live independently. One approach that may help is cognitive training, or brain-training activities, designed to improve or maintain brain functions. This type of training involves guided practice on structured tasks. We aimed to understand if cognitive training has benefits for people with early to mid-stage memory loss and whether it is more effective compared to other memory support activities. We also wanted to explore the factors that might make cognitive training more effective. 
+
+3. Trial Design: 
+Our study combed through previously recorded data from various global healthcare databases and clinical trials which were conducted in 12 countries between 1988 to 2018. We looked at controlled trials where brain-training activities were compared with a control condition or an alternate memory support activity for patients with early to mid-stage memory loss. In total, there were 33 studies that involved activities that ranged anywhere from two weeks to two years. 
+
+4. Results: 
+The studies varied in quality and while some presented a high risk of biased selection due to the manner the participants were chosen and assigned to groups, some useful information emerged. We found moderate-level evidence showing that cognitive training had a small to moderate impact on brain function at the end of treatment with the impact retained even months after treatment stopped. 
+
+However, when brain-training activities were compared with other memory support activities, the impact was slightly less and the evidence supporting this was of low quality. The outcomes for many other factors like mood, behavioral symptoms, and capacity to perform daily activities were unclear. 
+
+We did find that cognitive training was connected with improved caregiver mood at the end of the treatment, but this was based on a single trial so it may not hold true always.
+
+From our findings, we believe that cognitive training can have slight to moderate positive effects on brain function and the ability to recall words when compared to control interventions. However, it may not be as effective when compared to other memory support activities. These benefits appear to be maintained in the medium term. 
+
+Improvements on this could include better selection measures to reduce bias in studies and a longer tracking period to understand the benefits of cognitive training over time. Future trials should also test cognitive training directly against other memory support activities rather than control conditions.

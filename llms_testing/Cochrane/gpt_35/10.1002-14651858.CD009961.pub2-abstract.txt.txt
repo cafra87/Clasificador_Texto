@@ -1,0 +1,14 @@
+Plain Title: Effective Treatment for Bleeding in People with Haemophilia and Congenital Bleeding Disorders
+
+Rationale: 
+People with haemophilia or other congenital bleeding disorders often require surgery. During these procedures, there is a risk of bleeding and complications. The goal of treatment is to control bleeding and ensure healing. This study aimed to evaluate different treatments for preventing bleeding during and after surgical procedures in people with haemophilia and congenital bleeding disorders.
+
+Trial Design: 
+The study included randomized and quasi-randomized controlled trials. Participants were children and adults with haemophilia or other congenital bleeding disorders undergoing surgery. Researchers compared different haemostatic treatment regimens, including type, dose, duration, and method of administration. The trials assessed the effectiveness and safety of these regimens in preventing bleeding complications. 
+
+Results: 
+Out of the 16 trials identified, four trials (involving 112 participants) met the inclusion criteria. Two trials focused on people with haemophilia A and B undergoing dental extractions. These trials compared the use of different antifibrinolytic agents for haemostatic support. The results showed that antifibrinolytic agents reduced blood loss after surgery and decreased the need for additional treatments. No fatal adverse events were reported in these trials. 
+
+The other two trials involved people with haemophilia A and B with inhibitors. These trials evaluated different regimens of recombinant activated factor VII (rFVIIa) for haemostatic coverage during major and minor surgical interventions. The results showed that a higher dose of rFVIIa was more effective in controlling bleeding during major surgery, with a shorter duration of treatment and similar safety levels.
+
+In conclusion, there is not enough evidence from randomized controlled trials to determine the most effective and safe haemostatic treatment for preventing bleeding in people with haemophilia and congenital bleeding disorders undergoing surgery. More research is needed to assess the cost-effectiveness of different treatments and to address the challenges faced by aging patients with these conditions. However, current clinical practice guidelines provide regimens for treatment based on observational studies, allowing for effective and safe surgeries to be performed in these individuals.

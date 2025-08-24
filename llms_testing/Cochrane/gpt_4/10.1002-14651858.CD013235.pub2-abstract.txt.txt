@@ -1,0 +1,19 @@
+Plain Title:
+Comparing Fast and Standard Testing for Blood Infection Antibiotics 
+
+Rationale:
+Blood infections are serious illnesses that need immediate treatment with the right antibiotics. The speed at which we find the best antibiotic to treat a person’s blood infection can actually save lives and prevent long hospital stays. Also, finding the right antibiotic fast helps avoid the use of strong, broad-spectrum antibiotics, which might cause more antibiotic resistance in the long run.
+
+Scientists wanted to see if a faster test for deciding on the best antibiotic (rapid susceptibility testing) was better than the usual, slower test (conventional susceptibility testing). They thought that a faster test could help doctors more quickly find the best antibiotic for each patient, leading to better health results.
+
+Trial Design:
+This study searched through medical records from 1987 to October 2020. They looked for studies where faster antibiotic tests (results in less than 8 hours) were compared with the usual, slower tests for people with blood infections. Researchers checked all findings twice, and talked to a third person if they didn't agree about the results.
+
+The team looked at several different things – how many times people died during the studies (mortality rate), when they left the hospital (time-to-discharge), and when doctors first switched to the right antibiotic (time-to-first appropriate antibiotic change).
+
+Results:
+The researchers looked at six different studies, which had included over 1600 people in total. They compared the fast tests with the regular tests to see if more people survived with the fast tests. However, they didn't find a big difference in survival rate. 
+
+The team also checked how fast people could leave the hospital and how quick the doctors were able to switch to the right antibiotic. Here too, there wasn’t generally much of a difference between the fast and slow tests.
+
+The research showed that the benefits of fast antibiotic testing, like saving lives and getting people out of the hospital faster, aren’t as clear as thought before. Researchers think more carefully planned studies should look into how blood culture tests can be made better.

@@ -1,0 +1,22 @@
+A total of 938 patients received at least one dose of the study medicine. The table
+below shows the gender and age of these patients.
+Patients who received at least one dose of the study medicine
+Placebo Nemiralisib
+12.5 mcg 50 mcg 100 mcg 250 mcg 500 mcg 750 mcg
+276 22 91 92 90 89 278
+patients patients* patients patients patients patients patients
+Gender – Number of patients (percent)
+86 6 35 29 31 22 100
+Female
+(31%) (27%) (38%) (32%) (34%) (25%) (36%)
+190 16 56 63 59 67 178
+Male
+(69%) (73%) (62%) (68%) (66%) (75%) (64%)
+Age - in years
+Range 40 to 80 56 to 79 44 to 79 46 to 78 49 to 78 45 to 80 41 to 80
+Average 65 68 63 65 66 65 65
+*The study protocol was changed part way through the study to add the Nemiralisib 12.5 mcg
+treatment group.
+For more detailed information about the patients included in this study, see the
+scientific results summaries (links to those summaries are provided at the end of this
+document).

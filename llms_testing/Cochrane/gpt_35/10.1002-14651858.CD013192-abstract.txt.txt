@@ -1,0 +1,13 @@
+Plain Title: Accuracy of Smartphone Applications for Detecting Melanoma
+
+Rationale:
+Melanoma, a type of skin cancer, is responsible for most skin cancer-related deaths. Early detection and treatment can improve survival rates. Smartphone applications have the potential to instantly assess the risk of melanoma, prompting users to seek medical attention for further evaluation. However, there is a concern that these applications may miss melanomas, leading to delayed treatment.
+
+Trial Design:
+This study aimed to evaluate the accuracy of smartphone applications in detecting invasive melanoma and atypical skin lesions in adults with concerns about suspicious skin lesions. The researchers conducted a comprehensive search of various databases and included studies that evaluated smartphone applications intended for use by individuals in the community. The quality of the studies was assessed using a standardized form, and sensitivity and specificity were analyzed for each application.
+
+Results:
+The review included two studies that reported on a total of 332 suspicious skin lesions, of which 86 were melanomas. Five mobile phone applications were analyzed, including four that used artificial intelligence-based algorithms to classify lesion images and one that involved review by a dermatologist. The sensitivity of the AI-based applications ranged from 7% to 73%, and specificity ranged from 37% to 94%. The application reviewed by a dermatologist had a sensitivity of 98% and specificity of 30%. A significant number of lesion images were deemed "unevaluable" by the applications, ranging from 2% to 18% of the lesions analyzed.
+
+Conclusion:
+Smartphone applications using artificial intelligence have not yet demonstrated sufficient accuracy in detecting melanoma and have a high risk of missing melanomas. Applications based on reviewing images by a dermatologist may have a potential role in timely presentation and early engagement for those with suspicious skin lesions. However, they may require increased resources and workload. Due to the limited evidence and low study quality, no clear implications for practice can be drawn. With further advancements and better reporting of studies, new applications may change these conclusions substantially.

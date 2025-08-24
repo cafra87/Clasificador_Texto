@@ -1,0 +1,14 @@
+Background
+The evidence to support the use of nebulized morphine to improve dyspnoea and exercise limitation in terminally ill patients with chronic lung disease is conflicting. 
+Objectives
+To assess the effectiveness of nebulized morphine in reducing dyspnoea in patients with end‐stage interstitial lung disease (ILD). 
+Search methods
+We identified trials by searching the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE. Searches are current to May 2011. 
+Selection criteria
+Any RCT and adequate quality CCT in adult participants with ILD that compared nebulized morphine with a control group. 
+Data collection and analysis
+Only one small RCT was identified. Data were extracted and described narratively.
+Main results
+Compared to placebo (normal saline), administration of low‐dose nebulized morphine (2.5 and 5.0 mg) to six patients with ILD did not improve maximal exercise performance, and did not reduce dyspnoea during exercise. An update search identified an additional excluded study . 
+Authors' conclusions
+The hypothesis that nebulized morphine may reduce dyspnoea in patients with interstitial lung disease has not been confirmed in the single small RCT identified. 

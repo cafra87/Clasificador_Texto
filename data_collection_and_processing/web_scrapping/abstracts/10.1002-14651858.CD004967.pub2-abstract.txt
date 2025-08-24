@@ -1,0 +1,14 @@
+Background
+Paracoccidioidomycosis is a fungal infection that occurs only in some particular places in Latin America. Treatment is long, the drugs have side effects, and patients can relapse. However, the disease is potentially fatal. 
+Objectives
+To evaluate drugs for treating paracoccidioidomycosis.
+Search methods
+We searched the following databases: Cochrane Infectious Diseases Group Specialized Register (March 2011); Cochrane Central Register of Controlled Trials (CENTRAL), published in The Cochrane Library (2011, Issue 1); PubMed (1966 to March 2011); EMBASE (1974 to March 2011); and LILACS (1982 to March 2011) 
+Selection criteria
+Randomized controlled trials comparing drugs for treating people with paracoccidioidomycosis.
+Data collection and analysis
+Two authors independently assessed trial eligibility and risk of bias, and extracted data, including adverse events. 
+Main results
+Two trials, one with 42 participants and another with 53 participants met the inclusion criteria. Risk of bias in the two trials was high, but most patients showed considerable clinical and mycological improvement. The first trial compared imidazoles (itraconazole and ketoconazole) with sulfadiazine (n=42). No difference was detected for cure (RR 0.77, 95% CI 0.52 to 1.16) or clinical improvement, or serological titres after 10 months of treatment, and there was no difference detected in adverse events. The second compared voriconazole with itraconazole (n=53) and did not demonstrate a difference in response. Two patients were withdrawn from voriconazole due to raised liver enzymes. 
+Authors' conclusions
+The small number of participants and the short follow‐up period impede definitive conclusions on comparative effects. 

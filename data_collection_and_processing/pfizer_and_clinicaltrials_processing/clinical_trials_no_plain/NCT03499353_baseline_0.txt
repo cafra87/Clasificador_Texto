@@ -1,0 +1,6 @@
+Talazoparib For Neoadjuvant Treatment Of Germline BRCA1/2 Mutation Patients With Early Human Epidermal Growth Factor Receptor 2 Negative Breast Cancer
+During talazoparib treatment period, participants received oral administration of talazoparib 1 mg once daily (QD) for 24 weeks (6 cycles, 4 weeks per cycle), or 0.75 mg QD in case of moderate renal impairment at baseline, followed by definitive breast surgery within a maximum of 6 weeks of last dose.
+
+Safety follow-up (end of treatment visit) occurred approximately 28 calendar days after the last dose of talazoparib or after permanent treatment discontinuation or before initiation of a new antineoplastic therapy (whichever occurred first).
+
+Long-term follow-up was planned to be at least 3 years, which started from the date of surgery for event-free survival (EFS) and after first dose of talazoparib for overall survival (OS).

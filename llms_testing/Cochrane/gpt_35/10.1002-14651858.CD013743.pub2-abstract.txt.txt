@@ -1,0 +1,15 @@
+Plain Title: Antibiotics for Treating Ulcerative Colitis: Safety and Effectiveness
+
+Rationale: 
+Ulcerative colitis (UC) is a condition that causes inflammation in the intestine and can lead to various problems for patients. Antibiotics have been considered as a treatment option because they can fight the bacteria in the intestines that contribute to the inflammation. However, there are concerns about how well antibiotics work and whether they are safe for UC patients. This study aimed to find out if antibiotics are both safe and effective for inducing and maintaining remission in people with UC.
+
+Trial Design: 
+To answer these questions, the researchers conducted a search of different databases to find randomized controlled trials (RCTs). These trials compared antibiotic therapy to either a placebo (a harmless substance) or another active treatment. They included people of all ages with UC who were treated with different types, doses, and ways of giving antibiotics. The induction studies lasted at least two weeks, while the maintenance studies lasted at least three months.
+
+Results: 
+After analyzing the collected data, the researchers found that antibiotics did not show a significant difference compared to placebos in terms of failing to achieve clinical remission. This means that antibiotics did not provide a clear advantage in helping UC patients get better. However, there was some evidence to suggest that antibiotics might increase the proportion of patients who achieve clinical remission or clinical response compared to placebos after 12 months of treatment. Adverse events and withdrawals due to adverse events did not differ significantly between antibiotics and placebos. 
+There were not enough data to estimate the effects of antibiotics on other outcomes.
+
+In conclusion, the study found high certainty evidence that there is no significant difference in achieving clinical remission between antibiotics and placebos. However, there is some evidence that antibiotics may be more effective than placebos in achieving remission and response after 12 months. The study also found no notable difference in the occurrence of serious adverse events or withdrawals due to adverse events between antibiotics and placebos. Further research is needed to compare antibiotics with placebos over a longer period of time and to explore other comparisons.
+
+This summary was based on real data obtained from a biomedical study.

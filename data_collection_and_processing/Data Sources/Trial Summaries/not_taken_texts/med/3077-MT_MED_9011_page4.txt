@@ -1,0 +1,35 @@
+Clinical Study Results
+Was there a difference in the amounts of MEDI0382 in the blood of participants
+with kidney damage compared to the blood of healthy participants?
+No. In general, the researchers found that the participants with kidney damage and the
+healthy participants had similar amounts of MEDI0382 in their blood. The researchers
+also found little difference in the amounts of MEDI0382 in the blood of the participants
+who had different levels of kidney damage.
+To answer this question, the researchers measured the average and highest amounts of
+MEDI0382 in the blood 2 days after the participants got treatment. Then, the researchers
+compared these amounts for Groups 2, 3, and 4 with the amounts for the healthy
+participants. The researchers studied these amounts because they wanted to learn how
+much MEDI0382 reaches the blood. These results could help future researchers decide
+what drug amounts to give to patients based on their kidney health.
+For the average amount of MEDI0382 in the blood, the researchers found that:
+• Group 2 participants had about 1.0% less MEDI0382 in the blood compared to the
+healthy participants.
+• Group 3 participants had about 1.0% more MEDI0382 in the blood compared to the
+healthy participants.
+• Group 4 participants had about 9.0% more MEDI0382 in the blood compared to the
+healthy participants.
+The figure below shows these results.
+Average amount of MEDI0382 in the blood compared
+to healthy participants
+Group 2 Group 3 Group 4
+20
+)%(
+10 tnuoma
+1.0% less
+in the blood
+0
+1.0% more 9.0% more 2830IDEM
+in the blood in the blood
+-10
+-20
+4

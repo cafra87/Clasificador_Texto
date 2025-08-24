@@ -1,0 +1,2 @@
+A Study in Healthy Adult Male Participants to Assess Absorption, Distribution, Metabolism and Excretion (ADME) of Radiolabeled PF-06865571.
+This study is a Phase 1, open-label, non-randomized, 2-period, fixed-sequence, single-dose study of PF-06865571 in healthy male participants to characterize the ADME properties of [14C]PF-06865571 following oral administration; and to evaluate the absolute oral bioavailability (F) and fraction absorbed (Fa) of PF-06865571 following oral administration of unlabeled PF-06865571 and IV administration of [14C]PF-06865571.

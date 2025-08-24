@@ -1,0 +1,30 @@
+Clinical Study Results
+The study doctors also counted the number of dose-limiting toxicities the participants had during
+the study. A dose-limiting toxicity is an adverse event that is severe enough to stop the study
+doctor from increasing the participant’s dose of study treatment. A dose-limiting toxicity is also
+known as a DLT.
+• 2.0% of participants had a DLT during Part A of the study. This was 2 out of 102 participants.
+• None of the participants had DLTs during Part B of the study.
+Did MEDI4736 with tremelimumab slow the growth of the participants’ tumors?
+To answer this question, the study doctors took pictures of the participants’ tumors using MRI
+scans. They measured the size of the participants’ tumors before they got study treatment and
+throughout the study. To do this, they used a set of rules called Response Evaluation Criteria in
+Solid Tumors, also called RECIST.
+The researchers looked at these results only for the participants in Part B. This is because the
+main purpose of Part A was to learn about different doses. In Part B, the researchers compared
+groups of participants who had received different types of treatment before the study.
+The results below include information for Groups 2 and 3 in Part B:
+• Group 2: Participants who had earlier treatments that were a different kind of treatment than
+the study drugs. The results in this section do not include information from 19 participants who
+got their MEDI4736 and tremelimumab infusions at the same time.
+• Group 3: Participants who had earlier treatments that were the same kind of treatment as the
+study drugs. In this group, there were some participants whose cancer had not got better after
+earlier treatments. There were also some participants whose cancer had got better but had
+come back again.
+The researchers found that tumor growth slowed in:
+• 16.9% of participants in Group 2. This was 36 out of 213 participants.
+• 5.3% of the participants in Group 3 whose cancer had not gotten better after earlier
+treatments. This was 2 out of 38 participants.
+• None of the 40 participants in Group 3 whose cancer had gotten better after earlier treatments
+but had come back again.
+7

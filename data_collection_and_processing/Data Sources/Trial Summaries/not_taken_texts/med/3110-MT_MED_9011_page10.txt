@@ -1,0 +1,31 @@
+When the participants took study treatment, how long was it before
+their cancer got worse?
+To answer this question, a group of experts that were not a part of this study’s
+research team looked at pictures of the participants’ tumors using MRI or CT scans
+taken during the study. They measured the growth of the tumors using a set of
+rules called Response Evaluation Criteria in Solid Tumors, also known as “RECIST”.
+Then, the study researchers calculated the amount of time that the participants
+lived with their cancer without their tumors growing. This is called “progression-
+free survival”.
+The researchers also wanted to know if certain genetic mutations affected how the
+treatments worked. So, they looked at the results from participants with or without
+certain genetic mutations. These mutations were in a gene called “BRCA” and in a
+group of genes called “HRR”.
+During this study, a different group of experts recommended that the participants
+stop taking the combination of olaparib and adavosertib. This was due to a
+higher number of medical problems in that group than in the other 2 groups,
+and because the doctors did not think the study treatment was helping the
+participants. So, this section does not include the results for the olaparib and
+adavosertib group.
+The researchers calculated the results as a median. This “median” is the time
+beyond which half of the participants had progression-free survival. Overall, the
+researchers found that the median for the time these participants lived before their
+cancer got worse was:
+Olaparib on its own Olaparib and ceralasertib
+Participants with a BRCA mutation 7.3 months 7.4 months
+(for 43 participants) (for 40 participants)
+Participants who did not have a BRCA 1.9 months 3.9 months
+mutation but had an HRR mutation (for 20 participants) (for 20 participants)
+Participants who did not have an HRR 1.9 months 3.6 months
+mutation (for 51 participants) (for 52 participants)
+10 | Clinical Study Results

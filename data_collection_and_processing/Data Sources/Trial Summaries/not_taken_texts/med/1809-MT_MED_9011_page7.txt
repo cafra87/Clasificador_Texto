@@ -1,0 +1,22 @@
+Clinical Study Results
+What were the results of the study?
+This is a summary of the main results from this study overall. The results each
+participant had might be different and are not in this summary.
+Researchers look at the results of many studies to decide which treatments work
+best and are safest. Other studies may provide new information or different results.
+Always talk to a doctor before making any treatment change.
+The website listed at the end of this summary may have a full report of the study
+results.
+How many participants had DLTs after getting adavosertib and
+olaparib?
+To help answer this question, the researchers counted the number of dose limiting
+toxicities the participants had during Part A of the study.
+Counting the number of DLTs helps researchers determine the safety of different
+doses of a treatment. This helps them find the highest dose that the participants
+can take. The researchers in this study wanted to determine what dose to give
+participants in future studies using adavosertib and olaparib together.
+The researchers did not count the number of DLTs in Part B of the study, since the
+dose did not change during that part.
+In Part A, 11.8% of the participants had a DLT. This was 14 out of 119 participants.
+Some participants had more than 1 DLT.
+7

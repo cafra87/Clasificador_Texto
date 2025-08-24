@@ -1,0 +1,14 @@
+Plain Title: Effectiveness of PEP Devices for Clearing Mucus in People with Cystic Fibrosis
+
+Rationale: 
+Cystic fibrosis (CF) is a condition where people have trouble clearing mucus from their airways. Chest physiotherapy, including the use of positive expiratory pressure (PEP) devices, is commonly used to help with mucus clearance. PEP devices create pressure in the airways during breathing out, which can help move mucus. This study aimed to find out if PEP devices are effective and accepted by people with CF compared to other physiotherapy methods.
+
+Trial Design:
+This study included randomized controlled trials that compared PEP devices with other physiotherapy methods for people with CF. The trials involved both children and adults. The study design varied among the trials, but they looked at factors such as forced expiratory volume and the number of respiratory exacerbations. The length of the study varied, but some trials lasted up to three months.
+
+Results:
+The review included a total of 28 studies involving 788 participants with CF. Most of the studies used a PEP device with a mask, but some used a mouthpiece with nose clips. The primary outcome measured was forced expiratory volume in one second, which showed little to no difference between PEP and other methods of airway clearance in the short term. However, long-term studies had conflicting results. The number of respiratory exacerbations was lower in participants using PEP with a mask for at least one year. Participant preference favored PEP over other methods. 
+
+Other outcome measures, such as mucus clearance, did not have enough evidence to draw conclusions. Adverse events were limited, but some studies reported gastro-esophageal reflux and dizziness as potential side effects. It is important to individualize airway clearance techniques based on factors like developmental stages, patient preferences, pulmonary symptoms, and lung function.
+
+In conclusion, PEP devices show potential in helping people with CF clear mucus from their airways. However, the quality of evidence is variable, and more research is needed. Personalized treatment plans should consider individual factors and adjust strategies based on changing conditions.

@@ -1,0 +1,33 @@
+Clinical Study Results
+The table below shows a summary of the adverse events that happened during the study.
+Part 1 Part 2 Part 3 Overall
+(out of 35 (out of 1 (out of 17 (out of 53
+participants) participant) participants) participants)
+How many participants in this
+97.1% (34) 100% (1) 100% (17) 98.1% (52)
+study had adverse events?
+How many participants in this
+study had serious adverse 54.3% (19) 0% (0) 35.3% (6) 47.2% (25)
+events?
+How many participants left this
+2.9% (1) 0% (0) 0% (0) 1.9% (1)
+study because of adverse events?
+The most common serious adverse events were a high fever and severe inflammation because
+of an infection, also called cytokine release syndrome.
+The most common adverse events were high fever and fatigue.
+Dose-limiting toxicities
+The study doctors also counted the number of dose-limiting toxicities the participants had during
+the study. A dose-limiting toxicity is also called a DLT. A DLT is an adverse event that is severe
+enough to stop the study team from increasing the dose of study treatment.
+There were 3 participants who had a DLT during this study:
+• 1 participant who received 0.037 mg MEDI9197 had a DLT. This happened in Group 1 in Part 1 of
+the study. This DLT was due to high fever and severe inflammation because of an infection called
+cytokine release syndrome.
+• 1 participant who received 0.055 mg MEDI9197 had a DLT. This happened in Group 5 in Part 1 of
+the study. This DLT was due to cytokine release syndrome, which resulted in severe inflammation
+because of an infection. Because of this DLT, the researchers decided not to give this dose to any
+more participants in Part 1.
+• 1 participant who received 0.012 mg MEDI9197 and 1500 mg of durvalumab had a DLT. This
+happened in Group 9 in Part 3 of the study. This DLT was due to heavy bleeding and caused the
+body to shut down due to a lack of oxygen. This participant died as a result of this DLT.
+7

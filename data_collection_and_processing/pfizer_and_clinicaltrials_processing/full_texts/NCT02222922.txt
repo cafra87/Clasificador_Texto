@@ -1,0 +1,209 @@
+CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: PF-06647020
+Protocol Number: B7661001
+Dates of Trial: 17 October 2014 to 05 November 2019 
+Title of this Trial: A Study Of PF -06647020 For Adult Patients With Advanced 
+Solid Tumors
+[A First -in-Human Phase 1, Dose Escalation, Safety and 
+Pharmacokinetic Study of PF -06647020 in Adult Patients
+With Advanced Solid Tumors]
+Date(s) of this Report: 27Oct2020
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you
+have any questions about the study or results, please contact the doctor or staff at 
+your study site.
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)
+2WHY WAS THIS STUDY DONE?
+Chemotherapy is often used to treat cancer, but not all patients’ cancer gets better 
+with treatment.  The drugs used for chemot herapy can kill healthy cells in a patient’s 
+body along with the cancer cells, which can cause serious medical problems.  
+Researchers are looking for new ways to treat cancer by directing chemotherapy drugs 
+to cancer cells while leaving healthy cells alone .
+PF-06647020 is a new investigational drug being studied to treat patients with cancer.  
+An investigational drug is one that is currently not approved for sale in this country.  
+PF-06647020 is a type of medicine called an “antibody -drug conjugate”.  An an tibody -
+drug conjugate is made up of an antibody with a toxic agent chemically attached to it.  
+Antibodies are special proteins made by the immune system that recognize and stick 
+to specific proteins on the surface of germs or cells.  The antibody part of 
+PF-06647020 recognizes a protein called PTK7, which is found in larger amounts on 
+certain cancer cells when compared to healthy tissue.  Researchers think that 
+PF-06647020 will deliver the toxic agent directly to cancer cells, slowing their growth 
+and causi ng the cells to die.  
+The main purpose of this Phase 1 study was to learn more about the safety of 
+PF06647020, and to find the best dose of PF -06647020 to use to treat cancer in 
+Phase 2 trials.  To do this, the researchers asked,
+What medical problems did patients have while taking PF -06647020?
+What dose -limiting toxicities, or “DLTs”, did patients have when taking 
+PF-06647020?
+DLTs are certain medical problems caused by taking PF -06647020 which 
+require the patient to lower the dose or stop taking the m edicine temporarily or 
+permanently.
+The researchers also wanted to know if any of the patients’ cancer got better during 
+the study.  To do this, they measured many things, including the “Clinical Response 
+Rate”.  This was the percentage of patients whose c ancer stayed the same or got 
+better during 6 or more cycles of treatment.  
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)
+3WHAT HAPPENED DURING THE STUDY?
+In the beginning of the study, patients were treated with PF -06647020 once every 
+3weeks (or the “Q3W regimen”).  Later on in the study, patients were treated with 
+PF-06647020 once every 2 weeks (or the “Q2W regimen”).  This was an “open -label” 
+study, which means that the patients and doctors knew what the patients were being 
+treated with.
+The study included patients ≥18 years old who met the followi ng conditions:
+For all study patients :
+Had adequate kidney, liver, and bone marrow function
+For the Q3W regimen:
+Part 1: Patients with solid tumor(s) whose cancer was advanced/metastatic 
+(spread to other parts of the body).  The patient’s cancer either did not respond 
+to standard therapy, or there was no standard therapy available for their cancer.
+Part 2: Patients with one of the following types of cancer:
+1.Ovarian cancer (or “OVCA”)
+2.A type of lung cancer called non -small cell lung cancer (or “NSCLC”), 
+whos e cancer made medium to high amounts of the protein PTK7
+3.A type of breast cancer called triple negative breast cancer (or “TNBC”), 
+whose cancer made medium -high to high amounts of the protein PTK7
+Able to walk around, take care of themselves, and do light house work or office 
+work. 
+For the Q2W regimen:
+Patients with ovarian cancer (OVCA) that did not respond well to 
+platinum -based chemotherapy, and who had received 2 or fewer regimens of 
+systemic a nti-cancer therapy (meaning that medicines were taken by mouth or 
+intravenously [IV])
+Patients with NSCLC whose cancer had gotten worse after treatment, who had 
+received 3 or fewer regimens of systemic anti -cancer therapy, and whose cancer 
+made medium to h igh amounts of the protein PTK7.
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)
+4Able to walk around, take care of themselves, and be active for more than 50% 
+of the day, but may not be able to do light work.
+The graphs below show what happened during the study:
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)
+5While patients were treated for up to 30 months, the entire study took 5 years to 
+complete.  The Sponsor ran this study at 10 locations in Spain and the United States 
+of America.  It began 17 October 2014 and ended 05 November 2019.  A total of 22 
+men and 126 women participated in the study.  All patients were between the ages of 
+31 and 80. 
+Patients were to be treated until their cancer got worse, their general health got worse, 
+they had too many medical problems, the patient wanted to stop, or until the p atient 
+had passed away.  A total of 67 of the 113 patients (59%) who started the Q3W 
+regimen finished the study.  A total of 13 of the 25 patients (52%) who started the 
+Q2W regimen finished the study.  Forty six (46) patients in the Q3W regimen part 
+and 12 patients in the Q2W regimen part of the study stopped taking the study 
+medicine, mostly due to their cancer getting worse.  Thirteen (13) patients who started 
+the Q3W regimen and 2 patients who started the Q2W regimen passed away during 
+the study. Thirty three (33) patients who started the Q3W regimen and 10 patients 
+who started the Q2W regimen left before the study was over by their choice or a 
+doctor decided it was best for a patient to stop being in the study. 
+When the study ended in November 2019, th e Sponsor began reviewing the 
+information collected.  The Sponsor then created a report of the results.  This is a 
+summary of that report.
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)
+6WHAT WERE THE RESULTS OF THE STUDY?
+What dose -limiting toxicities (DLT) were reported when taking 
+PF-06647020?
+During the first part of the Q3W regimen and the Q2W regimen, the researchers 
+wanted to find the correct dose of PF -06647020 for treating patients with cancer.  To 
+find the correct dose, the researchers needed to know how many patients in each dose 
+group h ad a DLT during their first 21 -day treatment cycle (Q3W) or 14 -day treatment 
+cycle (Q2W).
+Two (2) out of 31 patients (6%) enrolled in the Q3W regimen dose -escalation period 
+and 3 out of 25 patients (12%) in the Q2W regimen dose -escalation period had a 
+DLT.   Since the 2 patients with DLT in the Q3W regimen were treated with 
+3.7mg/kg and 2 of 3 patients with DLT in the Q2W regimen were treated with 
+3.2mg/kg, the researchers decided that the dose of 2.8 mg/kg PF -06647020 was the 
+best dose to use to treat can cer.
+What percentage of patients had their cancer stay the same or get 
+better?
+To do this, the researchers measured the “Clinical Response Rate” for the patients 
+treated every 3 weeks (Q3W) and every 2 weeks (Q2W).  The Clinical Response Rate 
+was the perce ntage of patients in the study whose cancer stayed the same or got better 
+during 6 or more cycles of treatment.  
+For patients treated Q3W, 40% of patients with lung cancer (NSCLC), 41% of 
+patients with ovarian cancer, and 38% of patients with breast cance r (TNBC) had 
+their cancer stay the same or get better when treated with PF -06647020.  For patients 
+treated Q2W, 33% of patients with lung cancer (NSCLC) and 37% of patients with 
+ovarian cancer had their cancer stay the same or get better when treated with 
+PF-06647020.
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)
+7This study was not designed to test if one medicine was better than another, so the 
+results could be due to chance.  This does not mean that everyone in this study had 
+these results.  Other studies may produce different results, as well.  Th ese are just 
+some of the main findings of the study, and more information may be available at the 
+websites listed at the end of this summary.  
+WHAT MEDICAL PROBLEMS DID 
+PARTICIPANTS HAVE DURING THE STUDY?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be .
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)
+8All of the patients in this study had at least 1 medical problem.  A total of 11 patients 
+treated with the Q3W regimen and 1 patient treated with the Q2W regimen stopped 
+taking the study medication because of medical problems.  The most common 
+medical pr oblems are listed below.   
+Most Common  Medical Problems
+(Reported by 40% or More of Patients in Q3W or Q2W) 
+Medical ProblemQ3W Regimen
+(112 Patients Treated)Q2W Regimen
+(25 Patients Treated)
+Hair loss 46 (41%) 18 (72%)
+Tiredness 60 (54%) 12 (48%)
+Constipation 38 (34%) 13 (52%)
+Nausea 56 (50%) 11 (44%)
+Low appetite 36 (32%) 12 (48%)
+Headache 41 (37%) 11 (44%)
+Abdominal pain 17 (15%) 11 (44%)
+Joint pain 23 (21%) 10 (40%)
+Diarrhea 31 (28%) 10 (40%)
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)
+9WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  
+Thirty six (36) out of 112 patients (32%) who were treated with the Q3W regimen had 
+serious medical problems.  Twelve (12) out of 25 p atients (48%) who were treated 
+with the Q2W regimen had serious medical problems.  A total of 21 patients passed 
+away during the study, mostly due to their cancer getting worse.  The most common 
+serious medical problems reported during the study are shown in the table below.
+Serious Medical Problems
+(Reported by More Than 2 Patients in Q3W or Q2W) 
+Serious
+Medical ProblemQ3W Regimen
+(112 Patients Treated)Q2W Regimen
+(25 Patients Treated)
+Abdominal pain 1 (1%) 4 (16%)
+Cancerous tumor 5 (5%) 0
+Constipation 4 (4%) 1 (4%)
+Nausea 3 (3%) 2 (8%)
+Low white blood cell 
+count with fever3 (3%) 0
+Vomiting 3 (3%) 2 (8%)
+Fever 3 (3%) 1 (4%)
+Pneumonia 3 (3%) 0
+Buildup of fluid around 
+lungs3 (3%) 1 (4%)
+Blood clot in lung 3 (3%) 1 (4%)
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)
+10WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT02222922
+www.clinicaltrialsregister.eu Use the study identifier 2014-003296 -36
+www.pfizer.com/research/research_
+clinical_trials/trial_resultsUse the protocol number B7661001
+Findings from this trial will be used in other studies to learn whether patients with 
+cancer are helped by this drug.  
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e1955e3447\Approved\Approved On: 28-Oct-2020 05:52 (GMT)

@@ -1,0 +1,9 @@
+Routine use of oxygen in people who have had a heart attack
+Background 
+Many people who are having a heart attack are routinely given oxygen to breathe.
+Review question 
+We looked for the evidence to support this longstanding practice by searching for randomised controlled trials that compared the outcomes for people given oxygen versus normal air to breathe. We were primarily interested in seeing whether there was a difference in the number of people who died, but we also looked at whether administering oxygen reduced pain or other adverse outcomes. 
+Key results 
+We found five randomised controlled trials that compared people with suspected or proven heart attack who were given oxygen to a similar group of people who were given air (evidence is current to June 2016). These trials involved a total of 1173 participants, 32 of whom died. There were similar death rates in both groups, suggesting oxygen neither helps nor harms, but the trials are not big enough to know for sure. Moreover, it is possible that more heart muscle might be damaged in people given oxygen than in people given air. 
+Conclusion 
+Since there is no evidence whether the oxygen is good or harmful in this clinical condition, it is important to test oxygen in a big trial as soon as possible to be sure that this common treatment is doing more good than harm in people who are having a heart attack. 

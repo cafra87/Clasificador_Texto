@@ -1,0 +1,17 @@
+1. Plain Title: 
+Understanding Skin Cancer Detection by Eye
+
+2. Rationale:
+Skin cancer, particularly Melanoma, is one of the fastest-growing types of cancer. Even though it's not very common compared to other skin cancers, it causes most skin cancer-related deaths. Usually, when a doctor suspects skin cancer, they first look at the unusual skin spot. Knowing how effective this visual check is helps us understand if other tests can help in the diagnosis. The aim of this study was to measure how well doctors can detect Melanoma just by looking at it, either face-to-face or via pictures, especially in adults who haven't had many tests before or have been asked to get a suspicious skin spot checked.
+
+3. Trial Design:
+In this study, we looked at several different studies from databases containing lots of medical literature, trial records and review articles up to August 2016. We also contacted authors of some of these studies for extra information. We were looking specifically for studies that included adults with skin spots that made doctors suspicious of Melanoma. These studies tested how well a doctor could identify Melanoma with their eyes compared to confirmatory tests like tissue checking or follow-up checks. We did not include studies that might have used special magnifying tools for skin examination. Data from these studies were then used to calculate some overall statistics about the accuracy of visual checks.
+
+4. Results:
+We found 49 studies covering 34,351 skin spots, including 2499 actual Melanoma cases. Unfortunately, lots of these studies didn't give enough information about their methods or their volunteers, making it hard for us to identify any issues that could have affected their findings. Not having enough details about why an inspection was considered “positive” for Melanoma or who conducted the inspection was a common problem. 
+
+When we compared the two methods of inspection - face-to-face or via images, detecting Melanoma was much better face-to-face. However, it seems there is a trade-off between getting the right positives (sensitivity) and avoiding the wrong positives (specificity). The trade-off was most balanced when the skin spots were chosen for special removal and checking (highest specificity of about 96%, with sensitivity of about 77%). 
+
+We did not find any clear proof that having a helpful guide or algorithm changes how accurate the visual inspections are. The same goes for the impact of having a trained expert in skin cancer do the check. More research may help us understand if these guides or having experts can help diagnose Melanoma better. 
+
+Our findings suggest that, while visual inspection is a crucial first step in assessing a suspicious skin spot, some cases of Melanoma might be missed if we rely solely on the human eye. The evidence supporting the accuracy of visual inspection in different settings is not well reported, hence, we need more research to explore the benefits of using guides or experts.

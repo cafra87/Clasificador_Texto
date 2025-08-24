@@ -1,0 +1,13 @@
+Plain Title: Accuracy of Ultrasound in Detecting Carotid Artery Stenosis
+
+Rationale: 
+Carotid artery stenosis is a condition that can lead to strokes and transient ischemic attacks. It is important to accurately identify patients with this condition in order to provide them with appropriate treatment. We wanted to determine if ultrasound, a non-invasive imaging test, can accurately diagnose carotid artery stenosis.
+
+Trial Design: 
+We conducted a systematic review of studies that compared ultrasound to other diagnostic tests such as digital subtraction angiography (DSA), computed tomography angiography (CTA), or magnetic resonance angiography (MRA). We searched various databases and handsearched reference lists to find relevant studies. We included studies that involved symptomatic patients with carotid artery stenosis and used validated criteria to assess the degree of stenosis. We assessed the bias and quality of the included studies.
+
+Results: 
+We identified 22 studies involving a total of 4,957 carotid arteries. The quality of the studies varied, but overall, ultrasound showed high accuracy in detecting carotid artery stenosis. The sensitivity (ability to correctly identify positive cases) of ultrasound was high for stenosis greater than 50% and for complete occlusion. The specificity (ability to correctly identify negative cases) was also high for stenosis below 50% and above 70%. However, there was limited evidence comparing ultrasound to CTA or MRA, and further research is needed in this area. It is important to note that ultrasound should not be the sole diagnostic test for carotid artery stenosis, and its limitations should be considered.
+
+In Conclusion: 
+Our review provides evidence that ultrasound is an accurate diagnostic tool for detecting carotid artery stenosis, especially for moderate to severe cases. It is less invasive compared to other imaging tests and can be used early in the diagnosis process. However, caution should be exercised when relying solely on ultrasound results, and its limitations should be taken into account. Future studies should directly compare ultrasound with other imaging tests, such as CTA and MRA, to further evaluate its accuracy. Participants in these studies should be carefully selected to ensure reliable results.

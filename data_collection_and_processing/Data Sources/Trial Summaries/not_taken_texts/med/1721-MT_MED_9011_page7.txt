@@ -1,0 +1,36 @@
+Clinical Trial Results
+What were the most common non-serious medical problems in the study?
+The most commonly reported adverse events in participants were headache (8.3%),
+nausea (6.3%), and skin reaction at the injection site (6.3%).
+The table below shows the most common medical problems that happened during
+the study.
+Medical problems that were not serious
+Dose 5 of Dose 6 of
+Dose 1 of Dose 2 of Dose 3 of Dose 4 of MEDI6012 MEDI6012 Placebo - All
+MEDI6012 IV MEDI6012 IV MEDI6012 IV MEDI6012 IV Placebo - IV Injection Injection Injection Participants
+(Out of 6 (Out of 6 (Out of 6 (Out of 6 (Out of 8 (Out of 6 (Out of 6 (Out of 4 (Out of 48
+participants) participants) participants) participants) participants) participants) participants) participants) participants)
+0 1 0 1 0 0 2 0 4
+Headache
+(0.0%) (16.7%) (0.0%) (16.7%) (0.0%) (0.0%) (33.3%) (0.0%) (8.3%)
+0 1 0 0 0 0 0 2 3
+Nausea
+(0.0%) (16.7%) (0.0%) (0.0%) (0.0%) (0.0%) (0.0%) (50.0%) (6.3%)
+Skin reaction
+0 0 0 0 0 2 1 0 3
+at the
+(0.0%) (0.0%) (0.0%) (0.0%) (0.0%) (33.3%) (16.7%) (0.0%) (6.3%)
+injection site
+0 0 0 0 0 1 1 0 2
+Constipation
+(0.0%) (0.0%) (0.0%) (0.0%) (0.0%) (16.7%) (16.7%) (0.0%) (4.2%)
+Irritation at
+0 1 1 0 0 0 0 0 2
+the site of a
+(0.0%) (16.7%) (16.7%) (0.0%) (0.0%) (0.0%) (0.0%) (0.0%) (4.2%)
+medical device
+Redness
+where the 0 0 0 0 0 0 2 0 2
+injection (0.0%) (0.0%) (0.0%) (0.0%) (0.0%) (0.0%) (33.3%) (0.0%) (4.2%)
+was given
+7

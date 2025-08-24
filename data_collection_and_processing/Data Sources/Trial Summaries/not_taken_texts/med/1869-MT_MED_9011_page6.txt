@@ -1,0 +1,41 @@
+Clinical Trial Results
+Time it took for AZD4831 to reach its highest amount in the blood
+Researchers measured the median time in hours that it took for AZD4831 to reach its highest amount in
+the blood. The median is the amount of time halfway between the shortest time and the longest time it
+took for AZD4831 to reach the highest amount in the blood. The figures below show this time for Part A
+and Part B of the study.
+Median time to reach the highest amount of AZD4831 in the blood
+Part A Part B
+4.00 4.00
+3.0
+3.00 3.00 )sruoh( )sruoh(
+emit emit
+2.00 2.00
+naideM naideM
+1.0
+1.00 1.00
+0.7 0.7 0.8
+0.5
+0 0
+5 mg 15 mg 45 mg 135 mg 405 mg 45 mg
+AZD4831 AZD4831 AZD4831 AZD4831 AZD4831 AZD4831
+Treatment group Treatment group
+What medical problems did participants have during the study?
+A lot of research is needed to know whether a drug causes a medical problem. Researchers keep track
+of all medical problems that participants have during the study. These medical problems are called
+“adverse events”. They may or may not be caused by the study drug.
+How many participants had medical problems in the study?
+In Part A, a similar percentage of participants taking AZD4831 and the placebo had medical problems.
+In Part B, no participants had medical problems. The table below shows how many participants in
+Part A of the study had medical problems. No participants stopped taking the study drug because
+of medical problems.
+How many participants had medical problems in Part A of the study?
+AZD4831 AZD4831 AZD4831 AZD4831 AZD4831
+Placebo 5 mg 15 mg 45 mg 135 mg 405 mg
+(10 participants) (6 participants) (6 participants) (6 participants) (6 participants) (6 participants)
+How many
+participants
+4 (40.0%) 2 (33.3%) 2 (33.3%) 3 (50.0%) 3 (50.0%) 2 (33.3%)
+had medical
+problems?
+6

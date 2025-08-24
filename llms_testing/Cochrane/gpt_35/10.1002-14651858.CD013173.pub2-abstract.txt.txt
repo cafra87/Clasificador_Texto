@@ -1,0 +1,13 @@
+Plain Title: Effectiveness of Therapy for Obsessive Compulsive Disorder in Autism Spectrum Disorder
+
+Rationale: 
+Autism Spectrum Disorder (ASD) is a condition that affects a person's ability to learn and use specific skills. It often includes challenges with socialization, communication, and repetitive behaviors. People with ASD may also experience mental health disorders, like obsessive-compulsive disorder (OCD). However, therapy for OCD may be less effective in individuals with ASD. This study aims to determine if therapy can effectively treat OCD in people with ASD and improve their overall well-being. 
+
+Trial Design: 
+This study included children and adults with both OCD and ASD. The researchers searched for relevant studies and collected data from one randomized controlled trial. The treatment options included behavioral therapy (BT) and cognitive-behavioral therapy (CBT), which were adapted for individuals with ASD. The participants were compared to a control group who received anxiety management only. The study assessed changes in OCD symptoms, treatment completion, severity of depressive symptoms, anxiety symptoms, behavioral difficulties, and family accommodation. 
+
+Results: 
+The analysis included 46 participants from the one eligible study. The study found that there were no significant differences in treatment completion rates between the CBT and anxiety management groups. However, the study showed that CBT may be more beneficial in reducing OCD symptoms, depression symptoms, anxiety symptoms, and improving quality of life compared to anxiety management. The evidence for these findings is of low certainty due to the limited number of studies. 
+
+Conclusion: 
+More research is needed to determine the effectiveness of CBT for treating OCD in individuals with ASD. Future studies should also explore how OCD presents and impacts people with ASD, as well as the role of families in the treatment process.

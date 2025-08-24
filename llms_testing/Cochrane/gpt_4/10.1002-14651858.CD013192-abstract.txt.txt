@@ -1,0 +1,17 @@
+1. **Plain Title:** 
+"Effectiveness of Phone Apps in Detecting Skin Cancer"
+
+2. **Rationale:** 
+Skin cancer, particularly a kind called melanoma, may not be the most common type of skin cancer, but it is the deadliest. That's why catching it early and getting treatment can be lifesaving. For this, smartphone apps are now available that provide a quick risk check, potentially making people aware of their cancer risk. However, these apps may overlook some skin cancers, leading to dangerous delays in treatment.
+
+3. **Trial Design:** 
+This study examines how accurate smartphone applications are in detecting skin cancer, more specifically, melanoma and other suspicious skin spots. We carefully analyzed details from many scientific databases, including ongoing clinical trials and previous research. We included any study that assessed smartphone apps used by people at home to check skin markings they found concerning. The success of these apps was then compared to the results of physical examinations and detailed medical check-ups. 
+
+4. **Results:** 
+The study compiled data from two types of apps tested on suspicious skin spots. The first type of app uses pre-set instructions to analyze skin photos, the other kind sends the photos taken by users to a trained skin doctor for reviewing. 
+
+We found, however, that often the apps didn't test well. Based on the first type of apps, the four analyzed apps varied greatly in their ability to correctly identify skin cancer, ranging from 7% to 73% success rate, with chances of giving a wrong assessment as high as 63%. The second type, where a skin doctor reviews the images, was 98% successful in identifying skin cancer but had a 70% chance of wrongly identifying harmless spots as cancerous. 
+
+Furthermore, in some cases, the apps couldn't evaluate the images, excluding them from their assessment. This happened in 2% to 18% of the cases depending on the app, and even resulted in overlooking a skin cancer case in three out of the four apps.
+
+Based on our findings, the apps using automated diagnosis can miss a high number of skin cancers, posing a risk for users. Apps that send images to a skin doctor for reviewing could potentially help get people to doctors earlier but can also result in a false alarm. Overall, the current data and quality of studies in this area are limited, which makes it hard to draw clear conclusions. But this is a quickly changing field, and better apps with improved technology could change these observations.

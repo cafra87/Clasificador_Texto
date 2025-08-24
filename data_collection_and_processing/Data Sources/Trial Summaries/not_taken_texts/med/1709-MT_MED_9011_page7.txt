@@ -1,0 +1,27 @@
+Clinical Trial Results
+How many participants had serious medical problems?
+A medical problem is considered serious when it is life-threatening, causes
+lasting problems, or needs hospital care. In this study, no participants
+developed serious medical problems, and no participants died.
+What were the most common non-serious medical problems
+in the study?
+The table below shows the most common non-serious medical problems
+that happened in more than 1 participant in either treatment group
+in the study.
+Most common non-serious medical problems in this study
+Pramlintide and insulin Placebo and insulin
+Medical problem (Out of 32 participants) (Out of 28 participants)
+Nausea 14 (43.8%) 2 (7.1%)
+Headache 8 (25.0%) 1 (3.6%)
+Vomiting 6 (18.8%) 0 (0.0%)
+Low blood sugar levels 3 (9.4%) 0 (0.0%)
+Tremor 1 (3.1%) 2 (7.1%)
+Anemia 0 (0.0%) 4 (14.3%)
+The low blood sugar category listed above was considered a medical
+problem. But, researchers were also interested in how many participants
+had even lower blood sugar.
+When participants got pramlintide and insulin, 17 out of the 32
+participants (53.1%) had lower blood sugar. When participants got the
+placebo and insulin, 10 out of the 28 participants (35.7%) had lower
+blood sugar.
+7

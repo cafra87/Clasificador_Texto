@@ -1,0 +1,38 @@
+Clinical Study Results
+Did taking AZD1775 with food affect the amount of AZD1775 in the blood?
+No. Overall, the researchers found that the average amounts of AZD1775 in the blood were
+about the same when participants took AZD1775 with food compared to when participants took
+AZD1775 without food.
+To learn this, the study doctors took blood samples before and several times after the participants
+took AZD1775 with and without food. The amount of AZD1775 in the blood was measured in
+nanomolar, also called nM, which is the same as a nanomole per liter of blood. A “nanomole” is
+1 billion times smaller than a mole, which is the usual way to measure the amount of a drug.
+To find out how much AZD1775 got into the participants’ blood, the researchers measured:
+• The average amount of AZD1775 in the blood after taking AZD1775 until any time later.
+This was measured in nM times hours, also called nM•h. This means that AZD1775 was
+measured over a period of time.
+• The average amount of AZD1775 in the blood after taking AZD1775 until 72 hours later.
+This was also measured in nM•h.
+• The highest amount of AZD1775 in the blood after taking AZD1775. This was measured in nM.
+The researchers found that the average amount of AZD1775 in the blood after taking AZD1775
+until any time later was:
+• 14,610 nM•h when the participants took AZD1775 with food
+• 15,620 nM•h when the participants took AZD1775 without food
+The figure below shows these results.
+Average amount of AZD1775 in the blood after taking AZD1775
+until any time later
+18,000
+15,620 nM•h
+16,000 14,610 nM•h
+14,000
+)h•Mn(
+12,000
+10,000
+tnuomA
+8,000
+6,000
+4,000
+2,000
+0
+AZD1775 with food AZD1775 without food
+4

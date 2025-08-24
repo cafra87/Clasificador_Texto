@@ -1,0 +1,42 @@
+Clinical Study Results
+B/Yamagata strain
+A similar number of participants who got Vaccine A, Vaccine B, and Vaccine C had
+increased antibodies to the B/Yamagata strain.
+The figure below shows these results.
+Increased antibodies to the B/Yamagata strain
+28 days after getting MEDI3250 56 days after getting MEDI3250
+100.0 100.0
+)%( )%(
+80.0 80.0
+stnapicitrap stnapicitrap
+57.8%
+60.0 60.0 53.6% 54.8%
+50.0% 50.0%
+42.9%
+fo fo
+40.0 40.0
+egatnecreP egatnecreP
+20.0 20.0
+0 0
+Vaccine A Vaccine B Vaccine C Vaccine A Vaccine B Vaccine C
+B/Victoria strain
+More participants who got Vaccine C had increased antibodies to the B/Victoria strain
+compared with participants who got Vaccine B. The B/Victoria strain was not included in
+Vaccine A so there was no antibody responses to look at.
+The figure below shows these results.
+Increased antibodies to the B/Victoria strain
+28 days after getting MEDI3250 56 days after getting MEDI3250
+50.0 50.0
+40.3% )%( )%(
+40.0 40.0
+35.9% stnapicitrap stnapicitrap
+30.0 30.0
+25.0%
+fo fo
+20.0 20.0
+egatnecreP egatnecreP
+14.3%
+10.0 10.0
+0 0
+Vaccine B Vaccine C Vaccine B Vaccine C
+6

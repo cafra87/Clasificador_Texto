@@ -1,0 +1,19 @@
+1. Plain Title: 
+Effectiveness of media-based health advice for ethnic minorities
+
+2. Rationale: 
+Non-communicable diseases can be reduced by being active, eating a balanced diet, avoiding tobacco, and drinking alcohol in moderation. Media campaigns are frequently used to encourage healthier choices among the general population. However, it is unclear whether media campaigns that specifically target ethnic minorities are more or less effective in influencing behaviour changes. The present study aims to investigate this specific area. 
+
+3. Trial Design: 
+For this study, health-related literature was collected from multiple sources, without a language barrier, until October 2016. We focused on studies that used media channels to promote healthier lifestyle choices such as better diet, physical activity and less use of tobacco or alcohol, specifically directed at adults from ethnic minority groups. Importantly, these behaviors were intended to reduce the risk of non-communicable diseases. The key evaluation factors included changes in behavior, self-reported behavior changes, knowledge, attitudes, the use of health services, and related project expenses. 
+
+4. Results: 
+Six studies, all carried out in the USA, met our criteria. These studies targeted African, Latino, and Chinese immigrants with health intervention media programs, some of which were shared in the participant's native language. We found that the mass media intervention had a varying impact. In one case, there was negligible difference in the effect on self-reported change for smoking behaviour between a mass media campaign targeted at an ethnic minority and a generic campaign. 
+
+Interestingly, when we compared the targeted interventions against no intervention at all, some results showed a positive change. For example, a study used 12 one-hour TV programs and provided print material regarding nutrition and physical activity, after which, there was a favorable change in food habits and leisure activity scores for the identified group. 
+
+Additionally, radio advertisements targeted towards African American communities encouraged calls to a 'quit smoking' line, with an increased number of calls documented after the campaign. 
+
+Lastly, we found that adding personalized content to mass media interventions did not significantly affect weight changes. Some studies did show nominal effects or no significant differences in behavioral changes, knowledge and attitudes between such groups.
+
+In conclusion, it remains unclear if mass media interventions targeted at ethnic minority groups are more effective in changing health behaviours than generic campaigns. More studies are needed on targeted interventions for ethnic minorities whose first language is not the predominant language in their country of residence.

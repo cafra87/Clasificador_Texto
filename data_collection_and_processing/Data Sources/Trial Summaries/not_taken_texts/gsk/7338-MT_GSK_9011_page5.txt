@@ -1,0 +1,24 @@
+Where was this study done?
+Study sites were in seven countries.
+Number of patients who received at least one dose of
+the study medicine
+Canada 127
+Germany 63
+Italy 31
+Netherlands 34
+Spain 45
+United Kingdom 25
+United States 112
+0 20 40 60 80 100 120 140
+Number of patients
+What were the overall results of the study?
+The main focus of the study was to compare patients’ daily adherence between
+Group 1 and Group 5, from Month 4 through Month 6. Patients’ daily adherence was
+measured as the average percentage of doses of Relvar/Breo Ellipta treatment taken
+between this period.
+The number of doses of Relvar/Breo Ellipta treatment taken by each patient were
+recorded by the sensor. The percentage of doses taken by the patient was calculated
+based on the number of expected doses. These percentages were combined and
+averaged for each group.
+Out of the 437 patients, the average percentage of doses taken could be calculated for
+418 patients who were still in the study from Month 4 through Month 6.

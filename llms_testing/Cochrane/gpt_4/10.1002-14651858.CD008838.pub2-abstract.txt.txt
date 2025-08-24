@@ -1,0 +1,19 @@
+1. Plain Title
+Studying the Effect and Safety of Insect Sting Allergy Therapy
+
+2. Rationale
+Reactions due to insect stings can cause allergic responses in some people, which can be problematic and even life-threatening in severe cases. To prevent further allergic reactions from happening after a sting, a common treatment used is Venom Immunotherapy (VIT) - this is a treatment using small amounts of the insect’s venom. However, the effectiveness and safety of this method has not been thoroughly checked through a high-quality study, which raises concerns about its usage. The main goal of this study is to understand if using venom, taken from the stinging insect, for therapy can prevent more allergic reactions in people who have had a reaction to an insect sting before. Is it safe, and does it actually work?
+
+3. Trial Design
+For this study, we looked at past cases where venom therapy was used. We looked through records from different databases up to February 2012, including both published and yet-to-be published articles, and even those written in foreign languages. Our search did not stop at records, we also looked for information from trials databases, abstracts from recent allergy meetings in Europe and North America, and references from identified review articles to find more related trials. Of the trials we found, we included those where the venom therapy was performed by using a standard quantity of venom extract in patients with a previous history of insect sting allergy. 
+
+4. Results
+Our review took into consideration 7 trials altogether, which included a total of 392 participants. In these trials, the patients were treated with ant, bee, and wasp venom, depending on what type of insect had previously caused an allergic reaction. The venom was administered either under the skin (in six trials) or under the tongue (in one trial). 
+
+It turned out that venom therapy was quite effective in preventing a person from having a systemic allergic reaction (an allergic reaction that affects the whole body) due to an insect sting in the future, whether the sting was accidental or intentionally done as part of the study. In the trials, around 3 in 100 patients who had venom therapy had another allergic reaction to a sting, compared to almost 40 in 100 patients who were not treated with venom therapy. 
+
+For patients treated with venom therapy, it also reduced the likelihood of having a large, swollen reaction at the sting site and improved their quality of life. 
+
+However, we found that there was a small, but significant, chance that a systemic adverse reaction (an unwelcome, potentially harmful reaction that affects the whole body) could occur to the venom treatment. 14 out of 100 patients treated with venom therapy had this kind of reaction which was more than those who were treated with a placebo therapy or no treatment (1 in 100 patients).
+
+Despite the potential risk, our conclusion is that venom therapy using extracted insect venom is an effective way to prevent further allergic reactions to insect stings and can improve the quality of life of the patient. The risk of an adverse reaction is something to consider and needs to be managed carefully during treatment.

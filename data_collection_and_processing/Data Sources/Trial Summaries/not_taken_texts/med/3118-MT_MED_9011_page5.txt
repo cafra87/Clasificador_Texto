@@ -1,0 +1,38 @@
+Clinical Study Results
+What effect did MEDI0382 have on participants’ heart rates while they used
+a treadmill?
+Overall, the researchers found that MEDI0382 did not affect participants’ heart rates while
+they used a treadmill.
+To answer this question, the researchers measured the change in participants’ heart rates
+on both Day 1 and Day 26 of the study. Heart rate is measured in beats per minute, also
+called bpm. Depending on age, a healthy heart rate while not exercising is about 60 bpm
+to 100 bpm. Depending on age, a healthy heart rate while exercising is about 90 bpm to
+170 bpm.
+On Days 1 and 26, the researchers measured the participants’ heart rates before and
+after they ran on a treadmill for 9 minutes. Then, they compared the results. On Day 1,
+the participants got only esmolol. On Day 26, the participants got esmolol and MEDI0382
+together.
+Overall, the researchers found that:
+• When the participants got only esmolol on Day 1, their average change in heart rate after
+running was 61.7 bpm. Their average heart rate before running was 67.6 bpm, and their
+average heart rate after running was 129.3 bpm.
+• When the participants got esmolol and MEDI0382 together on Day 26, their average
+change in heart rate after running was 60.3 bpm. Their average heart rate before running
+was 84.0 bpm, and their average heart rate after running was 144.3 bpm.
+The figure below shows these results.
+Change in participants’ heart rates
+100
+retfa
+80
+etar )mpb(
+61.7 bpm 60.3 bpm
+60 traeh
+gninnur
+40
+ni
+egnahC
+20
+0
+Day 1 Day 26
+Esmolol only Esmolol and MEDI0382
+5

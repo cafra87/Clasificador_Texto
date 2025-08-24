@@ -1,0 +1,14 @@
+Title: Understanding if Medical Treatment Improves Heart Function in Child Cancer Patients
+
+Rationale:
+Cancer patients, especially children, often receive a drug called anthracyclines during their treatment. However, these drugs can sometimes harm the heart, causing problems both during and after cancer treatment. We call this side effect "cardiotoxicity." Adults with similar heart problems have seen benefits from certain medicines, but we're not sure if these treatments are equally effective for kids with cardiotoxicity due to anthracyclines. This study was designed to find out if any medical treatments could help children whose hearts have been harmed by anthracyclines.
+
+Trial Design:
+In our study, we scoured through countless medical reports and articles on heart diseases in children published in various databases. These included the Cochrane Library, PubMed, and EMBASE. We also went through previous conference discussions on child cancers. We specifically looked for prior studies that tested if a treatment is beneficial for heart issues caused by anthracyclines. We wanted studies that had tested a treatment against either a placebo, a different treatment, or no treatment at all. Two investigators decided which studies to include in our analysis. 
+
+Results:
+Despite our extensive search, we only found two relevant studies. One of these studies tested a drug called enalapril on child cancer survivors with subtle heart problems caused by anthracyclines. The other tested a two-week treatment of a substance called phosphocreatine on children with leukemia suffering from heart issues because of anthracyclines. 
+
+The results were unclear. The study with enalapril didn't help the children live longer, prevent heart failure, or improve their quality of life. However, it did seem to slightly improve one measure of heart function during the first year of treatment. On the other hand, it increased the risk of dizziness, low blood pressure, and fatigue. The study of phosphocreatine showed no substantial benefits or harms.
+
+In conclusion, we do not yet have enough information to recommend either enalapril or phosphocreatine for children with heart problems due to anthracyclines. More high-quality research is needed to find effective treatments for these children, balancing possible benefits with known side effects. Doctors should consider these issues carefully when deciding whether to prescribe such medicines to childhood cancer survivors.

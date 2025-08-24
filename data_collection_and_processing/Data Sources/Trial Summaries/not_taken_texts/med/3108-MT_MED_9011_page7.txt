@@ -1,0 +1,30 @@
+Clinical Study Results
+The researchers kept track of the severity of the participants’ RA by using the Disease
+Activity Score, also called DAS. The DAS is a score based on the results of several tests
+and measurements. A higher score means more severe RA.
+The researchers used the following information to calculate the participants’ DAS:
+• number of swollen and tender joints
+• amount of swelling in the body
+• surveys asking the participants to rate how RA was affecting their daily activities
+After the participants took study treatment for 2 weeks, the researchers found that the
+participants who took AZD9567 and the participants who took prednisolone had a decrease
+in their DAS. The researchers considered this decrease to be similar for both groups.
+After the participants took study treatment for 2 weeks, the researchers found that:
+• The participants who took AZD9567 had an average decrease in their DAS of
+1.9 points.
+• The participants who took prednisolone had an average decrease in their DAS of
+2.4 points.
+The figure below shows these results.
+Average change in participants’ DAS
+AZD9567 Prednisolone
+0
+-1.0 erocs
+-2.0
+1.9 point ni
+decrease egnahC
+2.4 point
+-3.0
+decrease
+-4.0
+-5.0
+7

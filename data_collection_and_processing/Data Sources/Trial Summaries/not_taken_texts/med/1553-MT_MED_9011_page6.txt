@@ -1,0 +1,26 @@
+Clinical Study Results
+How many participants had serious adverse reactions?
+None of the participants had serious adverse reactions during the study.
+How many participants had adverse reactions?
+The table below shows how many participants had adverse reactions during the study.
+Adverse reactions during the study
+75 mg 500 mg 1,000 mg 1,500 mg
+MEDI4920 MEDI4920 MEDI4920 MEDI4920 Placebo
+(out of 8 (out of 10 (out of 12 (out of 12 (out of 15
+participants) participants) participants) participants) participants)
+How many
+participants had
+12.5% (1) 50.0% (5) 25.0% (3) 50.0% (6) 33.3% (5)
+adverse events
+during the study?
+How many
+participants had
+serious adverse 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+events during the
+study?
+How many
+participants
+stopped treatment 12.5% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+because of adverse
+events?
+6

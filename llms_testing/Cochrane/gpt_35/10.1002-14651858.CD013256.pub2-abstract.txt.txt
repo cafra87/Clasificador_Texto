@@ -1,0 +1,18 @@
+Plain Title: Impact of IBD Medications on Infection Risk After Surgery
+
+Rationale: If you have inflammatory bowel disease (IBD) and need surgery, it's important to understand how your medications may affect your risk of infection after the surgery. Some IBD medications can increase the overall risk of infection, but their impact on postoperative infection risk is not clear. This study aimed to assess the impact of IBD medications on the risk of infection within 30 days after surgery.
+
+Trial Design: This study looked at different types of research studies to gather information. The researchers searched various databases and reference lists to find relevant studies. They included randomized controlled trials, observational studies, and other types of studies that compared patients taking IBD medications before or after surgery to patients not taking those medications. The study involved collecting data from these studies and analyzing it to see if there were any patterns.
+
+Results: The researchers found and analyzed 68 studies. Among these studies, some had a low risk of bias, while others had a high risk. Based on the data from the studies, the researchers made the following conclusions:
+
+- Patients who took anti-TNF agents or corticosteroids had an increased risk of overall infectious complications after surgery.
+- The use of other IBD medications, such as 5-ASA, immunomodulators, and anti-integrin agents, did not have a significant impact on overall infectious complications after surgery.
+- There was no difference in the risk of wound-related complications between patients using corticosteroids, 5-ASA, immunomodulators, anti-TNF agents, or anti-integrin agents and those not using these medications.
+- Both corticosteroids and anti-TNF agents increased the risk of intra-abdominal infection after surgery.
+- The use of 5-ASA, immunomodulators, or anti-integrin agents did not have a significant impact on the risk of intra-abdominal infection.
+- The rate of extra-abdominal infections was not affected by any of the medications studied.
+
+The researchers concluded that the evidence regarding the impact of these medications on postoperative infectious complications is uncertain. It is important for healthcare providers to evaluate each patient's unique circumstances when making decisions about preoperative IBD medications. More research is needed to generate higher quality evidence and control for other factors that could influence the results.
+
+In summary, this study looked at how different medications used to treat IBD may affect the risk of infection after surgery. The study found that some medications, such as anti-TNF agents and corticosteroids, increased the risk of overall infectious complications and intra-abdominal infection. However, the impact of other medications, like 5-ASA, immunomodulators, and anti-integrin agents, was not significant. The researchers emphasized the need for further research to better understand the safety of these medications in the perioperative period. Decisions about preoperative IBD medications should be made based on individual patient circumstances.

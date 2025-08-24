@@ -1,0 +1,15 @@
+Plain Title: Optical Coherence Tomography for Skin Cancer Detection
+
+Rationale:
+Early detection of all types of skin cancer is crucial in order to provide appropriate treatment and improve outcomes for patients. Melanoma and squamous cell carcinoma (SCC) are high-risk skin cancers that can spread and become life-threatening, while basal cell carcinoma (BCC) is usually localized but can cause damage to surrounding tissues. It is important to balance the need for early detection with avoiding unnecessary procedures for benign lesions. Optical coherence tomography (OCT) is a microscopic imaging technique that uses near-infrared light to examine skin lesions. When used alongside clinical or dermoscopic examination, OCT may provide additional information for diagnosing skin cancer.
+
+Trial Design:
+This study aimed to evaluate the accuracy of OCT in detecting invasive melanoma, atypical intraepidermal melanocytic variants, basal cell carcinoma (BCC), and cutaneous squamous cell carcinoma (cSCC) in adults. The researchers conducted a comprehensive search of various databases, including Cochrane Controlled Trials Register, MEDLINE, and Embase, among others, up to August 2016. They reviewed reference lists and published systematic reviews for relevant studies. Inclusion criteria involved studies of any design that evaluated OCT in adults with suspicious skin lesions, compared to histological confirmation or clinical follow-up as the reference standard. Data were collected and analyzed using established protocols and statistical models.
+
+Results:
+The researchers included five studies involving a total of 529 skin lesions (282 malignant lesions). Unfortunately, the quality of the included studies was moderate to unclear, and there were limitations in the interpretation of results and blinding. Due to the limited number of studies and variations in OCT technologies and testing protocols, the researchers were unable to provide summary statements about the accuracy of detecting melanoma or cSCC using OCT.
+
+However, pooled data from two studies using conventional swept-source OCT alongside visual inspection and dermoscopy for the detection of BCC showed promising results. The sensitivity of OCT in detecting BCC was estimated to be 95%, with a specificity of 77%. In a hypothetical population of 1000 lesions with a BCC prevalence of 60%, OCT would potentially miss 31 BCCs and lead to 93 false-positive results. This suggests that OCT could potentially reduce unnecessary excisions compared to visual inspection alone or visual inspection plus dermoscopy.
+
+Conclusion:
+More data is needed to determine the effectiveness of OCT in detecting melanoma or cSCC. However, initial findings indicate that conventional OCT may have a role in diagnosing BCC in challenging cases, showing higher sensitivity and specificity compared to visual inspection plus dermoscopy. Due to the limited number of studies and varying quality, further well-designed studies are necessary to provide more guidance and compare OCT with other diagnostic aids such as dermoscopy and reflectance confocal microscopy.

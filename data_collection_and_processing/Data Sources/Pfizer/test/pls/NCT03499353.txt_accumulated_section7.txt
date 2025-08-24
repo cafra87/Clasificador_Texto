@@ -1,0 +1,7 @@
+What is breast cancer?
+Breast cancer is the most common cancer in women. In 2012, about 1.7 million women were diagnosed with breast cancer and over 522,000 women died due to the disease.
+Some people carry changes or "mutations" in their DNA in genes called breast cancer susceptibility (BRCA) genes 1 and 2, or "BRCA1" and "BRCA2". BRCA gene mutations can be inherited by a child from one of their parents (germline). When a person's BRCA1 or BRCA2 genes contain mutations, it can cause breast cancer.
+Researchers are looking for treatments for breast cancer patients with BRCA mutations.
+What is talazoparib?
+Talazoparib (Talzenna®) is known as a PARP inhibitor. PARP inhibitors are drugs that are believed to inhibit (stop) the normal activity of certain proteins called "Poly (ADP-ribose) polymerases", also called "PARPs". PARPs are proteins (made from genes which are part of DNA) that are found in all normal and cancer cells that are involved in the repair of DNA. PARPs are needed to repair mistakes that can happen in DNA when cells divide. If the mistakes are not repaired, the cell will usually die and be replaced. Cells with mistakes in their DNA (like cells with BRCA1 and BRCA2 gene mutations) that do not die can become cancer cells.
+Clinical trials have shown that the use of talazoparib, as well as other PARP inhibitors, may reduce tumor size and slow tumor growth in patients with certain types of cancer with BRCA1 or BRCA2 mutations. Talazoparib is given in a capsule and is taken by mouth once daily at around the same time every day.

@@ -1,0 +1,26 @@
+Clinical Study Results
+1. Study Name
+What does this summary cover?
+This summary shows the main results from one clinical study. The results are only for
+this study. Other studies may find different results. Researchers and health authorities
+look at the results of many studies to decide which medicines work best and are safest
+for patients.
+Title of the Study: A Randomized, Double-Blind, Phase 3 Study of ABP 501
+Efficacy and Safety Compared to Adalimumab in Subjects
+with Moderate to Severe Rheumatoid Arthritis
+Brief Title: How Did ABP 501 Compare to Adalimumab in Improving
+Symptoms of Rheumatoid Arthritis? devorppA
+Protocol Number: 20120262
+EU Trial Number: 2013-000525-31
+Other Identifiers NCT01970475
+(ClinicalTrials.gov):
+Date of This Summary: 08 October 2018
+2. Who Sponsored This Study?
+Amgen Inc.
+One Amgen Center Drive
+Thousand Oaks, CA 91320-1799 USA
+Phone (United States): +1 805-447-1000
+Amgen Inc. is the sponsor of the study and manufactured ABP 501, the investigational
+medicine in this study. Amgen would like to thank everyone who participated in this
+study and feels it is important to share the results of this study.
+1

@@ -1,0 +1,18 @@
+Plain Title: Antipsychotics for Agitation and Psychosis in Dementia: Benefits and Risks 
+
+Rationale: 
+Antipsychotics are commonly used to treat agitation and psychosis in people with Alzheimer's disease and vascular dementia. However, it is unclear whether these medications are actually beneficial. Some studies have shown negative results and the potential harms may outweigh the benefits. This study aims to assess the efficacy and safety of antipsychotics in treating agitation and psychosis in patients with dementia.
+
+Trial Design: 
+This study involved a systematic search of various databases to find relevant trials. The researchers included randomized, placebo-controlled trials that compared the effects of antipsychotics and placebo in treating agitation or psychosis in patients with dementia. The trials included people with different types and severity of dementia, regardless of age. The study lasted for a certain period of time, but the exact duration was not mentioned.
+
+Results:
+After reviewing the full text of 35 studies, 24 trials met the eligibility criteria and were included in the analysis. Some trials tested typical antipsychotics (such as haloperidol) while others tested atypical antipsychotics (such as risperidone or olanzapine). The studies included a total of 6090 participants with Alzheimer's disease, vascular dementia, or mixed dementia. 
+
+For typical antipsychotics, the evidence is uncertain regarding their effect on agitation compared to placebo. However, they may have a slight improvement in treating psychosis. These drugs are also associated with an increased risk of somnolence (sleepiness) and extrapyramidal symptoms (movement side effects).
+
+On the other hand, atypical antipsychotics probably have a slight reduction in agitation, but their effect on psychosis is negligible. These medications also increase the risk of somnolence, extrapyramidal symptoms, serious adverse events, and death.
+
+Overall, the results indicate that both types of antipsychotics may have some benefits in reducing symptoms of agitation, but they also come with potential risks. It's important to consider the individual's specific situation and discuss the use of antipsychotics openly with the patient and their legal representative.
+
+In conclusion, antipsychotics can provide slight relief for agitation and psychosis in dementia patients, but their effects on psychosis are limited. However, these drugs also carry risks of somnolence and other adverse events. It's crucial to have an open discussion with the patient and their representative when considering the use of antipsychotics for sedation in severe and dangerous cases.

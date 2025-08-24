@@ -1,0 +1,22 @@
+Plain Title: Effectiveness and Safety of Vitamin D Supplementation for COVID-19 Treatment: A Review
+
+Rationale: 
+COVID-19 has been a significant concern worldwide, and there has been a lot of discussion about whether vitamin D supplements can help in its treatment. We need to understand the existing evidence on the effectiveness and safety of vitamin D supplementation for COVID-19 based on well-conducted studies.
+
+Trial Design: 
+To examine the effectiveness and safety of vitamin D supplementation, we conducted a review of randomized controlled trials (RCTs). We included studies that assessed the use of vitamin D supplements in people with COVID-19, regardless of their age, gender, severity of the disease, or ethnicity. We searched various databases to identify all relevant studies up until March 11, 2021.
+
+Results: 
+We found three RCTs involving a total of 356 participants, out of which 183 received vitamin D supplementation. Two studies included participants with moderate to severe disease, while one study focused on individuals with mild or no symptoms. The control groups either received a placebo or standard care without any additional treatment.
+
+The effectiveness of vitamin D supplementation for people with moderate to severe COVID-19 varied across the two studies. Both studies used different dosing strategies and had different participant characteristics. We couldn't combine the data from these studies due to their differences. One study showed a lower risk of all-cause mortality at hospital discharge for those receiving vitamin D supplementation, while the other study did not show a significant difference.
+
+Regarding clinical status, one study found that vitamin D supplementation may decrease the need for invasive mechanical ventilation. However, the evidence for this is not strong.
+
+Unfortunately, we couldn't find any data on the impact of vitamin D supplementation on the quality of life of COVID-19 patients.
+
+Regarding safety, there was limited information available. One study reported vomiting as a potential adverse event, but it was only observed in one participant out of 119. We are uncertain whether vitamin D supplementation is associated with a higher risk of adverse events.
+
+In conclusion, there is currently not enough evidence to determine the benefits and harms of vitamin D supplementation for COVID-19 treatment. The available evidence on the effectiveness of vitamin D supplementation is uncertain, and there are concerns about the consistency of safety measurement and reporting in the included studies.
+
+To address these uncertainties, we recommend conducting well-designed and sufficiently powered RCTs. These studies should have a strong randomization procedure, ensure comparability between study groups, and preferably include double-blinding. We have identified ongoing and completed studies that will contribute to the field, and we will periodically update our review as new evidence becomes available.

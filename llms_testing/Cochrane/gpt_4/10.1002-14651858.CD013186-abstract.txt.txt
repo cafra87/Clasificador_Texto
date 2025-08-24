@@ -1,0 +1,13 @@
+1. Plain Title
+Understanding How Computers Help in Detecting Skin Cancer
+
+2. Rationale
+Skin cancer is a serious health condition that turns deadly if not spotted early. There are different types of skin cancer, some, like Melanoma and squamous cell carcinoma, can spread to other body parts and cause death. Basal cell carcinoma is another type that does not usually spread but harms the surrounding tissue. It's very important to detect these types of skin cancers as early as possible so appropriate treatment can be given. However, sometimes harmless skin conditions might be mistaken for cancer, leading to unnecessary treatments. This research looked at how computers, with the help of artificial intelligence, can identify skin cancer accurately and help doctors decide which cases are serious enough to require further testing or treatment.
+
+3. Trial Design
+Our study compared computer-aided detection (CAD) systems with dermoscopy, a method used by doctors to detect skin cancer. We gathered data from several related studies, which included adults who had skin lesions suspected to be melanoma, basal cell, or squamous cell carcinomas. We used various databases and studied published articles to gather our data. In the results, we looked at all data from the CAD systems and some from studies providing paired data for both tests. We also looked at how human decision making affected the accuracy of CAD.
+
+4. Results
+We studied data from 42 different studies. Some studies used digital images to study the skin lesions while others used light-based methods. We found that the CAD systems were capable of correctly identifying cases of melanoma and other skin conditions in selected group of participants, but had some trouble distinguishing between cancerous and benign lesions. For example, if we used these systems on 1000 suspected skin lesions, where 20% are real cases of melanoma, digital dermoscopy-based CAD would miss 20 real cases and wrongly identify 206 harmless conditions as melanoma. The best system missed 14 real cases and wrongly identified 451 harmless conditions as melanoma.
+
+Our results suggest that CAD systems could be as good as dermoscopy for diagnosing invasive melanoma and atypical intraepidermal melanocytic variants. But more research is necessary to understand how CAD systems can help in detecting other types of skin cancer and how it can be used in regular patient care. So far, the studies we have used in our research had carefully selected groups of patients, and we still need more data to know how these systems would perform under different circumstances and settings.

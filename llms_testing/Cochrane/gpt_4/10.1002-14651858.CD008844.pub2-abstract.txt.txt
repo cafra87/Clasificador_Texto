@@ -1,0 +1,21 @@
+1. Plain Title
+Enquiring the Effect of a Particular Therapy on Heart Attack Patients.
+
+2. Rationale
+A heart attack, or Acute Myocardial Infarction (AMI), is the most common cause of death in developed countries. In a heart attack, part of the heart muscle gets damaged and dies due to lack of blood supply. Current treatments have not been able to repair this dead heart muscle. Thus, there's a need for new methods of treatment.
+
+Some special cells in our body, known as stem cells, might help repair the damaged heart muscle. These stem cells come from a part of our body known as the bone marrow. Certain factors, like the granulocyte colony stimulating factor (G‐CSF), can help these cells move from the bone marrow to the damaged part of the heart muscle. The main aim of the study was to test the effects of using G‐CSF to help stem cells move to the damaged heart muscle in people with heart attacks.
+
+3. Trial Design
+To find out more about this treatment, various studies were examined through several databases. Only studies where patients diagnosed with heart attacks were randomly chosen to receive G-CSF or placebo were included in the analysis. Placebo is a substance with no medical effect, given instead of the actual drug. This helps to determine the real effect of the drug being tested. 
+
+The amount of G-CSF given varied amongst studies, ranging from 2.5 to 10 microgram per kilogram of the patient's weight, given for four to six days. The age or health condition of the patients apart from the heart attack wasn't considered for selecting the studies. 
+
+4. Results
+The analysis included 7 trials with 354 heart attack patients. There was no difference in the death rate between patients who received G‐CSF and those who received a placebo. 
+
+The treatment also showed no clear beneficial effect, like improvement in heart function, for heart attack patients. As for safety, not enough data was available to conclude whether the G‐CSF therapy is safe or not. 
+
+One drawback of these trials was that they didn't have long enough follow-up durations to study the long-term effects of the therapy. 
+
+In conclusion, while the study sought to test the effect of using G‐CSF therapy to treat heart attack patients, the examined evidence could not prove any positive effect of G-CSF therapy. To make sure, larger trials in the future might be needed. These should have proper methods to limit bias and must monitor the patients for a long enough time for meaningful results.

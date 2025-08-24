@@ -1,0 +1,28 @@
+Clinical Trial RESULTS
+Total amount of study drugs in participants’ blood
+Researchers compared the average total amounts of lesinurad and allopurinol
+in the blood of participants after taking the combined tablet (Dose A) to the
+total amounts after taking separate tablets (Dose B). Researchers measured the
+amounts of lesinurad and allopurinol that stayed in participants’ blood over
+time in microgram hours per milliliter, or μg·hr/mL. This is a widely accepted
+scientific unit of measurement.
+The picture below shows the results for Doses A and B.
+Average total amount of study drugs in the blood by dose
+Dose A Dose B
+35 33.3 33.0
+30
+25 Lm/rh.gμ
+20
+15
+10
+Dose A Dose B
+5 3.6 3.5
+0
+Lesinurad Allopurinol
+Highest level of study drugs in participants’ blood
+Researchers compared the average highest levels of lesinurad and allopurinol in
+participants’ blood after they took the combined tablet (Dose A) to the average
+highest levels after they took separate tablets (Dose B). Researchers measured
+these levels in micrograms per milliliter, or μg/mL. The picture below shows
+the results for Doses A and B.
+5

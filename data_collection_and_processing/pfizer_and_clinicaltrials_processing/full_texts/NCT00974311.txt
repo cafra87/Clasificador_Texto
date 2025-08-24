@@ -1,0 +1,201 @@
+1CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+differ ent than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine (s) Studied: Enzalutamide/PF -04998299 (formerly MDV3100)
+Protocol Number: C34310 10 (CRPC2)
+Dates of Trial: 30September 20 09to 02November 2017
+Title of this Trial: Safety and Efficacy Study of MDV3100 in Patients With 
+Castration -Resistant Prostate Cancer Who Have Been 
+Previously Treated With Docetaxel -based Chemotherapy 
+(AFFIRM)
+[AFFIRM: A Multinational Phase 3, Randomized,
+Double -Blind, Placebo -Controlled Efficacy and Safety
+Study of Oral MDV3100 in Patients With Progressive
+Castration -Resistant Prostate Cancer Previously Treated With 
+Docetaxel -Based Chemotherapy ]
+Date of this Report: 16April 2020
+–Thank You –
+Pfizer, t he Sponsor ,would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated. If you 
+have any questions about the study or results ,please contact the doctor or staff at 
+your study site .
+090177e193431851\Approved\Approved On: 17-Apr-2020 08:09 (GMT)
+2WHY WAS THIS STUDY DONE?
+Prostate cancer is the name for ca ncer that starts in the prostate, which is a small, 
+walnut -sized gland that lies at the base of the bladder in men and is part of the male 
+reproductive system.
+Enzalutamide is a prescription medicine that is approved to treat men with prostate 
+cancer that no longer responds to a medical or surgical treatment that lowers 
+testosterone .  Enzalutamide work sby interfering with the connections between 
+androgens (a type of hormone that plays a role in male traits and reproductivity ) and 
+androgen receptors (a protein in the body that attaches to androgens).  This may help 
+to slow the growth of prostate cancer.
+The main goal of this study was to learn more about the use of enzalutami de in 
+patients with prosta te cancer that was spreading to other parts of the body, despite 
+receiving chemotherapy and treatment to block androgens. Chemotherapy is a type 
+of medicine used to destroy cancer cells. Researchers wanted to answer th is researc h 
+question:
+How long did patients survive after receiving enzalutamide ,compared to 
+placebo ?
+WHAT HAPPENED DURING THE STUDY?
+This study compared 2 groups of patients to find out how long patients would survive
+after receiving enzalutamide ,compared to plac ebo.  A placebo does not have any 
+active medicine in it, but looks just like the medicine. The study included patients who 
+had prostate cancer that was spreading to other parts of the body, despite receiving 
+1or 2 prior chemotherapy regimens, including at least 1 regimen with a chemotherapy 
+medicine called docetaxel.  These patients were also receiving treatment to block 
+androgens.  
+Patients in this study were assigned to receive either enzalutamide or placebo.  The 
+patients and researchers did not know who took enzalutamide and who took the 
+placebo.  This is known as a “blinded” study.  Patients were assigned to each 
+treatment group by chance alone.  This is known as a “randomized” study.  Putting 
+090177e193431851\Approved\Approved On: 17-Apr-2020 08:09 (GMT)
+3people into groups by chance helps make the groups more similar so they can be 
+compared. 
+First, patients were checked by a study doctor to make sure they met the requirements 
+to join the study.  This was called the screening period.
+During the treatment period, patients received the following treatments:
+Grou p 1: 8 00patients received enzalutamide at a dose of 160 milligrams, taken 
+by mouth each day
+Group 2: 399patients received placebo, taken by mouth each day
+During the treatment period, p atients came to study visits every 4 weeks for the first 
+49 weeks, then every 12 weeks thereafter.   At the study visits, imaging tests were done 
+and patients were checked by study doctors to determine if p rostate cancer was 
+getting worse (known as prostate cancer “progression”) .  Patients were also asked 
+about any medical problems they were having.
+Patients came to a follow -up visit 30days after their last dose of enzalutamide or 
+placebo (after prostate cancer progression ).Next, patients who were receiving 
+placebo had the option to enter the “open -label extension” part of the study.   During 
+this part of the study, all patients received enzalutamide and were followed -up every 
+12 weeks.   “Open -label” means that the patients and researchers knew which 
+medicine the patients were taking.
+The figure on the following page shows what happened during this study.
+090177e193431851\Approved\Approved On: 17-Apr-2020 08:09 (GMT)
+4The amount of time that patients were in the study varied , but the entire study took
+more than 8 years to complete , including both the main part of the study and the 
+open -label extension part of the study .  The spon sor ran this study at 156locations in 
+15countries in Africa, Australia, Europe, North America , and South America .It 
+began 30September 20 09and ended 02November 2017.  1,199men joined the study 
+and received study treatment .  All patients were between the ages of 41and 9 2years . 
+Patients were to continue receiving study treatment until it was confirmed that their 
+prostate cancer had gotten worse, and they were scheduled to begin taking another 
+treatment for prostate cancer .Of the 1,199patients who started the study,
+250patients (2 1%) were still receiving study treatment when the main part of the 
+090177e193431851\Approved\Approved On: 17-Apr-2020 08:09 (GMT)
+5study ended in September 201 1.  949patients (7 9%) stopped taking study treatment 
+by their choice , because a doctor decided it was best for a patient to stop the study , 
+because they had a medical problem, because prostate cancer got worse ,or because 
+they passed away .  A total of 109 patients from the enzalutamide group and
+50patients from the placebo group entered the open -label extension part of the stu dy.
+When the study ended in November 2017 , the Sponsor began reviewing the
+infor mation collected.  The Sponsor then cr eated a report of the results. This is a 
+summary of that report.
+WHAT WERE THE RESULTS OF THE STUDY?
+How  long did patients survive after receiving enzalutamide ,
+compared to placebo ?
+To answer this question, the researchers looked at data gathered from the beginning 
+of the study until the main part of the study ended in September 2011.  They looked 
+at the median length of time that p atients survived after receiving enzalutamide.  A 
+“median” is the middle number in a group of numbers. So, researchers looked at the 
+length of time that each patient survived, in order from highest to lowest.  The 
+median is the middle number, and patients would have the same chance of surviving a 
+longer time or a shorter time than this number.
+During this time, the median length of time that patients survived after receiving 
+enzalutamide was 18.4 months, while the median length of time that patient s survived 
+after receiving placebo was13.6months . 
+The researchers have de termined that these results are clinically meaningful, and not 
+likely based o n chance.  The figure on the following page shows th esestudy result s.
+090177e193431851\Approved\Approved On: 17-Apr-2020 08:09 (GMT)
+6This does not mean that everyone in this study had these results . Other studies may 
+produce different results , as well .  These are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this 
+summary.  
+WHAT MEDICAL PROBLEMS DID PATIENTS
+HAVE DURING THE STUDY ?
+The researchers recorded any medical problems the participant shad during the study. 
+Participant s could have had medical problems for reasons not related to the study (for 
+example, caused by an unde rlying disease or by chance). Or, medical problems could 
+also have been caused by a study treatment, or by another medicine the participan t
+was taking. Sometimes the cause of a medical problem is unknown. By comparing 
+medical problems across many treatm ent groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be.
+1,179out of 1,199patients (9 8%) had at least 1 medical problem .A total of
+222patients (19%) stopped taking study treatment because of medical problems.  Out 
+of the 50 patient swho took placebo during the main part of the study and switched to 
+enzalutamide during the open -label extension part of the study, 48 patients (96%) had 
+090177e193431851\Approved\Approved On: 17-Apr-2020 08:09 (GMT)
+7at least 1 medical problem.  12 (24%) of these pa tients stopped taking study treatment 
+because of medical problems.  The most common medical problems are listed below. 
+Most Common Medical Problems
+(Reported by More Than 10% of Patients)
+Medical ProblemEnzalutamide
+(800 Patients 
+treated)Placebo
+(399 Patients 
+treated)Placebo During 
+Main Study/ 
+Enzalutamide 
+During Open -
+Label Extensio n
+(50 Patients 
+treated)
+Feeling tired 281 (35%) 117 (29%) 15 (30%)
+Nausea 278 (35%) 167 (42%) 16 (32%)
+Low appetite 246 (31%) 121 (3 0%) 9 (18%)
+Back pain 229 (29%) 96 (24%) 9 (18%)
+Constipation 210 (26%) 111 (28%) 7 (14%)
+Joint pain 184 (23%) 71 (18%) 2 (4%)
+Diarrhea 184 (23%) 70 (18%) 9 (18%)
+Hot flush 165 (21%) 41 (10%) 1 (2%)
+Feeling weak 151 (19%) 68 (17%) 9 (18%)
+Vomiting 143 (18%) 88 (22%) 8 (16%)
+Pain in hands or feet 139 (17%) 63 (16%) 5 (10%)
+Low number of red 
+blood cells132 (1 7%) 76 (19%) 11 (22%)
+Swelling caused by 
+fluid build -up in 
+lower limbs121 (15%) 47 (12%) 4 (8%)
+Pain in muscles, 
+bones, and joints121 (15%) 40 (10%) 3 (6%)
+090177e193431851\Approved\Approved On: 17-Apr-2020 08:09 (GMT)
+8Bone pain 110 (14%) 63 (16%) 2 (4%)
+Weight loss 108 (14%) 42 (11%) 7 (14%)
+Headache 101 (13%) 22 (6%) 1 (2%)
+Trouble breathing 89 (11%) 40 (10%) 6 (12%)
+Pain or numbness 
+caused by pressure 
+on spinal cord59 (7%) 18 (5%) 5 (10%)
+Anxiety 55 (7%) 16 (4%) 6 (12%)
+Fall 44 (6%) 5 (1%) 6 (12%)
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems .  
+During the main part of the study, 474 out of 1,199 patients ( 40%) had serious 
+medical problems , including 319patients (4 0%) in the enzalutamide group, and 
+155patients (39%) in the placebo group .  Out of the 50 patients who took placebo 
+during the main part of the study and switched to enzalutamide during the open -label
+extension part of the study, 25 patients (50%) had serious medical problems after 
+switching .
+899patients (75%) died during the main part of the study.  Out of the 50 patients 
+who took placebo during the main part of the study and switched to enzalutamide
+during the open -label extension part of the study, 21 patients (42 %) died after 
+switching .  Most of these deaths were due to prostate cancer progression .  
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+090177e193431851\Approved\Approved On: 17-Apr-2020 08:09 (GMT)
+9The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT00974311
+www.clinicaltrialsregister.eu Use the study identifier 2009 -013174 -41
+Please remember that researchers look at the results of many studies to fi nd out which 
+medicines can work and are safe for patients.   Additional studies with enzalutamide 
+are ongoing.
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that !
+090177e193431851\Approved\Approved On: 17-Apr-2020 08:09 (GMT)

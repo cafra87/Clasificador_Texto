@@ -1,0 +1,24 @@
+Plain Title: Using Mobile Devices for Better Maternal and Child Health
+
+Rationale:
+Maternal, neonatal, and child health (MNCH) is a major global concern, accounting for a significant loss of healthy years of life. Researchers wanted to see if using mobile devices to provide targeted client communication (TCCMD) could help improve MNCH. Their goal was to assess the effects of TCCMD on health behaviors, service use, and overall health and well-being for women during pregnancy and postpartum, as well as for parents of children under five years old. This study was needed to determine if TCCMD could be a valuable tool in treating MNCH.
+
+Trial Design:
+The researchers conducted a systematic search of multiple databases and trial registries to find relevant studies. They included randomized controlled trials that examined the use of TCCMD in improving MNCH behaviors, service use, and health outcomes. The trials involved pregnant and postpartum women from low, middle, and high-income countries, as well as parents of children under five years old. The interventions tested in the trials included text messages, voice calls, multimedia messages, and combinations of different communication channels. The researchers used standard procedures to analyze the data, including assessing the risk of bias.
+
+Results:
+After analyzing 27 trials involving over 17,000 participants, the researchers found the following results:
+
+- For pregnant and postpartum women, TCCMD had the potential to increase exclusive breastfeeding in settings where it was less common. It also showed possible increases in antenatal appointment attendance and skilled attendants at birth in settings where these were lacking. However, the effects on maternal and neonatal mortality and morbidity were uncertain.
+
+- When comparing TCCMD to non-digital targeted client communication, it had little to no effect on exclusive breastfeeding but may have reduced maternal and newborn health problems within the first 10 days postpartum.
+
+- TCCMD compared to digital non-targeted communication had uncertain effects on the presence of skilled attendants at birth and antenatal influenza vaccination attendance.
+
+- For pregnant and postpartum women living with HIV, TCCMD showed little to no difference in adherence to antiretroviral therapy. However, TCCMD reminders via mobile phones may slightly increase the use of antenatal care. The effects on neonatal death, stillbirth, and infant HIV were uncertain.
+
+- Among parents of children under five years old, TCCMD may modestly increase health service use, specifically for vaccinations and HIV care. However, its effects on oral hygiene practices were uncertain.
+
+The researchers concluded that the effects of TCCMD on most outcomes were still uncertain. While some improvements were observed in certain areas, the findings were of low certainty. To fully understand the benefits and effects of TCCMD, more high-quality, well-powered trials and cost-effectiveness analyses are needed. Additionally, future studies should consider potential unintended consequences like partner violence and breaches of confidentiality. 
+
+The publication of this study was a significant step in understanding the potential benefits of using mobile devices for improving maternal and child health, but more research is still needed for a more definitive conclusion.

@@ -1,0 +1,22 @@
+Page 2 of 8
+Antiretroviral medicines treat HIV-1 infection by controlling the viral load. Researchers
+consider that antiretroviral medicines worked well if the patients’ viral load remained
+less than 50 copies per millilitre (c/mL).
+When this study started, people living with HIV-1 infection were being treated with
+three approved antiretroviral medicines. This was their current antiretroviral regimen
+(CAR). Researchers wanted to see how a combination of monthly cabotegravir (CAB)
+and rilpivirine (RPV) injections works in people living with HIV-1 infection compared
+with daily CAR tablets. They also assessed the safety of these medicines.
+Which medicines were studied?
+As shown in the figure below, on Day 1, patients were placed in one of the following
+two treatment groups by chance (randomisation):
+• CAB and RPV group: Patients received daily CAB and RPV tablets for four weeks.
+Then they received monthly CAB and RPV injections.
+• CAR group: Patients continued taking their daily CAR tablets for 52 weeks. Then
+they switched to monthly CAB and RPV injections.
+The patients and study doctors knew which treatment they received. This is called an
+open-label study.
+Study design
+After Week 52, patients could choose to move to another similar study. Patients who
+remained in this study after Week 96 continued receiving CAB and RPV until approved
+in their country.

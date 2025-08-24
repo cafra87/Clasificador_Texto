@@ -1,0 +1,2 @@
+Evaluating QTc, PK, Safety of Gemtuzumab Ozogamicin (GO) in Patients With CD33+ R/R AML
+This is a single-arm, open-label, Phase 4 study evaluating the effect of GO on the QTc, pharmacokinetics, safety, and immunogenicity of GO as a single-agent monotherapy in adult and pediatric patients with relapsed or refractory CD33-positive AML.

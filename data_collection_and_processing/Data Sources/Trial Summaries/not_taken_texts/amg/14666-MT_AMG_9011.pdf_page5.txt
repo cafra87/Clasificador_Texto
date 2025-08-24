@@ -1,0 +1,28 @@
+The numbers of participants in each country are listed below:
+Countries Where Participants Number of Participants
+were From (% of Total)
+(251 participants)
+ASIA 49 (20%)
+Japan 35 (14%)
+Republic of Korea 14 (6%)
+EASTERN EUROPE 101 (40%)
+Czech Republic 16 (6%)
+Estonia 10 (4%)
+Hungary 4 (2%)
+Latvia 12 (5%)
+Poland 41 (16%)
+Ukraine 18 (7%)
+NORTH AMERICA 59 (24%)
+Canada 23 (9%)
+United States 36 (14%)
+WESTERN EUROPE and AUSTRALIA 42 (17%)
+Australia 10 (4%)
+Germany 7 (3%)
+Spain 16 (6%)
+United Kingdom 9 (4%)
+Participants were examined by a study doctor and chosen to be in the study if they:
+were adults aged 18 years old to 75 years old; have a diagnosis of chronic AD for
+greater than or equal to 2 years prior to screening, had an inadequate response to
+topical treatments (lotions, ointments); had AD involved with greater than or equal to
+10% body; an IGA score of  3; and an EASI score of greater than or equal to 16.
+5

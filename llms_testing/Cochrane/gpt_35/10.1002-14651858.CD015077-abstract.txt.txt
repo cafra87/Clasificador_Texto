@@ -1,0 +1,13 @@
+Plain Title: Benefits of Spontaneous Breathing in COVID-19 Patients with Severe Lung Disease
+
+Rationale: 
+COVID-19 can cause a severe lung condition called acute respiratory distress syndrome (ARDS), which often requires patients to be treated in intensive care units (ICUs) and has high mortality rates. There is limited evidence on the best way to manage ARDS caused by COVID-19. One potential strategy is to allow patients to breathe spontaneously while receiving mechanical ventilation. This approach may have advantages, such as preserving lung function and improving the ratio of oxygen and blood flow in the lungs. However, there are also risks, such as worsening lung damage. It is important to determine if allowing patients to breathe spontaneously is beneficial or harmful in order to guide treatment decisions.
+
+Trial Design:
+This study aimed to assess the benefits and harms of early spontaneous breathing in COVID-19 patients with ARDS who require mechanical ventilation. We searched various databases to identify relevant studies, including randomized controlled trials (RCTs) and other study designs. The prioritized outcomes included overall survival, clinical improvement or worsening, quality of life, adverse events, and the occurrence of pneumothorax (collapsed lung). We planned to conduct comprehensive data analysis and assess the certainty of the evidence.
+
+Results:
+Unfortunately, we did not find any eligible studies that met our criteria for this review. Therefore, we could not determine the direct benefits or harms of allowing spontaneous breathing in COVID-19 patients with severe lung disease.
+
+Conclusions:
+Based on the available evidence, we cannot conclude whether early spontaneous breathing is beneficial or harmful for COVID-19 patients with ARDS. More research is needed, particularly randomized controlled trials that compare spontaneous breathing with other ventilation strategies. These studies should also investigate if the effects of treatment differ between patients with COVID-19-induced ARDS and those with ARDS from other causes. This information will help guide the treatment of severely ill COVID-19 patients and improve their outcomes.

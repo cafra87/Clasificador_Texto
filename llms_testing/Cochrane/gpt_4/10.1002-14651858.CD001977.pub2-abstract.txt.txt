@@ -1,0 +1,17 @@
+1. Plain Title: 
+Does Acupuncture Help with Joint Pain from Osteoarthritis?
+
+2. Rationale: 
+Osteoarthritis is a common disease that affects joints like the knee, hip, or hand, causing pain and difficulty in moving. To find a safe and effective treatment for this condition, we decided to test acupuncture. This traditional treatment uses thin needles to stimulate specific body points, which may help reduce pain and improve function. We believed acupuncture could be beneficial for osteoarthritis and wanted to test this in a scientific way.
+
+3. Trial Design: 
+We conducted an experiment involving nearly 3500 people. All of them had osteoarthritis in the knee, hip, or hand. The experiment was designed so that some people got acupuncture, whilst others had a pretend treatment (sham), another treatment type, or were put on a waiting list. We reached out to the authors of the study to gather as much information as we could. After the treatment, we compared the health of those who got acupuncture with the others. We focused on how much their pain improved and how well they could move.
+
+4. Results: 
+The results were mixed. When we compared acupuncture to the sham treatment, we found that acupuncture did help with pain and movement in the short term. However, these improvements did not meet our standards for a significant impact. When we looked closely, we found that the effect of acupuncture got smaller when the sham treatment was more like real acupuncture, suggesting some improvements could be due to placebo effect (thinking that you're being treated can sometimes make you feel better). 
+
+After six months though, the benefits of acupuncture over sham were barely noticeable and not significant. However, when we compared acupuncture to a waiting list (with no treatment), acupuncture showed much more significant improvements in pain and function. Also, when compared with education about arthritis or doctor's consultation, acupuncture showed real short and long-term benefits. But if compared to exercise or advice leaflet, no extra benefits are found. 
+
+We noticed that only eight studies reported on the safety of acupuncture, and even these had different ways of measuring it. 
+
+In conclusion, while our study did show some benefits of acupuncture for osteoarthritis, these benefits were small and may mostly be due to the placebo effect. Acupuncture does seem to provide significant benefits compared to no treatment, but it may not be better than other treatments like exercise. More studies are required to be absolutely sure and to look into acupuncture's safety.

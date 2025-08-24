@@ -1,0 +1,33 @@
+Symptoms were scored once in the morning (before using the nasal spray) and once in
+the evening (12 hours after using the nasal spray) as:
+• None (0).
+• Mild (1).
+• Moderate (2).
+• Severe (3)
+The total nasal symptom score is the combined score of the above four symptoms, with
+a maximum score of 12. An average of the morning and evening scores was calculated
+for each patient. This was called the daily reflective total nasal symptom score (rTNSS).
+The graph below presents the average daily rTNSS calculated at the start of the study
+(baseline) and over the first two weeks of treatment.
+Average daily rTNSS at baseline and over the first two
+weeks of treatment
+10
+8
+8.5 8.4 8.3
+SSNTr
+6
+6.5
+4 5.2 5.1 yliaD
+2
+0
+Placebo FFNS 55 µg FFNS 110 µg
+120 children 119 children 119 children
+Treatment Group
+Baseline daily rTNSS Over the first two weeks of treatment
+A decrease in daily rTNSS means an improvement in nasal symptoms. Over the first two
+weeks of treatment, study doctors observed a decrease in average daily rTNSS in all the
+three treatment groups. In the placebo group, the average daily rTNSS decreased by
+two. The average daily rTNSS decreased by 3.2 in both FFNS groups. This decrease in
+both FFNS groups was statistically significant compared to the children who received
+placebo. Statistically significant means that the difference was not likely due to chance
+alone.

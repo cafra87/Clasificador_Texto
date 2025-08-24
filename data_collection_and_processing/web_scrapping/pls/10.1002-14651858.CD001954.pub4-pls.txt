@@ -1,0 +1,7 @@
+Azithromycin for acute lower respiratory tract infections
+Review question  We conducted this review to compare azithromycin with amoxycillin or amoxyclav in treating acute lower respiratory tract infections (LRTI). 
+Background  Acute lower respiratory tract infections (LRTI) are one of the most common diagnoses in outpatient settings. They range from acute bronchitis and acute exacerbations of chronic bronchitis to pneumonia. Azithromycin is a subclass of macrolide antibiotics and is used to treat certain bacterial infections. 
+Search date  We searched for trials published and pending as at November 2014. 
+Study characteristics  Randomised controlled trials (RCTs) and quasi‐RCTs, comparing azithromycin to amoxycillin or amoxycillin/clavulanic acid in participants with clinical evidence of an acute LRTI, such as acute bronchitis, pneumonia and acute exacerbation of chronic bronchitis. 
+Key results  We analysed the results from 15 trials with 2496 participants. The effects of azithromycin on cure, improvement or failure were not better than those of amoxycillin or amoxyclav. However, azithromycin seems to have a lower incidence of adverse events than amoxycillin or amoxyclav but it is not significant. 
+Quality of evidence  Overall the quality of the evidence for the main outcome is low as only three of 15 included trials showed adequate allocation concealment. Hence, currently, there is insufficient evidence to show conclusively that azithromycin is superior to amoxycillin or amoxyclav in treating acute LRTI. 

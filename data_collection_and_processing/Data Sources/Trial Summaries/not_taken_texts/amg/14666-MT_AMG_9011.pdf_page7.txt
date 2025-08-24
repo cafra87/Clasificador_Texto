@@ -1,0 +1,15 @@
+Study Design
+Neither the participants nor the study doctor could choose the treatment the
+participants received. Participants agreed to be put into a treatment group by
+chance (randomized). This is like flipping a coin or drawing numbers out of a hat.
+Neither the participants nor the doctors knew which treatment each participant was
+given (double-blinded) until after the study was over. This was done to make sure
+the study results were not influenced in any way.
+Part A of the study consisted of:
+ 28-day screening period; participants stopped all AD treatment except for
+moisturizers or lotions for at least 7 days before the first day of the study
+ 52-week treatment period; all participants received a 420 mg SC dose
+(tezepelumab or placebo) as the first dose and then received their assigned dose
+starting at the week 2 visit
+ 20-week safety follow-up period
+7

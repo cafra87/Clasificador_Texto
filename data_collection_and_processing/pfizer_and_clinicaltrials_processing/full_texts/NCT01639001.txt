@@ -1,0 +1,227 @@
+CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Crizotinib ( XALKORI®)
+Protocol Number: A8081029
+Dates of Trial: 29 September 2012 to 08 January 2020
+Title of this Trial: A Study Of Crizotinib Versus Chemotherapy In Previously 
+Untreated ALK Positive East Asian Non -Small Cell Lung 
+Cancer Patients
+[Phase 3, Randomized, Open -Label Study of the Efficacy and 
+Safety of Crizotinib Versus Pemetrexed/Cisplatin or 
+Pemetrexed/Carboplatin in Previously Untreated East Asian 
+Patients With Non -Squamous Carcinoma of the Lung 
+Harboring aTranslocation or Inversion Event Involving the 
+Anaplastic Lymphoma Ki nase (A LK) Gene Locus]
+Date (s)of this Report: 12 January 2021
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated. If you 
+have any questions about the study or results ,please contact the doctor or staff at 
+your study site.
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)
+2WHY WAS THIS STUDY DONE?
+Non-small -cell lung cancer (NSCLC) is the most common type of lung cancer. In 
+some patients with NSCLC, their cancer ce lls have changes in their DNA (genes) 
+where 2 genes combine to create a new gene.  W hen this happens with the gene that 
+makes the protein “ALK ”, the new gene is called an “ALK gene fusion”.  This ALK
+gene fusion can cause tumors to form or can help existin g cancer cells grow faster.   
+Researchers are looking for better treatments for patients with NSCLC whose cancer 
+cells have an ALK gene fusion .
+Crizotinib (also known as X ALKORI®) is a drug that is now approved for use in 
+many countries including East Asian countries to treat NSCLC with ALK gene 
+fusions.  Crizotinib works by blocking the activity of ALK, which is thought to slow 
+or stop the growth of cancer cells with an ALK gene fusion .  This study compared 
+crizotinib treatment to “platinum -based chemotherapy”, which is a medicine 
+combination that was used as a first -line treatment for patients with NSCLC. 
+Platinum -based chemotherapy is made up of the combination of the drug pemetrexed 
+with either cisplatin or carboplatin .
+The main purpose of thi s study was to see whether crizotinib treatment would keep 
+patients’ cancer from growing for a longer period of time compared to patients 
+treated with platinum -based chemotherapy.  To do this the researchers asked,
+Do patients treated with crizotinib have more time before their cancer 
+begins to grow, or before they pass away from any cause, compared to 
+patients treated with platinum -based chemotherapy?
+The researchers measured the “ progression -free survival time” which was defined as 
+the time between starti ng the study and the patients’ NSCLC getting worse, or the 
+patient passing away from any cause (such as from disease or an accident) .  The 
+researchers then calculated the “ median ”progression -free survival time, which was 
+the time point where half (50%) of the patients in astudy group had their NSCLC 
+start to grow , or had passed away from any cause.
+Researchers were also interested in learning more about the safety of crizotinib.  They 
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)
+3monitored the patients for any m edical problems that happened while they were 
+taking crizotinib or after they stopped taking crizotinib.
+WHAT HAPPENED DURING THE STUDY?
+This study compared 2 groups of patients to find out if patients treated with crizotinib 
+would have more time before their cancer began to grow, or before they passed away 
+from any cause, compared to patients treated with platinum -based chemotherapy .  
+The study included men and women who were 18 to 70 years of age who met the 
+following criteria:
+Diagnosed with NSCLC that also had the following:
+Positive test for ALK fusion gene ;
+Locally advanced NSCLC and not suitable for local treatment, OR
+Metastatic NSCLC (cancer had spread outside of the lungs) ;
+Had not been treated for their NSCLC before using “systemic” medicines 
+(taken by mouth or intravenously) ;
+Had not been treated before with medicines that block ALK activity ;
+Had any major surgeries completed at least 4 weeks before entering the study;
+Had any radiation procedures completed at least 2 week s before entering the 
+study, and had mostly recovered from radiation side effects;
+Were able to at least walk around and care for themselves, and were out of bed 
+at least 50% of the day.
+The patients were assigned to either take 250mg of crizo tinib twice daily by mouth , 
+or to receive platinum -based chemotherapy .  If the patient was assigned to receive 
+platinum -based chemo therapy, they received standard doses of pemetrexed and either 
+cisplatin or carboplatin, with the patient’s doctor deciding whether cisp latin or 
+carboplatin was best for the patient.  The patients were assigned to either group by 
+chance alone.  This is known as a “randomized” study.  This is done to reduce the 
+differences between groups (like age or the number of men and women), which 
+make s the groups more even to compare.  Patients who were assigned to receive 
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)
+4platinum -based chemotherapy and had their NSCLC get worse were allowed to 
+switch, or ‘cross over’, into the crizotinib treatment group.
+The diagram below shows what happened during t he study.
+While patients taking crizotinib were treated for an average of 106 weeks , the entire 
+study took over 7 years to complete.  The Sponsor ran this study at 35locations in 
+5countries in East Asia .  It began 29 September 2012 and ended 08 January 2020.  A 
+total of 114 women and 93 men participated.  All patients were between the ages of 
+23and 69. 
+Patients were to be treated until their NSCLC got worse, they had too many medical 
+problems or couldn’t tolerate the medicines, their overall health de clined, or they 
+passed away . Of the 205patients who started treatment in the study, 55finished the 
+study .  A total of 123 patients passed away before the study was completed, and 
+3patients did not finish the study because of other reasons. Twenty one (21)patients 
+left before the study was over by their choice or a doctor decided it was best for a 
+patient to stop being in the study. In addition, 3patient swerelost to follow -up.
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)
+5When the study ended in January 2020 , the Sponsor reviewed the informat ion 
+collected.  The Sponsor then created a report of the results. This is a summary of that 
+report.
+WHAT WERE THE RESULTS OF THE STUDY?
+Did patients treated with crizotinib have m ore time before their 
+cancer began to grow, or before they passed away from any cause, 
+compared to patients treated with platinum -based chem otherapy?
+This study found that patients treated with crizotinib had more time before their 
+cancer began to grow, or before they passed away from any cause, compared to 
+patients treated with p latinum -based chemotherapy.  The patients treated with 
+crizotinib had a median time of 11months before their NSCLC began to grow or 
+they passed away from any cause.  In comparison, the patients treated with 
+platinum -based chemotherapy had a median time of7months before their NSCLC 
+began to grow or they passed away from any cause.
+Based on these results, the researchers have decided that the results are not likely the 
+result of chance.  Crizotinib may be an option for treating patients with NSCLC 
+whose cancer cells have an ALK gene fusion.  This does not mean that everyone in 
+this study had these results.  Other studies may produce different results, as well.  
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)
+6These are just some of the main findin gs of the study, and more information may be 
+available at the websites listed at the end of this summary.
+WHAT MEDICAL PROBLEMS DID 
+PARTICIPANTS HAVE DURING THE STUDY?
+The researchers recorded any medical problems the participants had during the study.
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance). Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking. Sometimes the cause of a medical problem is unknown. By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be.
+All but 1 patient in each treatment group in this study had at least 1 medical problem.  
+A total of 32 patients left the study because of medical problems.  The most common 
+medical problems are listed below.   
+Most Common Medical Problems
+(Reported by 5% or More of Patients , with 10% or More 
+Difference Between Treatment Groups )
+Medical ProblemCrizotinib
+(104 Patients Treated)Platinum -based 
+Chemotherapy
+(101Patients Treated)
+Increased liver enzymes 
+in blood73(70%) 48 (48 %)
+Diarrhea 63(61%) 9 (9%)
+Problems with eyesight 61(59%) 11 (11 %)
+Vomiting 61(59%) 46 (46 %)
+Low white blood cells 49 (47%) 67 (66%)
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)
+7(neutrophils)
+Low white blood cells 
+(leukocytes)47 (45%) 70 (69%)
+Constipation 37 (36%) 27 (27%)
+Fluid buildup in tissues 37 (36%) 8 (8%)
+Cough 36 (35%) 27 (27%)
+Infection of nose, sinuses, 
+or throat35 (34%) 15 (15%)
+Headache 29 (28%) 9 (9%)
+Dizziness 28 (27%) 11 (11%)
+Low appetite 27 (26%) 33 (33%)
+Blood protein levels 
+decreased (albumin)26 (25%) 16 (16%)
+Low red blood cells 23 (22%) 67 (66%)
+Leg pain 22 (21%) 6 (6%)
+Stomach pain 21 (20%) 8 (8%)
+Too little blood protein 
+(albumin)19 (18%) 8 (8%)
+Pain, numbness, or 
+tingling due to nerve 
+damage19 (18%) 6 (6%)
+Slow heartbeat 17 (16%) 0
+Increased blood enzymes 
+(LDH)15 (14%) 1 (1%)
+NSCLC got worse 15 (14%) 1 (1%)
+Increased blood enzymes 
+(CPK)14 (14%) 0
+Blood protein levels 14 (14%) 3 (3%)
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)
+8decreased (total)
+Low blood calcium 13 (13%) 4 (4%)
+Feeling tired 9 (9%) 17 (17%)
+Low blood platelets 8 (8%) 32 (32%)
+Low blood sodium 6 (6%) 16 (16%)
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  
+Forty six (46, or 44%) patients taking crizotinib and 13 patients (13%) treated with 
+platinum -based chemotherapy had serious medical problems.
+At the end of the study, 62 patients assigned to take crizotinib and 61 patients 
+assigned to platinum -based chemotherapy had passed away.  Most deaths were due to
+the patient’s NSCLC getting worse.  Two (2) patients taking crizotinib passed away 
+from medical problems that their doctor thought might have been caused by taking 
+crizotinib.   Serious medical problems are summarized in the table on the next page.
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)
+9Serious Medical Problems
+(Reported by 2 or More Patients in Either Treatment Group)
+Serious
+Medical ProblemCrizotinib
+(104 Patients Treated)Platinum -based 
+Chemotherapy
+(101 Patients Treated)
+NSCLC got worse 15 (15 %) 1 (1%)
+Pneumonia 5(5%) 1 (1%)
+Blood clot in lung 3(3%) 0
+Death 2 (2%) 1 (1%)
+Difficulty swallowing 2 (2%) 0
+Increased liver enzymes 
+in blood2 (2%) 1 (1%)
+Scarring of lung tissue 2 (2%) 0
+Buildup of fluid around 
+lungs2 (2%) 1 (1%)
+Collapsed lung 2 (2%) 0
+Spitting blood 1(1%) 2 (2%)
+Low blood platelets 0 2 (2%)
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)
+10WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT01639001
+www.pfizer.com/research/research_
+clinical_trials/trial_resultsUse the protocol number A8081029
+Other clinical trials with crizotinib are ongoing.
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e195ffa314\Approved\Approved On: 13-Jan-2021 08:07 (GMT)

@@ -1,0 +1,33 @@
+Clinical Study Results
+Average amount of ticagrelor in the blood after treatment
+(Group 1 and Group 2 combined)
+50
+doolb
+40
+eht
+30 ni )Lm/gn(
+tnuoma
+21.9 ng/mL
+18.6 ng/mL
+20
+16.1 ng/mL
+egarevA
+10.3 ng/mL
+10
+0
+1 hour after 2 hours after 4 hours after 6 hours after
+treatment treatment treatment treatment
+What medical problems did the participants have during
+the study?
+This section is a summary of the medical problems the participants had during
+the study that the study doctors thought might be related to the study drug. These
+medical problems are called “adverse reactions”. An adverse reaction is considered
+“serious” when it is life-threatening, causes lasting problems, or requires hospital
+care.
+Adverse reactions may or may not be caused by the study drug. A lot of research is
+needed to know whether a drug causes an adverse reaction.
+How many participants had serious adverse reactions?
+None of the participants had serious adverse reactions during the study.
+How many participants had adverse reactions?
+None of participants had adverse reactions during the study.
+5

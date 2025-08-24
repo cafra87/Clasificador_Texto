@@ -1,0 +1,4 @@
+A Phase 2b Study To Evaluate The Efficacy And Safety Profile Of PF-06651600 And PF-06700841 In Active Non-segmental Vitiligo Subjects
+This outcome measure was the percentage of participants achieving at least 75% improvement from baseline in central read F-VASI (F-VASI75) at Week 24. A negative percent change from baseline in central read F-VASI signified an improvement. The central read F-VASI75 response rate was analyzed by first treating the missing data (non-COVID-19 related) as non responders and then applying Chan and Zhang exact confidence interval (CI) method at Week 24.
+
+Central read F-VASI75=1 if percent change from baseline ≥75; central read F-VASI75=0 if percent change from baseline <75. Percent change from baseline in F-VASI=((post-baseline F-VASI - baseline F-VASI)/baseline F-VASI)×100. Baseline was defined as the last measurement prior to study Day 18.

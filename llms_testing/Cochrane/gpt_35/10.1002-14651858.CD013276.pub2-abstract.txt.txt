@@ -1,0 +1,13 @@
+Plain Language Summary: Maternity Care and Early Warning Systems
+
+Rationale:
+Pregnant women's health can sometimes deteriorate without warning signs. To help healthcare providers identify these issues early, they use evaluation tools called physiological track-and-trigger systems (TTS). These systems involve assessing vital signs like blood pressure and heart rate and using scores or alert indicators to determine if a woman's condition is worsening. By identifying these changes early, healthcare providers can intervene sooner and potentially reduce the risk of complications and death.
+
+Trial Design:
+This study aimed to evaluate the effectiveness and cost-effectiveness of using TTS in maternity care. The researchers searched for previous studies that compared TTS with no system or a different system. They included both randomized and quasi-randomized controlled trials. The participants in these trials were pregnant women or women who had given birth within the past 42 days, and they could be at either high or low risk for complications. The researchers collected data from two studies, one involving 700 women and the other involving 536,233 women. These studies took place in low-resource settings.
+
+Results:
+The results showed that there was probably little to no difference in maternal death between women who used TTS/EWS and those who received standard care. However, the use of TTS/EWS may reduce the risk of total hemorrhage during childbirth. There may be little to no difference in the rates of sepsis, eclampsia, and HELLP syndrome (a condition that affects the liver and blood) between women who used TTS/EWS and those who received standard care. There was probably little to no difference in the need for intensive care unit (ICU) admission for mothers. Also, the use of TTS/EWS may help reduce the length of a woman's hospital stay. However, the use of TTS/EWS did not show a clear difference in neonatal death rates. The cost-effectiveness of TTS/EWS was not measured in these studies.
+
+Conclusion:
+The use of TTS/EWS in maternity care may be helpful in reducing certain complications such as hemorrhage and the length of hospital stay for mothers. It is likely that using TTS/EWS does not significantly impact maternal or neonatal death rates. However, these findings were based on studies conducted in low-resource settings, and the effects of TTS/EWS may differ in high-resource settings. Further research is needed in different settings and populations to better understand the benefits and limitations of using TTS/EWS in maternity care.

@@ -1,0 +1,15 @@
+Plain Title:
+Understanding the Effectiveness and Safety of Using Steroids to Treat COVID-19
+
+Rationale:
+COVID-19 is a viral infection that can cause severe inflammation and damage to the lungs. In response to this, doctors have been using medications called systemic corticosteroids - drugs known for their anti-inflammatory properties. The effectiveness of systemic corticosteroids against COVID-19 has been a topic of interest amongst healthcare professionals. Previous studies hinted that these drugs slightly improved survival rates for those affected by severe forms of the disease. However, there are still uncertainties about the appropriate dosage, the best time to administer these drugs, and the type of patients who can benefit most.
+
+Trial Design:
+To gain more insights, a group of scientists conducted a study involving 8075 participants, with 87% of them coming from high-income countries. Participants received either systemic corticosteroids or usual care for COVID-19. The study design allows the researchers to compare the outcome of different conditions: getting the treatment versus not, different dosage, timing of administration, and types of corticosteroids. Scientists conducted the study globally and made sure people from all ages, genders, or ethnicities were included irrespective of their disease severity. 
+
+Results:
+In this study, researchers found that about 30 fewer people out of every 1000 who were given systemic corticosteroids died compared to those who were not (reduced from 275 to 245). There was also a small increase in the number of days patients did not need a ventilator, which suggests that the drug might help people recover faster. These results, however, were uncertain and should be taken with caution due to factors such as death occurring before ventilation, possible side effects, and inconsistent reporting methods. 
+
+The study also revealed that the type, dosage, and administration time for steroids could potentially affect outcomes. However, this conclusion was also uncertain due to the limited number of participants involved. 
+
+Currently, no studies have evaluated the effects of corticosteroids in those with mild COVID-19 symptoms or those without symptoms at all. Hence, further research is needed to verify these findings in varying disease severities - asymptomatic, mild, moderate, and severe style="font-family: Arial, sans-serif;">This study suggests that systemic corticosteroids might offer a slight benefit to people hospitalized due to symptomatic COVID-19. Still, additional research is needed for conclusive results. An abundance of ongoing studies is promising for further clarification of the corticosteroid role in managing COVID-19.

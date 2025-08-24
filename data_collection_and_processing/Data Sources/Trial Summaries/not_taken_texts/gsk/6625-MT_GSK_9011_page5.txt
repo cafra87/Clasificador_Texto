@@ -1,0 +1,30 @@
+Where was this study done?
+Study sites were in 16 countries.
+Number of patients who recieved at least one dose of the
+study medicine
+Argentina 103
+Australia 17
+Canada 27
+France 13
+Germany 84
+Italy 41
+Republic of Korea 68
+Mexico 16
+Netherlands 27
+Poland 89
+Romania 88
+Russian Federation 101
+Spain 113
+Sweden 4
+United Kingdom 21
+United States 126
+0 20 40 60 80 100 120 140
+Number of patients
+What were the overall results of the study?
+Lung function tests measure how well a patient’s lungs move air in and out of the body.
+Doctors can use the results of these tests to see if lung function is stable, getting
+better, or getting worse.
+One measure of lung function is forced expiratory volume in one second (FEV ). FEV
+1 1
+measures the amount of air that a patient can breathe out in the first second when
+asked to blow as hard as possible into a tube connected to a machine (spirometer).

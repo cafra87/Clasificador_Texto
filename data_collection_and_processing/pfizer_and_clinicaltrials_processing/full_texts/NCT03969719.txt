@@ -1,0 +1,268 @@
+Clinical Study Results
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to study participants.  The results of this study 
+might be different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: PF-06835919
+Protocol Number: C1061011
+Dates of Study: 18 July 2019 to 30 March 2021 
+Title of this Study: A Double -blind Study to Assess 2 Doses of an 
+Investigational Product for 16 Weeks in Participants 
+With Non -alcoholic Fatty Liver Disease and 
+Type 2Diabetes Mellitus
+[A Phase 2a, Randomized, Double -Blind, 
+Placebo -Controlled, 3 -Arm, Parallel Group Study to 
+Evaluate Safety, Tolerability and Pharmacodynamics of 
+PF-06835919 Administered Daily for 16 Weeks in 
+Adults With Non -Alcoholic Fatty Liver Disease and 
+Type 2Diabetes Mellitus on Metformin]
+Date(s) of this Report:   14 Jun e2022–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation. 
+This summary will describe the study results.  If you have any questions about the study 
+or the results, please contact the doctor or staff at your study site.Why was this study done?
+What is non -alcoholic fatty liver disease with type 2 diabetes 
+mellitus? 
+Non-alcoholic fatty liver disease (NAFLD) is a condition where too much fa t is 
+stored in the liver and where those affected drink little to no alcohol.  NAFLD may 
+worsen into a condition called non -alcoholic steatohepatitis (NASH).  NASH 
+develops when excess fat contributes to increased inflammation and liver cell death.  
+NASH i s associated with increased risk of death, scarring and failure of the liver, and 
+liver cancers.  
+Conditions that increase the risk of NAFLD and NASH to develop include being 
+overweight, type 2 diabetes mellitus (T2DM), high blood pressure, and high level s of 
+cholesterol and fats in the blood.  Participants with T2DM are of special interest and 
+included in this study.
+What is PF -06835919?
+PF-06835919 was the drug investigated in this study in participants who have T2DM 
+and may have NAFLD.  PF -06835919 reduces the activity of an enzyme called 
+ketohexokinase (KHK).  KHK speeds up the change of fruit sugar (fructose) to 
+energy used by the body and increases fat production in the liver.  Fructose increases 
+the risk of too much fat in the liver.  PF -06835919 was used as a treatment to lower 
+the activity of KHK, reduce liver fat, reduce HbA1c, and prevent the development of 
+NASH.  PF -06835919 is a n investigational drug because it is not approved for use in 
+this country. 
+What were the purposes of this study?
+The primary purposes of the study were to compare the effects of PF -06835919 at 
+2doses (150 mg and 300 mg) compared with a placebo to find out if PF -06835919 
+helps reduce liver fat and hemoglobin A1C (HbA1c).  The amount of HbA1c in the 
+blood shows the av erage amount of glucose (a type of sugar) over the past 3 months.  This study looked at the efficacy, safety, and tolerability of 2 doses of PF -06835919 
+over a 16 -week period.  Specifically, researchers wanted to know if PF -06835919 
+reduced liver fat and H bA1c at 16 weeks compared to placebo (efficacy).  Safety 
+means that any medical problems that happened were studied.  Tolerability means 
+whether a medical problem interfered with a participant’s usual activities.
+What happened during the study?
+How was the study done?
+This study lasted about 2 4weeks and was in 3 parts: a screening period, a treatment 
+period, and a follow -up period.  
+The screening period lasted up to 3 weeks and included:
+Scans of the liver to test for fat and stiffness
+Magnetic resonance imaging (MRI) of the liver to measure fat content in the 
+liver
+Aperiod of taking a placebo for 14 days to make sure participants we re 
+comfortable taking a study drug.
+The treatment period lasted for 16 weeks.  Participants were randomized (assigned by 
+an equal chance) to one of 2 treatment doses of PF -06835919 tablets taken by mouth 
+or a placebo tablet taken by mouth.  A total of 164 participants were given one of the 
+following during the treatment period:
+55 participants: PF -06835919 150 mg Researchers wanted to know: 
+Did PF -06835919 reduce the fat in the liver and HbA1c in the blood 
+compared to a place bo?55 participants: PF -06835919 300 mg 
+54 participants: Placebo 
+The follow -up period lasted up to 35 days.  Participants were seen in person at a study 
+clinic 7 days to 14 days after their last dose.  Participants received a phone call 
+between 28 days to 35 days after their last dose.
+Researchers tested PF -06835919 on 2 groups of study participants to find out if 
+PF-06835919 lowered the amount of fat in liver cells and lowered HbA1c in the 
+blood.  Researchers then compared the results of study participants taking the study 
+medication to the results of study participants taking a placebo.  A placebo does not 
+have any medicine in it, but it looks jus t like the study medication.
+The study participants and researchers did not know who took PF -06835919 and who 
+took the placebo.  This is known as a “double -blinded” study.  Study participants were 
+assigned to each group by chance alone (randomization).
+Thetrial was completed even with the COVID -19 pandemic, and the primary 
+objectives of the study were successfully evaluated.  The impact of the pandemic 
+enrollment pause was limited, as sites were able to recruit and enroll quickly once sites 
+were allowed to restart.  
+Where did this study take place? 
+The Sponsor ran this study at 58 locations in 2 countries in North America, 
+specifically in Canada and the United States.
+When did this study take place?
+It began 18 July 2019 and ended 30 March 2021.
+Who participated in this study?
+Requirements for being in the study included:
+Male or female participants aged between 18 years and 70 years
+Participants with T2DM taking greater than or equal to 500 mg/day 
+metformin alone for at least 8 weeks prior screening visit 1
+Liver fat content greater than or equal to 8% at screening visit 3 on MRI
+Conditions that kept participants out of the study included:
+Type 1 diabetes mellitus
+Complications from diabetes (kidney or nerve complications)
+Participants included:
+A total of 71 (43%; 43 out of 100) men participated
+A total of 93 (57%; 57 out of 100) women participated
+All participants were between the ages of 21 years and 71 years 
+Participants were to be treated until Week 16.  Of the 164 participants who started the
+study, 145 (88%; 88 out of 100) finished the treatment period.  A total of 19 participants out of 164 (12%; 12 out of 100) discontinued the 
+double -blind treatment:
+9 (16%; 16 out of 100) participants in the PF -06835919 150 mg group
+6 (11%; 11 out of 10 0) participants in the PF -06835919 300 mg group
+4 (7%; 7 out of 100) participants in the placebo group 
+19 participants out of 164 (12%; 12 out of 100) did not finish the treatment period 
+because:
+7 participants (4%; 4 out of 100) stopped treatment because of their choice
+4 participants (2%; 2 out of 100) stopped treatment because of medical 
+problems
+4 participants (2%; 2 out of 100) stopped treatment because of other reasons
+3 participants (2%; 2 out of 100) stopped treatment because of problems with 
+study procedures
+1 participant (1%; 1 out of 100) stopped treatment because they were lost to 
+follow -up 
+How long did the study last?
+Study participants were in the study for about 24weeks.  The entire study took 
+around 1 year and 8 months to complete.
+Due to the COVID -19 pandemic, enrollment in the trial was paused temporarily in all 
+sites between 24 March 2020 and 26 May 2020, and then restarted.  
+When the study ended in March 2021 the Sponsor began reviewing the information 
+collected.  The Sponsor th en created a report of the results.  This is a summary of that 
+report.What were the results of the study?
+Did PF -06835919 reduce the fat in the liver and HbA1c in the blood 
+compared to a placebo?
+Both PF -06835919 dose groups (300 mg and 150 mg doses) sh owed greater 
+reductions in whole liver fat and HbA1c compared to placebo at Week 16.  For the 
+results for whole liver fat, the researchers believe the difference was due to the study 
+drug, PF -06835919, (statistically significant) and not due to chance.  Fo r the HbA1c 
+results, the researchers could not determine if the results were due to the study drug, 
+PF-06835919, or due to chance (not statistically significant).
+At Week 16, the average whole liver fat was reduced by:
+19% (19 out of 100) for the PF -068359 19 300 mg dose
+17% (17 out of 100) for the PF -06835919 150 mg dose
+5% (5 out of 100) for the placebo
+At Week 16, the average HbA1c was reduced by:
+0.34% for the PF -06835919 300 mg dose
+0.17% for the PF -06835919 150 mg dose
+0.09% for the placebo
+This does not mean that everyone in this study had these results.  These are just some 
+of the main findings of this study.  Other studies may have different results. 
+What medical problems did participants have during 
+the study?
+The researchers recorded an y medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what effects a study medication might have on a participant.
+7 out of 164 (4%; 4 out of 100) participants in this study had at least 
+1treatment -related medical problem.  Treatment -related medical problems were 
+reported in: 
+4 (7%) participants in the PF -06835919 150 mg group
+2 (4%) participants in the placebo group
+1 (2%) participant in the PF -06835919 300 mg group 
+A total of 2 participants stopped PF -06835919 because of medical problems: 
+1participant in the PF -06835919 300 mg group and 1 participant in the 
+PF-06835919 group stoppe d treatment because of medical problems.  Two 
+participants left the study because of medical problems.  The most common medical 
+problems –those reported by 2 or more participants –are described below.Below are instructions on how to read Table 1. 
+Instructions for Understanding Table 1. 
+The 1stcolumn of Table 1 lists medical problems that were commonly 
+reported during the study.  All medical problems reported by 2 or 
+more participants are listed.
+The 2ndcolumn tells how many of the 55 participants taking 
+PF-06835919 300 mg reported each medical problem.  Next to this 
+number is the percentage of participants taking PF -06835919 300 mg 
+who reported the medical problem. 
+The 3rdcolumn tells how many of the 55 participants taking 
+PF-06835919 150 mg rep orted each medical problem.  Next to this 
+number is the percentage of participants taking PF -06835919 150 mg 
+who reported the medical problem.
+The 4thcolumn tells how many of the 54 participants taking a 
+placebo reported each medical problem.  Next to thi s number is the 
+percentage of participants taking a placebo who reported the medical 
+problem.
+Using these instructions, you can see that 4 out of the 55 participants 
+(7%) taking PF -06835919 150 mg reported high blood sugar.  A total 
+of 0 out of the 54 (0%) participants taking a placebo reported high 
+blood sugar.Table 1. Commonly reported medical problems by study 
+participants
+Medical 
+ProblemPF-06835919
+300 mg
+(55 Participants)PF-06835919
+150 mg
+(55 Participants)Placebo
+(54 Participants)
+High blood 
+sugar0 out of 55 
+participants (0%)4 out of 55 participants 
+(7%)0 out of 54 participants 
+(0%)
+Loose Stools0 out of 55 
+participants (0%)3 out of 55 participants 
+(6%)2 out of 54 participants 
+(4%)
+Joint pain 0 out of 55 
+participants (0%)3 out of 55 participants 
+(6%)0 out of 54 participants 
+(0%)
+High fat in 
+blood 
+(triglycerides)0 out of 55 
+participants (0%)2 out of 55 participants 
+(4%)0 out of 54 participants 
+(0%)
+Ear, nose, or 
+throat infection0 out of 55 
+participants (0%)2 out of 55 participants 
+(4%)1 out of 54 participants 
+(2%)
+Feeling dizzy2 out of 55 
+participants (4%)0 out of 55 participants 
+(0%)0 out of 54 participants 
+(0%)
+Upper 
+abdominal pain2 out of 55 
+participants (4%)0 out of 55 participants
+(0%)0 out of 54 participants 
+(0%)
+Urinary tract 
+infection2 out of 55 
+participants (4%)1 out of 55 participants 
+(2%)0 out of 54 participants 
+(0%)
+Abdominal pain2 out of 55 
+participants (4%)1 out of 55 participants 
+(2%)1 out of 54 participants 
+(2%)
+Headache1 out of 55 
+participants (2%)1 out of 55 participants 
+(2%)3 out of 54 participants 
+(6%)
+Low blood 
+sugar0 out of 55 
+participants (0%)1 out of 55 participants 
+(2%)3 out of 54 participants 
+(6%)Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.
+2 participants out of 164 ( 1%; 1out of 100) had serious medical problems.  
+1 participant out of 55 participants (2%; 2 out of 100) in the 
+PF-06835919 150mg group had a serious medical problem of a positive 
+COVID -19 test that was not related to PF -06835919.  No participants in the 
+PF-06835919 300 mg group had a serious medical problem.
+1 participant out of 54 (2%; 2 ou t of 100) participants in the placebo group had 
+a serious medical problem of a bleed under the lining of the brain during the 
+screening period.  This was not related to PF -06835919.  
+No participants died during the study. Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.  For more details on your study protocol, please visit:
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT03969719
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for study participants.
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help study participants, and you 
+helped us to do that !

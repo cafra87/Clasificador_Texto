@@ -1,0 +1,14 @@
+Background
+Some authorities have advocated Mycobacterium vaccae immunotherapy for treating tuberculosis and other infections caused by mycobacteria. 
+Objectives
+To evaluate M. vaccae immunotherapy as an adjunct to chemotherapy in people with tuberculosis. 
+Search methods
+In October 2002, we searched the Cochrane Infectious Diseases Group Specialized Register, Cochrane Controlled Trials Register (The Cochrane Library 2002, Issue 3), MEDLINE, EMBASE, LILACS, and reference lists of articles. We also contacted organizations and individuals working in the field. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials of inoculation with whole killed M. vaccae versus placebo for people with tuberculosis. 
+Data collection and analysis
+Both authors assessed trial quality and extracted data. Dichotomous outcomes were analysed with risk ratio (RR) and 95% confidence intervals (CI). 
+Main results
+Eight trials involving 2140 adults met the inclusion criteria. M. vaccae immunotherapy had no significant effect on the number of deaths (RR 1.09, 95% CI 0.83 to 1.42; 1741 participants, 4 trials). Meta‐analysis suggested small effects on the number of people who were sputum smear negative and sputum culture negative at two months, but these apparent effects were not present in sensitivity analyses that only included adequately concealed trials. Most immunotherapy recipients experienced local adverse reactions (RR 18.82, 95% CI 5.47 to 64.77; 131 participants, 2 trials), some of which progressed to ulceration and scarring. 
+Authors' conclusions
+M. vaccae immunotherapy does not benefit people with tuberculosis. No further trials are warranted and, as a result, the authors do not intend to update this review. 

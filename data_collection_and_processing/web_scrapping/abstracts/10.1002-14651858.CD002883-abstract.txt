@@ -1,0 +1,14 @@
+Background
+Retrospective survival data have suggested poor effectiveness of oxygen therapy in patients with interstitial lung disease (ILD). 
+Objectives
+To determine the effect of domiciliary oxygen therapy on survival and quality of life in patients with a diagnosis of ILD and hypoxaemia. 
+Search methods
+Randomized Controlled Trials (RCTs) were identified from searches of the Airways Group Specialised Register, CENTRAL, MEDLINE and EMBASE. Searches were current as of October 2010. No language restrictions were applied. 
+Selection criteria
+Any randomized controlled trial (RCT) in adult patients with hypoxaemia and ILD that compared long term domiciliary or home oxygen therapy with a control group. 
+Data collection and analysis
+Studies were assessed by two authors. Data were entered into Review Manager 5 and analysed. 
+Main results
+Only one trial met the eligibility criteria of the review. Mortality for both the oxygen treated and control groups was approximately 91% after three years (Peto odds ratio 0.99, 95% confidence intervals 0.16 to 6.26). The effect of oxygen therapy on quality of life and physiological parameters was not reported. 
+Authors' conclusions
+The assumption that home oxygen therapy has a beneficial survival effect in patients with ILD has not been demonstrated in the single RCT identified. 

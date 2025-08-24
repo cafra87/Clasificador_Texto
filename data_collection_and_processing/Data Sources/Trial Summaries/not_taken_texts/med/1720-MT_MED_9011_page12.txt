@@ -1,0 +1,44 @@
+Clinical Study Results
+Group 1 Group 2 Group 3 Group 4 Group 5
+(Out of 3 (Out of 3 (Out of 3 (Out of 3 (Out of 6
+Adverse reaction participants) participants) participants) participants) participants)
+Nausea 33.3% (1) 66.7% (2) 33.3% (1) 100% (3) 66.7% (4)
+Fatigue 0.0% (0) 66.7% (2) 33.3% (1) 33.3% (1) 33.3% (2)
+High levels of a liver
+33.3% (1) 0.0% (0) 33.3% (1) 33.3% (1) 33.3% (2)
+enzyme (AST)
+High levels of a liver
+33.3% (1) 0.0% (0) 33.3% (1) 33.3% (1) 16.7% (1)
+enzyme (ALT)
+Vomiting 33.3% (1) 33.3% (1) 0.0% (0) 0.0% (0) 66.7% (4)
+Diarrhea 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 16.7% (1)
+Decreased appetite 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 16.7% (1)
+High levels of a protein
+0.0% (0) 0.0% (0) 33.3% (1) 0.0% (0) 16.7% (1)
+in the blood (ALP)
+Group 6 Group 7 Group 8 Group 9 Total
+(Out of 3 (Out of 11 (Out of 12 (Out of 3 (Out of 47
+Adverse reaction participants) participants) participants) participants) participants)
+Nausea 100% (3) 27.3% (3) 66.7% (8) 100% (3) 59.6% (28)
+Fatigue 33.3% (1) 18.2% (2) 75.0% (9) 100% (3) 44.7% (21)
+High levels of a liver
+0.0% (0) 45.5% (5) 66.7% (8) 66.7% (2) 42.6% (20)
+enzyme (AST)
+High levels of a liver
+0.0% (0) 45.5% (5) 66.7% (8) 66.7% (2) 40.4% (19)
+enzyme (ALT)
+Vomiting 66.7% (2) 27.3% (3) 41.7% (5) 66.7% (2) 38.3% (18)
+Diarrhea 0.0% (0) 27.3% (3) 58.3% (7) 100% (3) 29.8% (14)
+Decreased appetite 0.0% (0) 36.4% (4) 66.7% (8) 33.3% (1) 29.8% (14)
+High levels of a protein
+33.3% (1) 36.4% (4) 8.3% (1) 66.7% (2) 21.3% (10)
+in the blood (ALP)
+How has this study helped patients and
+researchers?
+This study helped researchers learn about the safety of MEDI4276 in participants with breast or
+stomach cancer who had a HER2 receptor.
+Researchers look at the results of many studies to decide which treatments work best and are
+safest. This summary shows only the main results from this one study. Other studies may provide
+new information or different results.
+Further clinical studies with MEDI4276 are not planned.
+12

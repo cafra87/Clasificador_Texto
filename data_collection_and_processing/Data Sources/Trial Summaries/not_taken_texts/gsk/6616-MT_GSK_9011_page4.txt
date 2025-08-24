@@ -1,0 +1,45 @@
+Page 4 of 8
+Where was this study done?
+Study sites were in 39 countries.
+Number of participants who were randomised
+Argentina 146
+Australia 72
+Belgium 43
+Brazil 128
+Bulgaria 128
+Canada 29
+Colombia 37
+Czech Republic 40
+Denmark 15
+Estonia 5
+France 42
+Germany 17
+Greece 143
+Hong Kong 29
+Hungary 90
+India 144
+Israel 37
+Italy 21
+Republic of Korea 323
+Malaysia 71
+Mexico 279
+Netherlands 6
+New Zealand 34
+Philippines 79
+Poland 51
+Portugal 41
+Romania 49
+Russia 82
+Singapore 18
+South Africa 25
+Spain 56
+Sweden 3
+Taiwan 120
+Thailand 64
+Turkey 19
+Ukraine 198
+United Kingdom 67
+United States 981
+Vietnam 140
+0 200 400 600 800 1000
+Number of participants

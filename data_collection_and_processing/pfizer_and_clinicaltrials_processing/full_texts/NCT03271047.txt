@@ -1,0 +1,309 @@
+Clinical Study Results
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to study participants.  The results of this study 
+might be different than the results of other studies that the researchers review.
+Sponsor:    Pfizer Inc. 
+Medicine(s) Studied: Binimetinib ,nivolumab ,ipilimumab
+Protocol Number: C4211004 (ARRAY -162-202)
+Dates of Study: 18 October 2017to 25February 2021 
+Title of this Study: Study of Binimetinib + Nivolumab Plus or Minus 
+Ipilimumab in Patients With Previously Treated 
+Microsatellite -stable (MSS) Metastatic Colorectal 
+Cancer With RAS Mutation 
+[An Open -Label Phase 1b/2 Study of Binimetinib 
+Administered in Combination With Nivolumab or 
+Nivolumab Plus Ipilimumab in Patients With 
+Previously Treated Micro satellite -Stable (MSS) 
+Metastatic Colorectal Cancer With RAS Mutation ]
+Date(s) of this Report: 20December 2021; amended 30 May 2022–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation. 
+This summary will describe the study results.  If you have any questions about the 
+study or the results, please contact the doctor or staff at your study site.Why was this study done?
+What is colorectal cancer ?
+Colorectal cancer is cancer that starts in the large intestine (colon) or the rectum (last 
+part of the large intestine).  Participants in this study had metastatic colorectal cancer, 
+which me ans that the cancer had spread outside of the colon or rectum. Additionally, 
+the participants in this study had tumors that were considered to be "microsatellite 
+stable" (MSS) , and which contained a specific mutated gene called RAS that can cause 
+cancer c ells to grow and to spread. 
+What are binimetinib, nivolumab, and ipilimumab ?
+There were 3 treatments tested in this study: binimetinib , nivolumab, and ipilimumab.  
+Binimetinib is a treatment that may block the growth and spread of cancer.  
+Binimetinib is taken as a tablet by mouth .In this study, binimetinib was an 
+investigational treatment, which means that it is still being tested and has not been 
+approved for use in patients with colorectal cancer.
+Nivolumab and ipilimumab are 2 types of antibody t reatments that may help the 
+immune system to fight cancer.  Nivolumab and ipilimumab are given through a 
+needle into the vein (IV). In this study, nivolumab and ipilimumab were 
+investigational treatments .
+What was the purpose of this study?
+The main purposes of this study were to learn more about the safety of binimetinib, 
+nivolumab, and ipilimumab and to determine the recommended dose for further 
+testing, and to learn whether binimetinib, nivolumab, and ipilimumab had positive 
+effects for pa tients with metastatic colorectal cancer with RAS mutations and that are 
+MSS. Researchers wanted to know:
+Part 1 :did participants have dose -limiting toxicities?
+Part 2: did participants have a reduction in tumor size?
+“Dose -limiting toxicities” (DLTs) are certain medical problems caused by taking study 
+treatment which require the participant to lower the dose or stop taking the treatment 
+(permanently or temporarily). Researchers collect information on DLTs to help 
+determine the recommended dose of a study treatment.
+What happened during the study? 
+How was the study done?
+This study was an open -label study, which means that participants and doctors knew 
+what medicines were given to participants. This study was done in 2 parts .
+Part 1 
+The purpose of P art 1 was to find the recommended dose of binimetinib to study in 
+Part 2.  During Part 1, participants were assigned to 1 of 2 treatment groups, 
+Group 1A and Group 1B.  Group 1A participants received the following treatments: 
+Binimetinib 45 milligram s(mg) twice daily by mouth for 4 weeks; if this dose 
+level of binimetinib had DLTs, the following lower dose levels of binimetinib 
+were tested in order as follows: 
+o45 mg twice daily for 3 weeks then 1 week off 
+o30 mg twice daily for 4 weeks 
+o30 mg twice d aily for 3 weeks then 1 week off 
+Nivolumab 480 mg IV over 30 minutes every 4 weeksResearchers used the results from Group 1A to determine the recommended dose to 
+test in Group 1B.  After Group 1A completed study treatment, other participants 
+started Grou p 1B.  Group 1B participants received the following treatments:
+Binimetinib 45 milligram (mg) twice daily by mouth for 4 weeks; if this dose 
+level of binimetinib had DLTs, the following lower dose levels of binimetinib 
+were tested in order as follows: 
+o45 mg twice daily for 3 weeks then 1 week off 
+o30 mg twice daily for 4 weeks 
+o30 mg twice daily for 3 weeks then 1 week off 
+Nivolumab 480 mg IV over 30 minutes every 4 weeks 
+Ipilimumab 1 mg per kilogram (kg) (1 mg/kg) IV over 30 minutes about every 
+8 weeks
+Participants received study treatments in cycles that lasted 28 days.  Participants were 
+to attend visits at the study center on Days 1, 15, and 22 of the first cycle, and on 
+Days 1 and 15 of the following cycles.  They were also asked to attend an end of 
+treatment visit within 2 weeks of stopping study treatment, and attend follow -up visits 
+30 days and 100 days after stopping treatment.  They were then contacted by phone 
+150 days after stopping study treatment, and every 12 weeks until the study ended.
+Thefigure below shows what happened during Part 1.Part 2
+During Part 2 of the study, participants were randomly assigned to 1 of 2 treatment 
+groups, Group 2A and Group 2B. Randomly means that participants were assigned 
+to the treatment groups by chance, like a flip of a coin.  Participants had an equal 
+chance of being in Group 2A or Group 2B. 
+Group 2A participants received the following treatments:
+Binimetinib at the recommended dose from Part 1, given twice a day by mouth 
+for 4 weeks
+Nivolumab 480 mg IV over 30 minutes every 4 weeks
+Group 2B participants received the following treatments:
+Binimetinib at the recommended dose from Part 1, twice a day by mouth for 4 
+weeks
+Nivolumab 480 mg every 4 weeks IV over 30 minutes on Day 1 of each 
+treatment cycle
+Ipilimumab 1 mg/kg IV over 30 minutes about every 8 weeks 
+Participants received study treatments in cycles that lasted 28 days.  Participants were 
+to attend visits at the study center on Days 1, 15, and 22 of the first cycle, and on 
+Days 1 and 15 of the following cycles.  They were also asked to attend an end of 
+treatment visit within 2 weeks of stopping study treatment, and attend follow -up visits 
+30 days and 100 days after stopping t reatment.  They were then contacted by phone 
+150 days after stopping study treatment, and every 12 weeks until the study ended .
+The figure below shows what happened during Part 2.Where did this study take place? 
+The Sponsor ran this study at 22 locatio ns in 5 countries (Belgium, the Netherlands, 
+Spain, the United Kingdom, and the United States) .
+When did this study take place?
+It began 18 October 2017 and ended 25 February 2021 .
+Who participated in this study?
+The study included participants who:
+Were a t least 18 years of age
+Had metastatic colorectal cancer that was microsatellite stable
+Had RAS mutation
+Had received at least 1 but no more than 2 prior systemic treatments 
+(treatments that travel through the blood cells to all over the body) for 
+colorect al cancer, and were either unable to tolerate the treatment or had 
+unsatisfactory results
+Had never received certain other treatments for colorectal cancer
+A total of 75 participants enrolled in the study and received study treatment.  During 
+Part 1, there were 10 participants in Group 1A and 11 participants in Group 1B.  
+During Part 2, there were 27 participants in Group 2A and 27 participants in 
+Group 2B.
+The participants included:
+A total of 48 men participated
+A total of 27 women participated
+53 participants were less than age 65 years old
+22 participants were age 65 years old or older
+Participants could continue receiving study treatment until their colorectal cancer got 
+worse (up to a maximum of 2 years for nivolumab and ipilimumab) .  Of the 
+75participants who started the study:
+1 (3% )participant who received binimetinib + nivolumab completed the study 
+through the follow -up part of the study
+5 (13% )participants who received binimetinib + nivolumab + ipilimumab
+completed the study through the follow -up part of the study
+36 (97%) participants who took binimetinib + nivolumab did not finish the study 
+because they:
+Passed away: 28 (76%) participants
+Withdrew consent: 5 (1 4%) participants
+Were lost to follow -up: 3 ( 8%) participants33 (87%) participants who took binimetinib + nivolumab + ipilimumab did not finish 
+the study because they:
+Passed away: 29 (76%) participants
+Withdrew consent: 2 (5%) participants
+Were lost to follow -up: 1 (3%) participant
+Other reason: 1 (3%) participant
+How long did the study last?
+The entire study took about 3 years and 4months to complete.
+When the study ended in February 2021, the Sponsor began reviewing the 
+information collected.  The Sponsor then created a report of the results.  Th is is a 
+summary of that report.What were the results of the study?
+Part 1: did participants have dose -limiting toxicities ?
+In Group 1A, 1 out of 9 participants (11%) who received binimetinib + 
+nivolumab had a DLT (severe acne -like rash) during the first treatment cycle.  
+In Group 1B, 2 out of 11 participants (18%) who received binimetinib + 
+nivolumab + ipilimumab had DLTs during the first treatment cycle 
+(1participant had colitis and 1 part icipant had blurry vision, rash, and 
+inflammation in lungs).  
+Using this information, the researchers determined that 45 mg twice per day was the 
+recommended dose of binimetinib for further testing.
+Part 2: did participants have a reduction in tumor size?
+To answer this question, the researchers looked at the percentage of 
+participants with either a complete response to study treatment (all tumors 
+disappeared), or a partial response to study treatment (at least a 30% decrease 
+in tumors).
+Out of 27 particip ants in Group 2A, no participants (0%) had a complete 
+response or a partial response to study treatment.
+Out of 27 participants in Group 2B, no participants (0%) had a complete 
+response, and 2 participants (7%) had a partial response to study treatment
+This means that the study results did not show that the study treatments had 
+positive effects for participants with RAS mutant, MSS colorectal cancer.
+This does not mean that everyone in this study had these results.  This is a summary 
+of just some of the mai n results of this study.  Other studies may have different 
+results.What medical problems did participants have during 
+the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could
+also have been caused by a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what effects a study medication might have on a participant.
+Below are instructions for understanding Table 1.All 75 participants (100%) treated in this study had at least 1 medical problem.  A total 
+of 16(21%) participants stopped taking study treatment because of medical problems.  
+The most common medical problems –those reported by at least 15%of participants 
+in any group –are described below.Instructions for Understanding Table 1. 
+The 1stcolumn of Table 1 lists medical problems that were 
+commonly reported during the study.  All medic al problems reported 
+by at least 15% of participants are listed.
+The 2ndcolumn tells how many of the 37 participants taking 
+binimetinib + nivolumab reported each medical problem.  Next to 
+this number is the percentage of the 37 participants taking binimet inib 
++ nivolumab who reported the medical problem. 
+The 3rdcolumn tells how many of the 38 participants taking 
+binimetinib + nivolumab + ipilimumab reported each medical 
+problem.  Next to this number is the percentage of the 38 participants 
+taking binimeti nib + nivolumab + ipilimumab who reported the 
+medical problem.
+Using these instructions, you can see that 20 out of the 37 participants 
+(54%) taking binimetinib + nivolumab reported diarrhea.  A total of 
+19out of the 38 participants (50%) taking binimetini b + nivolumab + 
+ipilimumab reported diarrhea.Table 1. Commonly reported medical problems by study participants 
+Medical Problem Binimetinib + Nivolumab 
+(37Treated) Binimetinib + Nivolumab 
++ Ipilimumab
+(38 Treated)
+Diarrhea 20out of 37treated
+(54%)19out of 38treated
+(50%)
+Acne -like rash 20 out of 37 treated
+(54%)18out of 38 treated
+(47%)
+Increase in enzyme, which 
+could indicate heart 
+damage20 out of 37 treated
+(54%)16out of 38 treated
+(42%)
+Feeling tired 15 out of 37 treated
+(41%)17out of 38 treated
+(45%)
+Nausea 17 out of 37 treated
+(46%)13out of 38 treated
+(34%)
+Swelling in arms and legs 13 out of 37 treated
+(35%)16out of 38 treated
+(42%)
+Fever 11 out of 37 treated
+(30%)17out of 38 treated
+(45%)
+Vomiting 9 out of 37 treated
+(24%)18out of 38 treated
+(47%)
+Rash 11 out of 37 treated
+(30%)15out of 38 treated
+(40%)
+Poor appetite 15 out of 37 treated
+(41%)9out of 38 treated
+(24%)Feeling weak 10 out of 37 treated
+(27%)10out of 38 treated
+(26%)
+Constipation 11 out of 37 treated
+(30%)9out of 38 treated
+(24%)
+Cough 8 out of 37 treated
+(22%)9 out of 38 treated
+(24%)
+Increased liver enzyme 
+(AST)3 out of 37 treated
+(8%)12out of 38 treated
+(32%)
+Itching 5 out of 37 treated
+(14%)10out of 38 treated
+(26%)
+Stomach pain 6 out of 37 treated
+(16%)6out of 38 treated
+(16%)
+Increased liver enzyme 
+(ALT)2 out of 37 treated
+(5%)10out of 38 treated
+(26%)
+Low number of red blood 
+cells7out of 37 treated
+(19%)5out of 38 treated
+(13%)
+Trouble breathing 4out of 37 treated
+(11%)8out of 38 treated
+(21%)
+Heart pumping decreased 
+amount of blood5out of 37 treated
+(14%)7out of 38 treated
+(18%)
+Dry skin 3out of 37 treated
+(8%)7 out of 38 treated
+(18%)
+Dry mouth 3out of 37 treated
+(8%)6out of 38 treated
+(16%)Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life-threatening, needs hospital 
+care, or causes lasting problems.
+34out of 75(45%) participants had serious medical problems , including 
+17participants (46%) who received binimetinib + nivolumab, and 17 participants 
+(45%) who received binimetinib + nivo lumab + ipilimum ab.  The most common 
+serious medical problems were:
+Fever: 2 participants (5%) who received binimetinib + nivolumab
+Fluid build -up around the heart: 2 participants (5%) who received binimetinib 
++ nivolumab
+Lung infection: 2 participants ( 5%) who received binimetinib + nivolumab+ 
+ipilimumab
+Inflammation in lungs: 2 participants (5%) who received binimetinib + 
+nivolumab+ ipilimumab
+Fluid build -up around the lungs: 2 participants (5%) who received binimetinib 
++ nivolumab+ ipilimumab
+57partic ipants (76%) died during this study.   7 of these participants (9%) died during 
+study treatment or within 30 days of stopping study treatment. Most of the deaths 
+were due to colorectal cancer. The study doctors did not consider any of the deaths 
+to be rel ated to taking study treatments.Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+The full scientific report of this study is available online at :
+www.clinicaltrials.gov Use the study identifier NCT03271047
+www.clinicaltrialsregister.eu Use the study identifier 2017-003464 -12
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for study participants.
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help study part icipants, and you 
+helped us to do that !

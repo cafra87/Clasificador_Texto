@@ -1,0 +1,4 @@
+A Phase 2b Study To Evaluate The Efficacy And Safety Profile Of PF-06651600 And PF-06700841 In Active Non-segmental Vitiligo Subjects
+The VitiQoL was a reliable and validated vitiligo disease specific HRQoL instrument which measured concepts relevant to vitiligo participants. The VitiQoL was a 15-item PRO measure which measured concepts of symptoms, daily activities, leisure activities, work, personal relationships and treatment. Responses ranged from "not at all" (scored 0) to "most of the time" (scored 6) and gave a minimum and maximum score from 0 to 90, with higher scores representing greater burden. The VitiQoL Participation Limitation domain score was the sum of items 3, 4, 6, 9, 10, 11, 14 and ranged from 0 to 42.
+
+The change from baseline in VitiQoL Participation Limitation Domain Score was analyzed using the MMRM analysis. Baseline was defined as the last measurement prior to first dosing (Day 1).

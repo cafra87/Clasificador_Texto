@@ -1,0 +1,19 @@
+Acute myeloid leukemia (or "AML") and myelodysplastic syndrome (or "MDS") are types of blood cancers that usually affect patients over the age of 40. These cancers are caused by too many immature white blood cells being made in the bone marrow. This reduces the ability of the body to make normal blood cells such as white blood cells (that fight off infections), red blood cells (that deliver oxygen to muscles and organs), and platelets (that help blood clot). The treatment options for AML and MDS are limited if the patient can't receive "intensive" chemotherapy (strong medications) because of other medical problems. Researchers are looking for new medicines that can help patients with AML and MDS live longer without their cancer rapidly getting worse.
+
+Glasdegib (now approved under the brand name Daurismo® in the United States) was the investigational medicine tested in this study, and it was not yet approved at the beginning of this study. Glasdegib was developed to help reduce the growth of cancerous stem cells in the bone marrow. Cancer stem cells are cells that self-regenerate and contribute to tumor growth. These cancer stem cells may be one of the reasons why some cancers return after chemotherapy treatment.
+
+This study was divided into 2 parts, or "phases". The main purpose of the first phase of the study (Phase 1) was to determine the best dose of glasdegib to use in the second phase of the study (Phase 2). To do this, the researchers asked:
+
+- What dose-limiting toxicities, or "DLTs", did patients have during treatment cycle with glasdegib?
+
+DLTs are certain medical problems caused by taking glasdegib which require the patient to lower the dose or stop taking the medicine temporarily or permanently.
+
+For Phase 2, there were 2 main questions that the researchers wanted to ask, depending on whether the patients were "Fit" (healthy enough to be treated with intensive chemotherapy) or "Unfit" (unable to be treated with intensive chemotherapy because of other medical problems):
+
+- How many Fit patients would achieve "complete remission" when taking glasdegib?
+
+In this study, complete remission or complete response meant that the patients no longer had any evidence of AML or MDS.
+
+- Do Unfit patients taking glasdegib with non-intensive chemotherapy (low-dose Ara-C, or "LDAC") live longer than those taking LDAC alone?
+
+In this study, Unfit patients received an alternative chemotherapy medicine (LDAC) that was approved for use in patients at the time.

@@ -1,0 +1,36 @@
+One of the approved treatments for asthma is a combination of two inhaled medicines
+(dual therapy). However, dual therapy may not be enough to control symptoms in
+patients with moderate to severe asthma. GSK has developed a combination of three
+inhaled medicines (triple therapy) by adding umeclidinium to the dual therapy.
+Researchers wanted to see how well the addition of umeclidinium to dual therapy
+improved patients’ lung function compared with dual therapy alone in patients who
+had poorly controlled asthma.
+Which medicines were studied?
+Patients were put into one of the six treatment groups by chance (randomisation). Four
+different doses of triple therapy and two different doses of dual therapy were used in
+this study (as shown in figure below).
+Treatment Groups
+Set A – low-dose fluticasone Set B – high-dose fluticasone
+Set
+furoate groups furoate groups
+Therapy type Dual Triple Dual Triple
+Treatment
+Group 1 Group 2 Group 3 Group 4 Group 5 Group 6
+Groups
+Fluticasone 100 100 100 200 200 200
+furoate mcg mcg mcg mcg mcg mcg
+25 25 25 25 25 25
+Vilanterol
+mcg mcg mcg mcg mcg mcg
+31.25 62.5 31.25 62.5
+Umeclidinium - -
+mcg mcg mcg mcg
+mcg = microgram
+Fluticasone furoate is an inhaled corticosteroid (ICS), an inhaled medicine that reduces
+inflammation in the lungs.
+Vilanterol is an inhaled long-acting beta agonist (LABA). Umeclidinium is an inhaled long-
+acting muscarinic antagonist (LAMA). Both, LABA and LAMA, are different types of
+bronchodilators. Bronchodilators are medicines that relax and open the airways in the
+lungs.
+Neither patients nor study doctors knew who was receiving which treatment. This is
+called a double-blind study.

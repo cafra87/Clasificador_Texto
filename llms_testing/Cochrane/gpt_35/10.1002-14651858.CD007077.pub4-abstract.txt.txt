@@ -1,0 +1,26 @@
+Plain Title: Comparing Different Types of Radiation Therapy for Breast Cancer Treatment
+
+Rationale: 
+Breast-conserving therapy involves removing the tumor and undergoing radiation therapy to reduce the risk of recurrence. However, whole breast radiation therapy (WBRT) may not fully protect against the development of new cancers in other parts of the breast. This study aimed to investigate the effectiveness of partial breast irradiation (PBI) and accelerated partial breast irradiation (APBI) in comparison to conventional or hypofractionated WBRT for early-stage breast cancer. 
+
+Trial Design:
+The study involved randomized controlled trials (RCTs) comparing conservative surgery plus PBI/APBI to conservative surgery plus WBRT. A total of 15,187 women with invasive breast cancer or ductal carcinoma in-situ were enrolled. The patients had small tumors (less than 2 cm or 3 cm), negative margins, and were treated with breast-conserving therapy. The study lasted for a variable duration.
+
+Results:
+The main outcomes of the study were as follows:
+
+1. Local recurrence-free survival: The use of PBI/APBI was found to slightly decrease the survival rate compared to WBRT, although the difference was small. However, the majority of women remained free of local recurrence.
+
+2. Cosmesis: The cosmetic outcomes reported by physicians and nurses were worse for patients who underwent PBI/APBI compared to those who received WBRT.
+
+3. Overall survival: The overall survival rates were similar between PBI/APBI and WBRT.
+
+4. Late radiation toxicity: The use of PBI/APBI was associated with an increased risk of subcutaneous fibrosis, a late effect of radiation therapy.
+
+5. Cause-specific survival: The use of PBI/APBI had little to no impact on cause-specific survival.
+
+6. Distant metastasis-free survival: PBI/APBI showed no significant difference in distant metastasis-free survival compared to WBRT.
+
+7. Mastectomy rates: PBI/APBI had no significant effect on the need for mastectomy.
+
+Based on these findings, it is important to note that PBI/APBI may have some drawbacks, such as decreased local recurrence-free survival and worse cosmetic outcomes. However, overall survival and other oncological outcomes were similar between PBI/APBI and WBRT. It is important to consider the limitations of the available data, and further research is needed to determine the efficacy and safety of PBI/APBI. Ongoing trials will provide more conclusive evidence in the future.

@@ -1,0 +1,39 @@
+Clinical Study Results
+The table below shows the most common serious adverse reactions that happened in
+more than 1 participant.
+Most common serious adverse reactions
+Ticagrelor and ASA Placebo and ASA
+(out of 5,523 (out of 5,493
+Serious adverse reaction participants) participants)
+Stroke caused by a blood clot, also known as
+0.34% (19) 0.66% (36)
+ischemic stroke
+Stroke-related brain bleed, also known as
+0.11% (6) 0.07% (4)
+hemorrhagic transformation stroke
+Blood in the urine 0.11% (6) 0.0% (0)
+Bleeding in the digestive tract 0.09% (5) 0.05% (3)
+Stroke caused by a brain bleed, also known as
+0.09% (5) 0.0% (0)
+hemorrhagic stroke
+Bleeding in the upper digestive tract 0.07% (4) 0.0% (0)
+Nosebleed 0.07% (4) 0.0% (0)
+Bleeding from the anus 0.05% (3) 0.04% (2)
+Breathlessness 0.05% (3) 0.04% (2)
+Death of brain tissue from lack of blood flow,
+0.05% (3) 0.0% (0)
+also known as cerebral infarction
+Bleeding in the brain, also known as cerebral
+0.04% (2) 0.04% (2)
+hemorrhage
+Black bowel movements from old blood 0.04% (2) 0.0% (0)
+Bleeding on the surface of the brain, also known
+0.04% (2) 0.0% (0)
+as subarachnoid hemorrhage
+Bleeding in the esophagus 0.04% (2) 0.0% (0)
+Bleeding in the small intestine 0.04% (2) 0.0% (0)
+Pneumonia 0.02% (1) 0.04% (2)
+Allergic reaction 0.02% (1) 0.02% (1)
+Transient ischemic attack, also known as TIA 0.0% (0) 0.05% (3)
+Urinary tract infection 0.0% (0) 0.04% (2)
+10

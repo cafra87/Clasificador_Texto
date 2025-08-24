@@ -1,0 +1,11 @@
+Plain Title: Effects and Safety of Oral Fumaric Acid Esters for Psoriasis
+
+Rationale: Psoriasis is a chronic inflammatory skin condition that can greatly reduce a person's quality of life. There are several treatments available, including oral fumaric acid esters (FAE), which contain dimethyl fumarate (DMF) and monoethyl fumarate. These treatments are licensed for psoriasis in Germany but used off-label in many other countries. This study aims to assess the effects and safety of FAE for psoriasis, in order to determine their potential as a treatment option.
+
+Trial Design: This study involved analyzing existing research on the effects and safety of FAE for psoriasis. The researchers searched various databases and trials registers to gather relevant data. They included six studies, which involved a total of 544 participants. The studies compared FAE with placebo or methotrexate, and all reported data at 12 to 16 weeks.
+
+Results: The findings showed that FAE were superior to placebo in reducing Psoriasis Area and Severity Index (PASI) scores. Two studies that compared FAE with placebo allowed for a meta-analysis, which showed that FAE were significantly more effective in achieving a PASI 50 response compared to placebo. Additionally, more participants achieved PASI 75 with FAE. However, no studies measured PASI 90. One study compared FAE with methotrexate and found that methotrexate was superior in terms of PASI score, but the difference was not statistically significant after adjusting for baseline disease severity.
+
+In terms of safety, FAE were associated with nuisance adverse effects such as flushing and gastrointestinal disturbance. More participants experienced these adverse effects with FAE compared to placebo. However, short-term studies reported no serious adverse effects. The studies included in this review were limited in their reporting, as four out of six studies were abstracts or brief reports.
+
+Based on this limited evidence, FAE appear to be more effective than placebo in treating psoriasis and may have similar efficacy to methotrexate. However, more research is needed to fully understand their effects and safety. It is important to note that FAE can cause nuisance adverse effects, but serious adverse effects were not reported in the included studies.

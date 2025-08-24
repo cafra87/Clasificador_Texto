@@ -1,0 +1,34 @@
+Clinical Study Results
+What adverse reactions did the participants have?
+The most common adverse reaction that happened during the study was redness
+of the skin at the injection site.
+The table below shows the adverse reactions that happened in at least 2 participants
+during the study. There were other adverse reactions that happened during the study,
+but those happened in fewer participants.
+Most common adverse reactions during the study
+50 mg 100 mg 200 mg 350 mg 500 mg
+MEDI5884 MEDI5884 MEDI5884 MEDI5884 MEDI5884 Placebo
+(out of 20 (out of 24 (out of 22 (out of 21 (out of 22 (out of 23
+participants) participants) participants) participants) participants) participants)
+Redness of the
+skin at injection 0.0% (0) 4.2% (1) 13.6% (3) 19.0% (4) 0.0% (0) 8.7% (2)
+site
+Increase in
+apolipoprotein
+B, a protein
+found in
+5.0% (1) 4.2% (1) 0.0% (0) 4.8% (1) 0.0% (0) 4.3% (1)
+cholesterol
+(increases
+risk of heart
+disease)
+Increase
+in amount
+triglycerides,
+a type of fat,
+5.0% (1) 0.0% (0) 0.0% (0) 0.0% (0) 4.5% (1) 0.0% (0)
+in the blood
+(increases
+risk of heart
+disease)
+10

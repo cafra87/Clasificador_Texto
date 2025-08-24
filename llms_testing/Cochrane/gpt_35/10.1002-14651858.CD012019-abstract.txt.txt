@@ -1,0 +1,9 @@
+Plain Title: Urine Tests for Endometriosis Diagnosis: Not Yet Reliable
+
+Rationale: Endometriosis is a chronic condition that affects around 10% of reproductive-aged women. It causes pelvic pain and can lead to difficulty in getting pregnant. The current method for diagnosing endometriosis is through a surgical procedure called laparoscopy, which is expensive and carries risks. Unfortunately, there are no simple and non-invasive tests available that accurately diagnose endometriosis. This study aimed to evaluate urine biomarkers as potential tests for diagnosing endometriosis and differentiating it from other ovarian masses.
+
+Trial Design: The study searched various databases for studies published until 2015 that evaluated urine biomarkers for diagnosing endometriosis. The searches were not limited by study design, language, or publication dates. The included studies involved reproductive-aged women suspected of having endometriosis, and the urinary biomarkers were compared with surgical visualization of endometriotic lesions. A total of eight studies involving 646 participants were included in the analysis.
+
+Results: The evaluated urine biomarkers did not meet the criteria for reliable replacement or triage tests for diagnosing endometriosis. Some biomarkers showed potential in small individual studies, but further evaluation is needed before they can be used in routine clinical practice. Laparoscopy remains the gold standard for diagnosing endometriosis, and urine biomarker tests should only be used in research settings.
+
+Conclusions: Currently, there is insufficient evidence to support the use of urine biomarkers as reliable tests for diagnosing endometriosis. While some biomarkers might have potential, they need further evaluation before they can be used in clinical practice. Laparoscopy is still the most accurate method for diagnosing endometriosis.

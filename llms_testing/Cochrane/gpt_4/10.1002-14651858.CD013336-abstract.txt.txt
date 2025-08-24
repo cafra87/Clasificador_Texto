@@ -1,0 +1,14 @@
+Plain Title: 
+Understanding the Effectiveness of Extended versus Standard Removal of Lymph Nodes in Treating Advanced Bladder Cancer  
+
+Rationale: 
+Bladder cancer is a serious health issue that can be life-threatening. One common form of treatment involves surgically removing parts of the patient's lymphatic system, specifically the pelvic lymph nodes. However, doctors are not entirely sure whether removing more nodes (extended) is better than just removing standard nodes. The uncertainty led us to this study - we wanted to check if more extensive lymph node removal can better treat bladder cancer compared to standard removal. 
+
+Trial Design: 
+We looked at previous studies which compared extended and standard removal of pelvic lymph nodes in patients who had advanced bladder cancer. This research covered studies published until April 2019 and included those in different languages. The patients we focused on had invasive or hard-to-treat bladder cancer. We looked specifically at patients' death rates, whether they died from any cause or specifically from bladder cancer, and whether they experienced serious post-surgery issues within 30 days of operation. 
+
+Results: 
+Our search found one major study done in Germany, with 401 male and female participants. These people had advanced bladder cancer and did not have chemo before surgery. Only a few of them (14.5%) received chemo after the surgery. 
+Our analysis suggests that removing more lymph nodes may lower the risk of death. However, this conclusion is not certain as the data limitations and differences made it hard to be completely sure. After five years from surgery, for every 1000 patients, 420 possibly died after extended removal, while 503 may have died after standard removal. Similarly, 264 possibly died from bladder cancer with extended removal, compared to 355 with standard removal. 
+Also, we were unsure if extended removal resulted in more serious complications after surgery or if it lowered the risk of cancer recurrence. Unfortunately, no trials reporting on how the patients' quality of life was after the two different methods of surgery were found. 
+Hence, while it might seem that extended removal of lymph nodes could lower death rates, we definitely need more research in this area to confirm these findings. Importantly, another larger trial which also looks into how chemotherapy before surgery affects these results, is ongoing which can provide us with more decisive answers in the future.

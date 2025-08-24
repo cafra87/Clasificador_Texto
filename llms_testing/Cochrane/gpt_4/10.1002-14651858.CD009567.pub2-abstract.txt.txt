@@ -1,0 +1,15 @@
+1. Plain Title: 
+Study of Treatments for Sickness from Being at High Altitudes
+
+2. Rationale:
+When people travel to places with high altitudes, they can get sick. This sickness may cause problems in the brain and lungs, and the higher you go, the more likely you are to get sick. However, some people can also get sick at lower altitudes. This illness is known as 'acute mountain sickness', 'high altitude cerebral oedema', and 'high altitude pulmonary oedema'. There are a few treatments available, both medicines and non-drug methods. We must study more on this as we still are not sure how well these treatments work, or if they can cause more harm.
+
+3. Trial Design:
+This study sought to figure out if interventions (medicines and non-drug methods) were effective and safe in treating high altitude sickness. We included 468 people in 13 studies. All of them were adults, and two studies also included teenagers. These studies took part in high altitude areas, mostly in the European Alps. Twelve studies looked at people that had acute mountain sickness, and one study looked at people that had high altitude pulmonary oedema. The follow-up was usually less than one day. 
+
+4. Results:
+The trials didn't record any deaths and they didn't report that all symptoms of acute mountain sickness were gone in any trial. One of the studies found that a simulated descent may reduce the average of symptoms, while no other complications were found with use of hyperbaric chambers versus extra oxygen. 
+
+On the medical side, one study found that dexamethasone (a medicine) gave better results than a placebo when given after 12 and 16 hours. Another medicine, called acetazolamide, was compared with placebo, and it was uncertain how big the effect was on reducing symptoms. More studies looked at dexamethasone, gabapentin, and magnesium compared to placebos. Some evidence suggested these medicines slightly lowered symptom severity, but the evidence was not strong. The trials did not find harmful side effects from either treatment. One trial found that magnesium sulphate versus placebo often caused flushing in patients. 
+
+Overall, we need more and better studies to know what works best to treat acute high altitude sickness. So far, the evidence suggests that dexamethasone and acetazolamide might bring down symptoms better than a placebo. But, we are still not sure of this, or if there are risks attached to these potential treatments.

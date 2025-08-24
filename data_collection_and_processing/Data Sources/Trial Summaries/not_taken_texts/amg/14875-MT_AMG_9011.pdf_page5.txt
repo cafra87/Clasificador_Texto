@@ -1,0 +1,41 @@
+What study medicine did participants receive?
+The participants in the study received either the placebo or 1 of the following investigational
+medicines:
+• Apremilast
+• Lanadelumab-IV
+• Zilucoplan.
+All of the participants also received the locally available standard of care treatment for
+COVID-19 during the study.
+Investigators chose these investigational medications because all of them have been shown in
+other studies to reduce inflammation. Two of the medicines work to reduce a type of protein,
+and 1 reduces production of a type of enzyme. Both these proteins and the enzyme play a role
+in inflammation. It was thought these medicines may help people with COVID-19, because they
+often will have inflammation in their lungs.
+Note: The numbers shown in each results section of this summary may not add up to the
+total number of people who participated in the study. This is because not everyone who was
+assigned to take one of the investigational medicines or placebos was able to be included
+in all of the analyses. For example, some people who were assigned to take a certain
+medication did not start taking it. Researchers also combined some people from different
+placebo groups together for analysis.
+This table shows the investigational medication that participants were assigned to take:
+Investigational Apremilast Lanadelumab-IV Zilucoplan
+medication
+How many 194 28 100
+participants were
+assigned to take
+the investigational
+medication?
+What dose did they 30 milligrams 300 milligrams 32.4 milligrams
+take?
+How was it taken? By mouth By intravenous By subcutaneous
+infusion (IV), which injection, which is
+is a drip into a vein a shot or jab under
+the skin
+How often was it Twice a day for Once on the first Once a day for
+taken? 14 days day and once on 14 days
+the fourth day of
+the study
+What was it 190 participants 34 participants 75 participants
+compared with? from the pooled from the pooled from the pooled
+placebo group placebo group placebo group
+5

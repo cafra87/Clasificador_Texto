@@ -1,0 +1,17 @@
+1. Plain Title: 
+The Effects of Remote Health Care Services for Patients with Chronic Lung Disease
+
+2. Rationale: 
+Chronic Obstructive Pulmonary Disease (COPD) that includes bronchitis and emphysema is a long-lasting lung condition. It can cause breathlessness, coughing, and serious health problems. Patients who are severely ill, frail, or live far from their health providers might find it hard to visit their doctors face-to-face. They might also have limited access to health care. Telehealth technology, which allows health check-ups and consultations remotely, might help improve these patients' health. This study's goal was to evaluate how effective these remote health services are in reducing health problems, increasing life quality, and reducing signs of breathlessness, hospital visits, and deaths among these patients. 
+
+3. Trial Design: 
+This study focused on adults diagnosed with COPD and excluded others with different respiratory diseases like asthma, cystic fibrosis, and bronchiectasis. The study used randomized control trials, which means that patients were randomly assigned to different groups to receive different treatments. These treatments included: normal care, remote health check-ups, and consultations, and a blend of various treatments from all care settings. In some cases, the patients' health was observed using a remote device later checked by a doctor. The study's timeframe varied based on different treatments. Patients' quality of life and breathlessness symptoms were measured using pre-set questionnaires.
+
+4. Results: 
+The study examined results from 29 different studies involving 5654 patients (where 36-96% were men, and 4-61% were women). The study found that using remote health check-ups alongside standard care might not have much effect on reducing the severity and frequency of health deterioration, improving life quality or reducing the hospital visits. However, chances of going back to the hospital due to COPD might be lower with this approach. Also, there might not be much difference in the number of deaths.
+
+When using remote health check-ups alone, the study found that it might not affect the severity and frequency of health problems, life quality, breathlessness, hospital admissions or death rates.
+
+When using a blend of treatments, including remote health monitoring, short-term improvements in the quality of life were seen. However, there may not be any significant reduction in hospital admissions or deaths. As a whole, the study concluded that using remote health check-ups along with standard care might not be overall beneficial over standard care alone.
+
+It's not clear which patients with varying COPD severity might benefit from remote health services. Although no harm was found from these services, they could act as an additional health resource based on individual needs and professional assessment. Further studies need to be conducted to understand the long term impacts of these interventions.

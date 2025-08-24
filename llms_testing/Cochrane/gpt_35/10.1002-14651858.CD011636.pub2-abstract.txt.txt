@@ -1,0 +1,9 @@
+Plain Title: Antithrombin Treatment for Preterm Infants with Bleeding in the Brain
+
+Rationale: Preterm birth increases the risk of bleeding in the brain, known as intraventricular hemorrhage, in very low birth weight infants. We believe this bleeding is caused by blood clots in the brain. Antithrombin is a substance in the body that helps prevent blood clots. However, premature infants have low levels of antithrombin, which puts them at a higher risk of developing bleeding in the brain. We want to study if giving antithrombin to preterm infants soon after birth can reduce the risk of bleeding in the brain.
+
+Trial Design: In this study, we will give antithrombin to preterm infants within the first 24 hours after birth and compare the results to a placebo, no treatment, or heparin. The study will include infants with a gestational age of less than 32 weeks and any birth weight. The duration of the study will vary for each participant.
+
+Results: We analyzed two studies involving a total of 182 infants. Both studies compared antithrombin to a placebo. The results showed no significant differences in the rates of bleeding in the brain or severe bleeding in the brain between the two groups. We also found no significant differences in neonatal mortality or other specified outcomes, such as bronchopulmonary dysplasia. However, the quality of evidence supporting these findings is limited due to the imprecision of the estimates.
+
+In conclusion, based on our research, it appears that the administration of antithrombin does not reduce the incidence or severity of bleeding in the brain in very preterm infants. However, more studies are needed to provide a definitive answer to this question.

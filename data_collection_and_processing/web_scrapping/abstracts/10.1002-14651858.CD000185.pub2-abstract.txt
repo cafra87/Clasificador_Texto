@@ -1,0 +1,14 @@
+Background
+People with nonrheumatic atrial fibrillation (NRAF) who have had a transient ischaemic attack (TIA) or a minor ischaemic stroke are at high risk of recurrent stroke. 
+Objectives
+The objective of this review was to assess the effect of anticoagulants for secondary prevention, after a stroke or TIA, in patients with NRAF. 
+Search methods
+We searched the Cochrane Stroke Group trials register (9 June 2003) and contacted trialists. 
+Selection criteria
+Randomised trials comparing oral anticoagulants with control (no therapy) or placebo in people with NRAF and a previous TIA or minor ischaemic stroke. Control groups on aspirin did not meet the selection criteria. 
+Data collection and analysis
+Both reviewers assessed trial quality and extracted data.
+Main results
+Two trials involving 485 people were included. Follow‐up time was 1.7 years in one trial and 2.3 years in the other. Anticoagulants reduced the odds of recurrent stroke by two‐thirds (odds ratio (OR) 0.36, 95% confidence interval (CI) 0.22 to 0.58). The odds of all vascular events was shown to be almost halved by treatment (OR 0.55, 95% CI 0.37 to 0.82). The odds of major extracranial haemorrhage was increased (OR 4.32, 95% CI 1.55 to 12.10). No intracranial bleeds were reported among people given anticoagulants. 
+Authors' conclusions
+The evidence suggests that anticoagulants are beneficial, without serious adverse effects, for people with NRAF and recent cerebral ischaemia. 

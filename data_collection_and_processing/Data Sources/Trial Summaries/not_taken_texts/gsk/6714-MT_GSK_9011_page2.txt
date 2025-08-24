@@ -1,0 +1,22 @@
+Nucleos(t)ide analogues (NAs) are a class of anti-viral medicines that are used to treat
+chronic hepatitis B. They work by controlling the amount of virus in the body. Doctors
+can monitor the amount of HBV in the body by measuring the HBV DNA levels in blood.
+Nucleos(t)ide analogues are considered not to be working well if a patient’s HBV DNA
+level remains greater than 200 international units per millilitre (IU/mL).
+Tenofovir disoproxil fumarate (TDF) is a type of NA. In this study, researchers wanted to
+see how well TDF works in Chinese patients with chronic hepatitis B who did not
+respond well to treatment with multiple NAs. They also studied the safety of TDF.
+Which medicine was studied?
+Patients took TDF (300 milligrams) tablet once daily for 144 weeks. The patients knew
+which treatment they received. This is called an open-label study.
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Men and women were included in the study if they:
+• Were between 18 and 65 years old.
+• Tested positive for HBV for more than six months.
+• Had blood HBV DNA level greater than or equal to 200 IU/mL at the start
+of the study.
+• Did not respond well to two or more different types of NAs, each taken
+for at least six months.

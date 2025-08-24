@@ -1,0 +1,44 @@
+Higher values of FEV mean more air is flowing out of the lungs and that lung function
+1
+is better.
+Study doctors measured the FEV values on Day 1 (baseline) and then again at Week
+1
+12.The difference between the FEV values at baseline and after 12 weeks of
+1
+treatment is called the Week 12 change from baseline in FEV .
+1
+The Week 12 change from baseline in FEV values from individual patients in each
+1
+treatment group were combined and averaged. These averaged values were compared
+between the seven treatment groups. The Week 12 change from baseline in FEV could
+1
+be calculated for 721 patients who had both baseline and Week 12 values measured.
+The results are shown in the table below.
+Week 12 change from baseline in average FEV
+1
+Placebo Nemiralisib
+12.5 mcg 50 mcg 100 mcg 250 mcg 500 mcg 750 mcg
+Number of patients
+with FEV values at
+1
+215 16 72 75 69 58 216
+baseline and at
+Week 12
+Week 12 change
+from baseline in
+52 mL 31 mL 26 mL 14 mL 58 mL 49 mL 49 mL
+average FEV
+1
+(in millilitres [mL])
+After 12 weeks of treatment, the change from baseline in the average FEV (lung
+1
+function) in patients was similar across all treatment groups, including placebo.
+More information about the study results is available in the scientific results summaries
+(links to those summaries are provided at the end of this document).
+What were the side effects?
+Unwanted medical events (adverse events) can happen to people when they receive a
+medicine. Study doctors record these events. A summary of all these events can be
+found in the scientific results summaries (links to those summaries are provided at the
+end of this document).
+If the study doctor thinks that the event was caused by the study medicine, they record
+this as a possible side effect (adverse reaction).

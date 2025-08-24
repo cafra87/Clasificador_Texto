@@ -1,0 +1,11 @@
+1. Plain Title:
+How Helpful are Regular Laboratory Tests in Detecting COVID-19
+
+2. Rationale:
+COVID-19 is a respiratory illness caused by coronavirus. It’s important to quickly identify if a patient has COVID-19 to begin the right treatment and control the spread of the virus. However, specific tests for the virus may not always be available, or it can take time to get the results. Doctors often use standard laboratory tests, such as blood count and inflammation markers, to help understand a patient's health condition. These tests could help determine whether a patient might have COVID-19, especially when specific tests are unavailable or time is short. This study was conducted to see how accurately these routine lab tests can help detect COVID-19 in patients.
+
+3. Trial Design:
+The researchers searched through many medical literature databases and repositories, gathering data from various published studies. They included studies where routine lab tests were used to figure out if a patient had COVID-19. The studies used various kinds of routine tests and different methods for confirming the presence of COVID-19, including more specific tests for the virus itself. The researchers then combined and analyzed all this data to assess the reliability of these routine tests in diagnosing COVID-19.
+
+4. Results:
+After evaluating data from 21 studies, involving over 70,000 patients, the researchers found a lot of variation in how the tests were performed and how their results were interpreted. Most of the tests examined had less than 50% accuracy in both ruling in and ruling out a COVID-19 diagnosis. Only three of these tests - increased levels of a protein called interleukin-6, increased levels of another protein named C-reactive protein, and decreased counts of a type of white blood cell called lymphocytes - showed higher than 50% accuracy in diagnosis. The researchers concluded that while these routine tests can provide information about a patient's general health and some signs of inflammation, none of them are reliable enough to diagnose COVID-19 on their own. They also suggested that future studies could look at how these tests perform in people with milder symptoms outside of a hospital setting.

@@ -1,0 +1,14 @@
+Background
+Antivenom is used to neutralise snake bite toxins in people showing evidence of envenomation. It is made from animal sera, and adverse effects, including life threatening anaphylaxis, are common. 
+Objectives
+To assess the effects of drugs given routinely with snake antivenom to prevent adverse effects. 
+Search methods
+Cochrane controlled trials register; contact with researchers in the field.
+Selection criteria
+Randomized and quasi‐randomized trials testing routine adrenaline (epinephrine), antihistamines, or corticosteroids. 
+Data collection and analysis
+The two authors applied the inclusion criteria, assessed trial quality, and extracted the data. We sought additional data from trialists where required. 
+Main results
+One trial in Sri Lanka (n = 105) giving adrenaline with polyspecific antivenom showed fewer adverse reactions in the adrenaline group, and this effect was preserved when stratified for severity. One trial in Brazil (n = 101) using three types of Bothrops antivenom showed no benefit of antihistamine drugs. 
+Authors' conclusions
+Routine prophylactic adrenaline for polyvalent antivenom known to have high adverse event rates seems sensible, based on this one trial. If clinicians believe local factors do not justify routine adrenaline, then they should test their belief in a randomized trial. Antihistamine appears to be of no obvious benefit in preventing acute reactions from antivenoms. 

@@ -1,0 +1,17 @@
+Plain Title: 
+Testing the Ability of a Brain Scan to Predict Alzheimer's Disease from Mild Memory Loss
+
+Rationale:
+Alzheimer’s disease is a type of dementia that results in a steady loss of memory and thinking skills. It can be distressing both for those who have it and their loved ones. Currently, doctors use a certain type of brain scan (known as 18F-florbetapir PET) to check for signs of Alzheimer's in people who already have signs of dementia. This scan is approved by regulatory bodies such as the Food and Drug Administration (FDA) and the European Medicine Agencies (EMA). Now, researchers are looking into whether this scan could also be used to predict Alzheimer's disease in people who only have mild memory loss - a condition known as mild cognitive impairment (MCI). This is important because getting an early diagnosis means treatment can be started sooner, potentially slowing the disease's impact.
+
+Trial Design:
+Our study analyzed how well the 18F-florbetapir PET scan could predict whether people with mild memory loss would develop Alzheimer's disease or other forms of dementia. We looked at research papers published up until May 2017. We only included studies that used the PET scan on people with MCI, who were then tracked to see whether they progressed to Alzheimer's or other types of dementia. We double-checked all data gathered, and also evaluated the quality of the studies we used.
+
+Results: 
+We included three studies in total. Two studies looked at the progression from mild memory loss to Alzheimer’s disease, while the third study looked at the progression to any kind of dementia. 
+
+In the studies we analyzed, people were tracked for between 1.5 and 3 years. Some, but not all, of them went from having mild memory loss to being diagnosed with Alzheimer's. We found that the brain scans were at best only partially accurate at predicting this. The accuracy varied, with a sensitivity (ability to correctly identify those who developed Alzheimer's) ranging from 67% to 89% and a specificity (ability to accurately identify those who did not develop Alzheimer's) ranging from 51% to 71%.
+
+The brain scans were slightly better at predicting Alzheimer's disease over a shorter follow-up period. But even so, they weren’t very good at identifying people who definitely wouldn’t develop the disease. 
+
+Given these results, and considering the high cost of these brain scans, we don’t think they should be used routinely in clinical practice to predict if people with mild memory loss will develop Alzheimer's. The procedure needs to be standardized and clearly demonstrate its predicting capacity before it can be used widely.

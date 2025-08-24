@@ -1,0 +1,14 @@
+Background
+Restless legs syndrome (RLS) is a common disease affecting about 5% to 15% of the population. Symptoms of RLS can be severe in a minority of and can have a major impact on sleep, mostly sleep initiation, and quality of life. Benzodiazepines are drugs that can induce and maintain sleep and, hence, intuitively are thought to be beneficial to people with RLS. Altough benzodiazepines, particularly clonazepam, are used to treat RLS symptoms, a systematic review done by the American Academy of Sleep Medicine stated that benzodiazepines should not be used as a first‐line treatment, although could be used as a coadjuvant therapy. 
+Objectives
+To evaluate the efficacy and safety of benzodiazepine compared to placebo or other treatment for idiopathic RLS, including unconfounded trials comparing benzodiazepines versus open control. 
+Search methods
+In March 2016 we searched CENTRAL, MEDLINE, Embase and LILACS We checked the references of each study and contacted study authors to identify any additional studies. We considered studies published in any language. 
+Selection criteria
+Randomised clinical trials of benzodiazepine treatment in idiopathic RLS.
+Data collection and analysis
+We did not perform data collection and analysis, since we did not include any studies,
+Main results
+We did not identify any studies that met the inclusion criteria of the review. Two cross‐over studies are awaiting classification because the cross‐over trials did not give data at the end of the first cross‐over period. 
+Authors' conclusions
+The effectiveness of benzodiazepines for RLS treatment is currently unknown.

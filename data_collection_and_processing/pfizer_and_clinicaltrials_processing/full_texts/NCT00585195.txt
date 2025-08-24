@@ -1,0 +1,464 @@
+ 
+Clinical Study Results  
+ 
+This summary reports the results of only one study. Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to patients . The results of this study might be 
+different than the results of other studies that the researchers review.  
+ 
+Sponsor:     Pfizer, Inc.  
+Medicine(s) Studied:  Xalkori® (crizotinib [PF-02341066 ])  
+Protocol Number:  A8081001  PROFILE 1001 
+Dates of Study:  19 April 2006  to 30 July 2020  
+Title of this Study:  Study Investigating the Safety and Tolerability of 
+Different Doses of Crizotinib in Participants with 
+Advanced Cancers . 
+[Phase 1 Safety, Pharmacokinetic a nd 
+Pharmacodynamic Study o f PF-02341066, a 
+MET/HGFR Selective Tyrosine Kinase Inhibitor, 
+Administered Orally t o Patients with Advanced 
+Cancer .] 
+Date(s) of this Report:  08 July 2021  
+ 
+– Thank You  – 
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation.  
+This summary will describe the study results.  If you have any questions about the study 
+or the results, please contact the doctor or staff at your stu dy site.    
+Why was this study done?  
+What is advanced non-small cell lung cancer ? 
+Lung cancer is the name for cancer that starts in the lungs.  Non -small cell lung 
+cancer (NSCLC) is the most common type of lung cancer.  Some patients have 
+NSCLC that is referred to as “anaplastic lymphoma kinase (ALK) -positive” or “c- ros 
+oncogene 1 (ROS1 )-positive”.  These patients have changes in their genes that can 
+cause cancer cells to grow.  As they grow, the cancer cells can form into a tumor and 
+spread to other parts of the body.  When the cancer has spread to other parts of the 
+body it is called a dvanced cancer.   
+What is  crizotinib ? 
+When this study began in 2006, Pfizer was developing the anti -cancer medication 
+Xalkori® or crizotinib .  This treatment has been  approved in the United States (US), 
+Europe, and in some other countries for the treatment of certain types of NSCLC  
+that has spread to other parts of the body and is caused by a defect in the  ALK or 
+ROS1  genes .  Crizotinib is known as an ALK -inhibitor and  ROS1 -inhibitor  (and is 
+also a  MET/HGFR inhibitor ) medication .  Potentially, crizotinib may be able to 
+reduc e tumor size and stop ALK -positive  and ROS1 -positive lung cancers from being 
+able to grow and spread.  
+What was the purpose of this study?  
+The purpose of the study was to assess the safety and tolerability of different doses of 
+crizotinib  in participants with advanced cancer , and if appropriate , to identify the dose 
+that could be used in larger studies . 
+Researchers wanted to know:  
+How many medical problems , including toxicities , were seen in 
+participants during the first 28 days  of treatment with different 
+doses of crizotinib?   
+What happened during the study?   
+How was the study done?  
+Researchers tested  crizotinib  on group s of study participants to find out about 
+medical problems in s tudy participants .  Researchers then compared the results 
+between study participants who took crizotinib at different doses.  The study 
+participants and researchers knew  who took  what dose of crizotinib.  This is known as 
+an “open- label” study.  Participants with a range of cancer types were included in this 
+study so that the researcher could see if the type of cancer  made a difference.   
+The dose that the first small group of participants was given was 50  milligrams  (mg) 
+of crizotinib once a day for 28 days.  The next small group of participants were given 
+a slightly higher dose o f crizotinib and the researchers watched for medical problems .  
+This was then repeated for 5 small group s of participants  in the low dose group and 
+5 small gro ups of participants in the high dose group:    
+• In the low dose group, t he dose of crizotinib was increased from 50 mg once a 
+day to 100 mg once a day to 200 mg once a day and then to 200 mg twice a day 
+to 250 mg twice a day , and finally to 300 mg twice a day.   
+• In the high dose group, the dose of crizotinib was increased from 300  mg once 
+a day to 400 mg once a day to 500 mg once a day to 650  mg once a day , and 
+finally to 800 mg once a day.   
+For each participant  in this part of the study , the 28 days after the first dose were 
+called Cycle 1, and the next 28 days were called Cycle 2, etc.  Treatment with 
+crizotinib was to be continued in 28 -day cycles for all participants unless the 
+participant developed any severe medical problems . 
+The way tha t the doses of crizotinib were gradually increased is called “ dose 
+escalation”.  The researchers did this to find out what was the highest or maximum 
+amount of crizotinib that could be given before the  participants had too many medical 
+problems.  This dose  is known as the “maximum tolerated dose” or MTD.    
+The researchers used the information they collected on medical problems to work out 
+the MTD for crizotinib .   
+Taking more than one drug at the same  time as another , may mean that one or more 
+of these medicines does not work as well as they should  or could cause  additional  
+medical problems , or there may be no  change in the way th at the drugs  behave in the 
+body .  As people with cancer often take many different  drugs, the researchers wanted 
+to see if taking crizotinib with other drugs would cause any new medical problems or 
+increase the number of medical problems seen in the study.  This type of study is known as a  “drug- drug interaction ” study .  
+To investigate drug -drug interactions, t he researchers gave the next small group of 
+new participants  a dose of crizotinib that was slightly lower than the MTD, crizotinib 
+at the MTD , or at a dose of crizotinib that was slightly higher than the MTD .  These 
+participants were also given midazolam  on Day 1 of  Cycle 2 .  Midazolam is a 
+medicine that helps with sleep or anxiety and may be given to people with cancer .  It 
+is also a medicine that pote ntially could  interact with crizotinib.  
+The researchers also wanted to see what would happen when other medicines were 
+given with crizotinib .  In a second small group of new participants, the participants 
+were given crizotinib at the MTD as well as rifampin  for part of Cycle 1.  A third 
+small group of new participants  were given crizotinib at the MTD as well as 
+itraconazole  for part Cycle 1 .  Rifampin and itracon azole are  medicine s used to treat 
+infections and may be given to people with cancer .  It is also a medicine that 
+potentially could interact with crizotinib.  
+Treatment with crizotinib was to be continued in 28 -day cycles for all participants in 
+the drug-drug interaction  groups unless the participant developed any severe medical 
+problems.  
+The researchers also gave the MTD of crizotinib to participants with different types 
+of cancer.  Th is included participants with ALK -negative NSCLC  as well as other 
+types of NSCLC ( MET -amplified NSCLC, ROS 1-positive NSCLC, ALK -positive 
+NSCLC, MET Exon -14 positive NSCLC, and other cancers).  Participants with  
+ALK -negative NSCLC were given the MTD  twice a day in a 21 -day cycle instead of 
+the usual 28 -day cycle.  All other participants in this part of the study were given the 
+MTD  twice a day in a 28 -day cycle.  Treatment with crizotinib was  continued in either 
+21- or 28 -day cycles unless the  participant  developed  any severe medical problems . 
+Where did this study take place?   
+The Sponsor ran this study at  16 locations in  4 countries (the US, Japan, South Korea , 
+and Australia) . 
+When did this study take place?  
+It began on 19  April  2006 and was ongoing on 30  July 2020.  
+Who participated in this study?  
+The study included adult participants who had advanced cancer that was not 
+responding to their current treatment.  
+• A total of 285 men participateda 
+• A total of 281 women participateda 
+• All participants were between the ages of 18 and 91 yearsa, and m ost were white  
+• The majority of participants had either previously smoked  or had never 
+smoked  and there were very few who were current smokers . 
+a There were no updated results provided in the final study report for the 12 participants treated with crizotinib 
+and midazolam in the drug -drug interaction  group.  These data were reported in 2011 and are not discussed in 
+this summary.   
+Of the 578  participants who started the study and were treated, 576 stopped treatment 
+with crizotinib and left the study.  These participants left before the study was over by choice or the doctor discussed the options with the participant , and they decided it 
+was best for a participant to stop being in the study , or the participant passed away .  
+There were 2 participants who were still in the study on 30 July 2020 when data were 
+collected for the final report.   
+ 
+a Participants were treated until their cancer got worse, they developed unacceptable medical problems, until they chose 
+to stop treatment, or the doctor discussed the options with the participant , and they decided it was best for the 
+participant to stop be ing in the study , or the  participant  passed away.  
+b There were no updated results provided in the final study report for the 12 participants treated with crizotinib and 
+midazolam in the drug -drug interaction s group.  These data were reported in 2011 and ar e not discussed in this 
+summary.  Data for the 18  participants treated with crizotinib and rifampin and the 18 participants treated with 
+crizotinib and itraconazole are included in this summary.   
+ 
+How long did the study last?  
+Study participants were in the study until they were no longer able to continue in the 
+study or were unwilling to participate.   The entire study over 14 years  to complete  and 
+2 participants were still in the study as of 30 July 2020 . 
+In July 2020, the Sponsor began reviewing the information collected  up to 30 July 2020 .  
+The Sponsor then created a report of the final results  of this study .  This is a summary 
+of that report.  
+What were the results of the study?  
+How many participants had medical problems, including toxicit ies, 
+that were severe or life -threatening, or disabling during the first 
+28 days of treatment with different doses of crizotin ib?  
+In this study, the researchers looked at the medical problems that  participants had 
+during Cycle 1 to see if there were any dose limiting toxicities.  A dose limiting toxicity is a medical problem that may mean that dose of drug is unsafe or unacceptable.  This 
+can also include severe or life- threatening, or disabling me dical problems.   Other 
+medical problems that were seen in this study  are discussed in full in the next 2 section s 
+of this document.  
+The number of p articipants who had a dose limiting toxicity during Cycle 1  in the 
+dose escalation groups are shown in Table 1 .  The researchers used thi s information 
+to identify the MTD for crizotinib as 250 mg  when taken twice a day or 650 mg when 
+taken once a day .  
+Below are instructions on how to read Table 1.  
+Instructions for Understanding Table 1.  
+• The 1st column of Table 1 lists the group of participants who were 
+treated with crizotinib in the study.   
+• The 2nd column in tells how many of the participants in each group 
+reported a dose limiting toxicity.  Next to this number is the percentage 
+of the participants in that group who reported a dose limiting toxicity.  
+• Using these instructions, you can see that 3 out of the 36 participants 
+(8%) in the Dose escalation –  Low dose group had a dose limiting 
+toxicity.  
+Table 1. Participants with dose limiting toxicities  in Cycle 1  
+Study group  Dose limiting toxicities  
+Dose e scalation – Low dose 3 out of 36 participants ( 8%) 
+Dose e scalation – High d ose 3 out of 29 participants ( 10%) 
+The researchers also looked at the number of participants who had a severe, 
+life-threatening, or disablin g medical problems within 28 days of their last dose of 
+crizotinib .  This information is shown in Table 2 .  
+Below are instructions on how to read Table 2.  
+Instructions for Understanding Table 2.  
+• The 1st column of Table 2 lists the  group of participants who were 
+treated with crizotinib in the study.   
+• The 2nd column in tells how many of the participants in each group 
+reported a severe, life -threatening, or disabling medical problem.  Next 
+to this number is the percentage of the part icipants in that group who 
+reported the severe, life- threatening, or disabling medical problem.  
+• Using these instructions, you can see that 14 out of the 36 participants 
+(39%) in the Dose escalation –  Low dose group had severe, 
+life-threatening, or disablin g medical problems.  
+Table 2. Severe, life-threatening, or disabling  medical problems 
+within 28 days of the last dose of crizotinib  
+Study group  Seve re, life-threatening, or 
+disablin g medical problems  
+Dose e scalation – Low dose 14 out of 36 participants ( 39%)  
+Dose e scalation – High d ose 17 out of 29 participants ( 59%)  
+Drug -drug interaction with Rifampin  9 out of 18 participants (50%)  
+Drug -drug interaction with Itraconazole  12 out of 18 participants (67%)  
+ALK -negative NSCLC –  Group 1  31 out of 48 participants ( 65%)  
+ALK -negative  NSCLC -  Group 2  14 out of 18 participants ( 78%)  
+MET amplified NSCLC  33 out of 41 participants ( 81%)  
+ROS 1-positive NSCLC  36 out of 53 participants ( 68%)  
+ALK -positive NSCLC  104 out of 154 participants (68%)  
+MET Exon 14 -positive  NSCLC  65 out of 85 participants ( 77%)   
+Table 2. Severe, life-threatening, or disabling  medical problems 
+within 28 days of the last dose of crizotinib  
+Study group  Seve re, life-threatening, or 
+disablin g medical problems  
+Other c ancers  40 out of 66 participants ( 61%)  
+Note: There were no updated results provided in the final study report for the 12 participants treated with crizotinib and 
+midazolam in the drug -drug interaction s group.  These data were reported in 2011 and are not discussed in this summary . 
+As well as the severe, life -threatening, or disabling medical problems shown in the 
+table above , participants could also have other medical problems, serious medical 
+problems or  may have passed away during the study .  These medical problems are 
+discussed in the rest of this document.   
+What medical problems did participants have during 
+the study?  
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+examp le, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors  try to 
+understand what effects a study medication might have on a participant.  
+There were 564 out of 566 (almost 100%) participants  that were  treated in this study 
+and for whom data were available who had at least 1  medical problem.   The most 
+common medical problems – those reported by 30% or more participants – are 
+described in Table 3 .   
+For 54 pa rticipants , (10%, or 54 out of 566 participants treated in this study and for 
+whom data were available), the main reason they left the stud y was because of medical 
+problems.  A total of 94 participants (17%, or 94 out of 566 participants treated in this  
+study and for whom data were available) had  medical problems associated with 
+leaving the study.  
+Below are instructions on how to read Table 3 .  
+Instructions for Understanding Table 3.  
+• The 1st column of Table 3 lists medical problems that were commonly 
+reported during the study within each group of participants who were 
+treated with crizotinib in the study.  All medical problems reported by 
+30% or more of the participants are listed.  
+• The 2nd column tells how many of the participants in each group 
+reported each medical problem.  Next to this number is the percentage 
+of the participants who reported the medical problem.  
+• Using these instructions, you can see that 20 out of the 36 participants  
+(56%)  in the Dose escalation –  Low dose group who were taking the 
+study medication  reported feeling sick.  
+Table 3. Commonly reported medical problems by study 
+participants  
+Study group  Participants with the medical 
+problem  
+Dose e scalation – Low dose (36 participants)   
+Feeling sick (nausea)  20 out of 36 participants ( 56%)  
+Being sick (vomiting)  19 out of 36 participants (53%)  
+Feeling tired (fatigue)  17 out of 36 participants (47%)  
+Not feeling hungry  15 out of 36 participants (4 2%) 
+Dose e scalation – H igh d ose (29 participants)   
+Constipation  16 out of 29 participants (55%)   
+Table 3. Commonly reported medical problems by study 
+participants  
+Study group  Participants with the medical 
+problem  
+Feeling sick (nausea)  14 out of 29 participants (48%)  
+Problem with eyesight  14 out of 29 participants ( 48%)  
+Being sick (vomiting)  13 out of 29 participants ( 45%)  
+Feeling tired (fatigue)  11 out of 29 participants ( 38%)  
+Drug -drug i nteraction with R ifampin 
+(18 participants )  
+Problem with eyesight  13 out of 18 participants ( 72%)  
+Feeling sick (nausea)  12 out of  18 participants ( 67%)  
+Being sick (vomiting)  10 out of 18 participants ( 56%)  
+Constipation  7 out of  18 participants ( 39%) 
+Diarrhea  7 out of 18 participants (39%)  
+Not feeling hungry  6 out of 18 participants (33%)  
+Feeling tired (fatigue)  6 out of 18 participants (33%)  
+Drug -drug  interaction with Itraconazole 
+(18 participants)   
+Constipation  11 out of 18 participants ( 61%)  
+Feeling sick (nausea)  10 out of 18 participants ( 56%)  
+Problem with eyesight  10 out of 18 participants (56%)  
+Breathlessness  (dyspnea ) 9 out of 18 participants ( 50%) 
+Feeling tired (fatigue)  8 out of 18 participants ( 44%) 
+Being sick (vomiting)  8 out of 18 participants ( 44%)  
+Table 3. Commonly reported medical problems by study 
+participants  
+Study group  Participants with the medical 
+problem  
+Diarrhea  7 out of 18 participants ( 39%) 
+Swelling/fluid retention (edema)  7 out of 18 participants (3 9%) 
+ALK -negative NSCLC  – Group 1  
+(48 participants)   
+Problem with eyesight  29 out of 48 participants ( 60%)  
+Being sick (vomiting)  26 out of 48 participants ( 54%)  
+Feeling tired (fatigue)  23 out of 48 participants ( 48%)  
+Constipation  21 out of 48 participants ( 44%)  
+Feeling sick (nausea)  20 out of 48 participants ( 42%)  
+Diarrhea  17 out of 48 participants ( 35%)  
+Swelling/fluid retention (edema)  16 out of 48 participants ( 33%)  
+Breathlessness (dyspnea)  15 out of 48 participants ( 31%)  
+ALK -negative  NSCLC  – Group 2  
+(18 participants)   
+Problem with eyesight  12 out of 18 participants ( 67%)  
+Constipation  11 out of 18 participants (61%)  
+Feeling sick (nausea)  10 out of 18 participants ( 56%)  
+Being sick (vomiting)  9 out of 18 participants ( 50%) 
+Feeling tired (fatigue)  8 out of 18 participants ( 44%) 
+MET amplified NSCLC  (41 participants)   
+Swelling/fluid retention (edema)  18 out of 41 participants ( 44%)   
+Table 3. Commonly reported medical problems by study 
+participants  
+Study group  Participants with the medical 
+problem  
+Diarrhea  17 out of 41 participants ( 42%)  
+Being sick (vomiting)  15 out of 41 participants ( 37%)  
+Feeling sick (nausea)  14 out of 41 participants ( 34%)  
+Problem with eyesight  13 out of 41 participants ( 32%)  
+ROS 1-positive NSCLC  (53 participants)   
+Problem with eyesight  46 out of 53 participants ( 87%)  
+Feeling sick (nausea)  34 out of 53 participants ( 64%)  
+Swelling/fluid retention (edema)  32 out of 53 participants ( 60%)  
+Being sick (vomiting)  28 out of 53 participants ( 53%)  
+Diarrhea  25 out of 53 participants ( 47%)  
+Constipation  24 out of 53 participants ( 45%)  
+Dizziness  24 out of 53 participants ( 45%)  
+High levels of liver enzymes  
+(transaminases)  21 out of 53 participants ( 40%)  
+Feeling tired (fatigue)  20 out of 53 participants ( 38%)  
+Nerve pain (neuropathy ) 20 out of 53 participants ( 38%)  
+Nose and throat infection (upper 
+respiratory tract infection)  20 out of 53 participants ( 38%)  
+Breathlessness (dyspnea)  17 out of 53 participants ( 32%)  
+Not feeling hungry  16 out of 53 participants ( 30%)  
+ALK -positive NSCLC  (154 participants)    
+Table 3. Commonly reported medical problems by study 
+participants  
+Study group  Participants with the medical 
+problem  
+Problem with eyesight  109 out of 154 participants ( 71%)  
+Feeling sick (nausea)  97 out of 154 participants ( 63%)  
+Diarrhea  93 out of 154 participants ( 60%)  
+Swelling/fluid retention (edema)  88 out of 154 participants ( 57%)  
+Being sick (vomiting)  83 out of 154 participants ( 54%)  
+Constipation  68 out of 154 participants ( 44%)  
+Dizziness  68 out of 154 participants ( 44%)  
+Nose and throat infection (upper 
+respiratory tract infection)  60 out of 154 participants ( 39%)  
+Feeling tired (fatigue)  59 out of 154 participants ( 38%)  
+Nerve pain (neuropathy)  53 out of 154 participants ( 34%)  
+Not feeling hungry  50 out of 154 participants ( 33%)  
+MET Exon 14 -positive NSCLC  
+(85 participants)   
+Swelling/fluid retention (edema)  54 out of 85 participants ( 64%)  
+Diarrhea  50 out of 85 participants ( 59%)  
+Feeling sick (nausea)  49 out of 85 participants ( 58%)  
+Constipation  45 out of 85 participants ( 53%)  
+Problem with eyesight  42 out of 85 participants ( 49%)  
+Feeling tired (fatigue)  35 out of 85 participants ( 41%)  
+Being sick (vomiting)  35 out of 85 participants ( 41%)   
+Table 3. Commonly reported medical problems by study 
+participants  
+Study group  Participants with the medical 
+problem  
+Nerve pain (neuropathy)  34 out of 85 participants ( 40%)  
+Breathlessness (dyspnea)  29 out of 85 participants ( 34%)  
+Dizziness  26 out of 85 participants ( 31%)  
+Other c ancers  (66 participants)   
+Feeling sick (nausea)  41 out of 66 participants ( 62%)  
+Being sick (vomiting)  35 out of 66 participants (53%)  
+Diarrhea  32 out of 66 participants ( 49%)  
+Problem with eyesight  32 out of 66 participants (49%)  
+Feeling tired (fatigue)  26 out of 66 participants (39%)  
+Swelling/fluid retention (edema)  21 out of 66 participants (32%)  
+Not feeling hungry  20 out of 66 participants (30%)  
+Note: There were no updated results provided in the final study report for the 12 participants treated with crizotinib and 
+midazolam in the drug -drug  interactions group.  These data were reported in 2011 and are not discussed in this summary .  
+Did study participants have any serious medical 
+problems?  
+A medi cal problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  
+A total of  271 participants (48%, or 271 out of the 566 participants that were  treated in 
+this study and for whom data were available ) had serious medical problems  as shown 
+in Table 4 .  The doctors thought that many of these serious medical problems were not 
+linked to crizotinib .  
+Below are instructions on how to read Table 4.  
+Instructions for Understanding Table 4.  
+• The 1st column of Table 4 lists the group of participants who were 
+treated with crizotinib in the study.   
+• The 2nd column in tells how many of the participants in each  group 
+reported serious medical problem.  Next to this number is the 
+percentage of the participants in that group who reported the serious 
+medical problem.  
+• Using these instructions, you can see that 9 out of the 36 participants 
+(25%) in the Dose escalation  – Low dose group had serious medical 
+problems.  
+Table 4. Participants with s erious medical problems  
+Study group  Serious medical problems  
+Dose e scalation – Low dose 9 out of 36 participants ( 25%) 
+Dose e scalation – High d ose 11 out of 29 participants ( 38%)  
+Drug -drug interaction with Rifampin  6 out of 18 participants ( 33%) 
+Drug -drug interaction with Itraconazole  7 out of 18 participants ( 39%) 
+ALK -negative NSCLC  - Group 1  22 out of 48 participants ( 46%)  
+ALK -negative  NSCLC  - Group 2  9 out of 18 participants ( 50%) 
+MET amplified NSCLC  25 out of 41 participants ( 61%)  
+ROS 1-positive NSCLC  24 out of 53 participants (45%)  
+ALK -positive NSCLC  75 out of 154 participants (49%)  
+MET Exon 14 -positive NSCLC  54 out of 85 participants (64%)   
+Table 4. Participants with s erious medical problems  
+Study group  Serious medical problems  
+Other c ancers  29 out of 66 participants ( 44%)  
+Note: There  were no updated results provided in the final study report for the 12 participants treated with crizotinib and 
+midazolam in the drug -drug interaction s group.  These data were reported in 2011 and are not discussed in this summary . 
+There were 9 7 participant s (17% , or 97 out of the 566 participants that were treated in 
+this study and for whom data were available ) who passed away  within 28 days of their 
+last dose of crizotinib as shown in Table 5.  Most of the participants who died during 
+the study passed away  because of their cancer.   
+Below are instructions on how to read Table 5.  
+Instructions for Understanding Table 5.  
+• The 1st column of Table 5 lists the group of participants who were 
+treated with crizotinib in the study.   
+• The 2nd column in tells how many of the participants in each group 
+passes away within 28 days of their last dose of crizotinib.  Next to this 
+number is the percentage of the participants in that group who passed away.  
+• Using these instructions, you can see that 3 out of the 36 participants 
+(8%) in the Dose escalation –  Low dose group passed away within 
+28 days of their last dose of crizotinib.  
+Table  5. Participants who d ied within 28 days of the l ast dose of 
+crizotinib  
+Study group  Participants who died  within 
+28 days of the last dose  
+Dose e scalation – Low dose 3 out of 36 participants ( 8%) 
+Dose e scalation – High d ose 4 out of 29 participants (1 4%)  
+Table  5. Participants who d ied within 28 days of the l ast dose of 
+crizotinib  
+Study group  Participants who died  within 
+28 days of the last dose  
+Drug -drug interaction with Rifampin  1 out of 18 participants ( 6%) 
+Drug -drug interaction with Itraconazole  0 out of 18 participants ( 0%) 
+ALK -negative NSCLC -  Group 1  13 out of 48 participants ( 27%) 
+ALK -negative  NSCLC -  Group 2  3 out of 18 participants ( 17%) 
+MET amplified NSCLC  8 out of 41 participants ( 20%) 
+ROS 1-positive NSCLC  10 out of 53 participants ( 19%)  
+ALK -positive NSCLC  25 out of 154 participants ( 16%) 
+MET Exon 14 -positive NSCLC  15 out of 85 participants ( 18%)  
+Other c ancers  15 out of 66 participants ( 23%) 
+Note: There were no updated results provided in the final study report for the 12 participants treated with crizotinib and 
+midazolam in the drug -drug interaction s group.  These data were reported in 2011 and are not discussed in this summary.   
+   
+Where can I learn more about this study?  
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.  
+For more details on your study protocol, please visit:  
+The full scientific report of this study is available online at:  
+www.clinicaltrials.gov  Use the study identifier 
+NCT 00585195  
+www.pfizer.com/research/research_clinica l_trials/  
+trial_results  Use the protocol number 
+A8081001  
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients . 
+ 
+Again, if you participated in this study, 
+thank you for volunteering.  
+We do research to try to find the  
+best ways to help patients , and  you helped 
+us to d o that ! 
+ 

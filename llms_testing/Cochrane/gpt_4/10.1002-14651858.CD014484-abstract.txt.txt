@@ -1,0 +1,13 @@
+1. Plain Title: 
+Study on the Effects of a Low Dose of Oral Misoprostol in Inducing Labour
+
+2. Rationale:
+Childbirth is a critical part of human life, but sometimes, it needs a little help to get started. This help is known as labour induction, where medication is used to stimulate labour and childbirth. This study is focused on a drug called Misoprostol, which is widely taken by mouth for labour induction. But, there's debate about the best dose to use, especially since high doses might cause powerful and unsafe contractions. This study examines the use of low doses of Misoprostol to induce labour in pregnant women in their last trimester of pregnancy with a viable fetus. Our aim was to figure out if this is safe and effective, and why this drug could potentially be a good solution for inducing labour.
+
+3. Trial Design:
+The researchers collected and analyzed studies from established medical databases until February 14, 2021. The main focus was randomized trials that compared low-dose oral Misoprostol (up to 50µg) vs. different labour induction methods or different Misoprostol doses. The study involved 61 trials, with a total of 20,026 women. The main outcomes being tracked were normal vaginal delivery within 24 hours, the need for a caesarean section, and overactivity of the womb with changes in the baby's heart rate. The research lasted for several months and included women of varying ages and health conditions, who were all towards the end of their pregnancy.
+
+4. Results:
+The study found that in comparison to other methods, low-dose oral Misoprostol may have several benefits. This drug probably reduces the need for caesarean sections compared to vaginal dinoprostone or a type of catheter. However, it might increase the time to birth, as seen by fewer vaginal births within 24 hours. Compared to a catheter, the Misoprostol did not change the rates of strong contractions with changes to the baby's heart rate. When given by mouth, rather than vaginally, Misoprostol likely results in similar rates of vaginal birth, but less overactivity of the womb and fewer caesarean sections due to baby distress. 
+   
+The study shows a balance of safety and effectiveness when Misoprostol is given orally at a low dose to induce labour, and it supports the use of this approach. More studies are needed to figure out the best way to use Misoprostol, but the results suggest that a starting dose of 25 µg may offer a good starting point.

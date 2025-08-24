@@ -1,0 +1,18 @@
+Plain Title: Effectiveness of Spinal Neuromodulation for Chronic Pain
+
+Rationale:
+Implanted spinal neuromodulation (SNMD) techniques are used to treat chronic pain that doesn't respond to other treatments. This involves the implantation of electrodes near the spinal cord or dorsal root ganglion, along with a pulse generator under the skin. Electrical stimulation is used to reduce pain intensity. The purpose of this study was to evaluate how well spinal neuromodulation works for people with chronic pain, as well as any side effects and the cost-effectiveness.
+
+Trial Design:
+The study design involved searching different databases for relevant studies on spinal neuromodulation interventions. They included randomized controlled trials (RCTs) that compared SNMD to a placebo or no treatment, or SNMD combined with another treatment. Participants in the studies were at least 18 years old with non-cancer and non-ischaemic pain that lasted longer than three months. The outcomes measured included pain intensity, adverse events, disability, analgesic medication use, health-related quality of life, and economic outcomes. The researchers evaluated the data and the certainty of the evidence using specific tools.
+
+Results:
+Fifteen published studies with 908 participants were included in the analysis, as well as 20 ongoing studies. All of the studies evaluated spinal cord stimulation (SCS), and there were no eligible published studies on dorsal root ganglion stimulation (DRGS). Overall, the results of the studies were of low or very low certainty due to limitations in the research. 
+
+When comparing active stimulation to a placebo, SCS showed a small effect in reducing pain intensity in the short term. However, the evidence was of very low certainty and did not meet the threshold for a clinically important effect. There were no studies that reported the proportion of participants experiencing significant pain relief for this comparison. Adverse events were not analyzed due to the poor quality and inconsistency of reporting in the studies.
+
+When combining SCS with another intervention compared to the other intervention alone, there was some evidence that SCS reduced pain intensity in the short and medium term. However, the certainty of the evidence was low to very low. Additionally, there was evidence to suggest that SCS increased the proportion of participants reporting at least 50% pain relief in the short, medium, and long term.
+
+Adverse events associated with device-related complications included lead failure/displacement, infection, and the need for reoperation/reimplantation. There were also reports of serious adverse events such as autonomic neuropathy, prolonged hospitalization, and even death. The level of certainty regarding the risks of these complications was very low. Limited evidence suggested that SCS may lead to increased healthcare costs, but it wasn't clear if it was cost-effective.
+
+In conclusion, the evidence from this study suggests that SCS may not provide significant benefits in terms of reducing pain intensity compared to a placebo. However, combining SCS with other treatments may have some benefits for pain intensity. It's important to note that SCS is associated with complications and serious adverse events. There was no evidence to support or reject the use of DRGS for chronic pain.

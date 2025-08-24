@@ -1,0 +1,11 @@
+Plain Title: Physical Activity Interventions for People with Congenital Heart Disease: A Review
+
+Rationale: Congenital heart disease (ConHD) affects around 1% of all babies born. People with ConHD are now living longer due to advances in medical care, but they are more likely to develop other health problems. Their overall fitness is reduced, which means they may not be as healthy as people without ConHD. It is important to study physical activity interventions for people with ConHD to see if they can help improve their health.
+
+Trial Design: This study looked at different physical activity interventions for people with ConHD. The researchers searched different databases and looked at randomized controlled trials that compared physical activity interventions to standard care. They included people of all ages with ConHD, and the studies lasted for about 12 weeks on average.
+
+Results: The study included 15 randomized controlled trials with a total of 924 participants. Some trials focused on children and adolescents, while others focused on adults. Three types of interventions were tested: physical activity promotion, exercise training, and inspiratory muscle training. The researchers found that physical activity interventions may slightly improve cardiorespiratory fitness. They also found that these interventions may increase mean daily physical activity and improve muscular strength. However, the evidence for the effect of these interventions on health-related quality of life was very uncertain.
+
+The overall conclusions from the researchers were that while there were some small improvements in fitness and physical activity, there were no serious adverse events reported. However, there is still not enough evidence to say for sure if physical activity interventions are effective for people with ConHD. More high-quality studies with longer follow-up periods are needed to determine the impact of these interventions.
+
+In summary, this study reviewed different physical activity interventions for people with congenital heart disease. It found that these interventions may have some benefits for cardiorespiratory fitness and daily physical activity, but more research is needed to fully understand their impact on health-related quality of life.

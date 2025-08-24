@@ -1,0 +1,32 @@
+Clinical Trial Results
+Did more participants who got the 1-strain vaccine have certain symptoms in the
+first 7 and the first 14 days compared to participants who got the placebo?
+No. Researchers also counted the number of participants who reported certain
+symptoms that researchers expected might occur in the first 7 and first 14 days after
+getting the 1-strain vaccine or the placebo. These symptoms included headache, runny
+nose, sore throat, tiredness, cough, muscle aches, chills, and vomiting. The tables below
+show how many participants had these symptoms in the first 7 and first 14 days after
+getting the 1-strain vaccine or the placebo.
+Symptoms in the first 7 days
+1-strain vaccine Placebo
+Symptom (Out of 241 participants) (Out of 59 participants)
+Headache 32 (13.3%) 13 (22.0%)
+Runny nose 31 (12.9%) 10 (16.9%)
+Sore throat 15 (6.2%) 8 (13.6%)
+Tiredness 11 (4.6%) 4 (6.8%)
+Cough 6 (2.5%) 5 (8.5%)
+Muscle aches 4 (1.7%) 3 (5.1%)
+Chills 3 (1.2%) 2 (3.4%)
+Vomiting 0 (0.0%) 0 (0.0%)
+Symptoms in the first 14 days
+1-strain vaccine Placebo
+Symptom (Out of 241 participants) (Out of 59 participants)
+Headache 39 (16.2%) 14 (23.7%)
+Runny nose 34 (14.1%) 11 (18.6%)
+Sore throat 18 (7.5%) 9 (15.3%)
+Tiredness 12 (5.0%) 4 (6.8%)
+Cough 8 (3.3%) 5 (8.5%)
+Muscle aches 6 (2.5%) 3 (5.1%)
+Chills 3 (1.2%) 2 (3.4%)
+Vomiting 1 (0.4%) 0 (0.0%)
+5

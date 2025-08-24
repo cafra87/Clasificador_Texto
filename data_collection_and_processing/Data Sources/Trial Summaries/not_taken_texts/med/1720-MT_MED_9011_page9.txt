@@ -1,0 +1,33 @@
+Clinical Study Results
+Group 6 Group 7 Group 8 Group 9 Total
+(Out of 3 (Out of 11 (Out of 12 (Out of 3 (Out of 47
+Adverse event participants) participants) participants) participants) participants)
+Nausea 100.0% (3) 45.5% (5) 83.3% (10) 100.0% (3) 70.2% (33)
+Fatigue 33.3% (1) 36.4% (4) 75.0% (9) 100.0% (3) 55.3% (26)
+Vomiting 66.7% (2) 54.5% (6) 41.7% (5) 66.7% (2) 46.8% (22)
+Diarrhea 33.3% (1) 45.5% (5) 66.7% (8) 100.0% (3) 42.6% (20)
+High levels of a liver
+0.0% (0) 45.5% (5) 66.7% (8) 66.7% (2) 42.6% (20)
+enzyme (AST)
+High levels of a liver
+0.0% (0) 45.5% (5) 66.7% (8) 66.7% (2) 40.4% (19)
+enzyme (ALT)
+Lower appetite 33.3% (1) 36.4% (4) 75.0% (9) 33.3% (1) 38.3% (18)
+Partial or complete
+0.0% (0) 36.4% (4) 50.0% (6) 66.7% (2) 25.5% (12)
+absence of hair
+Weight loss 66.7% (2) 9.1% (1) 25.0% (3) 66.7% (2) 25.5% (12)
+Constipation 100.0% (3) 36.4% (4) 16.7% (2) 33.3% (1) 25.5% (12)
+Abdominal pain 33.1% (1) 9.1% (1) 50.0% (6) 33.3% (1) 21.3% (10)
+High levels of a liver
+33.3% (1) 36.4% (4) 8.3% (1) 66.7% (2) 21.3% (10)
+enzyme (ALP)
+Dehydration 0.0% (0) 27.3% (3) 25.0% (3) 66.7% (2) 21.3% (10)
+Difficulty with
+0.0% (0) 9.1% (1) 33.3% (4) 66.7% (2) 17.0% (8)
+breathing
+Urinary tract
+0.0% (0) 18.2% (2) 33.3% (4) 33.3% (1) 17.0% (8)
+infection
+Low potassium 0.0% (0) 9.1% (1) 33.3% (4) 100.0% (3) 17.0% (8)
+9

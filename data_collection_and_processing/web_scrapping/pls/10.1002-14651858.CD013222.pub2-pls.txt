@@ -1,0 +1,9 @@
+The use of steroids in babies to manage rapid breathing (transient tachypnoea of the newborn) 
+Review question 
+Does giving steroids to babies with abnormally rapid breathing (also called transient tachypnoea of the newborn) improve lung function and reduce the need for breathing support? 
+Background 
+Transient tachypnoea of the newborn is characterized by a high respiratory rate (more than 60 breaths per minute) and signs of respiratory distress (difficulty in breathing). It typically appears within the first two hours of life in babies born at or after 34 weeks' gestational age. Although transient tachypnoea of the newborn usually improves without treatment, it might be associated with wheezing in late childhood. The idea behind using steroids for transient tachypnoea of the newborn is based on studies showing that steroids can reduce fluid from small cavities within the lungs called the alveoli. In this Cochrane Review, we reported and critically analyzed the available evidence on the benefit and harms of steroids in the management of transient tachypnoea of the newborn. 
+Study characteristics 
+We identified and included one study, which compared steroids with placebo (dummy pill) in 49 newborns. The steroids were given to babies by inhalation. We found no ongoing studies. The evidence is up to date as of February 2019. 
+Results 
+Steroids did not improve lung function or reduce the need for breathing support. Overall, we are uncertain as to whether steroids have an important effect on rapid breathing because the results are imprecise and based on only one small study. 

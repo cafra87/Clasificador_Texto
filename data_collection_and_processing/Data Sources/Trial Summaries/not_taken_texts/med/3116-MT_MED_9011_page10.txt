@@ -1,0 +1,29 @@
+To answer this question, the study doctors asked the participants to answer
+some questionnaires about their quality of life and their asthma symptoms. The
+participants answered these questionnaires at the beginning of the study and after
+they got study treatment. These questionnaires were:
+> Standardised Asthma Quality of Life Questionnaire for 12 Years and Older,
+also called AQLQ(S)+12
+> Asthma Control Questionnaire-6, also called ACQ-6
+> Asthma Symptom Diary, also called the ASD
+AQLQ(S)+12
+The participants gave responses to each question on the AQLQ(S)+12 on a scale
+from 1 to 7, which then gave a score. The researchers then calculated average
+AQLQ(S)+12 scores. A high average score meant that the participant’s asthma
+was not affecting their quality of life. A low average score meant that asthma was
+severely affecting their quality of life.
+The researchers compared the change in scores before and after 1 year of
+treatment. They compared the results for the participants who got tezepelumab
+to those for the participants who got the placebo. An increase in average
+AQLQ(S)+12 score meant that the participants felt that study treatment helped
+their quality of life.
+Overall, the researchers found that the change in average AQLQ(S)+12 score was:
+> an increase of 1.48 for the participants who got tezepelumab
+> an increase of 1.14 for the participants who got the placebo
+ACQ-6
+The participants received scores from 0 to 6 on each question based on their
+responses to the ACQ-6. From the responses to the ACQ-6, the researchers
+calculated average ACQ-6 scores. A high average ACQ-6 score meant that the
+participant’s asthma was not well controlled, and a low average ACQ-6 score
+meant that the participant’s asthma was well controlled.
+10 | Clinical Study Results

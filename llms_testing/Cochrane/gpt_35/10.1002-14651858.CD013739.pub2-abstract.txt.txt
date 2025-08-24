@@ -1,0 +1,18 @@
+Plain Title: Anticoagulants in Hospitalized COVID-19 Patients: Findings and Recommendations
+
+Rationale: 
+COVID-19 is a respiratory illness caused by the coronavirus. It can lead to breathing problems and blood clotting in the lungs or other parts of the body. Blood clots in COVID-19 patients can make their condition worse. Anticoagulants are drugs used to prevent and treat blood clots. They also have anti-inflammatory effects. However, it is still not clear if anticoagulants are beneficial for COVID-19 patients.
+
+Trial Design:
+This study looked at the benefits and risks of using anticoagulants in people who were hospitalized with COVID-19. The study included different types of anticoagulants and compared them to other treatments or no treatment. The participants in the study were from different countries and were either in intensive care units, regular hospital wards, or emergency departments. The study followed them for 15 to 90 days.
+
+Results:
+Higher doses of anticoagulants did not significantly affect the risk of death in COVID-19 patients compared to lower doses. However, higher doses did increase the risk of minor bleeding. Higher doses may reduce the risk of blood clots in the lungs, but they also slightly increase the risk of major bleeding. The effects of higher doses on other outcomes, such as the need for additional breathing support and quality of life, were unclear due to limited evidence.
+
+Compared to no treatment, anticoagulants may reduce the risk of death in COVID-19 patients. However, this evidence comes from non-randomized studies and is uncertain. It is also unclear if anticoagulants affect other outcomes like the need for breathing support, blood clots, major bleeding, stroke, heart attack, or quality of life.
+
+Ongoing studies:
+There are currently 62 ongoing studies in hospitals around the world. These studies will provide more information about the effects of anticoagulants in COVID-19 patients. Some studies will compare different doses of anticoagulants, while others will compare anticoagulants to no anticoagulants. Some studies will also compare different types of anticoagulants. These studies are expected to be completed by December 2021 or July 2022.
+
+Conclusion:
+In hospitalized COVID-19 patients, higher doses of anticoagulants do not significantly affect the risk of death but increase the risk of minor bleeding. They may reduce the risk of blood clots in the lungs but may also slightly increase the risk of major bleeding. Anticoagulants may reduce the risk of death compared to no treatment, but more high-quality studies are needed to confirm these findings. Researchers are still studying the effects of anticoagulants on other outcomes and different doses and types of anticoagulants.

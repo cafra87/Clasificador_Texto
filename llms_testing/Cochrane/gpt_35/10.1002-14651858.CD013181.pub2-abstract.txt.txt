@@ -1,0 +1,13 @@
+Plain Title: Safety and Effectiveness of Self-Administered vs Provider-Administered Medical Abortion
+
+Rationale:
+Medical abortion has made it easier for women to access safe abortion procedures. There are two ways to administer the drugs involved in medical abortion: either with the help of a healthcare provider or by the woman herself. Self-administration of medical abortion has the potential to give women control over the process and reduce the burden on healthcare systems. However, it is important to understand if self-administration is safe and effective, considering factors like accurate information, high-quality drugs, and access to facility-based care for complications.
+
+Trial Design:
+This study compared the safety, effectiveness, and acceptability of self-administered medical abortion with provider-administered medical abortion in any setting. The study included randomized controlled trials (RCTs) and prospective cohort studies that compared these two methods of medical abortion. The research involved women undergoing early medical abortion (up to 9 weeks gestation), and the studies took place in different countries, both low-resource and high-resource settings.
+
+Results:
+The study found no evidence of a difference in successful abortions between self-administered and provider-administered groups. This means that self-administration of the second stage of medical abortion procedures is just as effective as when the drugs are administered by a healthcare provider. There also may be little or no difference in ongoing pregnancies between the two groups. However, there is uncertainty about this evidence. The study was unable to determine if there are any differences in complications requiring surgical intervention, as there was limited evidence available.
+
+Conclusions:
+Based on the available evidence, self-administration of medical abortion is as safe and effective as provider-administered procedures for the success of the abortion. However, there is uncertainty about the outcome of ongoing pregnancy and the risk of complications requiring surgical intervention. This is due to the limited quality of the research studies and potential biases. Future research should focus on investigating the effectiveness and safety of self-administered medical abortion without healthcare provider supervision throughout the entire process. It is also important to understand how to best support and inform women who choose self-administration, including when to seek clinical care.

@@ -1,0 +1,21 @@
+Description of Adverse Reactions and Their Frequency
+Adverse Reactions
+Researchers collect information about the safety of study medicines.
+• An adverse reaction means a medical problem that develops during the study that
+the doctor thinks could have been caused by the patient’s study medicine.
+• A serious adverse reaction means an adverse reaction that is life threatening,
+requires hospitalization, or results in death or permanent damage.
+For blinded studies, the study doctor does not know if the patient is receiving placebo or
+an active medicine. In some cases, adverse reactions will be assigned to placebo.
+Table 2 shows the serious adverse reactions reported by one or more patients.
+Table 2. Serious Adverse Reactions
+Fluticasone Furoate Vilanterol Placebo
+and Vilanterol
+141 patients* 158 patients* 145 patients*
+Severe COPD 1 of 141 0 of 158 1 of 145
+Symptoms (Less than 1%) (0%) (Less than 1%)
+(Exacerbation)
+Pneumonia 0 of 141 0 of 158 1 of 145
+(0%) (0%) (Less than 1%)
+*The safety population included additional patients who took at least one dose of the
+study medicine.

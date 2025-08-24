@@ -1,0 +1,13 @@
+1. Plain Title: 
+   A Look at Different Ways to Prevent Sickness at High Altitudes
+
+2. Rationale: 
+   Going to high altitude places (above 8,200 feet) can often cause a group of health problems affecting the brain and lungs. These are typically known as high altitude illnesses which include acute mountain sickness, high altitude cerebral oedema, and high altitude pulmonary oedema. These issues can happen to anyone and are especially a concern for those planning to travel to high altitude areas. The study was conducted to explore several non-drug methods and other miscellaneous actions that could help prevent these illnesses. The hope was to find effective ways that can be administered to people before their ascent to high altitudes.
+
+3. Trial Design: 
+   This study looked at various measures that could help in preventing high altitude illnesses. The involved people were ones who stand at risk of the illness, whether they had experienced it before or not, and there was no restriction based on age or gender. Methods tested didn’t involve any drugs, they included different environment conditioning methods and intake of certain supplements. The study documented each method administered before the individual's ascent and followed a standard method for analyzing the data collected.
+
+4. Results: 
+   The study involved 20 different tests involving 1406 participants. It looked at three groups of preventive methods. The first group simulated high altitude conditions and measured the body’s ability to prevent sickness subsequently. The results were uncertain, though one pressure-based method showed promise. In the second group, various supplements were used like antioxidants, iron, and Rhodiola crenulata, but the results were again uncertain. Only erythropoietin, a type of drug, showed some improvement in preventing sickness. However, the trial had some issues, providing very low-quality evidence. Lastly, the third group compared different treatment methods. Results varied based on the mix of treatments used. Yet, it's important to mention that the quality of the evidence provided was low, as the study found a lack of data on the risk of side effects from these interventions. 
+
+In conclusion, while this study is part of a series of studies looking into how to prevent high altitude sicknesses, the evidence gathered here is not definite. The effectiveness of the preventive strategies varied, and their safety remains unclear due to the lack of assessment. More research is needed, especially comparing these methods with drug-based treatments to confirm their usefulness.

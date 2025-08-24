@@ -1,0 +1,252 @@
+Clinical Study Results
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review .
+Sponsor:    Pfizer Inc. 
+Medicine(s) Studied: PF-06804103
+Protocol Number: C0541001
+Dates of Study: 01November 2017 to 31 August 2021  
+Title of this Study: PF-06804103 Dose Escalation in HER2 Positive and 
+Negative Solid Tumors
+[A Phase 1 Dose Escalation Study Evaluating the 
+Safety and Tolerability of PF -06804103 in Patients 
+With Human Epidermal Growth Factor Receptor 2 
+(HER2) Positive and Negative Solid Tumors ]
+Date(s) of this Report: 15July2022
+–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation. 
+This summary will describe the study results.  If you have any questions about the study 
+or the results, please contact the doctor or staff at your study site.Why was this study done?
+What are HER2 -positive, HER2 -negative, and HER2 -low tumors?
+Cancer is the name for a group of diseases in which abnormal cells divide without 
+control.  Most types of cancer cause solid tumors to form, which are masses of these 
+abnormal cells.  Breast cancer is cancer that begins in the breast.  Gastric cancer is 
+cancer that begins in the stomach.
+Some people with cancer have high levels of a certain protein receptor on the surface 
+of their cancer cells. This protein is called HER2 (human epidermal growth factor 
+receptor 2). A cell with too many HER2 receptors is stimulated to grow and m ultiply 
+too fast and can become a cancer.  When people with cancer have too much of this 
+protein their cancer is called “HER2 -positive”.  When people with cancer do not have 
+too much of this protein their cancer is called “HER2 -negative”.  Some people with
+cancer are considered to have “HER2 -low” cancer, which means that their cancer is 
+HER2 -positive, but with lower amounts of HER2.
+What is PF -06804103?
+PF-06804103 is an investigational drug that was being studied for the treatment of 
+HER2 -positive breast a nd gastric cancers.  An investigational drug is one that has not 
+been approved for use outside of research studies.  PF-06804103 is given as an IV 
+(intravenous; through a needle in the vein) on Day 1 of 21 -day or 28 -day “treatment 
+cycles”.
+What was the purpose of this study?
+The main purposes of this study were to learn more about the safety and about the 
+possible effectiveness of PF-06804103, and to determine the recommended dose of 
+PF-06804103 to study further .Researchers wanted to know:
+What medical problems did participants have? 
+During Part 1, did participants have any “dose -limiting toxicities”?
+During Part 2, how many participants had a reduction in tumor 
+size?
+During Part 2, how long did it take for cancer to get worse?
+During Part 2, how long did participants survive without cancer 
+getting worse?
+During Part 2, how long did PF -06804103 continue to help cancer?
+“Dose -limiting toxicities” (DLTs) are certain medical problems caused by taking 
+PF-06804103 which require the patient to lower the dose or stop taking the medicine 
+(permanently or temporarily). 
+What happened during the study? 
+How was the study done?
+Researchers studied a group of participants to learn more about the safety and the 
+possible effectiveness of PF-06804103 , and to determine the recommended dose of 
+PF-06804103 to study further .  
+Participants included in the study :
+Were examined by a study doctor and determined to be appropriate to 
+participate 
+Were adultsMen could join Part 1A of the study; other parts of this study enrolled women 
+only
+Had breast cancer that was estrogen -receptor or progesterone -receptor positive 
+(meaning that hormones stimulate the growth of the tumor); Part 1A also 
+enrolled participants with gastric cancer
+Had cancer that was HER2 -positive or HER2 -lowassessed by a diagnostic test
+Had cancer that either did not adequately improve with standard treatments, 
+returned after initially improving with standard treatments, or for which no 
+standard treatments were available
+Had cancer that was considered to be advanced (unlikely to be cured), or that 
+had spread to other parts of the body beyond the breast or stomach
+Part 1A
+This part of the study included men and women with breast cancer or stomach 
+cancer.  Participants received increasing doses of PF-06804103 ,starting with 
+0.15 milligrams (mg) per kilogram (kg) of body weight every 3 weeks, to help 
+determine the recommended dose to study further.  Part 1A participants were 
+assigned to “cohorts” (smaller groups) of about 2 to 4 participants.  So, the first 
+coho rt received 0.15 mg/kg, the second cohort received 0.5 mg/kg, and so on.  The 
+study doctors monitored the participants for DLTs. If participants from a cohort had 
+too many DLTs, PF-06804103 doses would not be increased any further.
+The chart below shows t he doses that were to be tested in Part 1A.
+Cohort/Dose Level PF-06804103 Dose
+(mg/kg)* 1 (Starting Dose) 0.15
+2 0.5
+3 1.2
+4 2.0
+5 3.0
+6 4.0
+7 5.0Part 1B
+This part of the study included 2 women with breast cancer.  Participants received 
+2mg/kgPF-06804103 .  Additionally, participants in Part 1B received 125 mg 
+palbociclib by mouth every day for 3 weeks and 2.5 mg letrozole by mouth every day 
+for 4 weeks (standard treatments for breast cancer).  
+Part 2A
+This part of the study included 46 women with breast cancer.  Participants were 
+randomly assigned (like the flip of a coin) to receive either PF -06804103 4 mg/kg 
+every 3 weeks or PF -06804103 3 mg/kg every 3 weeks.
+It was also planned to have a Part 2B, but the study was stopped before any 
+participants were treated in that part of the study.
+Depending on the part of the study they were in, participants were expected to attend 
+visits at the study center as follows:
+Treatment Cycle 1: Days 1, 4, 8, 15
+Treatment Cycles 2 and 3 : Days, 1, 8, 15
+Treatment Cycle 4: Days 1, 4, 8, 15
+Treatment Cycles 5 and Later: Days, 1, 8, 15
+Participants were also expected to attend an end -of-treatment visit and a 
+follow -up visit about 1 month later.
+Study participants had the option to receive acetaminophen and d iphenhydramine 
+about ½ hour to 2 hours before their PF -06804103, to help prevent possible adverse 
+reactions.  This was an open -label study, which means that the participants, 
+researchers, and study doctors knew which treatments the participants received.
+The figure below shows what happened during the study.Where did this study take place? 
+The study was conducted at 36 locations in Australia, Italy, Russia, Spain, South 
+Korea, and the United States.
+When did this study take place?
+It began 01November 2017 and ended 31 August 2021.
+Who participated in this study?
+A total of 95 participants joined this study: 47 participants in Part 1A, 46 participants 
+in Part 2A, and 2 participants in Part 1B.
+A total of 77 women (81%) and 18 men (19%) participated
+All participants were between the ages of 32 and 77 years 
+Participants could be treated as long as they continued to benefit from PF-06804103 , 
+or until the study ended.  Of the 95 participants who started the study, 93 (98%) 
+entered the follow -up phase of the study and 56 participants (59%) completed the 
+follow -up phase of the study. 
+A total of 3 7participants ( 39%) did not finish the follow -up phase because :
+they w ithdrew from the study : 19 participants (20%)
+they were lost to follow -up (could not be contacted by study staff): 
+5participants (5%)
+they passed away : 5 participants (5%)
+the sponsor ended the study: 4 participants (4%)
+other reason: 4 participants (4%)
+How long did the study last?
+The amount of time that participants were in the study varied depending on how they 
+responded to study treatment.  The entire study took almost 4 years to complete.  The 
+Sponsor decided to end the study in August 2021.  This decision was made for 
+business reasons and was not due to any safety concerns about PF-06804103.  T he 
+Sponsor began reviewing the information collected and created a report of the results.  
+This is a summary of that report.
+What medical problems did participants have during 
+the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by the study treatment or by another medicine the participant 
+was taking.  Sometimes the cause of a medical problem is unknown.  By comparing medical problems across many treatment groups in many studies, doctors try to 
+understand wha t effects a study medication might have on a participant.
+All 95 participants (100%) in this study had a medical problem, and 89 participants 
+(94%) had a medical problem that was considered to be related to the study treatment.
+A total of 39 (41%) participants stopped taking study treatment because of medical 
+problems.  The table below shows the most common medical problems —those 
+occurring in at least 30% of participants —that happened during the study, some of 
+which resulted in participants having to stop treatment.
+Below are instructions on how to read Tables 1 and 2. 
+Instructions for Understanding Tables 1 and 2. 
+The 1stcolumn of Table 1 lists medical problems that were commonly reported 
+during the study.  All medical proble ms reported by at least 30% of participants are 
+listed.
+The 2ndcolumn tells how many of the 95 participants treated with PF-06804103
+reported each medical problem.  Next to this number is the percentage of the 
+95participants treated with PF-06804103 who reported the medical problem. 
+Using these instructions, you can see that 43 (45%) participants reported hair loss.Did study participants have any dose -limiting toxicities (DLTs)?
+During Part 1A, 4 out of 47 (9%) participants had DLTs:
+1 participant in the PF-06804103 3 mg/kg cohort had joint pain and 
+nerve pain
+1 participant in the PF -06804103 3 mg/kg cohort had musculoskeletal 
+(muscles, bones, and joints) pain 
+1 participant in the PF-06804103 4 mg/kg cohort had decreased ability of 
+the heart to pump bloodTable 1. Commonly reported medical problems by study participants 
+Medical Problem PF-06804103 
+(95 Participants)
+Hair loss 43 out of 95 participants
+(45%)
+Feeling tired 39 out of 95 participants
+(41%)
+Numbness, pain, or weakness in hands or feet 
+caused by nerve damage31 out of 95 participants
+(33%)
+Muscle pain 30 out of 95 participants
+(32%)
+Constipation 29 out of 95 participants
+(31%)
+Rash 29 out of 95 participants
+(31%)1 participant in the PF-06804103 4 mg/kg coho rt had muscle pain, joint 
+pain, and tiredness
+Based on these results, the researchers selected 4 mg/kg as the recommended dose to 
+study further, with flexibility to reduce to a lower dose (such as 3 mg/kg), if needed.
+Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  A total of 38 out of 95 (40%) participants had 
+serious medical problems, and 19 (20%) participants had seriou s medical problems 
+that were considered to be related to study treatment.  The table below shows the 
+most common serious medical problems —those occurring in 2 or more 
+participants —that happened during the study.Eight participants (8%) died during this study.  These deaths were due to worsening 
+cancer and were not considered to be related to study treatment.
+What were the results of the study?
+During Part 2, how many participants had a reduction in tumor 
+size?
+In Part 2A, 10 out of 36 (28%) participants had a reduction in tumor size (meaning 
+their tumors got smaller).  Table 2. Commonly reported serious medical p roblems by study 
+participants 
+Serious Medical Problem PF-06804103 
+(95 Participants)
+Blockage of bowel 6 out of 95 participants
+(6%)
+Kidney failure 2 out of 95 participants
+(2%)
+Deep infection of the skin (cellulitis) 2 out of 95 participants
+(2%)
+Decreased appetite 2 out of 95 participants
+(2%)
+Muscle pain 2 out of 95 participants
+(2%)
+Rash with pus -filled bumps 2 out of 95 participants
+(2%)The figure below shows this result.
+During Part 2, how long did it take for cancer to get worse?
+During Part 2A, there were 16 participants wh ose cancer worsened during the 
+study.  Among these participants, the median amount of time that it took cancer to 
+get worse was about 5.5 months. Median means the middle amount.  So, cancer 
+worsened before 5.5 months for half of the separticipants, and af ter 5.5 months for 
+half of the separticipants.
+During Part 2, how long did participants survive without cancer 
+getting worse?
+The median amount of time that participants in Part 2A survived without cancer 
+getting worse was about 5.5 months.  So, half of these participants survived without 
+cancer getting worse for longer than 5.5 months, and half of these participants 
+survived wit hout cancer getting worse for less than 5.5 months. 
+During Part 2, how long did PF -06804103 continue to help cancer?
+In Part 2A, the median amount of time that PF -06804103 continued to help two 
+participants with HER2 -positive breast cancer was 2.9 months.   The median 
+amount of time that PF -06804103 continued to help two participants with 
+HER2 -low breast cancer was 4.4 months.  
+The figure below shows these results.
+This does not mean that everyone in this study had these results.  This is a summary 
+of just some of the main results of this study.  Other studies may have different 
+results.
+Where can I learn more about this study?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+www.clinicaltrials.gov Use the study identifier NCT03284723
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients.
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you helped 
+us to do that !

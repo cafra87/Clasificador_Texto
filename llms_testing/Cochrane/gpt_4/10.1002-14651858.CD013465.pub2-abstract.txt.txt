@@ -1,0 +1,11 @@
+1. Plain Title: 
+Understanding the effect of personalized breast milk fortification on premature babies 
+
+2. Rationale:
+Babies born too early or too small (weighing less than 5.5 pounds) need special care to grow. They often struggle with health issues like slow growth. Mother's milk is best for them, but even with this, they may not grow as quickly as needed. This is why mother's milk is usually fortified - that is, extra nutrients are added. The usual method of adding nutrients does not consider the uniqueness of each baby or the differences in mothers' milk. New methods have been developed that add nutrients according to each baby's needs or the nutrient content of each mother's milk. This study was done to find out if these new methods are safe and effective in helping such babies grow and reduce the risk of death or illness.
+
+3. Trial Design: 
+The study involved a review of several trials - 7 trials with a total of 521 babies. All the babies were born too early (less than 37 weeks) or too small (less than 5.5 pounds) and fed only breast milk. In these trials, the babies were divided into two groups. One group was given the usual fortification, while the other received fortification that varied according to their needs or the nutrient content of the milk. The trials lasted between 2 to 7 weeks, and the researchers gathered data about the babies' growth - how their weight, body length, and head size changed. 
+
+4. Results:
+The research results showed that personalizing the addition of nutrients to breast milk helped premature babies gain weight, increase body length, and head size faster during the study period. The research, however, could not prove with certainty that the new methods were better or worse than the usual method in lessening the risk of in-hospital death, lung diseases, bowel diseases, serious eye conditions, weak bones, length of hospital stay, or growth after the hospital stay. More research is needed to find out if these new methods are safe in the long term and if they have clinical benefits beyond faster growth. But overall the results suggest that personalized fortification might be a better approach towards nurturing growth in premature babies than the non-individualized ones.

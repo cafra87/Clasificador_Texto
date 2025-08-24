@@ -1,0 +1,37 @@
+Clinical Study Results
+How long the participants lived after starting the study
+The researchers found that the participants who got durvalumab and tremelimumab together did
+not live longer compared to the participants who got SOC treatment.
+Overall, the researchers found that after starting the study:
+• The participants who got durvalumab and tremelimumab together lived for a median of about
+11.9 months.
+• The participants who got SOC treatment lived for a median of about 12.9 months.
+The figure below shows these results.
+Median amount of time the participants
+lived after starting the study
+36
+)shtnom(
+30
+24
+emit
+18
+11.9 months 12.9 months fo
+12
+tnuomA
+6
+0
+Group 2 Group 3
+(durvalumab and (SOC treatment)
+tremelimumab)
+Did the participants who got durvalumab and tremelimumab together live longer
+without their cancer getting worse compared to the participants who got SOC
+treatment?
+No. The researchers found that the participants who got durvalumab and tremelimumab together
+did not live longer without their cancer getting worse compared to the participants who got SOC
+treatment.
+To answer this question, the researchers compared:
+• the “hazard ratio” between the 2 groups
+• how long the participants lived before their cancer got worse
+• the percentage of participants likely to be alive without their cancer getting worse 1 year after
+starting treatment
+9

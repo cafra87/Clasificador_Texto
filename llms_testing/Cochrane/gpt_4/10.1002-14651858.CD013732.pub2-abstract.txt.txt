@@ -1,0 +1,13 @@
+1. Plain Title
+Can Pain Medication Help Newborns on Breathing Machines?
+
+2. Rationale 
+Being placed on a breathing machine can cause discomfort and potentially pain, which is a common situation in newborns admitted to the intensive care unit. Pain is an especially big concern in newborns because they can experience it more intensely than adults and it may affect their development. Prescription pain medications, known as opioid analgesics, could help ease such pain and discomfort, and potentially improve the overall healing and development process for these tiny patients. The main goal of this study was to understand whether using these pain medications has more benefits or harms for newborns on breathing machines compared to newborns not given these drugs.
+
+3. Trial Design 
+The study was conducted by comparing the effects of pain medications to other treatments like placebos (sugar pills), other kinds of pain medicines, or sedatives in babies on breathing machines. Both full term and preterm (born earlier than 37 weeks) babies on breathing machines were included in the study. The treatment period and dosages varied and babies given pain medications just for specific procedures were not included. The information from 23 other studies conducted between 1992 and 2019 involving 2023 infants was collected and analyzed. 
+
+4. Results
+The analysis of these 23 studies showed mixed results. Depending on the baby's level of prematurity and the type of medication (morphine or fentanyl), the pain score either improved or remained about the same in the period after the medication was given. These medicines showed little or no impact in shortening the time babies needed to stay on breathing machines. The death rate amongst newborns who received these medicines was also not significantly different from those who didn't. There weren't enough reported data to determine the impact of these medications on the babies' development 18-24 months down the line. 
+
+In conclusion, while it's unclear whether pain medications can help manage pain and improve developmental outcomes for newborns on breathing machines, their ability to shorten time on the machine or decrease newborns' mortality rate seems minimal. Despite this, we can't totally eliminate the use of these medications, because their effect might differ from baby to baby. It's crucial to take into account all the factors and symptoms of each individual baby before deciding on a treatment route. Because it's hard to measure pain in newborns, doctors must use their experience and observation skills to decide when pain medications are needed.

@@ -1,0 +1,28 @@
+Clinical Study Results
+Adverse events may or may not be caused by the treatments in the study. A lot of
+research is needed to know whether a treatment causes an adverse event.
+Groups 1 to 3 Groups 4 to 8
+MEDI0562 and MEDI0562 and
+durvalumab tremelimumab
+(out of 27 (out of 31
+participants) participants)
+How many participants had adverse
+96.3% (26) 100.0% (31)
+events?
+How many participants had serious
+51.9% (14) 51.6% (16)
+adverse events?
+How many participants stopped
+taking any study treatment because 22.2% (6) 19.4% (6)
+of adverse events?
+The most common serious adverse events are shown in the table below.
+Most common serious adverse events in the study
+Serious adverse event
+Water on the lungs
+Inflammation of large bowel
+Tumor pain
+Stomach pain
+Constipation
+Blockage in the small intestine
+Reaction related to the IV infusion
+7

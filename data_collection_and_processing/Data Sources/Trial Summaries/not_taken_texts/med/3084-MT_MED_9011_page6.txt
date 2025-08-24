@@ -1,0 +1,37 @@
+Clinical Study Results
+Researchers measure HbA1c by using a percentage. In this study, the researchers calculated
+the change in the participants’ HbA1c after 14 weeks of treatment. This is also called the LS
+mean method. In this study, the LS mean method helped the researchers accurately measure
+the change in the participants’ blood sugar levels and weight.
+The researchers compared the results for the participants who got MEDI0382 to the results for
+the participants who got the placebo. The results for the participants who got liraglutide are also
+presented below, but those results were not the main focus of the study.
+Overall, the researchers found that after 14 weeks of treatment:
+• The participants who got 100 μg of MEDI0382 had an LS mean decrease in their blood sugar
+levels of 1.01%.
+• The participants who got 200 μg of MEDI0382 had an LS mean decrease in their blood sugar
+levels of 1.22%.
+• The participants who got 300 μg of MEDI0382 had an LS mean decrease in their blood sugar
+levels of 1.09%.
+• The participants who got 1.8 mg of liraglutide had an LS mean decrease in their blood sugar
+levels of 1.22%.
+• The participants who got the placebo had an LS mean decrease in their blood sugar levels
+of 0.18%.
+The figure below shows these results.
+Average decrease in HbA1c after 14 weeks
+100 μg 200 μg 300 μg 1.8 mg
+MEDI0382 MEDI0382 MEDI0382 liraglutide Placebo
+0
+0.18% )%(
+decrease
+-1 naem
+1.01% 1.09%
+1.22% 1.22%
+decrease decrease
+decrease decrease SL
+-2
+ni
+egnahC
+-3
+-4
+6

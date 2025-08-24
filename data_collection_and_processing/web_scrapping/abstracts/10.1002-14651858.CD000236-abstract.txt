@@ -1,0 +1,14 @@
+Background
+Long‐term levodopa therapy in Parkinson's disease is associated with the development of motor complications including abnormal involuntary movements and a shortening response to each dose (wearing off phenomenon). It is thought that dopamine agonists can reduce the duration of immobile off periods and the need for levodopa therapy whilst maintaining or improving motor impairments and only minimally increasing dopaminergic adverse events. 
+Objectives
+To compare the efficacy and safety of adjunct pergolide therapy versus bromocriptine in patients with Parkinson's disease, already established on levodopa and suffering the long‐term complications of therapy. 
+Search methods
+Electronic searches of MEDLINE, EMBASE and the Cochrane Controlled Trials Register. Handsearching of the neurology literature as part of the Cochrane Movement Disorders Group's strategy. Examination of the reference lists of identified studies and other reviews. Contact with Eli Lilly Company and Sandoz Limited. 
+Selection criteria
+Randomised controlled trials of pergolide versus bromocriptine in patients with a clinical diagnosis of idiopathic Parkinson's disease and long‐term complications of levodopa therapy. 
+Data collection and analysis
+Data was abstracted independently by each author and differences settled by discussion.
+Main results
+Three short‐term trials fulfilled the inclusion criteria for the review. Pergolide was superior to bromocriptine regarding UPDRS and NYPDS motor and NYPDS ADL scores in two trials. More patients recorded a 'marked' or 'moderate improvement' in clinician's global impression score with pergolide than bromocriptine in two studies. Insufficient evidence on fluctuations and dyskinesia was available to draw any conclusions. No significant differences between the agonists were seen in levodopa dose reduction, drop outs or adverse events. 
+Authors' conclusions
+Although pergolide is superior to bromocriptine in reducing motor impairments and disability, no firm conclusions regarding levodopa‐induced motor complications can be reached. Levodopa dose reduction, adverse events and withdrawals from treatment are similar for the two agonists. The small advantage of pergolide in efficacy does not take into account its additional cost compared with bromocriptine. 

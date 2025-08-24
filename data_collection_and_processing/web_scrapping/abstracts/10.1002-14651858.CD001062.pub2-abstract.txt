@@ -1,0 +1,14 @@
+Background
+Abdominal decompression was developed as a means of pain relief during labour. It has also been used for complications of pregnancy, and in healthy pregnant women in an attempt to improve fetal wellbeing and intellectual development. 
+Objectives
+The objective of this review was to assess the effects of prophylactic abdominal decompression on pregnancy outcomes such as admission for pre‐eclampsia, fetal growth, perinatal morbidity and mortality and childhood development. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (2 February 2012). 
+Selection criteria
+Randomised trials comparing abdominal decompression with dummy decompression or no treatment in healthy pregnant women. 
+Data collection and analysis
+Both review authors assessed eligibility and trial quality.
+Main results
+Three studies were included. There was no difference between the abdominal decompression groups and the control groups for low birthweight (risk ratio (RR) 0.69, 95% confidence interval (CI) 0.27 to 1.77) and perinatal mortality (RR 2.47, 95% CI 0.77 to 7.92). There were no differences in admission for pre‐eclampsia, Apgar score and childhood development. 
+Authors' conclusions
+There is no evidence to support the use of abdominal decompression in normal pregnancies. Future research should be directed towards the use of abdominal decompression during labour, and during complicated pregnancies. 

@@ -1,0 +1,16 @@
+Plain Title: Effects of Low-Sodium Salt Substitutes on Blood Pressure and Cardiovascular Health
+
+Rationale: 
+High blood pressure is a major cause of preventable deaths worldwide. Diets that are high in sodium and low in potassium contribute to elevated blood pressure. To reduce hypertension and its associated health problems, the World Health Organization (WHO) recommends strategies to decrease the population's sodium intake. One potential strategy is to replace regular salt with low-sodium salt substitutes (LSSS) that contain lower concentrations of sodium and higher levels of potassium. These substitutes have the potential to lower blood pressure and are relatively affordable. However, concerns have been raised about potential adverse effects, such as hyperkalemia (high blood potassium levels), particularly in individuals with chronic kidney disease or those taking medications that affect potassium excretion.
+
+Trial Design:
+This study aimed to assess the effects and safety of replacing salt with LSSS to reduce sodium intake and improve cardiovascular health. The researchers conducted a search of various databases and included randomized controlled trials (RCTs) and prospective cohort studies involving participants of any age from any country. The studies compared different types and methods of implementing LSSS with regular salt or no intervention. The outcomes of interest included changes in blood pressure, cardiovascular events, and potassium levels. The analysis was stratified by adults, children, and pregnant women. 
+
+Results:
+The study included a total of 26 RCTs involving 34,961 adult participants, 92 children, and no pregnant women. The majority of the trials were conducted in rural or suburban settings, with over half of them taking place in low- and middle-income countries. The proportion of sodium chloride replacement in the LSSS interventions varied, with most using potassium-containing salts to substitute sodium. The duration of the trials ranged from two months to nearly five years.
+
+In adults, LSSS compared to regular salt were found to slightly reduce diastolic blood pressure (the bottom number in a blood pressure reading) and systolic blood pressure (the top number). LSSS also showed slight reductions in non-fatal stroke, non-fatal acute coronary syndrome, and cardiovascular mortality in adults. However, LSSS slightly increased blood potassium levels. The effects of LSSS on hypertension and hyperkalemia were uncertain.
+
+For children, there was very limited evidence on the effects of LSSS on blood pressure and potassium levels, and no evidence on hypertension, hyperkalemia, and hypokalemia.
+
+Based on the findings, it can be concluded that LSSS interventions may have small but potentially meaningful effects on blood pressure and cardiovascular health in adults. However, more research is needed to understand the safety and effectiveness of LSSS in different populations, including pregnant women and individuals at risk of high potassium levels. The effects of non-discretionary LSSS implementations and the impact on blood pressure in children remain uncertain.

@@ -1,0 +1,24 @@
+Clinical Study Results
+What adverse reactions did the participants have?
+The most common adverse reaction was diarrhea.
+The adverse reactions in the table below happened in 10.0% or more of the participants
+overall. There were other adverse reactions, but those happened in fewer participants.
+Most common adverse reactions during the study
+Part A 200 mg Part A 175 mg Part B 175 mg
+AZD1775 AZD1775 AZD1775 Total
+(out of 7 (out of 5 (out of 80 (out of 92
+participants) participants) participants) participants)
+Diarrhea 85.7% (6) 40.0% (2) 56.3% (45) 57.6% (53)
+Nausea 100.0% (7) 40.0% (2) 42.5% (34) 46.7% (43)
+Tiredness 71.4% (5) 40.0% (2) 36.3% (29) 39.1% (36)
+Vomiting 85.7% (6) 60.0% (3) 18.8% (15) 26.1% (24)
+Decreased appetite 28.6% (2) 20.0% (1) 12.5% (10) 14.1% (13)
+How has this study helped patients and researchers?
+This study helped researchers learn more about how AZD1775 works in patients with
+advanced solid tumors, and what AZD1775 dose is safest to take.
+Researchers look at the results of many studies to decide which treatments work best
+and are safest. This summary shows only the main results from this one study. Other
+studies may provide new information or different results.
+Other clinical studies with AZD1775 are ongoing at the time of the writing of this
+document.
+11

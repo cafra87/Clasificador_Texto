@@ -1,0 +1,13 @@
+Page 5 of 8
+What were the main results of the study?
+Study doctors assessed each participant’s cancer using physical examinations, scans, and
+blood tests. They recorded the time in months from the day the participant entered the
+study until the participants’ death. This is called Overall Survival (OS).
+How long did the participants live after starting the treatment?
+The median OS was calculated for each treatment group as shown in the ‘Overall survival of
+participants’ figure. Median is the number in the middle of the ordered list, with equal
+values above and below this number.
+Participants in the feladilimab + docetaxel group received treatment ranging from 1 day to
+2 years. Participants in the docetaxel alone group received treatment ranging from 1 day to
+about 6 months. The results showed that the median OS between the two groups was
+similar.

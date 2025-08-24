@@ -1,0 +1,21 @@
+Atopic dermatitis (or “AD”), which is also sometimes called atopic eczema, is a
+common skin disorder that causes patches of flaky, red, and very itchy skin. Some of 
+the current medicines available for AD can only be used for short time periods, or can 
+cause other health problems. Researchers are looking for new treatments for AD that 
+can be taken for long periods of time.
+While researchers think that many th ings cause AD, it is made worse by the body’s
+immune system (the body’s defense against infection) causing redness and swelling
+(inflammation). Cells in the immune system trigger inflammation by making special
+proteins called “cytokines”. Researchers thi nk that medicines that modify the way 
+these cytokines work could help treat patients with AD .  
+The drug tested in this study was PF -04965842, which now has the generic name
+abrocitinib. PF-04965842 is an experimental drug that has not been approved for 
+sale. PF-04965842 blocks the activity of a protein called “Janus kinase 1”, which acts 
+like an on/off switch for the cells of the immune system. By blocking Janus kinase 1 
+activity , the signal to the cells that triggers inflammation is modified.
+Patien ts with AD can have “flare -ups”, which are times when AD symptoms are 
+worse.  The researchers in this study wanted to learn if patients who saw 
+improvement in AD after beginning PF -04965842 would be able to maintain this 
+improvement and have fewer flare -ups.  The researchers asked this question: 
+How many patients who took PF-04965842 had a flare -up, compared to 
+patients who took placebo?

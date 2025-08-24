@@ -1,0 +1,15 @@
+1. Plain Title: 
+Understanding Best Treatments to Prevent Bleeding During Surgery for Patients with Blood Clotting Disorders
+
+2. Rationale: 
+People with haemophilia or other blood clotting disorders often face high bleeding risk during surgical procedures. They need special treatment to manage this risk and ensure proper healing after surgery. This bleeding risk differs from one individual to another because of the specific clotting disorder, its severity, and the kind of surgery. The goal of treatment is to control this risk until the healing is complete. This study was carried out to find out which treatments work best and are the safest for these patients when they undergo surgery. 
+
+3. Trial Design: 
+This study was a careful look at past research related to this topic. The researchers reviewed different scientific articles, conference abstract books, and search databases. The aim was to find controlled trials that compared any bleeding management treatment to no treatment or to another active method. Both children and adults with haemophilia or other blood clotting disorders, going through any surgical intervention, were included in this search. After selecting the studies, two authors separately analysed them for eligibility and risks. Where data was available and relevant, meta-analyses (a combined analysis of the results of various studies) were conducted.
+
+4. Results: 
+The research team found 16 trials, but only four of these (involving 112 participants) met the necessary criteria. Two studies evaluated people with haemophilia A and B who had 63 dental surgery procedures. These trials compared different types of medicines (tranexamic acid or epsilon‐aminocaproic acid) used to support the first step treatment. Results showed a decrease in blood loss and less post-operative treatment needed for patients given these medicines compared to a placebo (a fake or inactive treatment). 
+
+Another two trials studied people with haemophilia A and B treated with different doses of a medicine called recombinant activated factor VII (rFVIIa). This medicine was used to control bleeding during major and minor surgeries. Results showed that a higher dose was more effective, especially for major surgeries, and that it needed to be given over a shorter time. The total dose given and safety levels were similar to the lower dose regimen. 
+
+However, the researchers concluded that there's not enough evidence from these trials to say exactly what the best and safest treatment is to prevent bleeding in patients with haemophilia or other clotting disorders who are having surgery. They agreed that more in-depth and larger studies would be helpful, but these are difficult to carry out. At present, surgeries are safely done in these patients following national and international guidelines based mainly on observational, uncontrolled studies.

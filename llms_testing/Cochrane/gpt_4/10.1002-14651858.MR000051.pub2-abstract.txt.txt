@@ -1,0 +1,23 @@
+1. Plain Title: 
+Comparing Approaches to Checking on Clinical Trials to Improve Safety and Accuracy 
+
+2. Rationale: 
+When testing new treatments, close observation or checking – we'll call this monitoring - of the trial is vital. This monitoring is needed to keep study participants safe, protect their privacy, and ensure quality and accuracy data. There are many ways this monitoring can be done, but it's not clear which way is best. This study was carried out to compare different forms of monitoring and find out their pros and cons.
+
+3. Trial Design:
+We looked for studies that had been published up until March 2021, which compared different ways of monitoring clinical trials. We included studies of any type and language. We looked at the specific methods they used for monitoring, where the studies took place and who was involved, how the study was set up, and the numbers involved in each study group. We then grouped these studies according to the type of monitoring they were using. It’s important to note that this was a broad study, and didn't focus on a specific age group, health condition, or gender. 
+
+4. Results: 
+From our search, we found eight studies suitable for our analysis. We divided these into five categories based on their monitoring approaches:
+
+   a. Risk-based vs on-site monitoring: Two large studies suggest that a risk-based approach is not less efficient than extensive on-site checking. However, on-site monitoring can be more costly and resource-consuming.
+
+   b. Central monitoring with triggered on-site visits vs regular on-site visits: Based on a couple of studies, we noticed that when on-site visits were only made when necessary (triggered), it appeared better than regular on-site visits. Though, data on recruitment, retention, and resource use were lacking.
+
+   c. Different approaches to centralized statistical monitoring: One study showed that not performing annual on-site visits can lead to missing vital information in 3.8% cases. On-site visits cost an extra $2,035,392.
+
+   d. Traditional checking (100% SDV) vs targeted or remote SDV: The two studies that examined targeted and remote monitoring showed only minor differences in error rates and workload, but remote SDV cuts down on travel requirements.
+
+   e. Routine on-site initiation visit vs initiated upon request: There wasn't much difference between planning a visit or going on request. But sadly, there was a lack of information on major findings or resources used. 
+
+Parting thoughts: Ideally, we need more studies - particularly ones that embed the monitoring comparison into clinical trials to generate more reliable conclusions. However, the evidence suggesting that risk-focused, targeted and central monitoring are better is promising. In the future, we should evaluate using initial trial-specific risk assessment and triggered on-site visits for better monitoring efficiency.

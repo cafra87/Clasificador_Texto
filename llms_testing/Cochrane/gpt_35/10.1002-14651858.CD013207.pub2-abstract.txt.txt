@@ -1,0 +1,9 @@
+Plain Title: Accuracy of Point-of-Care Tests for Diagnosing HIV in Infants and Children
+
+Rationale: HIV diagnosis in infants and young children can be challenging due to limited access to laboratory testing. Rapid diagnostic tests conducted at or near the point-of-care can improve early detection and treatment initiation. This study aimed to summarize the accuracy of these tests for detecting HIV in infants and children exposed to the virus.
+
+Trial Design: This study analyzed 12 research studies conducted in sub-Saharan Africa, involving a total of 15,120 participants. The evaluations included infants and children up to 24 months old. The point-of-care tests evaluated were Alere q HIV-1/2 Detect qualitative test, Xpert HIV-1 qualitative test, and SAMBA HIV-1 qualitative test. The sensitivity and specificity of the point-of-care tests were compared to laboratory reference standard tests.
+
+Results: The pooled sensitivity and specificity of the point-of-care tests for detecting HIV in infants and children up to 18 months old were 98.6% and 99.9%, respectively, indicating high accuracy. The risk of bias in the included studies was mostly low or unclear due to poor reporting. There was no significant difference in sensitivity between point-of-care tests conducted in a laboratory setting and those conducted at the point of care.
+
+In conclusion, the point-of-care tests showed high sensitivity and specificity for diagnosing HIV in infants and children aged 18 months or less who were exposed to the virus. These tests can provide early and accurate diagnosis, leading to timely initiation of antiretroviral therapy.

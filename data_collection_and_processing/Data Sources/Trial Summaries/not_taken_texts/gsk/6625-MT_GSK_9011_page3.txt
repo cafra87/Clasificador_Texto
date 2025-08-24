@@ -1,0 +1,17 @@
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Men and women with COPD were included in the study if they were:
+• Between 40 to 80 years of age.
+• Current or former smokers.
+• Experiencing sudden worsening of COPD symptoms requiring additional
+COPD medicines.
+Men and women were excluded from the study if they had:
+• Asthma.
+• Pneumonia.
+• Any other lung problems such as tuberculosis.
+• Removal of part of the lung.
+• Liver or unstable heart disease.
+• Other disease(s) or medicine(s) that the study doctor thought could
+affect the results of the study.

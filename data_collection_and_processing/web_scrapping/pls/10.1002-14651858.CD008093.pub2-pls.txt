@@ -1,0 +1,11 @@
+Amiodarone for preventing sudden cardiac death
+Background 
+Sudden cardiac death (SCD) is an important cause of death nowadays. People at high risk (mainly with any sort of heart disease) die unexpectedly from cardiac causes, primarily from arrhythmia (an irregular heartbeat). The treatment of choice is a device called an implantable cardiac defibrillator (ICD), but it is not widely available in low‐ or middle‐income countries. Amiodarone, an antiarrhythmic medication, might reduce the occurrence of these events and could be an alternative when an ICD is not available. 
+Study characteristics 
+We searched scientific databases for clinical trials comparing the effects of amiodarone versus other antiarrhythmics or placebo on SCD, mortality and any side effects. We included adult participants at high risk or who had previously presented with sudden cardiac arrest, a serious heart malfunction that causes the arrhythmia. The evidence is current to March 2015. 
+Key results 
+We found 24 studies comprising 9,997 participants. In participants at high risk, the evidence showed that amiodarone may prevent SCD or mortality when compared to placebo, and it is probably better than other antiarrhythmics. 
+On the other hand, in participants who have already suffered a prior cardiac arrest, it is uncertain whether amiodarone increases or reduces the risk of a new episode of cardiac arrest or death. 
+Furthermore, amiodarone may lead to or worsen adverse effects in the thyroid or lungs, when compared with placebo or other antiarrhythmics. 
+Quality of the evidence 
+The overall quality of evidence of these studies was low.

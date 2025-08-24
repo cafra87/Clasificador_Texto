@@ -1,0 +1,15 @@
+Clinical Trial Results
+What were the medical problems in the study that were not considered serious?
+The table below shows all non-serious medical problems that happened in any participant
+in each treatment group in the study.
+AZD7594 large AZD7594 medium AZD7594 small
+particles (Out of particles (Out of particles (Out of
+18 participants) 18 participants) 18 participants)
+Hay fever 1 (5.6%) 1 (5.6%) 1 (5.6%)
+Blood clot in vein 1 (5.6%) 0 (0.0%) 1 (5.6%)
+Headache 1 (5.6%) 0 (0.0%) 1 (5.6%)
+Common cold 0 (0.0%) 2 (11.1%) 2 (11.1%)
+Irritated skin 0 (0.0%) 2 (11.1%) 1 (5.6%)
+Discomfort in arms or legs 0 (0.0%) 1 (5.6%) 0 (0.0%)
+Swollen, red eyelid 0 (0.0%) 0 (0.0%) 1 (5.6%)
+7

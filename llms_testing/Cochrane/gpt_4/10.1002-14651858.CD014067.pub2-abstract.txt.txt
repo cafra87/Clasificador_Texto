@@ -1,0 +1,11 @@
+1. Plain Title
+The Impact of Dietary Supplements on the Risk of Gut-Related Disease in Extremely Preterm or Small Newborns
+
+2. Rationale
+In very premature or small babies, an imbalance in the gut bacteria can cause a serious bowel disease called necrotising enterocolitis (NEC), which is often fatal and causes several health complications. A possible solution to decrease the risk of NEC and associated complications is to use dietary supplements called synbiotics. Synbiotics combine probiotics (microorganisms that are good for our health) and prebiotics (compounds that nourish these microorganisms), aiming to balance the bacteria in the gut. 
+
+3. Trial Design
+To understand the effectiveness of synbiotics in reducing the risk of NEC, we reviewed various studies of premature infants born less than 32 weeks into the pregnancy or those born with very low birth weight (less than 1500 grams). We compared infants who were given synbiotics to those who received placebo, no treatment, or either probiotics or prebiotics alone. We conducted a detailed analysis of six studies involving 925 infants. 
+
+4. Results
+Our review of these studies suggests that taking synbiotics might reduce the chances of getting NEC and the mortality rate in hospital for these infants. However, synbiotics might not impact late-stage infections. No study examined how synbiotics may influence the brain development of these children. We must highlight that the certainty of these results is low, and the actual effects of synbiotics could be significantly different from what has been found. The trials we analysed were small and lacked clear explanations of how they were conducted, which can introduce bias. Therefore, we need bigger, well-conducted trials to make sure of the actual benefits of synbiotics and to guide future medical recommendations.

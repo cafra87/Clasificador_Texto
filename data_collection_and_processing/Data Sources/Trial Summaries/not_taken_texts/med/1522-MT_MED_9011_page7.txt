@@ -1,0 +1,41 @@
+Clinical Study Results
+How many participants had serious adverse reactions?
+In Part 1, 23.4% of participants who got tremelimumab had serious adverse reactions.
+This was 15 out of 64 participants.
+• 28.1% of participants with bladder cancer had a serious adverse reaction. This was
+9 out of 32 participants.
+• 8.3% of participants with triple negative breast cancer had a serious adverse reaction.
+This was 1 out of 12 participants.
+• 25.0% of participants with pancreatic cancer had a serious adverse reaction. This was
+5 out of 20 participants.
+The table below shows the serious adverse reactions during Part 1.
+Serious adverse reactions in Part 1
+Bladder cancer Breast cancer Pancreatic cancer
+(out of (out of (out of
+32 participants) 12 participants) 20 participants)
+Diarrhea 6.3% (2) 0% (0) 10.0% (2)
+Inflammation
+9.4% (3) 0% (0) 5.0% (1)
+of the colon
+Vomiting 3.1% (1) 8.3% (1) 0% (0)
+Inflammation of
+the colon caused
+6.3% (2) 0% (0) 0% (0)
+by the immune
+system
+Inflammation of
+the liver caused
+0% (0) 0% (0) 5.0% (1)
+by the immune
+system
+Inflammation
+0% (0) 0% (0) 5.0% (1)
+of the lung
+Hepatotoxicity,
+also known as 3.1% (1) 0% (0) 0% (0)
+liver toxicity
+Inflammation
+of the brain’s 3.1% (1) 0% (0) 0% (0)
+pituitary gland
+Meningitis 3.1% (1) 0% (0) 0% (0)
+7

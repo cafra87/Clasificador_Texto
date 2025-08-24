@@ -1,0 +1,31 @@
+Clinical Study Results
+The website listed at the end of this summary may have other information about
+adverse reactions or other medical problems that happened during this study.
+The 1 participant who left the study early is not included in the results below because
+he did not take any study drug.
+How many participants had serious adverse reactions?
+None of the participants had serious adverse reactions during the study. None of the
+participants died during the study.
+How many participants had adverse reactions?
+There were 21.6% of participants who had adverse reactions during the study. This
+was 8 out of 37 participants.
+There were 8.1% of participants who stopped taking AZD4831 because of adverse
+reactions they had during the study. This was 3 out of 37 participants.
+What adverse reactions did the participants have?
+The most common adverse reactions were rash, headache, and dry throat.
+Participants who took the highest AZD4831 dose had more adverse reactions than
+participants who took the lower AZD4831 doses.
+The adverse reactions below happened in 2 or more of the total number of
+participants. There were other adverse reactions, but these happened in fewer
+participants. The groups are presented in the order of increasing dose.
+Most common adverse reactions during the study
+Group 1 Group 4 Group 2 Group 3
+Out of 8 Out of 8 Out of 8 Out of 5
+participants participants participants participants
+who took the who took the who took the who took the
+lowest dose low dose high dose highest dose
+of AZD4831 of AZD4831 of AZD4831 of AZD4831
+Rash 0.0% (0) 0.0% (0) 25.0% (2) 40.0% (2)
+Headache 0.0% (0) 12.5% (1) 0.0% (0) 20.0% (1)
+Dry throat 0.0% (0) 0.0% (0) 12.5% (1) 20.0% (1)
+5

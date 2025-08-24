@@ -1,0 +1,23 @@
+1. Plain Title:
+Examining the Effectiveness and Side Effects of Metformin Treatment for Polycystic Ovary Syndrome
+
+2. Rationale: 
+Polycystic ovary syndrome (PCOS) is a health issue that affects women. It can lead to irregular menstrual periods or even no periods at all. It also causes body changes that may lead to high levels of male hormones and insulin, a body chemical that controls sugar levels in the blood. When the insulin level is high, it increases the risk of heart diseases and diabetes. One possible treatment for PCOS is a medicine called metformin, which helps make the body better at using insulin. This study was conducted to understand how well metformin treats PCOS, and if it has any side effects, especially related to stomach upset. 
+
+3. Trial Design: 
+This was an update on previous research and specifically studied the impact of metformin. We looked at studies comparing metformin with other treatments or no treatment. We focused on women with PCOS who had problems getting pregnant. We also assessed both the good outcomes, like successful pregnancies and births, and the bad outcomes, like stomach side effects. 
+
+Two persons reviewed the studies to make sure they were suitable and checked for any possible bias. The quality of the studies varied from low to medium. Our shortcomings were poor detailing of methods and missing data.
+
+4. Results:
+After evaluating 41 studies, here's what we found:
+
+- Compared to no treatment, metformin might increase the chances of successful pregnancies and live births, with  up to 37% likelihood. However, using metformin also led to more cases of stomach upset (between 22% to 40% of women). 
+
+- When we mixed metformin with another drug called clomiphene citrate (CC), the chance of successful pregnancies went up. While this looked promising, stomach upset was still a problem, affecting between 21% to 37% of women.
+
+- When metformin was used alone without CC, the results varied. In overweight women, births and pregnancies rates dropped. However, in non-overweight women, beneficial effects were noted with an increase in pregnancy rates. No one reported any stomach-related problems.
+
+One important note is that results varied depending on body weight, which means we need to take this into account when considering treatment options. None of the studies reported stomach side effects when comparing metformin to CC. Also, none of the studies gave us a clear understanding of how metformin might affect miscarriage rates. 
+
+In conclusion, metformin might have some beneficial effects over no treatment, but it's quite likely to cause stomach upset. Giving it along with CC doesn't give a clear improvement in live birth rates but probably increases stomach upset. When comparing metformin to CC, results gave mixed signals and were limited due to a shortage of quality evidence. There's also a possible interaction with body weight that needs further investigation.

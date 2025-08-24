@@ -1,0 +1,12 @@
+Plain Title: Indocyanine Green Fluorescence Angiography for Preventing Skin Complications after Breast Reconstruction
+
+Rationale: 
+Breast cancer affects many women, and after surgery to remove the breast tissue, reconstructive surgery can be done to restore appearance. However, a common problem after this reconstruction is tissue death. To prevent this problem, doctors can use a special imaging technique called indocyanine green fluorescence angiography (ICGA) to assess blood flow in the tissue. This study aimed to find out if ICGA is effective in preventing tissue death after breast reconstruction.
+
+Trial Design: 
+This study included women who had immediate breast reconstruction after mastectomy, either using their own tissue or with implants. The researchers compared two methods of assessing blood flow in the tissue: ICGA and clinical evaluation. The study looked at how these methods affected the risk of tissue death and other complications. The study was not a randomized controlled trial, so the quality of evidence is low.
+
+Results: 
+The study found that using ICGA may reduce the risk of tissue death and the need for reoperation after breast reconstruction. It may also reduce the risk of infection. However, there is not enough high-quality evidence to draw definite conclusions about the best method to use. More research is needed, especially randomized controlled trials, to compare ICGA to clinical evaluation.
+
+In conclusion, using indocyanine green fluorescence angiography (ICGA) during breast reconstruction surgery may help prevent tissue death and reduce complications. However, more research is needed to understand the best way to assess blood flow in the tissue.

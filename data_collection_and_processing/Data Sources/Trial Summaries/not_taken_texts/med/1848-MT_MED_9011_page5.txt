@@ -1,0 +1,29 @@
+Clinical Trial RESULTS
+Amount of study drugs that reached the blood
+Researchers measured the amount of study drugs that reached participants’
+blood using hour nanomoles per litre, or h·nmol/L. This is a scientifically
+accepted unit of measurement. They found that:
+• participants who took only AZD7986 had an average
+of 6697 h·nmol/L of the drug in their blood
+• participants who took AZD7986 with verapamil had an average
+of 8857 h·nmol/L of the drugs in their blood
+• participants who took AZD7986 with itraconazole had an average
+of 7615 h·nmol/L of the drugs in their blood
+The figure below shows these results.
+Amount of Study Drugs that Reached the Blood
+8857
+9000 )L/lomn·h(
+7615
+7500
+6697
+6000 sgurd
+4500
+yduts
+3000
+fo
+tnuomA
+1500
+0
+AZD7986 AZD7986 + AZD7986 +
+verapamil itraconazole
+5

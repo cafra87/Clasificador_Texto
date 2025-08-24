@@ -1,0 +1,31 @@
+How many participants were healthcare and social care workers?
+Healthcare and social care workers
+COV001 (United Kingdom)
+18.8%
+AZD1222
+(67)
+(out of 356 participants)
+Control 16.4%
+(out of 385 participants) (63)
+COV002 (United Kingdom)
+67.1%
+AZD1222
+(2,731)
+(out of 4,071 participants)
+Control 68.3%
+(out of 4,136 participants) (2,825)
+COV003 (Brazil)
+74.0%
+AZD1222
+(2,526)
+(out of 3,414 participants)
+Control 72.6%
+(out of 3,339 participants) (2,425)
+COV005 (South Africa)
+8.5%
+AZD1222
+(64)
+(out of 756 participants)
+Control 11.0%
+(out of 721 participants (79)
+12

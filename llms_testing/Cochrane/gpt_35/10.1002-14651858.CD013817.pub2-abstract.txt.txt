@@ -1,0 +1,15 @@
+Plain Title: Effectiveness and Side Effects of Rho Kinase Inhibitors for Open-Angle Glaucoma
+
+Rationale: 
+Glaucoma is a condition that causes vision loss due to damage to the optic nerve. It is a leading cause of irreversible blindness worldwide. The most common type of glaucoma is called primary open-angle glaucoma (POAG). The exact cause of POAG is unknown, but treatment aims to reduce the pressure inside the eye to prevent further damage. Rho kinase inhibitors (ROKi) are a type of medication that can lower eye pressure by improving the drainage of fluid. It is important to understand how effective and safe ROKi is compared to other glaucoma medications.
+
+Trial Design: 
+This study compared the effectiveness and safety of ROKi with a placebo or other glaucoma medications in people diagnosed with open-angle glaucoma or ocular hypertension. The study used standard methods to search for relevant clinical trials. A total of 17 trials involving 4953 participants were included in the analysis. The trials varied in duration from 24 hours to 12 months. Participants were from different countries and were above the age of 18.
+
+Results: 
+The study found that ROKi monotherapy may be more effective than a placebo in reducing eye pressure. However, when compared to other glaucoma medications, such as timolol or latanoprost, ROKi was found to be slightly less effective in lowering eye pressure. Combining ROKi with latanoprost led to a greater reduction in eye pressure compared to using either medication alone. 
+
+When it comes to side effects, ROKi was associated with a slightly higher risk of ocular adverse events compared to a placebo or latanoprost. However, these side effects were described as mild, temporary, and reversible upon discontinuation of the medication. No serious side effects were reported with the use of ROKi.
+
+Conclusions:
+Based on the current evidence, ROKi may be less effective than other glaucoma medications in lowering eye pressure. However, combining ROKi with latanoprost can lead to additional reductions in eye pressure. ROKi may have a slightly higher risk of ocular side effects compared to other medications, but these side effects are generally mild and temporary. Future studies should focus on understanding the long-term effects and safety of ROKi, as well as its impact on glaucoma progression.

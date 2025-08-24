@@ -1,0 +1,9 @@
+Plain Title: The Usefulness of ATRA in Addition to Chemotherapy for Acute Myeloid Leukemia
+
+Rationale: Acute myeloid leukemia (AML) is a common type of leukemia in adults. Many patients with AML are older and have other health problems, which makes intensive treatments like stem cell transplantation risky. ATRA, a form of vitamin A, may help treat AML by causing cancer cells to mature. This study aims to determine whether adding ATRA to chemotherapy is beneficial or harmful for adults with AML.
+
+Trial Design: This study involved comparing two treatment groups: chemotherapy alone and chemotherapy with ATRA. The study included adults with all stages of AML and some patients with myelodysplastic syndrome (MDS) who had a specific type of MDS and a high number of immature cells. The study lasted for a certain period of time, but the exact duration was not specified.
+
+Results: The study included eight trials with a total of 3,998 patients. The addition of ATRA to chemotherapy did not show a significant difference in overall survival compared to chemotherapy alone. The mortality rate with chemotherapy plus ATRA was similar to the rate with chemotherapy alone. There was also no significant difference between the treatment groups in terms of disease-free survival, complete response rate, or on-study mortality. The rates of infection and cardiac toxicity were similar between the two groups. The effect of ATRA on diarrhea and nausea/vomiting is uncertain due to limited evidence. None of the included trials reported on quality of life.
+
+Conclusion: This study found no evidence to suggest that adding ATRA to chemotherapy improves overall survival, disease-free survival, complete response rate, or on-study mortality in adults with AML. The risk of adverse events with ATRA plus chemotherapy appears to be comparable to chemotherapy alone. However, more research is needed to understand the effect of ATRA on quality of life.

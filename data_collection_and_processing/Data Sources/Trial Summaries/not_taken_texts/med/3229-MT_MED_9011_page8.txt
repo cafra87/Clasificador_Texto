@@ -1,0 +1,20 @@
+Clinical Study Results
+Adverse events
+There were 52.5% of participants who had adverse events during the study. This
+was 32 out of 61 participants. The table below shows how many participants had
+adverse events during the study.
+Adverse events
+Group 1 Group 2 Group 3 Group 4
+Lowest dose of Middle dose of Highest dose of Placebo
+MEDI0382 (Out of MEDI0382 (Out of MEDI0382 (Out of (Out of 16
+15 participants) 15 participants) 15 participants) participants)
+How many participants
+40.0% (6) 73.3% (11) 60.0% (9) 37.5% (6)
+had adverse events?
+How many participants
+had serious adverse 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+events?
+How many participants
+stopped treatment due 0.0% (0) 26.7% (4) 6.7% (1) 0.0% (0)
+to adverse events?
+8

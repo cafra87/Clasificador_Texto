@@ -1,0 +1,11 @@
+1. Plain Title
+Breathing on Your Own During COVID-19: A Research Attempt
+
+2. Rationale
+COVID-19 can sometimes cause a severe lung condition known as Acute Respiratory Distress Syndrome (ARDS). This lung problem leads to long stays in the Intensive Care Unit (ICU) and is linked with a high risk of death. The majority of these patients need a machine to help them breathe. However, there's not much known about the best way to do this. A popular method is to let patients breathe on their own, even on a breathing machine, by using light sedation and avoiding medications that paralyze muscles. Some experts believe that this can help the lungs work better. Others worry that it might lead to lung injury or make lung-related issues worse. That's why scientists are arguing about the best strategy for patients with ARDS due to COVID-19 who are on breathing machines. 
+
+3. Trial Design
+This study aimed to find out if it's better for patients with COVID-19 with ARDS to breathe on their own or not. To do this properly, they wanted to compare both options. They looked for studies about patients with ARDS who were put on breathing machines. They included studies that discussed both allowing patients to breathe on their own and approaches that prevented spontaneous breathing, such as deep sedation or medication-induced muscle paralysis. They also checked if the studies met certain requirements, like having at least 50 participants.
+
+4. Results
+Unfortunately, the researchers did not find any suitable studies for their investigation. So, they were not able to determine whether it's better for a severely ill COVID-19 patient with ARDS to breathe spontaneously while on a breathing machine or not. The researchers strongly suggest that future studies should aim to answer this question. They also point out the need to compare people with ARDS due to COVID-19 to those with ARDS caused by other reasons.

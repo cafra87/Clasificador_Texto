@@ -1,0 +1,235 @@
+1CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of t his study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Talazoparib (Talzenna®)
+Protocol Number: 673-301 (C3441009)
+Dates of Trial: 14 October 2013 to 05 March 2021
+Title of this Trial: A Study Evaluating Talazoparib (BMN 673), a PARP 
+Inhibitor, in Advanced and/or Metastatic Breast Cancer 
+Patients With BRCA Mutation (EMBRACA)
+[A Phase 3, Open -Label, Randomized, Parallel, 2 -Arm, 
+Multi -Center Study of Talazoparib ( BMN 673 ) Versus 
+Physician’s Choice in Germline BRCA Mutation Subjects 
+With Locally Advanced and/or Metastatic Breast Cancer, 
+Who Have Received Prior Chemotherapy Regimens for 
+Metastatic Disease]
+Date of this Report: 09 November 2018; updated 24 April 2020 and 
+02October 2021
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results, p lease contact the doctor or staff at 
+your study site.
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)
+2WHY WAS THIS STUDY DONE?
+Breast cancer is one of the most common causes of cancer deaths in women.  In 
+2012, about 1.7 million women were diagnosed with breast cancer and over 
+522,000 women died due to the disease.  Some people carry changes or “mutations” 
+in their DNA in genes called breast cancer susceptibility (BRCA) genes 1 and 2, or 
+“BRCA1” and “BRCA2”.  BRCA gene mutations can be inherited by a child from 
+one of their parents (germline).  When a pe rson’s BRCA1 or BRCA2 genes contain 
+mutations, it can cause breast cancer.  Researchers are looking for treatments for 
+breast cancer patients with BRCA mutations that can help them have more time 
+without their cancer getting worse. 
+Talazoparib (Talzenna®)is a drug that inhibit s(stop s) the normal activity of certain 
+proteins called “Poly (ADP -ribose) polymerases”, also called “PARPs”.  PARPs are 
+proteins (made from genes which are part of DNA) that are found in all normal and 
+cancer cells that are involve d in the repair of DNA.  PARPs are needed to repair 
+mistakes that can happen in DNA when cells divide.  If the mistakes are not repaired, 
+the cell will usually die and be replaced.  Cells with mistakes in their DNA (like cells 
+with BRCA1 and BRCA2 gene mut ations) that do not die can become cancer cells.  
+Clinical trials have shown that the use of talazoparib, as well as other PARP inhibitors, 
+can reduce tumor size or delay the cancer getting worse, and slow tumor growth in 
+some cancer patients with BRCA1 or BRCA2 mutations.  Talazoparib is given in a 
+capsule and is taken by mouth once daily at around the same time every day.   
+Talazoparib is now approved in the United States, the European Union, and other 
+countries for the treatment of patients with a certai n type of breast cancer that has 
+spread beyond the original tumor (“advanced”) or has spread to other parts of the 
+body (“metastatic”) and have an inherited BRCA1 or BRCA2 gene mutation.  This 
+study was done to see if talazoparib treatment could help patie nts with advanced or 
+metastatic breast cancer, and have inherited a BRCA1 or BRCA2 gene mutation, have 
+more time without their cancer getting worse when compared to commonly used 
+chemotherapies.  
+Researchers also wanted to learn more about the safety of t alazoparib.  They 
+monitored the patients for any medical problems that happened while they were in 
+the study.
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)
+3WHAT HAPPENED DURING THE STUDY?
+This study compared 2 groups of patients to find out if patients taking talazoparib had 
+more time without their c ancer getting worse compared to patients taking other 
+commonly used chemotherapies.  
+The study included patients who:
+Were at least 18 years old
+Had breast cancer that was advanced or had spread to other parts of the body 
+(also called “metastatic cancer”)
+Inherited the BRCA1 or BRCA2 gene mutation
+Did not have more than 3 chemotherapy treatments for their advanced cancer
+Had previously taken at least 1 of the commonly used cancer chemotherapies
+Had good organ function and adequate blood counts
+This trial w as an open -label study.  This means that both the patient and the doctor 
+knew whether the patient received talazoparib or chemotherapy.
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)
+4Patients joined the study at 1 of 145 locations in the US, Europe (Belgium, France, 
+Germany, Ireland, Italy, Poland, S pain, UK, Israel, Russia, and Ukraine) ,Brazil, South 
+Korea, Australia, and Taiwan .  It began o n 14 October 2013 and ended on 
+05March 2021.  A total of 7 men and 424 women participated in this study.  All 
+patients were between the ages of 24 and 88. Patients were to be treated until their 
+doctor determined that their cancer was getting worse, the side effects were too 
+severe, or until they chose to stop participation in the study.   All o f the 431 patients 
+who started the study had stopped treatment by theend of the study, mostly due to 
+the patient’s cancer getting worse, thepatient chose to stop, or a doctor decided it was 
+best for a patient to stop their assigned treatment.
+The Sponsor reviewed the study results in September 2017 , September 2019 , and 
+March2021.  The Sponsor then created reports of theresults collected up to those 
+time points.  This is a summary of those reports. 
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)
+5WHAT WERE THE RESULTS OF THE STUDY?
+Did taking talazoparib help patients in this study have more time 
+without their cance r getting worse than those treated with 
+chem otherapy?
+Researchers measured the “median time” between starting the study and the patients’ 
+cancer getting worse, or dying of any cause.  The median time was the time point 
+where half (50%) of the patients taki ng talazoparib or chemotherapy had their cancer 
+get worse, or they had passed away from any cause.  For patients taking talazoparib, 
+the median number of months patients went without their cancer getting worse was 
+about 9 months.  For patients taking chemo therapy, it was about 6 months.
+WHAT MEDICAL PROBLEMS DID PATIENTS 
+HAVE DURING THE STUDY?
+The researchers recorded any medical problems the patients had during the study.  
+Patients could have had medical problems for reasons not related to the study (fo r 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the patient was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical prob lems over time, doctors may be able to understand what the side effects 
+of an experimental drug might be.
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)
+6A total of 405 out of 412 patients in this study who received at least 1 dose of study 
+medication had at least 1 medical problem (282 out of 286 on talazoparib and 123 out 
+of 126 on chemotherapy) .  Most medical problems were manageable by lowering the 
+dose of talazoparib or chemotherapy medications.
+The most common medical problems reported by patients in this study are listed 
+below. 
+Number of Patient s With Most Common Medical Problems
+(Reported by At Least 10% of Patients in Either Group)
+Medical ProblemTalazoparib
+(286 Patients Treated)Chemotherapy
+(126 Patients Treated)
+Low blood count (red 
+blood cell, 
+hemoglobin)155 (54%) 24 (19%)
+Tiredness (fatigue) 147 (51%) 54 (43%)
+Nausea 142 (50%) 60 (48%)
+Headache 97 (34%) 29 (23%)
+Low white blood cell 
+count (neutropenia)78 (27%) 38 (30%)
+Hair loss 78 (27%) 35 (28%)
+Vomiting 76 (27%) 30 (24%)
+Back pain 69 (24%) 20 (16%)
+Diarrhea 68(24%) 34 (27% )
+Constipation 67 (23%) 28 (22%)
+Cough 65 (23%) 20 (16%)
+Decreased appetite 62 (22%) 28 (22%)
+Joint pain 55 (19%) 15 (12%)
+Difficulty breathing 54(19%) 19 (15%)
+Dizziness 53 (19%) 13 (10%)
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)
+7Low platelet count 50 (1 8%) 7 (6%)
+Arm or leg pain 45 (16% ) 14 (11%)
+Weakness 45 (16%) 12 (10%)
+Nose and throat 
+infection41 (14%) 13 (10%)
+Stomach pain 38 (13%) 20 (16%)
+Lack of sleep 38 (13%) 10 (8%)
+Nose and throat 
+infection (viral)36 (13%) 8 (6%)
+Decreased platelet 
+count36 (13%) 4 (3%)
+Fever 35 (12%) 22 (18%)
+Indigestion 33(12%) 10 (8%)
+Decreased white 
+blood cells 32 (11%) 5 (4%)
+Urinary tract infection 31 (11%) 3 (2%)
+Low white blood cell 
+count (neutrophils)30 (11%) 18 (14%)
+Altered taste 30 (11%) 11 (9%)
+Rash 29 (10%) 12 (10%)
+Pain related to the 
+muscles or bones29 (10%) 9 (7%)
+Muscle pain 25 (9%) 14 (11%)
+Weight loss 23 (8%) 15 (12%)
+Abnormal lab test 
+results that could 
+indicate liver damage 
+(Aspartate 
+aminotransferase 
+increased)16 (6%) 15 (12%)
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)
+8Damage to nerves 
+that can cause 
+tingli ng, numbness, 
+pain, or loss of feeling13 (5%) 15 (12%)
+Abnormal lab test 
+results that could 
+indicate liver damage 
+(Alanine 
+aminotransferase 
+increased)12 (4%) 15 (12%)
+Swelling or pain in 
+the hands or feet 
+(hand -foot syndrome)4 (1%) 28 (22%)
+WERE THER E ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, causes lasting 
+problems, or needs hospital care.  
+A total of 142patients out of 412 (34%,or approximately 1 out of 3 patients) had 
+serious medical pro blems (103 out of 286 on talazoparib and 39 out of 126 on 
+chemotherapy) .  Most of these problems were not thought to be related to the study 
+drug.  A total of 320out of 412 patients who had received at least 1 dose of 
+talazoparib or chemotherapy medicatio n died during the study (220 out of 2 86 on 
+talazoparib and 100 out of 126 on chemotherapy ).  Most deaths were due to the 
+patient’s cancer getting worse.  Two (2) serious medical problems that occurred in 
+patients who died (veno -occlusive liver disease in apatient receiving talazoparib and 
+sepsis in a patient receiving chemotherapy ) may have been related to study treatment.  
+In addition, 2 patients who received talazoparib developed blood cancer (acute 
+myeloid leukemia) after they finished participating in the study that may have been 
+related to the study treatment.   These patients also received other cancer treatments 
+which could have helped cause their acute myeloid leukemia .
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)
+9Number of Patients With Serious Medical Problems
+(Reported by ≥2% of Patients in Either Group)
+Serious
+Medical ProblemTalazoparib
+(286 Patients Treated)Chemotherapy
+(126 Patients Treated)
+Low blood count (red 
+blood cell, 
+hemoglobin)18 (6%) 0 (0%)
+Fever 8 (3%) 2 (2%)
+Blood clots in the 
+lungs6 (2%) 0 (0%)
+Buildup of fluid in the 
+lungs4 (1%) 7 (6%)
+Low white blood cell 
+count (neutropenia)3 (1%) 4 (3%)
+Diarrhea 0 (0%) 3 (2%)
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)
+10WHERE CAN I LEARN MORE ABOUT THIS 
+STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT01945775
+www.cli nicaltrialsregister.eu Use the study identifier 2013-002716 -28
+www.pfizer.com/research/research_
+clinical_trials/trial_resultsUse the protocol number C3441009
+Please r emember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients.  Clinical trials with talazoparib are 
+ongoing and further trials are planned.
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e198390747\Approved\Approved On: 05-Oct-2021 01:49 (GMT)

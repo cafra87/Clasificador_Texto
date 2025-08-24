@@ -1,0 +1,14 @@
+Patients with poorly controlled asthma were put into one of the five groups by chance
+(randomisation). The five groups were based on the inhaler information shared and
+who could see that information, see figure below.
+Study groups
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Men and women with asthma were included in the study if they:
+• Were at least 18 years old.
+• Were taking fixed dose of an ICS and a LABA for three months before
+starting the study.
+• Had poorly controlled asthma before starting the study.
+• Had their own smartphone, which was suitable to run the app.

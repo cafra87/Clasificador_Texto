@@ -1,0 +1,15 @@
+Plain Title: Exfoliative Cytology for Detecting Skin Cancer: A Study Summary
+
+Rationale:
+Skin cancer can be very serious and even life-threatening, so it's important to detect it accurately and quickly. Basal cell carcinoma (BCC), cutaneous squamous cell carcinoma (cSCC), and melanoma are the most common types of skin cancer. Exfoliative cytology is a non-invasive test that examines cells scraped from the skin's surface. It is less invasive than a skin biopsy and has the potential to provide an immediate diagnosis for BCC, which means patients may not need an extra clinic visit for biopsy results. However, it's important to understand when exfoliative cytology can be helpful compared to other diagnostic methods.
+
+Trial Design:
+This study aimed to determine the accuracy of exfoliative cytology in detecting BCC in adults. The study also compared the accuracy of exfoliative cytology with visual inspection (with or without dermoscopy), which is a standard diagnostic practice. The researchers also looked at the accuracy of exfoliative cytology in detecting cSCC, invasive melanoma, and other skin cancers. They wanted to know if the experience of the healthcare provider made a difference in the accuracy of the test. 
+
+The researchers searched multiple databases and selected studies that evaluated exfoliative cytology in adults with suspicious skin lesions. They compared the results of exfoliative cytology with a reference standard of histological confirmation. Data from the selected studies were analyzed using a standardized method.
+
+Results:
+The researchers analyzed data from nine studies that included a total of 1655 skin lesions. Among these lesions, there were 1120 BCCs, 41 cSCCs, and 10 melanomas. The study quality was generally moderate to poor, with insufficient information provided about participant selection and diagnostic criteria. Based on the available data, exfoliative cytology showed a sensitivity of 97.5% and a specificity of 90.1% in detecting BCC. This means that out of 1000 suspected BCC lesions, exfoliative cytology would miss 21 cases and incorrectly diagnose 14 cases. The accuracy of exfoliative cytology in detecting cSCC or melanoma and its comparison with dermoscopy could not be determined due to insufficient data.
+
+Conclusion:
+Although exfoliative cytology shows promise as a diagnostic tool for confirming strongly suspected cases of BCC, its utility as a primary diagnostic test for skin cancer is still unknown. It may be most useful when considering treatments that require a tissue diagnosis, such as radiotherapy. However, more high-quality studies are needed to guide clinical practice and evaluate the diagnostic value of exfoliative cytology for different types of skin cancer. Biopsies still provide crucial information about the architecture of the entire lesion, so exfoliative cytology may not be as useful for cSCC or melanoma. Future studies should compare exfoliative cytology with dermoscopy and focus on populations with a high probability of BCC who need further treatment.

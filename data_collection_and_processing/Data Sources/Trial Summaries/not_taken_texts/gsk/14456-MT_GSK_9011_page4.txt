@@ -1,0 +1,31 @@
+Where was this study done?
+Study sites were in 20 countries.
+Number of patients who were randomised
+Belgium 40
+Canada 87
+Czechia 12
+Denmark 24
+Finland 11
+France 31
+Germany 24
+Hungary 7
+Ireland 3
+Israel 17
+Italy 35
+Norway 1
+Poland 10
+Russia 30
+Spain 95
+Sweden 2
+Switzerland 8
+Ukraine 29
+United Kingdom 21
+United States 246
+0 50 100 150 200 250
+Number of patients
+What were the main results of the study?
+Study doctors assessed each patient’s cancer using imaging, physical exams, and blood
+tests. Study doctors measured progression-free survival by recording the time in
+months from Day 1 until the cancer had grown or returned or the patient died.
+The median progression-free survival was calculated for each treatment group at the
+data cut-off.

@@ -1,0 +1,4 @@
+An Open-label Extension Study To Evaluate Safety Of PF-06252616 In Boys With Duchenne Muscular Dystrophy
+The NSAA was a 17-item test that measured gross motor function. Each individual item was evaluated with either 0-unable to perform independently, 1-able to perform with assistance, 2-able to perform without assistance. A total score was achieved by summing all the individual items. The total score could range from 0 to 34 (fully-independent function). This is the overall change from baseline which included the change since enrolling in the parent study B5161002.
+
+Overall baseline was defined as the last pre-dose assessment prior to the first day of dosing in study B5161002. Week 1 was counted starting from the study treatment in study B5161002.

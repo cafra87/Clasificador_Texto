@@ -1,0 +1,13 @@
+Plain Title: Mixed Exercise Training for Fibromyalgia: Benefits and Risks
+
+Rationale: 
+Fibromyalgia is a condition that causes pain, stiffness, fatigue, and affects the physical function and quality of life for individuals. Exercise is commonly recommended as a treatment for fibromyalgia, but it is important to understand the benefits and risks of different exercise protocols. The purpose of this study was to evaluate the effects of mixed exercise training, which includes various types of exercise, on adults with fibromyalgia compared to other interventions or no exercise at all. The study aimed to determine if mixed exercise could improve symptoms and overall well-being for individuals with fibromyalgia.
+
+Trial Design:
+This study included 29 randomized controlled trials involving 2088 participants, mostly females with an average age of 51 years, diagnosed with fibromyalgia. The study compared mixed exercise interventions that included aerobic, resistance, and flexibility exercises to control interventions (such as wait lists), non-exercise interventions (such as biofeedback), and other exercise interventions. The participants were assessed over a certain period of time, but the exact duration was not specified in the abstract.
+
+Results:
+The results of the study showed that mixed exercise training had several benefits for individuals with fibromyalgia. Compared to the control interventions, mixed exercise improved health-related quality of life, reduced pain, decreased fatigue, increased physical function, and slightly decreased stiffness. These improvements were considered clinically important and meaningful for most participants. Additionally, the withdrawal rates were similar between the groups, indicating that mixed exercise was well-tolerated and safe. However, it is important to note that adverse events were not measured extensively, so the safety of mixed exercise is still uncertain.
+
+Conclusion:
+In conclusion, mixed exercise training is likely to be beneficial for individuals with fibromyalgia. It can improve the quality of life, reduce pain and fatigue, and increase physical function. The risk of withdrawal and adverse events with mixed exercise is similar to other interventions. However, more research is needed to understand the long-term effects of mixed exercise and to compare it with other types of exercise or non-exercise interventions. The current evidence is based on small studies, and the quality of the evidence is variable. Nonetheless, mixed exercise shows promise as a treatment option for fibromyalgia.

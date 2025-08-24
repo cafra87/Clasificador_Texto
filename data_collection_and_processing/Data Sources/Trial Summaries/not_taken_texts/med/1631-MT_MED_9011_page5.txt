@@ -1,0 +1,26 @@
+Clinical Study Results
+The average amount of osimertinib in the blood in Part A was:
+• 20,460 nmol•h/L in participants with damaged kidneys
+• 11,070 nmol•h/L in participants with healthy kidneys
+The highest amount of osimertinib in the blood in Part A was:
+• 233.4 nmol/L in participants with damaged kidneys
+• 195.5 nmol/L in participants with healthy kidneys
+The figures below show these results.
+Average amount of osimertinib Highest amount of osimertinib
+50,000 500
+)L/h•lomn(
+)L/lomn(
+40,000 400
+30,000 300 tnuoma
+tnuoma
+233.4
+20,460 195.5
+20,000 200
+tsehgiH
+11,070 egarevA
+10,000 100
+0 0
+Participants Participants Participants Participants
+with damaged with healthy with damaged with healthy
+kidneys kidneys kidneys kidneys
+5

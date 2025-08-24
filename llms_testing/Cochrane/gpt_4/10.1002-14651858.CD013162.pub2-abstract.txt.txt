@@ -1,0 +1,15 @@
+1. Plain Title: 
+Understanding How Therapy Helps Children with Anxiety Disorders
+
+2. Rationale:
+Anxiety disorders are a common condition that affect many children, causing them to feel excessively worried and fearful. The treatment of these disorders is vital to improve the general wellbeing of these kids and their overall quality of life. Previous studies have suggested that a kind of therapy known as cognitive behavioural therapy (CBT) can help treat childhood anxiety. CBT is a technique that helps children change their thought patterns to better handle anxious feelings. However, we still need to know more about how effective CBT really is when compared to other treatments or no treatment at all, and if it can help all children with anxiety, including those with autism or intellectual impairments.
+
+3. Trial Design: 
+In this research, we compared CBT to different treatment options – such as waiting lists/no treatment, regular care (TAU), attention controls, different treatment methods, and medication. Our participants were all younger than 19 years old, and all suffered from different types of anxiety disorders. We checked if CBT helped remove their anxiety conditions at the end of the therapy session, and whether they stuck around till the end of the therapy (acceptability). Other factors studied were whether all other anxiety conditions went away, the reduction of anxiety symptoms, improvement in their overall functioning, and any bad effects. We searched extensively, studied different trials and gathered data for our research. 
+
+4.  Results:
+Our research included 87 studies with a total of 5964 young participants. The results suggest that CBT offers more short-term benefits compared to waiting lists/no treatment and could be more effective than attention control. According to our study, around half of the kids who received CBT no longer had anxiety disorders when compared to less than a fifth of kids who did not undergo any treatment. It's also possible that CBT might be more effective at removing all anxiety conditions than the usual care, but at this moment we can't say for sure. We found little to no proof that CBT is better than regular care or other treatments. However, as there were certain doubts about the available data and quantity, we couldn't entirely count on these results.
+
+We didn't see much difference in therapy results between kids with and without autism, or among different ways of delivering the therapy. Also, there were no bad effects reported across all studies. However, it was unclear whether any bad effects were tracked thoroughly. It's important to note that we didn't have any study data on kids with intellectual impairments.
+
+In conclusion, it seems that CBT has the potential to help children with anxiety disorders in the short term, particularly against no treatment. However, more research is needed to ascertain the most effective way to treat childhood anxiety and to better understand the long-term effects of CBT.

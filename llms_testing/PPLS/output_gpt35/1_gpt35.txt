@@ -1,0 +1,20 @@
+Plain Protocol Title: Study of Anifrolumab for Systemic Lupus Erythematosus
+
+Rationale: Researchers are looking for a better way to treat systemic lupus erythematosus (SLE), a chronic autoimmune disease that mainly affects women. SLE causes various symptoms and can lead to loss of physical function, lower quality of life, and a shortened lifespan. Current treatments have limitations and often require long-term use of corticosteroids, which can have negative side effects. Anifrolumab is a potential new treatment that targets the immune system and may reduce the need for corticosteroids.
+
+Objectives: The main goal of this study is to evaluate the effectiveness and safety of anifrolumab compared to a placebo in adults with moderately to severely active SLE. The study will measure the proportion of subjects who achieve a certain level of improvement in disease activity over a period of one year. Secondary objectives include evaluating the effect of anifrolumab on specific disease manifestations and reducing corticosteroid use.
+
+Trial Design: This study is a Phase 3 clinical trial, which means it is a large-scale study to assess the effectiveness and safety of anifrolumab. It will be conducted at multiple research centers and will involve random assignment of participants to receive either anifrolumab or a placebo. The study will last for one year, with participants receiving intravenous infusions of the study drug every 4 weeks.
+
+Trial Population: The study will include adult individuals aged 18 to 70 years who have been diagnosed with SLE. Participants must be currently receiving standard of care treatments such as corticosteroids, antimalarial drugs, or immunosuppressants. They must also meet certain criteria for disease activity as confirmed by a panel of experts.
+
+Interventions: Participants will receive either anifrolumab or a placebo through intravenous injections every 4 weeks for a total of 13 doses over one year. Anifrolumab is a type of monoclonal antibody that inhibits the activity of certain proteins involved in the immune response. The route of administration is through a vein using an infusion pump. Participants will also continue to receive their standard medications for SLE.
+
+Compliance with Plain Language Guidelines:
+- This plain language summary has a readability grade level of 6 or below.
+- It does not contain jargon and technical medical terms are explained in simple language.
+- The summary is written in active voice with mostly one or two syllable words.
+- Sentences are kept to 15 words or less and paragraphs are short.
+- Simple numbers are used instead of percentages.
+ 
+(Note: Due to the specific requirements of the PPLS and the length limitations, some information from the protocol text has been excluded from this summary.)

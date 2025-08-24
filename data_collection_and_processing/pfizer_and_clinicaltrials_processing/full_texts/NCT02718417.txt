@@ -1,0 +1,392 @@
+1CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Avelumab/PF -06834635 /MSB0010718C
+Protocol Number: B9991010
+Dates of Trial: 19 May 2016 to 16 May 2019 
+Title of this Trial: Avelumab in Previously Untreated Patients with Epithelial 
+Ovarian Cancer [Javelin Ovarian 100]
+[A Randomized, Open -Label, Multicenter, Phase 3 Study to
+Evaluate the Efficacy and Safety of Avelumab
+(MSB0010718C) in Combination With and/or Following
+Chemotherapy in Patients With Previously Untreated
+Epithelial Ovarian Cancer]
+Date of this Report: 06May2020
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results, please contact the doctor or staff at 
+your study site.
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+2WHY WAS THIS STUDY DO NE?
+Ovarian cancer is the name for cancer that originates in the ovar y, which isthe female 
+reproductive organ that produce seggs and sex hormones .  Ovarian cancer is a major 
+cause of cancer death in women.  Epithelial ovarian cancer is the most common typ e 
+of ovarian cancer, and it originates in the cells that cover the outer surface of the 
+ovary.
+Researchers are looking for treatments for ovarian cancer.  Avelumab is a medicine 
+that may work by targeting a protein called “Programmed Death -Ligand 1” (PD-L1) 
+found on the cancer cell .  PD -L1 is involved in the body’s immune system response 
+to cancer.
+When this study was started, avelumab was being tested for use in women with 
+advanced ovarian cancer.  A lthough avelumab is approved in other types of cancer, it 
+is not approved for use in ovarian cancer.
+For women with newly d iagnosed advanced ovarian cancer, the standard treatment 
+includes a combination of chemotherapy and surgery. Chemotherapy is often used 
+after surgery to kill any cancer cells that might remain. It can also be used before 
+surgery.   This approach is usually effective, but in many cases the cancer comes back .  
+The main goal of this study was to determine if adding a new drug (avelumab )both 
+during and/orafter standard chemotherapy treatment would increase the amount of 
+time it takes for ovarian cancer to worsen (progress ).The study also evaluated the 
+overall safety of avelumab alone or in combination with standard chemotherapy.
+WHAT HAPPENED DURING THE STUDY?
+This study included 3 groups of patients taking platinum -based chemotherapy with no 
+maintenance treatment, platinum -based chemotherapy followed by avelumab 
+maintenance treatment, or platinum -based chemotherapy given together with 
+avelumab then followed by avelumab maintenance treatment. Maintenance treatment
+means a treatment that is given to stop cancer from coming back after it has 
+disappeared following an initial t reatment .
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+3The study included adult women with advanced epithelial ovarian cancer that had 
+spread beyond the pelvis or throughout the body who had not yet received treatment 
+for their advanced cancer.   Patients in this study must have had a surgery to remove as 
+much cancer as possible .  This was an “open -label” st udy, which means that both the 
+patients and researchers knew which medicines were being given.
+Potential p atients were evaluated by the study doctor to make sure they met the 
+criteria to participate in the study.   This was known as the “screening period”, which 
+lasted up to 28 days.  Next, eligible patients were assigned to 1 of 3 treatment groups:
+Group A (335 patients): Platinum -based chemotherapy with no maintenance 
+treatment
+Group B (332 patients): Platinum -based chemotherapy followed by avelumab 
+mainte nance treatment
+Group C (331 patients): Platinum -based chemotherapy given together with 
+avelumab, then followed by avelumab maintenance treatment
+Patients were assigned to each group by chance.  Putting people into groups by 
+chance is called randomization.   This helps make it more likely that the groups will be 
+more even to compare. 
+The chemotherapy combination of medicines used in this study waspaclitaxel and 
+carboplatin.  All study treatments were given byintravenous (IV)infusion (a needle 
+into a vein) .  
+During the chemotherapy phase, patients received carboplatin every 3 weeks and 
+paclitaxel either every 1 week or every 3 weeks (patient’s doctor allowed to choose) .  
+Patients in Group Calso received avelumab every 3 weeks during the chemotherapy 
+phase .  
+During the maintenance phase, patients in Groups Band Creceived avelumab every 
+2weeks, and patients in Group Areceived observation only (no study treatments)
+during this time.
+The main goal of this study was to determine if adding a new drug (avelumab) both 
+during and /orafter standard chemotherapy treatment would increase the amount of 
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+4time it takes for ovarian cancer to worsen (progress). The study also evaluated the 
+overall safety of avelumab alone or in combination with standard chemotherapy.
+After the last dose of study treatment, there was a 90-day follow -up period that 
+included a monthly safety follow -up.  There was a long -term follow -up period, which 
+lasted until patients left the study or the study ended.
+The figure below shows what happened during this study.
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+5The amount of time that patients were in the study varied ,but the entire study lasted 
+about 3 years.  The sponsor ran this study at 182 locations in 25 countries in Asia, 
+Europe, and North America.  It began on19May 2016.  998 women joined the study, 
+and 991 women received study treatment.  Patients in the study were between the ages 
+of 26and 8 6.
+Patients were expected to complete study treatment and a 90 -day follow -up period, 
+then enter the long -term follow -up period.  The tables below show how many 
+patients completed study treatment, and how many patients did not complete study 
+treatment either by their choice orbecause a doctor decided it was best for a patient 
+to stop being in the study .
+Chemotherapy Phase
+Group A : Out of 335 patients, 279 (83%) completed paclitaxel and 
+290patients (87%) completed carboplatin.  56 patients (17%) stopped taking 
+paclitaxel early and 45 patients (13%) stopped taking carboplatin early .The 
+most common reasons for stopping study treatment were medical problems, 
+worsening ovarian cancer, or patient cho ice.
+Group B : Out of 332 patients, 275 (83%) completed paclitaxel and 
+280patients (84%) completed carboplatin.  57 patients (17%) stopped taking 
+paclitaxel early and 52 patients (16%) stopped taking carboplatin early.   The 
+most common reasons for stopping study treatment were medical problems, 
+worsening cancer, or patient cho ice.
+Group C : Out of 331 patients, 284 (86%) completed avelumab, 281 (85%) 
+completed paclitaxel, and 290 patients (88%) completed carboplatin.  
+47patients (14%) stopped taking avelumab early, 50 patients (15%) stopped 
+taking paclitaxel early, and 41 patients (12%) stop ped taking carboplatin early.   
+The most common reasons for stopping study treatment were medical 
+problems, worsening cancer, or patient cho ice.
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+6Maintenance Phase
+Group A: Out of 335 patients, 114 patients (34%) stopped the observation 
+early, and 172 p atients (51%) w erestill under observation at the time of the 
+data cutoff .  The most common reasons for stopping the observation were 
+medical problems, worsening cancer, or patient choice.
+Group B : Out of 332 patients, 112 patients (34%) stopped the maintenance 
+therapy early, and 155 patients (47%) were continuing maintenance therapy at 
+the time of the data cutoff.   The most common reasons for stopping 
+maintenance therapy were medical problems, worsening cancer, or patient 
+choice.
+Group C : Out of 331 patients, 107 patients (32%) stopped the maintenance 
+therapy early, and 180 patients (54%) were continuing maintenance therapy at 
+the time of the data cutoff.   The most common reasons for stopping 
+maintenance therapy were medical problems, worsening cance r, or patient 
+choice.
+In September 2018 , the Sponsor began reviewing the information collected.  The 
+Sponsor then created a report of the results.  This is a summary of that report. 
+WHAT WERE THE RESULTS OF THE STUDY?
+Did adding avelumab both during and after standard 
+chemotherapy treatment increase the amount of time it takes 
+for ovarian cancer to worsen (progress)?
+To answer this question, the researchers compared the progression free survival 
+(PFS), which is the time patients survived without their can cer getting worse.  A more 
+easily understood measure is the median PFS, or the estimated time by which half 
+(50%) of the patients would have survived without their cancer getting worse.  It is 
+equally likely for a patient to have survived longer than this time without their cancer 
+getting worse as it is that they survived less time without their cancer getting worse. 
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+7In this study, the estimated median time of survival (PFS) without cancer getting 
+worse for each group was as follows:
+Group A (platinum -based chemotherapy with no maintenance treatment): At 
+the time that the researchers analyzed the study results, the median time of 
+survival without cancer getting worse in this group could not be estimated 
+because there were too few patients with worsening cancer to make an accurate 
+estimation.
+Group B(platinum -based chemotherapy followed by avelumab maintenance 
+treatment ): 16.8 months
+Group C(platinum -based chemotherapy given together with avelumab, 
+followed by avelumab maintenance treatment ): 18.1 months 
+The study data was reviewed by an independent Data and Safety Monitoring Board 
+(DSMB). DSMBs are used to ensure the safety of study participants and to determine 
+if it is appropriate for a study to continue. There were no new or unexpected s afety 
+issues identified with avelumab alone, or with the combination of avelumab plus 
+paclitaxel and carboplatin. However, the DSMB concluded that there was little to no 
+chance that the trial would demonstrate any benefit when adding avelumab to the 
+stand ard chemotherapy treatment. The addition of avelumab did not increase the 
+amount of time it takes for ovarian cancer to worsen, and consequently the study was 
+stopped early to give patients an opportunity to seek other treatments.
+This does not mean that everyone in this study had these results.  Other studies may 
+produce different results, as well.  These are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this 
+summary.  
+WHAT MEDICAL PROBLEMS DID PATIENTS 
+HAVE DURING THE STUDY?
+The researchers recorded any medical problems the patients had during the study. 
+Patients could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also hav e been caused by a study treatment, or by another medicine the patient was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+8medical problems across many treatment groups in many studies, doctors try to 
+understand what the side ef fects of an experimental drug might be.
+In this report, allmedical problems that occurred during the study are discussed , 
+regardless of whether or not the study doctors thought that the medical problems 
+were related to taking the study treatment.
+Of the 9 91 patients who received study treatment, 970 (98%) patients had at least 
+1medical problem.  A total of 12 5(13%) patients stopped taking study treatment 
+because of medical problems.  The most common medical problems are listed below . 
+Most Common Medical Problems
+(Reported by More Than 10% of Patients)
+Medical 
+ProblemGroup A
+Chemotherapy 
+With No 
+Maintenance 
+Treatment
+(334 Patients 
+treated)Group B
+Chemotherapy 
+Followed by
+Avelumab
+(328 Patients 
+treated)Group C
+Chemotherapy + 
+Avelumab 
+Followed by 
+Avelumab
+(329 Patients 
+treated)
+Hair loss 177 (53%) 166 (51%) 169 (51%)
+Nausea 152 (46%) 151 (46%) 150 (46%)
+Low number of 
+red blood cells 
+(anemia)143 (43%) 150 (46%) 155 (47%)
+Low number of a 
+type of white 
+blood cells113 (34%) 114 (35%) 124 (38%)
+Feeling tired 109 (33%) 121 (37%) 114 (35%)
+Constipation 94 (28%) 114 (35%) 98 (30%)
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+9Most Common Medical Problems
+(Reported by More Than 10% of Patients)
+Medical 
+ProblemGroup A
+Chemotherapy 
+With No 
+Maintenance 
+Treatment
+(334 Patients 
+treated)Group B
+Chemotherapy 
+Followed by
+Avelumab
+(328 Patients 
+treated)Group C
+Chemotherapy + 
+Avelumab 
+Followed by 
+Avelumab
+(329 Patients 
+treated)
+Numbness or 
+pain from 
+damage to 
+sensory nerves82 (25%) 91 (28%) 75 (23%)
+Vomiting 68 (20%) 87 (27%) 77 (23%)
+Numbness or 
+pain from 
+damage to 
+peripheral nerves 64 (19%) 63 (19%) 77 (23%)
+Diarrhea 63 (19%) 83 (25%) 97 (29%)
+Low number of 
+platelets  59 (18%) 47 (14%) 62 (19%)
+Abdominal pain 58 (17%) 64 (20%) 64 (19%)
+Joint pain 54 (16%) 72 (22%) 77 (23%)
+Muscle pain 43 (13%) 67 (20%) 53 (16%)
+Low appetite 38 (11%) 63 (19%) 53 (16%)
+Pain in hands 
+and feet 37 (11%) 27 (8%)30 (9%)
+Trouble sleeping 32 (10%) 50 (15%) 39 (12%)
+Trouble 
+breathing30 (9%) 39 (12%)48 (15%)
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+10Most Common Medical Problems
+(Reported by More Than 10% of Patients)
+Medical 
+ProblemGroup A
+Chemotherapy 
+With No 
+Maintenance 
+Treatment
+(334 Patients 
+treated)Group B
+Chemotherapy 
+Followed by
+Avelumab
+(328 Patients 
+treated)Group C
+Chemotherapy + 
+Avelumab 
+Followed by 
+Avelumab
+(329 Patients 
+treated)
+Urinary tract 
+infection29 (9%) 36 (11%) 47 (14%)
+Headache 28 (8%) 51 (16%) 48 (15%)
+Dizziness 28 (8%) 43 (13%) 37 (11%)
+Rash 25 (7%) 55 (17%) 63 (19%)
+Fever 23 (7%) 37 (11%) 43 (13%)
+Feeling weak 22 (7%) 34 (10%) 46 (14%)
+Upper abdominal 
+pain21 (6%) 28 (9%) 35 (11%)
+Cough 20 (6%) 35 (11%) 51 (16%)
+Itching 19 (6%) 36 (11%) 34 (10%)
+Reaction to IV 
+infusion19 (6%) 26 (8%) 34 (10%)
+Underactive 
+thyroid4 (1%) 28 (9%) 33 (10%)
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+11Most Common Abnormal Lab Test Results 
+(Reported by More Than 10% of Patients)
+Abnormal Lab 
+Test ResultGroup A
+Chemotherapy 
+With No 
+Maintenance 
+Treatment
+(334 Patients 
+treated)Group B
+Chemotherapy 
+Followed by
+Avelumab
+(328 Patients 
+treated)Group C
+Chemotherapy + 
+Avelumab 
+Followed by 
+Avelumab
+(329 Patients 
+treated)
+Neutrophil count 
+decreased 75 (2 2%) 60 (18%) 54 (16%)
+Platelet count 
+decreased 44 (13%) 25 (8%) 39 (12%)
+White blood cell 
+count decreased 34 (10%) 32 (10%) 31 (9%)
+Low magnesium 
+level27 (8%) 32 (10%) 42 (13%)
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  
+A total of 267 out of 991 patients (27%) who received study treatment had serious 
+medical problems.  63 patients (19%) in Gr oup A, 89 patients (27%) in Group B, and 
+115 patients (35%) in Group C had serious medical problems.  The most common 
+serious medical problems are listed below .
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+12Most Common Serious Medical Problems
+(Reported by More Than 2% of Patients)
+Serious 
+Medical 
+ProblemGroup A
+Chemotherapy 
+With No 
+Maintenance 
+Treatment
+(334 Patients 
+treated)Group B
+Chemotherapy 
+Followed by
+Avelumab
+(328 Patients 
+treated)Group C
+Chemotherapy 
++ Avelumab 
+Followed by 
+Avelumab
+(329 Patients 
+treated)
+Inability of 
+intestines to 
+contract 
+normally 9 (3%) 3 (1%) 3 (1%)
+Low number of 
+red blood cells
+(anemia)6(2%) 6 (2%) 8 (2%)
+Fever with low 
+number of a 
+type of white 
+blood cell7 (2%) 10 (3%) 8 (2%)
+Fever 2 (1%) 6 (2%) 10 (3%)
+Urinary tract 
+infection2 (1%) 7 (2%) 7 (2%)
+A total of 53 (5%) patients died during the study, including 13 patients (4%) in 
+Group A, 19 patients (6%) in Group B, and 21 patients (6%) in Group C.  Most of 
+these deaths were due to ovarian cancer , including 11 patients (3%) in Group A, 
+15patients (5%) in Group B, and 17patients (5%) in Group C.
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)
+13WHERE CAN I LEARN MORE ABOUT THIS 
+STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.  For more details on this study protocol, please visit:
+www.clinicaltrials.gov Use the study identifier NCT02718417
+www.clinicaltrialsregister.eu Use the study identifier 2015-003239 -36
+www.pfizer.com/research/research_
+clinical_trials/trial_resultsUse the protocol number B9991010
+Please remember that researchers look at the results of m any studies to find out which 
+medicines can work and are safe for patients.  No further studies with avelumab in 
+patients with ovarian cancer are planned.
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e1936a733f\Approved\Approved On: 08-May-2020 02:50 (GMT)

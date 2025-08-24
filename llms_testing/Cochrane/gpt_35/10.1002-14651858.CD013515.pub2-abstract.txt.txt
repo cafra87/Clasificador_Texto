@@ -1,0 +1,21 @@
+Plain Title: Psychological Therapies for Painful Jaw Disorders: Mixed Evidence and Need for Further Research
+
+Rationale:
+Temporomandibular disorders (TMDs) are conditions that affect the jaw and can cause chronic pain that is difficult to manage. People with TMDs often experience pain, disability, and distress. Psychological therapies aim to help people with TMDs manage their pain and reduce these negative effects. This study was conducted to assess the effects of psychological therapies in people with painful TMD that lasts for at least three months. The study aimed to determine if psychological therapies can provide relief and improve the well-being of individuals with TMD.
+
+Trial Design:
+The study followed a randomized controlled trial design. This means that participants were assigned to different groups randomly to receive either psychological therapy or a different form of treatment. The study included individuals who were 12 years old and above and had painful TMD lasting for three months or longer. The study also included various psychological therapies such as cognitive behavior therapy (CBT), behavior therapy (BT), acceptance and commitment therapy (ACT), and mindfulness. The study duration varied, with the shortest being 4 weeks. The participants' progress was assessed immediately after treatment and at the longest available follow-up, which ranged from 3 months to 12 months.
+
+Results:
+The study identified a total of 22 randomized controlled trials involving 2001 participants. Twelve of these studies were included in the meta-analyses. However, the risk of bias was high across the included studies, and the certainty of the evidence was judged to be low to very low. Therefore, further research may change the findings. The main outcomes of interest were pain intensity, disability caused by pain, adverse events, and psychological distress. Most studies evaluated cognitive behavior therapy (CBT).
+
+The results showed that, at the end of treatment, there was no evidence that CBT had a significant effect on pain intensity compared to alternative treatments or control groups. However, at follow-up, there was evidence of a small benefit of CBT in reducing pain intensity compared to alternative treatments and control groups.
+
+Regarding disability outcomes, there was no evidence of a difference between CBT and alternative treatments or control groups at the end of treatment or at follow-up. The available data on adverse events associated with psychological treatments suggested that these effects were minor and occurred less often than in alternative treatment groups. However, there was insufficient data to draw firm conclusions about adverse events.
+
+CBT showed a small benefit in reducing psychological distress compared to alternative treatments at the end of treatment, and this benefit was maintained at follow-up. However, there was no significant difference between CBT and control groups.
+
+Overall, the certainty of the evidence was assessed as low or very low for all comparisons and outcomes. There was insufficient evidence to determine the effectiveness of psychological therapies other than CBT.
+
+Conclusion:
+In conclusion, the study found mixed evidence regarding the effects of psychological therapies on painful temporomandibular disorders (TMDs). There is low-certainty evidence that CBT may reduce pain intensity more than alternative treatments or control groups at the longest follow-up. However, there is low-certainty evidence that CBT may not be better than other treatments or control groups for pain disability outcomes. Further research is needed to determine the effectiveness of psychological therapies for TMDs, including the most effective type of therapy and delivery method. Particularly, high-quality randomized controlled trials conducted in primary care and community settings are needed, involving both adults and adolescents, and collecting long-term measures of pain intensity, pain disability, and psychological distress. This will help provide more reliable information on the efficacy of psychological therapies for painful TMD and guide treatment decisions.

@@ -1,0 +1,37 @@
+Plain Title: Non-Drug Measures to Prevent COVID-19 in Long-Term Care Facilities
+
+Rationale: 
+Long-term care facilities are at high risk of COVID-19 outbreaks. This study aimed to evaluate the effects of non-pharmacological measures used in these facilities to prevent the spread of the virus among residents, staff, and visitors. By implementing these measures, we hoped to reduce infections, hospitalizations, and deaths caused by COVID-19.
+
+Trial Design:
+We searched multiple databases and conducted a thorough review of observational and modeling studies. The studies included in our analysis focused on the effects of non-pharmacological measures in long-term care facilities. We assessed the risk of bias and quality of the studies using standardized tools. The analysis included 11 observational studies and 11 modeling studies, all conducted in high-income countries.
+
+Results:
+The studies examined various intervention domains and specific measures to prevent the spread of COVID-19 in long-term care facilities. Here are the main findings:
+
+1. Entry regulation measures: 
+- Staff self-confinement with residents can reduce infections and deaths.
+- Quarantine for new admissions can reduce infections.
+- Testing of new admissions and intensified testing of residents and staff after holidays can reduce infections, but more research is needed.
+- Restricting admissions of new residents may reduce infections and the probability of facility contamination, but more evidence is required.
+- Visiting restrictions may reduce infections and deaths but may also increase the probability of facility contamination. The impact on residents' mental health is uncertain.
+
+2. Contact-regulating and transmission-reducing measures: 
+- Barrier nursing may increase infections and outbreaks, but more research is needed.
+- Multicomponent cleaning and environmental hygiene measures may reduce infections, although more evidence is required.
+- Personal hygiene measures may reduce the probability of outbreaks.
+- Mask and personal protective equipment usage may reduce infections, outbreaks, and deaths, but more research is needed.
+- Cohorting residents and staff may reduce infections, but more evidence is required.
+
+3. Surveillance measures:
+- Routine testing of residents and staff can reduce infections and the probability of outbreaks.
+- Symptom-based surveillance testing may reduce infections and outbreaks, although more evidence is needed.
+
+4. Outbreak control measures:
+- Separating infected and non-infected residents or staff caring for them can reduce infections and the probability of outbreaks.
+- Isolation of cases may reduce infections and the probability of outbreaks.
+
+5. Multicomponent measures:
+- A combination of multiple infection-control measures may reduce infections and deaths, although more evidence is required.
+
+Overall, the studies provide a comprehensive framework for implementing non-pharmacological measures in long-term care facilities to prevent COVID-19. However, the certainty of evidence is low due to limited availability and quality of studies. More research, especially in low- and middle-income countries, is needed to strengthen the evidence and explore any unintended consequences of these measures. This will help inform future pandemic research and prioritize interventions in long-term care facilities.

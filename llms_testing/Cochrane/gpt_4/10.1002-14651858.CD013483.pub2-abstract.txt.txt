@@ -1,0 +1,11 @@
+1. Plain Title: 
+Study of Improved Liver Cancer Detection Using Enhanced Ultrasound
+
+2. Rationale: 
+Liver cancer is often an outcome of chronic liver disease. It is one of the most common types of cancer worldwide and one of the leading causes of cancer-related death. Detecting liver cancer early is important but difficult. One key method of identifying the cancer is Contrast-Enhanced Ultrasound (CEUS), which is an extra test given when regular ultrasound or other tests suggest the presence of liver cancer. Although guidelines suggest that one test, using either computer image processing methods or MRI, may be enough to identify liver cancer, many cancers might be missed because they don't have the standard image features. Therefore, we aim to study whether CEUS could improve the identification of liver cancer, either for confirming its presence or ruling it out in people with chronic liver disease who are not being closely monitored. 
+
+3. Trial Design: 
+In this study, we used standard research methods to find and select studies that addressed our research goals. We specifically looked for research that examined the accuracy of the CEUS in diagnosing liver cancer in adults living with chronic liver disease. The studies we used were ones that compared CEUS results to the accepted methods of liver inspection. The studies ranged from the years 2001 to 2021 and involved a total of 6546 participants. 
+
+4. Results: 
+After analyzing the studies, we found that when using CEUS as an additional test after a normal ultrasound, we could potentially miss 22 out of every 100 people with liver cancer. On the other side, we could falsely identify 6 out of every 100 people without liver cancer as having the disease. These inaccuracies could lead to unnecessary or incorrect treatments. For a specific type of liver cancer that can be removed surgically, 23 out of every 100 people with this cancer could be wrongly identified as not needing surgery, while 8 out of every 100 people without this cancer could be falsely suggested for surgery. Our confidence in these findings is, however, limited due to differences across the studies included in our analysis, along with some concerns related to potential biases in the way these studies were designed.

@@ -1,0 +1,29 @@
+Later in this document, there will be a summary of the adverse events that the
+study doctors thought might be related to the study treatment. This section
+is a summary of all the adverse events, whether they might be related to the
+study treatment or not. An adverse event is considered “serious” when it is life-
+threatening, causes lasting problems, or the participant needs hospital care.
+Adverse events may or may not be caused by the treatments in the study. A lot of
+research is needed to know whether a treatment causes an adverse event.
+Part 1
+(out of 32 participants)
+How many participants had adverse events? 100% (32)
+How many participants had serious adverse events? 31.3% (10)
+How many participants stopped getting AZD9150 due to adverse events? 12.5% (4)
+How many participants stopped getting durvalumab due to adverse events? 3.1% (1)
+The most common serious adverse events in Part 1 were:
+X Low levels of red blood cells
+X Pneumonia
+The most common adverse events in Part 1 were:
+X Low levels of a type of white blood cell called neutrophils
+X Low levels of blood cells that help form clots, known as platelets
+X Low levels of red blood cells
+X Nausea
+X Vomiting
+X High levels of liver proteins called AST and ALT
+X Diarrhea
+X Decreased appetite
+X Fatigue
+X Low levels of magnesium in the blood
+X Dehydration
+9 | Clinical Study Results

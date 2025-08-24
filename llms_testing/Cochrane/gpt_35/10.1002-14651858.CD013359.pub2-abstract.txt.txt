@@ -1,0 +1,18 @@
+Plain Title: Diagnostic Accuracy of Tuberculosis Tests in Children
+
+Rationale: 
+Tuberculosis is a serious illness that affects many children worldwide, causing illness and death. The World Health Organization recommends two rapid tests, called Xpert MTB/RIF and Xpert Ultra, to detect tuberculosis and resistance to a specific drug called rifampicin. These tests are performed on children with signs and symptoms of tuberculosis. We conducted a review to determine how accurate these tests are in diagnosing tuberculosis in children.
+
+Trial Design: 
+This study was designed to determine the accuracy of Xpert MTB/RIF and Xpert Ultra tests in children with presumed tuberculosis. We included children with different types of tuberculosis, such as pulmonary tuberculosis, tuberculous meningitis, and lymph node tuberculosis. The study involved children under the age of 15. The tests were used as the initial diagnostic tests instead of standard practices like microscopy or culture. The study lasted until April 2019.
+
+Results: 
+For the detection of pulmonary tuberculosis, the accuracy of Xpert MTB/RIF was moderate. It had a sensitivity of 64.6% and a specificity of 99.0% for sputum specimens. For other types of specimens, such as nasopharyngeal aspirate, gastric aspirate, and stool, the sensitivity ranged from 45.7% to 73.0% and the specificity ranged from 98.1% to 99.6%. Xpert Ultra had a lower certainty of evidence but showed higher sensitivity in sputum specimens (72.8%) and slightly lower specificity (97.5%). 
+
+For the detection of tuberculous meningitis, Xpert MTB/RIF had a sensitivity of 54.0% and a specificity of 93.8% when testing cerebrospinal fluid. 
+
+For the detection of lymph node tuberculosis, Xpert MTB/RIF had a sensitivity of 90.4% and a specificity of 89.8% when testing lymph node aspirates or biopsies. 
+
+Xpert MTB/RIF was accurate in detecting rifampicin resistance, with a sensitivity of 90.0% and a specificity of 98.3%. 
+
+In conclusion, Xpert MTB/RIF and Xpert Ultra are useful tests for diagnosing tuberculosis in children. The accuracy of the tests varies depending on the specimen type. Xpert MTB/RIF is also accurate in detecting rifampicin resistance. However, the number of studies and participants for Xpert Ultra was limited, affecting our confidence in the estimates. It is important to consider other clinical information when diagnosing tuberculous meningitis in children and not rely solely on Xpert MTB/RIF results.

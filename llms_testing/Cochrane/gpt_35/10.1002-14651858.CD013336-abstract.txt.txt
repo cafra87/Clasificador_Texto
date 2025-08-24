@@ -1,0 +1,11 @@
+Plain Title: Extended vs. Standard Lymph Node Removal in Bladder Cancer Surgery
+
+Rationale: Bladder cancer can be a serious condition. We are unsure about the best way to remove lymph nodes during surgery for bladder cancer, and whether it is better to remove more lymph nodes (extended dissection) or less (standard dissection). This study aimed to compare the two methods to see which one is more effective in treating the cancer.
+
+Trial Design: The study included patients with muscle-invasive bladder cancer or non-muscle-invasive cancer that did not respond to treatment. The study compared two methods of lymph node removal during surgery: extended dissection where more lymph nodes are removed, or standard dissection where fewer lymph nodes are removed. The study lasted for an average of five years.
+
+Results: The study found that extended lymph node removal may reduce the risk of death from any cause and death specifically from bladder cancer over time, compared to standard lymph node removal. However, there is still a possibility that there may be no effect. After five years of follow-up, extended lymph node removal may result in fewer deaths overall compared to standard lymph node removal. The study also found that extended lymph node removal may not increase the risk of serious complications within 30 days after surgery. However, the certainty of these results is low, and more research is needed.
+
+In terms of secondary outcomes, the study was uncertain whether extended lymph node removal reduces the risk of cancer recurrence over time or the risk of minor complications within 30 days after surgery. The study did not find any information about the impact on disease-specific quality of life.
+
+In conclusion, this study suggests that extended lymph node removal during bladder cancer surgery may have some benefits in terms of reducing the risk of death. However, more research is needed to fully understand the effects and potential risks of this approach. Future studies should also consider other factors that may affect the outcomes.

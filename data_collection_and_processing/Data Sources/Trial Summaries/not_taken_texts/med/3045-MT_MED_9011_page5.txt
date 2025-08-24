@@ -1,0 +1,40 @@
+Clinical Study Results
+The figure below shows these results.
+Increased antibodies to the A/H1N1 strain
+28 days after getting MEDI3250 56 days after getting MEDI3250
+50.0 50.0
+45.2%
+)%( )%(
+40.0 40.0
+stnapicitrap stnapicitrap
+30.0 30.0
+23.4% 23.7%
+fo fo
+20.0 20.0
+egatnecreP egatnecreP
+12.5%
+10.0%
+10.0 10.0
+5.4%
+0 0
+Vaccine A Vaccine B Vaccine C Vaccine A Vaccine B Vaccine C
+A/H3N2 strain
+More participants who got Vaccine A and Vaccine B had increased antibodies to the
+A/H3N2 strain compared with participants who got Vaccine C.
+The figure below shows these results.
+Increased antibodies to the A/H3N2 strain
+28 days after getting MEDI3250 56 days after getting MEDI3250
+100.0 100.0
+)%( )%(
+80.0 80.0
+stnapicitrap stnapicitrap
+64.3% 66.1%
+60.0 60.0
+51.7% 54.2%
+40.3% fo fo
+40.0 40.0
+31.3% egatnecreP egatnecreP
+20.0 20.0
+0 0
+Vaccine A Vaccine B Vaccine C Vaccine A Vaccine B Vaccine C
+5

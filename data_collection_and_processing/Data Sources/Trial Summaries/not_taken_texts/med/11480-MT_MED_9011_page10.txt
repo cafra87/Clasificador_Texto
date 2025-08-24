@@ -1,0 +1,23 @@
+Did any adverse reactions happen during this study?
+Group 1 Group 2 Group 3
+(out of 27 (out of 8 (out of 9
+participants) participants) participants)
+How many participants had
+3.7% (1) None None
+adverse reactions?
+How many participants had
+None None None
+serious adverse reactions?
+How many participants stopped
+taking study treatment due to None None None
+adverse reactions?
+What serious adverse reactions happened during this study?
+None of the participants had any serious adverse reactions.
+What adverse reactions happened during this study?
+The only adverse reaction that happened during the study was having high
+levels of blood glucose.
+This happened in:
+X 3.7% participants from Group 1. This was 1 out of 27 participants
+X No participants from Group 2
+X No participants from Group 3
+10 | Clinical Study Results

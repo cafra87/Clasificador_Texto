@@ -1,0 +1,14 @@
+Background
+Fetal hypoxaemia is often a feature of fetal growth impairment. It has been suggested that perinatal outcome after suspected impaired fetal growth might be improved by giving mothers continuous oxygen until delivery. 
+Objectives
+The objective was to assess the effects of maternal oxygen therapy in suspected impaired fetal growth on fetal growth and perinatal outcome. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (June 2009).
+Selection criteria
+Acceptably controlled trials comparing maternal oxygen therapy with no oxygen therapy in suspected impaired fetal growth. 
+Data collection and analysis
+Eligibility and trial quality was assessed.
+Main results
+Three studies involving 94 women were included. Oxygenation compared with no oxygenation was associated with a lower perinatal mortality rate (risk ratio 0.50, 95% confidence interval 0.32 to 0.81). However, higher gestational age in the oxygenation groups may have accounted for the difference in mortality rates. 
+Authors' conclusions
+There is not enough evidence to evaluate the benefits and risks of maternal oxygen therapy for suspected impaired fetal growth. Further trials of maternal hyperoxygenation seem warranted. 

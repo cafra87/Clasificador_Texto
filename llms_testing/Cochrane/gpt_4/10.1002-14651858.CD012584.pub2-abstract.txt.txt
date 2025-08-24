@@ -1,0 +1,11 @@
+1. Plain Title: 
+Checking if Stopping Blood Thinning Medication Before Surgery Affects Patient Outcomes
+
+2. Rationale: 
+Blood thinning medication (antiplatelet agents) are often recommended for people who had a heart attack or a stroke, or those with coronary syndromes. These medicines help stop blood clots from forming. Some surgeries, though, aren't related to heart issues. But patients going for such surgeries might also be on blood thinners because of the reasons above. In these cases, there's a dilemma. Keeping them on the medicine could lead to more bleeding during the surgery. But stopping the medicine might lead to clot-related problems like a heart attack. We wanted to see which choice would be better in situations like these.
+
+3. Trial Design: 
+We looked at randomized controlled trials that involved adults on antiplatelet treatments for at least two weeks before an elective (planned) surgery that didn't involve the heart. Apart from minor surgeries, all other types were included in the study. The test compared keeping the medicines going or stopping them for at least five days before the surgery. We included patients who had at least one risk factor for heart disease. We looked at deaths, bleeding needing blood transfusion or another surgery, and clot-related problems.
+
+4. Results: 
+We looked at five studies involving 666 adults. We found that whether the medicine was stopped or continued probably didn't make much difference in the number of deaths up to six months after the surgery, blood loss needing transfusion, or clot-related problems. It may also make little or no difference in bleeding needing further surgery. These results should be seen keeping in mind that there were few studies that we could use and the total number of patients and events were fewer. We have three more studies to look at, and they may alter these findings.

@@ -1,0 +1,35 @@
+Clinical Study Results
+Did the participants’ blood potassium levels become normal after taking SZC?
+Yes. Overall, the researchers found that more participants who took SZC had their blood
+potassium reach normal levels compared to the participants who took the placebo.
+To answer this question, the researchers measured the participants’ blood potassium
+levels throughout the study. Blood potassium levels are measured in millimoles per liter,
+also called mmol/L. In this study, the researchers considered normal blood potassium
+levels to be between 4.0 mmol/L and 5.0 mmol/L. This is a widely accepted range in the
+global scientific community.
+The researchers considered a participant’s blood potassium to have reached normal
+levels if his or her levels were between 4.0 mmol/L and 5.0 mmol/L at 3 of the 4
+hemodialysis visits during the final 4 weeks of treatment. The researchers focused on the
+results during this time because the participants who took SZC did not have a change in
+their SZC dose during these 4 weeks. The researchers also focused on the participants
+who did not need rescue treatment during this time.
+The researchers found that during the final 4 weeks of treatment:
+• 41.2% of the participants who took SZC and did not need rescue treatment had their
+blood potassium reach normal levels. This was 40 out of 97 participants.
+• 1.0% of the participants who took the placebo and did not need rescue treatment
+had their blood potassium reach normal levels. This was 1 out of 99 participants.
+The figure below shows these results.
+Percentage of participants with normal
+blood potassium levels
+100
+80
+)%(
+fo
+60 egatnecreP stnapicitrap
+41.2%
+40
+20
+1.0%
+0
+SZC Placebo
+5

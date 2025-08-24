@@ -1,0 +1,32 @@
+Clinical Trial RESULTS
+Average amount of AZD9567 in the blood
+Researchers measured the average amount of AZD9567 in participants’ blood in nanomole
+hours per liter of blood (h•nmol/L). This is a widely accepted scientific unit of measurement.
+After being swallowed by participants, AZD9567 was taken up quickly into the blood. This
+process took about 1 hour.
+AZD9567 also disappeared quickly from the blood. Roughly 5 hours after participants got
+AZD9567, the original amount of the study drug in participants’ blood was cut in half.
+The figure below shows this amount for the 8 AZD9567 treatment groups.
+Average Amount of AZD9567 in the Blood
+57500
+60,000
+)L/lomn•h(
+45,000 42080 41290
+31840 doolb
+30,000
+ni
+tnuoma
+14000
+15,000
+7670
+egarevA
+5266
+1007
+0
+2 mg 10 mg 20 mg 40 mg 80 mg 100 mg 125 mg 155 mg
+Treatment Group (6 participants per group)
+Highest amount of AZD9567 in the blood
+Researchers measured the highest amount of AZD9567 in participants’ blood
+in nanomoles per liter of blood (nmol/L). This is a widely accepted scientific unit
+of measurement.
+5

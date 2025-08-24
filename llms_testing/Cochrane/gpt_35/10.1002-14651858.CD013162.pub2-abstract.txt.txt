@@ -1,0 +1,20 @@
+Plain Title: Cognitive Behavioral Therapy for Childhood Anxiety: Benefits and Effectiveness
+
+Rationale: 
+Childhood anxiety disorders are a common concern that can greatly impact children's well-being. Cognitive behavioral therapy (CBT) has been shown to be effective in treating these disorders. However, there are still unanswered questions about the effectiveness of CBT compared to other treatment options, its long-term effects, and its efficacy in children with autism spectrum disorders (ASD) and intellectual impairments. This study aimed to address these gaps and determine the benefits of CBT for childhood anxiety disorders.
+
+Trial Design:
+This study involved a systematic review of randomized controlled trials that evaluated the effectiveness of CBT for childhood anxiety disorders. The trials included children under the age of 19 who met the diagnostic criteria for an anxiety disorder. The study compared the outcomes of CBT with various other treatments such as waitlist/no treatment, treatment as usual, attention control, alternative treatment, and medication. The study conducted thorough searches in established databases and trial registries to gather relevant data. 
+
+Results: 
+The study included 87 trials with a total of 5,964 participants. The findings indicate that CBT is likely to be more effective than waitlist/no treatment for achieving remission of primary anxiety diagnoses post-treatment, with a remission rate of 49.4% compared to 17.8%. CBT also showed benefits for remission of all anxiety diagnoses. 
+
+There was limited evidence to support the superiority of CBT over treatment as usual in achieving remission of primary anxiety disorders. However, CBT may be more effective than treatment as usual for achieving remission of all anxiety disorders. Similarly, CBT may be more effective than attention control for achieving remission of both primary anxiety disorders and all anxiety disorders. 
+
+The study did not find sufficient evidence to compare CBT with alternative treatments for achieving remission of primary anxiety disorders. However, there may be little to no difference in achieving remission of all anxiety disorders between CBT and alternative treatments. 
+
+Regarding acceptability, there was no significant difference in acceptability rates between CBT and waitlist/no treatment, treatment as usual, attention control, and alternative treatment. 
+
+No adverse effects were reported in the studies analyzed, but more systematic monitoring of adverse effects is needed. 
+
+Overall, this study suggests that CBT is a beneficial treatment option for childhood anxiety disorders, particularly in comparison to waitlist/no treatment and attention control. However, more research is needed to determine its superiority over usual care and alternative treatments, as well as its effectiveness in different delivery formats and in children with ASD and intellectual impairments.

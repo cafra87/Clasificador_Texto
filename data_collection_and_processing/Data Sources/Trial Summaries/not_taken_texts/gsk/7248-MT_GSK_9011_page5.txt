@@ -1,0 +1,28 @@
+What were the overall results of the study?
+Lung function tests measure how well a patient’s lungs move air in and out of the body.
+Doctors can use the results of these tests to see if lung function is stable, getting
+better, or getting worse.
+One measure of lung function is forced expiratory volume in one second (FEV ). FEV
+1 1
+measures the amount of air a patient can breathe out in the first second when asked to
+blow as hard as possible into a tube connected to a machine (spirometer). Higher
+values of FEV mean more air is flowing out of the lungs and that lung function is
+1
+better.
+Study doctors measured FEV values, before patients took the study medicines, on
+1
+Day 1 (baseline), and at Week 24. The difference between FEV values at baseline and
+1
+after 24 weeks of treatment is called the Week 24 change from baseline in FEV .
+1
+The Week 24 change from baseline in FEV values from individual patients in each
+1
+treatment group were combined and averaged. These averaged values of the dual
+therapy group were compared with each of the two triple therapy groups within in
+each set:
+• Set A (low-dose fluticasone furoate groups):
+- Group 1 (dual therapy) compared with Group 2 (triple therapy)
+- Group 1 (dual therapy) compared with Group 3 (triple therapy).
+• Set B (high-dose fluticasone furoate groups):
+- Group 4 (dual therapy) compared with Group 5 (triple therapy)
+- Group 4 (dual therapy) compared with Group 6 (triple therapy).

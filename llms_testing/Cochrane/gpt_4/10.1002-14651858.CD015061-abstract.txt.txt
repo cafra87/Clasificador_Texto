@@ -1,0 +1,17 @@
+1. Plain Title: 
+Understanding Treatments to Ease COVID-19 Symptoms at the End of Life
+
+2. Rationale: 
+COVID-19 can cause harmful symptoms like difficulty in breathing or mental confusion, especially towards end of life. Different ways to manage these symptoms could be using drugs or specific types of therapy. However, most guidance we have on managing these symptoms comes from treating people with other illnesses, not specifically COVID-19. The study was conducted to better understand how effective and safe both drug-based and non-drug-based methods are for helping to manage symptoms specific to those with COVID-19.
+
+3. Trial Design: 
+We searched many databases and registries for completed and ongoing studies on managing COVID-19 symptoms. We looked at a wide range of study types, and included those that measured how well and how safely symptoms were managed, using drug-based or non-drug-based methods or regular care. We didn't include studies related to symptoms caused by other severe illnesses. The study looked at symptom relief, quality of life, symptom load, satisfaction of patients, caregivers, and family, plus serious and moderate side effects. 
+
+4. Results: 
+We found four studies that looked at drug treatments for managing symptoms in hospital patients and people in nursing homes. All of these studies had certain flaws and none of them compared the drug treatments with standard or regular care. The studies looked at using different drugs to relieve numerous symptoms, like difficulty breathing, mental confusion, anxiety, pain and others.
+
+All collected studies showed that the treatments used may be fully or partly effective in treating symptoms. However, because the studies had no comparisons, and those rating the outcome knew the treatment being given, we can't be sure about their reported effectiveness. 
+
+We didn't find any data about how the treatments affected quality of life, symptom load, patient satisfaction, or side effects. We also didn't find any studies that used non-drug treatments to help manage symptoms.
+
+In conclusion, we found very little and uncertain evidence on how well drug treatments work for managing COVID-19 symptoms. We didn't find any evidence on how safe these drug treatments are, or on how well non-drug treatments can control symptoms. More research needs to be done to give doctors, nurses, and caregivers clearer guidance on how to treat symptoms in COVID-19 patients at end of life.

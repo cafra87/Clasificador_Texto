@@ -1,0 +1,15 @@
+Clinical trial results
+What were the most common medical problems in the study that were
+not considered serious?
+The table below shows all of the medical problems that were not considered
+serious that happened in at least 5% of participants.
+Medical 0.156 μg of 2.5 μg of 0.05 μg of 0.156 μg of 2.5 μg of
+problems abediterol abediterol abediterol abediterol abediterol
+that were not in inhaler 1 in inhaler 1 in inhaler 2 in inhaler 2 in inhaler 2 Placebo
+considered (Out of 29 (Out of 29 (Out of 30 (Out of 30 (Out of 30 (Out of 29
+serious participants) participants) participants) participants) participants) participants)
+Headache 3 (10.3%) 2 (6.9%) 3 (10.0%) 3 (10.0%) 3 (10.0%) 6 (20.7%)
+Toothache 0 (0.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 0 (0.0%) 0 (0.0%)
+Common cold 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 2 (6.9%)
+Joint pain 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.9%)
+7

@@ -1,0 +1,34 @@
+Page 2 of 10
+General information about the clinical study
+When was this study done?
+The study started in August 2020 and is still ongoing. In April 2021, GSK decided that no
+further participants will enter this study and the existing participants will stop receiving one
+of the study medicines, feladilimab. This is referred to as data cut-off in the summary. This is
+because in a different study, the researchers found that fewer participants than expected
+responded to feladilimab. However, participants could continue on in this study and receive
+the combination of pembrolizumab and chemotherapy. This summary provides details only
+up to the data cut-off.
+Which medicines were studied?
+In this study, participants received feladilimab or placebo in combination with
+pembrolizumab and chemotherapy.
+1. Feladilimab: It is a medicine that boosts the immune system’s reaction and helps
+immune cells attack cancer cells. This may slow down the growth or return of the
+cancer. It is not yet approved to treat any disease.
+2. Placebo: has no active study medicine.
+Pembrolizumab is a medicine that helps the body to use its own immune system to treat
+cancer. It is approved in several countries to treat many types of cancer.
+Chemotherapy in this study consisted of cisplatin or carboplatin plus 5-fluorouracil. These
+medicines are used to treat cancer.
+What was the main reason for this study?
+Head and neck cancer is a type of cancer that starts in the head and neck region. When the
+cancer spreads to the sites away from the head and neck region, it is considered metastatic.
+Cancer that returns or worsens after being successfully treated is considered recurrent.
+Cancers that are recurrent or metastatic are called advanced cancers.
+Immune cells have a type of protein on
+their surface called programmed cell
+death protein 1 (PD-1). Cancer cells make
+a protein called programmed cell death
+ligand protein (PD-L1) that can attach to
+the PD-1 protein and turn off the
+immune cell. Cancer medicines can
+attach to the PD-1 protein and block the

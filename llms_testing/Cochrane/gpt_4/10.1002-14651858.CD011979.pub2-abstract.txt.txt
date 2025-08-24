@@ -1,0 +1,21 @@
+1. Plain Title: 
+Studying the Effects of Phototherapy Light Treatment in Healing Diabetic Foot Ulcers
+
+2. Rationale:
+Foot ulcers, which are painful wounds on the foot, can be a severe problem for people with diabetes, affecting between 15% to 25% of these individuals. A new way to try and treat these ulcers is by using a treatment called 'phototherapy'. Phototherapy involves using light to help the wound heal better by promoting growth at the cellular level and increased blood flow. However, it's not fully confirmed yet whether this treatment is better than other methods. The reason we did this study was to check if phototherapy can effectively treat foot ulcers in people with diabetes.
+
+3. Trial Design:
+In our trial, we looked at some previous studies that tested phototherapy treatment on adults with diabetes suffering from a variety of foot ulcers. These initial studies took place in clinics or hospitals. We wanted to determine if phototherapy was better than no treatment, or if different kinds of phototherapy were more effective than others. We also checked whether different power levels or wavelengths of light could alter the results.
+
+4. Results:
+From our review, we studied eight previous trials including 316 people in total. The studies we reviewed didn't have any standard rules or guidance about the evaluation process, so we couldn't be completely sure of their accuracy. Furthermore, some studies had a small number of participants, which made their results less dependable. 
+
+We found no data about how quickly the ulcers healed completely. However, we calculated that about 64.5% of ulcers in people receiving phototherapy were fully healed, compared to about 37% in the group that did not receive phototherapy. However, we noted that these results might not be entirely accurate due to the limitations found in the original studies.
+
+In terms of adverse events or side effects, out of two studies, one with 16 participants and another with 14, showed no clear difference between the phototherapy and placebo group.
+
+On examining data about changes in ulcer sizes, four studies showed that phototherapy may lead to a greater reduction in ulcer size in two to four weeks. But, the quality of evidence wasn't strong due to inconsistency in data and little numbers of people in the studies.
+
+On the subject of quality of life and risk of amputations, our analyses were based on one study each, but they showed no clear difference between the phototherapy group and the group that did not receive phototherapy.
+
+In conclusion, our review of past trials showed that phototherapy may help in healing wounds fully as well as reducing the size of the wound. However, there's no solid evidence yet that it improves quality of life. It's difficult to rely on these findings because of weaknesses and small participant numbers in the original trials. More comprehensive and well-designed studies need to be conducted to prove if phototherapy is indeed a useful treatment for diabetic foot ulcers.

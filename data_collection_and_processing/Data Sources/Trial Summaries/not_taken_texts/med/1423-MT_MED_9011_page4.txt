@@ -1,0 +1,33 @@
+Clinical Study Results
+The table below shows the treatments the participants got in this study, as well as the lowest and
+highest number of cycles the participants received. The table also includes the median number of
+cycles in each group. A median is the middle number in a set of numbers and is found between
+the lowest and highest numbers.
+Group Treatment given Cycle length Number of cycles
+Group 1 • 20 mg/kg of durvalumab 1 4 weeks 1 to 38 cycles
+(durvalumab alone) time each cycle (median of 4 cycles)
+369 participants
+Group 2 • 20 mg/kg of durvalumab 1 4 weeks 1 to 41 cycles
+(durvalumab and time each cycle for 4 cycles (median of 4 cycles)
+tremelimumab)
+• 1 mg/kg of tremelimumab
+371 participants
+1 time each cycle for 4 cycles
+• after 4 cycles, 20 mg/kg of
+durvalumab 1 time each cycle
+Group 3 • SOC treatment 1 time during 3 weeks 1 to 46 cycles
+(SOC treatment) each cycle (median of 6 cycles)
+352 participants
+What happened during the study?
+Before the study started, the participants visited their study site 1 time over the course of
+4 weeks. At this visit, the doctors checked to make sure they could join the study. The doctors:
+• did a physical examination
+• asked the participants about their medical history and what medicines they were taking
+• took blood and urine samples
+• checked the participants’ heart health using an electrocardiogram, also called an ECG
+• measured the participants’ tumors using computed tomography scans, also called CT scans,
+and magnetic resonance imaging scans, also called MRI scans
+• took tissue samples and pictures of the tumors
+• gave the participants surveys that asked them about their symptoms and how they were feeling
+The doctors also did these tests, surveys, and measurements throughout the study.
+4

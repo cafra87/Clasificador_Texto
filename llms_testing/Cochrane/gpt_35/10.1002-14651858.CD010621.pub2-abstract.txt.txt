@@ -1,0 +1,12 @@
+Plain Title: Collagen Cross-Linking (CXL) for the Treatment of Keratoconus: Is it Effective and Safe?
+
+Rationale: 
+Keratoconus is an eye condition that affects around 1 in 2000 people. It causes a gradual increase in the curvature of the cornea, leading to a decrease in vision and a negative impact on quality of life. Collagen cross-linking (CXL) with ultraviolet A (UVA) light and riboflavin (vitamin B2) is a new treatment that has been shown to slow down or stop the progression of keratoconus in its early stages. This study aims to determine if CXL is an effective and safe treatment for stopping the progression of keratoconus compared to no treatment.
+
+Trial Design: 
+The study design involves a review of randomized controlled trials (RCTs) where CXL with UVA light and riboflavin was used to treat people with keratoconus and compared to no treatment. The study includes participants from different countries and the age range is limited to adults. The duration of the study varied across the trials.
+
+Results: 
+The study included three RCTs conducted in Australia, the United Kingdom, and the United States with a total of 225 eyes analyzed. Out of these, 119 eyes had CXL treatment and 100 eyes served as controls. The analysis showed that eyes treated with CXL were less likely to have an increase in corneal curvature at 12 months compared to eyes without treatment. However, the effect was uncertain due to limitations in the studies. Treated eyes also had a less steep cornea and better vision compared to untreated eyes at 12 months. Adverse effects were uncommon and mostly temporary. Overall, the evidence for the use of CXL in managing keratoconus is limited due to the lack of well-conducted RCTs.
+
+In conclusion, collagen cross-linking (CXL) with UVA light and riboflavin shows promise in halting the progression of keratoconus. However, more well-designed studies are needed to provide stronger evidence regarding its effectiveness and safety as a treatment option.

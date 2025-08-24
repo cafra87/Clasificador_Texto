@@ -1,0 +1,21 @@
+1. Plain Title: 
+Studying Different Starting Doses of Warfarin in Patients
+
+2. Rationale: 
+Warfarin is a common medicine that prevents blood clots. But, people's bodies respond differently to it. Some people may need a higher or lower dose than others. Because it's very important to get the right warfarin dose, doctors need to choose the starting dose careful. 
+
+This study set out to compare different starting doses of warfarin. The goal was to see which worked best in terms of quickly reaching the right range, staying in the right range, and having fewer bad side effects. This could help doctors make better choices when they start patients on warfarin.
+
+3. Trial Design:
+This study compared different starting doses of warfarin in patients. The patients were chosen from various sources and all of them were starting on warfarin for the first time. Some would get a usual starting dose while others would get a higher or lower one. The researchers would then monitor them and check how fast they reach the right warfarin level and how often they stay in this level. 
+
+The researchers also reviewed data and findings from other studies. This included checking how the studies were done and how trustworthy their findings were.
+
+4. Results:
+The study found that the starting dose of warfarin made a difference to some extent. For instance, those who got a lower dose of 2.5 mg took longer to reach the right warfarin level than those who got the usual 5 mg dose. However, the 5 mg dose was not always better. Those who got a dose calculated specifically for them reached the right level faster.
+
+The researchers also found that older patients did better with a lower starting dose or a dose that was set according to their age. Compared to others, more of them got to and stayed in the right warfarin range. 
+
+Lastly, the researchers also looked at starting doses set according to the patient's specific genetic features. They found that this method didn't always work better, and thus shouldn't be chosen as the main method to set the warfarin starting dose.
+
+In conclusion, the right starting dose for warfarin might vary depending on the person. For older patients, a lower or age-set dose might be better. But for others, a dose set for them might work faster. Overall, it's clear that finding the right dose isn't a one-size-fits-all matter.

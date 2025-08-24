@@ -1,0 +1,11 @@
+The study doctors also counted the number of “dose limiting toxicities” the
+participants had during the study. A dose limiting toxicity is an adverse event that
+is severe enough to stop the study doctor from increasing the participant’s dose of
+study treatment. A dose limiting toxicity is also known as a “DLT”.
+Only 23 out of 27 participants in Group 1 and 21 out of 23 participants in Group
+2 could be checked for DLTs. This is because only these participants got AZD2811
+as planned and completed the follow-up visit or phone call to check their health.
+Of these participants:
+X 21.7% of participants in Group 1 had a DLT. This was 5 out of 23 participants.
+X 4.8% of participants in Group 2 had a DLT. This was 1 out of 21 participants.
+8 | Clinical Study Results

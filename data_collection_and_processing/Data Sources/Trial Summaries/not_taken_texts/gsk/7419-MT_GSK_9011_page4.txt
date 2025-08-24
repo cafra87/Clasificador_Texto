@@ -1,0 +1,21 @@
+A total of 800 patients received at least one dose of study medicine. The table below
+shows the gender and age of these patients.
+Patients who received at least one dose of the study medicine(s)
+Triple therapy group Tiotropium group
+400 patients 400 patients
+Female 126 (32%) 131 (33%)
+Male 274 (69%) 269 (67%)
+Age range (years) 42 to 87 40 to 87
+Average age (years) 66 66
+For more detailed information about the patients included in this study, see the
+scientific results summaries (links to those summaries are provided at the end of this
+document).
+Where was this study done?
+Study sites were in three countries.
+Number of patients who received at least one dose of the
+study medicine(s)
+Poland 400
+Russian Federation 198
+United States 202
+0 100 200 300 400 500
+Number of patients

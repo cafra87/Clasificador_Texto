@@ -1,0 +1,13 @@
+1. Plain Title
+Testing the Effects of Certain Drugs on COVID-19 Patients
+
+2. Rationale
+COVID-19, the disease caused by the new coronavirus, has been a global health crisis. Doctors and researchers are trying to find safe and effective treatments to help people recover faster and reduce severe symptoms. For this study, researchers tested two kinds of medicine: anakinra and canakinumab. These are both "IL-1 blocking agents" which can calm down the immune system - this could be helpful because in some COVID-19 patients, the immune system reacts very strongly, which can actually be harmful. However, it's not totally clear if these drugs are beneficial for COVID-19 patients, so this study was done to find out.
+
+3. Trial Design
+In this study, the researchers analyzed past tests (known as 'trials') where the two types of drugs were used to treat COVID-19 patients. They compared people who took the drugs to people who just had standard COVID-19 care or took a placebo ('dummy' medicine). They included a wide range of trials from different places and different times and included all COVID-19 patients in these trials, no matter how severe their disease was. Each patient was tracked for about 28 to 60 days, looking at how their health changed over time. 
+
+4. Results
+The researchers analyzed four trials for anakinra and two trials for canakinumab. Each trial was done in different places, and the patients tested averaged about 58-68 years old. Most patients were on oxygen but not using a breathing machine at the beginning of the trial. The results were a little unclear, but it seemed that neither anakinra nor canakinumab much improved the patients' health compared to standard treatment or a placebo. However, both drugs did not seem to increase the likelihood of side effects, which is good.
+
+But these findings aren't certain. There are still 16 further trials that have not been fully completed or analyzed yet. So, we still need more information to be sure about the effects of these drugs on COVID-19 patients. The knowledge we gain from these studies may help us find better treatments for patients suffering from this virus in the future. This review will be updated as new results come in.

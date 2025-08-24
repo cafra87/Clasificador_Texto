@@ -1,0 +1,27 @@
+Clinical Study Results
+Did participants’ test results and measurements of safety change during
+the study?
+Some of the participants’ test results changed during the study, but the changes were
+too small for the researchers to know if the study treatments caused the changes.
+To answer this question, the doctors looked at the results of these tests:
+• vital signs such as blood pressure, heart rate and breathing rate
+• ECGs
+• physical examinations
+• blood and urine samples
+The doctors did these tests before the participants took the study treatment and
+throughout the study.
+What medical problems did the participants have during the study?
+This section is a summary of medical problems called “adverse events” that participants
+had during the study. An adverse event is any sign or symptom of a medical problem
+that participants have. Doctors keep track of all the adverse events that happen in
+studies, even if they do not think the adverse events might be related to the study drug.
+An adverse event is considered “serious” when it is life-threatening, causes lasting
+problems, or requires hospital care.
+How many participants had serious adverse events?
+None of the participants had a serious adverse event during the study.
+How many participants had adverse events?
+There were 41.7% of the participants who had an adverse event while taking AZD5718
+during the study. This was 10 out of 24 participants.
+There were 62.5% of the participants who had an adverse event while taking the
+placebo during the study. This was 5 out of 8 participants.
+4

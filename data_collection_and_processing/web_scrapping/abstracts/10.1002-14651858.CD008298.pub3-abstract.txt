@@ -1,0 +1,14 @@
+Background
+Current guidance suggests that we should monitor the physical health of people with serious mental illness, and there has been a significant financial investment over recent years to provide this. 
+Objectives
+To assess the effectiveness of physical health monitoring, compared with standard care for people with serious mental illness. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (October 2009, update in October 2012), which is based on regular searches of CINAHL, EMBASE, MEDLINE and PsycINFO. 
+Selection criteria
+All randomised clinical trials focusing on physical health monitoring versus standard care, or comparing i) self monitoring versus monitoring by a healthcare professional; ii) simple versus complex monitoring; iii) specific versus non‐specific checks; iv) once only versus regular checks; or v) different guidance materials. 
+Data collection and analysis
+Initially, review authors (GT, AC, SM) independently screened the search results and identified three studies as possibly fulfilling the review's criteria. On examination, however, all three were subsequently excluded. Forty‐two additional citations were identified in October 2012 and screened by two review authors (JX and MW), 11 of which underwent full screening. 
+Main results
+No relevant randomised trials which assess the effectiveness of physical health monitoring in people with serious mental illness have been completed. We identified one ongoing study. 
+Authors' conclusions
+There is still no evidence from randomised trials to support or refute current guidance and practice. Guidance and practice are based on expert consensus, clinical experience and good intentions rather than high quality evidence. 

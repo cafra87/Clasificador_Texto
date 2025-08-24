@@ -1,0 +1,12 @@
+Plain Title: Comparison of Insulin Types for People with Type 1 Diabetes
+
+Rationale: 
+People with type 1 diabetes require insulin for their survival. However, it is unclear which type of long-acting insulin is most beneficial and has the least risk of complications and low blood sugar. This study aimed to compare the effects of different long-acting insulin types in people with type 1 diabetes to determine the most effective treatment option. 
+
+Trial Design: 
+The study included randomized controlled trials lasting 24 weeks or more. It involved people with type 1 diabetes and compared different long-acting insulin types to NPH insulin, a commonly used insulin. The study duration varied between 24 and 104 weeks.
+
+Results: 
+The study included a total of 26 trials involving 8784 participants. Children comprised a portion of the participants. Insulin detemir showed a lower risk of severe low blood sugar compared to NPH insulin. However, the certainty of this finding is moderate. Both insulin detemir and insulin glargine did not show any significant benefits or harm for severe low blood sugar during the night. The study did not find any clinically relevant differences between insulin types in other outcomes such as all-cause mortality, quality of life, heart attack, stroke, or serious adverse events. Data regarding important outcomes like quality of life and diabetes complications were scarce or unavailable. The study also found no significant differences between children and adults in their response to different insulin types. 
+
+In conclusion, this study compared different types of insulin for people with type 1 diabetes. Insulin detemir showed a lower risk of severe low blood sugar compared to NPH insulin, but the certainty of this finding is moderate. There were no significant benefits or harms observed for other outcomes and no clinically relevant differences between children and adults. However, more research is needed to assess important outcomes such as quality of life and diabetes complications.

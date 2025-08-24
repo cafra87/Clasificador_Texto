@@ -1,0 +1,10 @@
+What is advanced non-small cell lung cancer?
+Lung cancer is the name for cancer that starts in the lungs. Non-small cell lung cancer (NSCLC) is the most common type of lung cancer. Some patients have NSCLC that is referred to as “anaplastic lymphoma kinase (ALK)-positive” or “c-ros oncogene 1 (ROS1)-positive”. These patients have changes in their genes that can cause cancer cells to grow. As they grow, the cancer cells can form into a tumor and spread to other parts of the body. When the cancer has spread to other parts of the body, it is called advanced cancer.
+
+What is crizotinib?
+When this study began in 2006, Pfizer was developing the anti-cancer medication Xalkori® or crizotinib. This treatment has been approved in the United States (US), Europe, and in some other countries for the treatment of certain types of NSCLC that has spread to other parts of the body and is caused by a defect in the ALK or ROS1 genes. Crizotinib is known as an ALK-inhibitor and ROS1-inhibitor (and is also a MET/HGFR inhibitor) medication. Potentially, crizotinib may be able to reduce tumor size and stop ALK-positive and ROS1-positive lung cancers from being able to grow and spread.
+
+What was the purpose of this study?
+The purpose of the study was to assess the safety and tolerability of different doses of crizotinib in participants with advanced cancer, and if appropriate, to identify the dose that could be used in larger studies.
+Researchers wanted to know:
+How many medical problems, including toxicities, were seen in participants during the first 28 days of treatment with different doses of crizotinib?

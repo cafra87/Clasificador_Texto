@@ -1,0 +1,13 @@
+1. Plain Title:
+"Testing the Impact of Ayurvedic Treatments on Diabetes"
+
+2. Rationale:
+Diabetes is a health condition where the sugar levels in your blood are too high. This can bring many problems, like heart disease, stroke, kidney disease, and other serious health issues. Many people with diabetes choose to try different kinds of medicine including Ayurvedic treatments, which come from a health practice that began in India thousands of years ago. It's important for us to find out if these Ayurvedic treatments work and are safe. The purpose of this study was to see if these Ayurvedic treatments can really help to control blood sugar in people with diabetes.
+
+3. Trial Design:
+For this study, we looked for all sorts of trials and studies that tested the use of Ayurvedic treatments for diabetes. We looked at databases and journals, and the references in articles we found. The only trials we included had to have lasted at least two months and used Ayurvedic treatments for diabetes. Anyone could be a part of these trials - men, women, young, old - no matter how long they had lived with diabetes, how they normally treated their diabetes, or what other health problems they had. Two investigators then examined the data from these trials and checked the trials didn't have any errors or issues.
+
+4. Results:
+The studies over all had 354 people (172 on the Ayurvedic treatments and 158 not on the treatments, and 24 we didn't know). The treatments went from 3 to 6 months. All these studies were only adults with type 2 diabetes. For three of the Ayurvedic mixes tested (Diabecon, Inolter, and Cogent DB), people's blood sugar levels were significantly lower. The other two mixtures tested (Pancreas tonic and Hyponidd) did not result in lower blood sugar levels. The studies didn't tell us about any serious side effects from the treatments. The most common side effects were allergic reactions (one person), low blood sugar episodes (one person), and stomach problems (one out of 20 people in the study). There were no reports of any deaths or issues with kidneys or liver.
+
+Although some Ayurvedic mixtures resulted in lower sugar levels, we can't for sure say they work because the studies had some issues and not a lot of people were tested. Even though no serious side effects were reported, we don't have enough proof now to suggest these treatments for everyone with diabetes. More studies are needed.

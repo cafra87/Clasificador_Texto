@@ -1,0 +1,11 @@
+The benefits and side effects of adding surgery to chemoradiotherapy for the treatment of esophageal cancer that can be surgically removed 
+Review question 
+Does the addition of surgery to chemoradiotherapy, improve survival in people with resectable esophageal cancer (cancer that can be surgically removed)? 
+Background 
+Cancer of the esophagus (muscular tube that leads from the mouth through the throat to the stomach) is a lethal condition. It is usually treated with surgery, radiotherapy, chemotherapy, or a combination of these. It is unclear if adding surgery after chemoradiotherapy (chemotherapy plus radiation) adds any benefit for people with esophageal cancer. 
+Study characteristics 
+We included two randomized studies, in six published reports, with 431 participants with locally advanced esophageal cancer. We searched biomedical databases, clinical trial registries, conference proceedings, and reference lists up to 7 February 2017 for studies. 
+Quality of the evidence 
+The quality of evidence ranged from very low to high, depending on the outcome being assessed, because the trials were small and at unclear or high risk of bias (a systematic error or deviation from the truth that affects the results, favouring one treatment over another). 
+Key results 
+We found evidence that adding surgery reduced the risk of the cancer recurring at the primary site, but did not improve overall survival. Moreover, there were more treatment‐related deaths in the group of participants who underwent surgery. 

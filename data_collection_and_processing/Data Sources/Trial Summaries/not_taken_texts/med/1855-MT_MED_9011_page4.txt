@@ -1,0 +1,42 @@
+Clinical Trial RESULTS
+After treatment:
+• Participants who took fludrocortisone and placebo had a difference
+between sodium and potassium of -4.09. The researchers thought this would
+happen because fludrocortisone decreases the amount of sodium in urine
+and also increases the amount of potassium in urine.
+• Participants who took fludrocortisone, AZD9977, and placebo had a
+difference between sodium and potassium of -0.69. This made it seem like
+AZD9977 had an effect on how fludrocortisone worked in the body.
+• Participants who took fludrocortisone, eplerenone, and placebo had a
+difference between sodium and potassium of -0.55. This made it seem like
+eplerenone had an effect on how fludrocortisone worked in the body.
+• Participants who took fludrocortisone, eplerenone, and AZD9977 had
+a difference between sodium and potassium of 0.69. This made it seem
+like eplerenone and AZD9977 worked together in how they affected the
+difference between sodium and potassium in the urine.
+The graph below shows the differences between sodium and potassium before and
+after treatment.
+Differences Between Sodium and Potassium
+in Urine Before and After Treatment
+3
+2.37 Fludrocortisone,
+eplerenone, and
+2 AZD9977 ecnereffiD
+0.69
+1 enirU
+0
+Before muissatoP/muidoS ni
+Treatment -0.55 -0.69 stnuomA
+-1
+Fludrocortisone, Fludrocortisone,
+AZD9977, and eplerenone, and
+-2
+placebo placebo
+ni
+-3
+-4
+-4.09
+Fludrocortisone
+-5
+and placebo
+4

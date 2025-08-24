@@ -1,0 +1,13 @@
+Plain Title: Comparing Oral Treatment to Conventional Treatment for Sleeping Sickness
+
+Rationale: Sleeping sickness is a severe disease that affects people in Africa, particularly in impoverished regions. Without treatment, it can be deadly. Current treatments require lengthy intravenous infusions. However, a new oral drug called fexinidazole has been developed that shows promise in treating the disease. This study aims to evaluate the effectiveness and safety of the currently used drugs for treating the advanced stage of the disease, known as gambiense human African trypanosomiasis (g‐HAT).
+
+Trial Design: The study design involved randomized controlled trials with adults and children who had second-stage g‐HAT. These participants were treated with anti-trypanosomal drugs that are currently in use. Data was collected from a trial comparing fexinidazole to a combination of nifurtimox and eflornithine. The trial took place between October 2012 and November 2016 in the Democratic Republic of the Congo and the Central African Republic, involving 394 participants. The study assessed the efficacy and safety of the treatments with a follow-up period of up to 24 months.
+
+Results: The study found that the mortality rate at 24 months may be higher with fexinidazole compared to the combination of nifurtimox and eflornithine. Among the participants, there were 9 deaths in the fexinidazole group and 2 deaths in the other group. It is important to note that none of these deaths were related to the treatment.
+
+Additionally, the study indicated that fexinidazole may result in an increase in the number of relapses compared to the other treatment. Fourteen participants in the fexinidazole group experienced relapse at 24 months, while none did in the other group.
+
+The incidence of serious adverse events at 24 months was uncertain. There were 31 cases of adverse events with fexinidazole and 13 with the other treatment. However, it is worth noting that both drugs had common adverse events, and there was no significant difference between the two groups.
+
+Overall, oral treatment with fexinidazole is much easier to administer compared to conventional treatment. However, there is a higher risk of deaths and relapses with fexinidazole. Despite these risks, the convenience of an oral option, which eliminates the need for hospitalization and multiple intravenous infusions, improves adherence to treatment.

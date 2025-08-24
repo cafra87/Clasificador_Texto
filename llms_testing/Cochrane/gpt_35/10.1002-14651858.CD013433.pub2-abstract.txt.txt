@@ -1,0 +1,14 @@
+Plain Title: Stem Cell Therapy for Heart Disease: Does it Work?
+
+Rationale:
+Heart disease is a serious condition that can cause problems with the heart's ability to pump blood effectively. Dilated cardiomyopathy is a type of heart disease that affects the heart muscle, leading to enlargement and weakening of the heart. Stem cell therapy (SCT) has been suggested as a potential treatment for dilated cardiomyopathy, but its effectiveness is still uncertain. This study aimed to determine if SCT is an effective and safe treatment for adults with dilated cardiomyopathy.
+
+Trial Design:
+To assess the effectiveness and safety of SCT, researchers conducted a systematic review of randomized controlled trials. The review included studies that compared stem cell therapy with no treatment or placebo in adults with dilated cardiomyopathy. The researchers also considered studies that used different methods of stem cell therapy. They analyzed the data from these studies using statistical methods to determine the overall effects of SCT.
+
+Results:
+Thirteen randomized controlled trials involving 762 participants were included in the review. The researchers found that the quality of the available studies was not ideal, which made it difficult to assess the risk of bias. Based on the available evidence, it is unclear whether SCT reduces the risk of death for people with dilated cardiomyopathy compared to no treatment or placebo. Similarly, it is uncertain whether SCT improves health-related quality of life or functional capacity (exercise capacity). However, SCT may result in a slight improvement in functional class, which measures the severity of heart disease. The evidence also suggests that SCT does not increase the risk of ventricular arrhythmia, a potentially dangerous heart rhythm disorder.
+
+When comparing SCT with a specific type of stem cell mobilization using granulocyte-colony stimulating factor (G-CSF), the evidence is also uncertain regarding the reduction in the risk of death. However, there may be an improvement in functional capacity with SCT compared to G-CSF.
+
+The studies included in the review focused on measuring physiological measures of cardiac function, and some beneficial effects were observed with SCT. However, it is unclear if these intermediate effects translate into meaningful clinical benefits for patients with dilated cardiomyopathy. More research is needed to determine the specific aspects of SCT and its delivery that are most effective. Therefore, it is recommended that SCT be limited to clinical research settings for people with dilated cardiomyopathy. Ongoing studies may provide more information and modify these recommendations in the future.

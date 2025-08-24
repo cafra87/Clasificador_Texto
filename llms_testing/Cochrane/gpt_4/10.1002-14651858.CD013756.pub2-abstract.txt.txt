@@ -1,0 +1,19 @@
+1. Plain Title: 
+"Using Electrical Stimulation to Reduce Chronic Pain: A Study Analysis"
+
+2. Rationale: 
+Chronic pain is a medical condition that makes people feel discomfort for a long time, sometimes even without a clear reason. It can be very hard for the people who have it, affecting their daily life. Researchers have been studying a treatment called "spinal neuromodulation." This involves a surgery where a small device is placed under the skin to send electrical signals to the spine, aiming to lessen the discomfort of chronic pain. We wanted to study if this treatment is effective, safe, and cost-effective for reducing chronic pain.
+
+3. Trial Design: 
+In this study, we looked for trials where people aged 18 or above, who had been experiencing chronic pain for more than three months, received this treatment. These research papers were from all over the world and published up until September 2021. We then reviewed these trials to understand their quality and reliability. The key things we were looking for in these trials were changes in pain levels, any side effects from the treatment, use of other pain medications, quality of life, and the financial cost of the treatment. 
+
+4. Results: 
+After thoroughly reviewing scientific literature, we found 15 completed studies and 20 ongoing studies. However, all of these only focused on one type of spinal neuromodulation, which stimulates the spinal cord.
+
+In the short term, the studies showed that spinal neuromodulation had only a slight effect on reducing pain compared to a treatment with no active stimulation. Although the amount of pain did decrease, it was not substantial enough to consider as a significant reduction in pain.
+
+When spinal neuromodulation was paired with another treatment, the result was more promising. The recorded pain levels decreased notably more than if the other treatment was used alone, both in the near term (less than a month) and over a few months.
+
+However, there were some complications. These included things like failure of the implanted device, the device moving out of position, or the need for an extra operation. Some other serious events were reported too, including long-term hospital stay, a type of nerve disorder, fluid in the lungs, infection on the skin, and even a death caused by a blood clot in the brain. 
+
+Lastly, the studies suggested that using this treatment led to higher healthcare costs. It is not clear if the cost of the treatment is worth the level of pain relief it provides. Therefore, while spinal neuromodulation might help chronic pain patients when added to their current treatment, it does come with some risks and potentially high costs.

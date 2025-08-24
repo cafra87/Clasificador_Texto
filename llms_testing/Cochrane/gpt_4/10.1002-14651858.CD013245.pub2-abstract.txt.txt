@@ -1,0 +1,11 @@
+1. Plain Title: 
+The Impact of Adding Abiraterone to Standard Hormone Therapy for Men with Advanced Prostate Cancer
+
+2. Rationale: 
+Prostate cancer is a common type of cancer in men but, when it's advanced or has spread to other parts of the body (metastatic), treatment becomes more challenging. The standard treatment has been hormone therapy, also known as androgen deprivation therapy (ADT), which slows down the cancer growth. But when ADT becomes less effective, other treatments are needed. One such treatment is a medication called Abiraterone. This study looks at the effects of giving Abiraterone alongside ADT right from the start of treatment for metastatic prostate cancer.
+
+3. Trial Design:
+This study was a thorough review of past studies (a meta-analysis). The researchers searched many databases for randomized trials (studies where people were randomly put into treatment groups) where men with hormone-sensitive prostate cancer were treated with abiraterone and ADT, or with ADT alone. They found two trials, involving 2201 men, for analysis. These men were all above 33 years old and almost all of them had advanced prostate cancer. 
+
+4. Results: 
+The researchers found that adding abiraterone to ADT can reduce the risk of death in men with this type of prostate cancer. For every 1000 men treated for five years, there were 163 fewer deaths. The added treatment, however, didn't appear to make a big difference to the men's quality of life. There were some downsides to adding abiraterone: it increased the risk of serious side effects, with 162 more serious events per 1000 men over an average of 30 months. A few more men, 51 per 1000, also stopped treatment due to these side effects. Despite this, adding abiraterone extended life, delayed the cancer getting worse, and further reduced deaths specifically from prostate cancer. Overall, abiraterone improved survival but didn't improve quality of life and increased the risk of serious side effects and stopping treatment due to these side effects.

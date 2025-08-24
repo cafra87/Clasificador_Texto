@@ -1,0 +1,14 @@
+Background
+Audit and feedback of critical incidents is an established part of obstetric practice. However, the effect on perinatal and maternal mortality is unclear. The potential harmful effects and costs are unknown. 
+Objectives
+Is critical incident audit and feedback effective in reducing the perinatal mortality rate, the maternal mortality ratio, and severe neonatal and maternal morbidity? 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 November 2010) and the Cochrane Effective Practice and Organisation of Care Group's Trials Register (18 November 2010). 
+Selection criteria
+Randomized trials of audit (defined as any summary of clinical performance over a specified period of time) and feedback (method of feeding that information back to the clinicians) that reported objectively measured professional practice in a healthcare setting or healthcare outcomes. 
+Data collection and analysis
+No suitable trials were found.
+Main results
+None.
+Authors' conclusions
+The necessity of recording the number and cause of deaths is not in question. Mortality rates are essential in identifying problems within the healthcare system. Maternal and perinatal death reviews should continue to be held, until further information is available. The evidence from serial data clearly suggests more benefit than harm. Feedback is essential in any audit system. The most effective mechanisms for this are unknown, but it must be directed at the relevant people. 

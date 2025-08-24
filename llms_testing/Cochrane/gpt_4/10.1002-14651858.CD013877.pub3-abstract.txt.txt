@@ -1,0 +1,18 @@
+1. Plain Title: 
+Understanding the Recovery of Smell in COVID-19 Patients Using Different Medicines
+
+2. Rationale:
+COVID-19 is a disease that makes many people lose their sense of smell. For most people, this is only temporary and gets better in two to four weeks. But for a few people, it lasts longer. Doctors aren't sure yet if early treatment (medicine or smell training) can help people recover faster and stop their sense of smell from getting badly damaged. We are updating a study from last year, adding four new pieces of research to give a more precise answer.
+
+3. Trial Design:
+We were keen to understand two things. First, we wanted to see if any treatments were better than doing nothing for people who lost their sense of smell quickly because of COVID-19. Second, we wanted to keep our understanding fresh, by continually adding information to our study. 
+To answer these questions, we carried out a methodical search of online databases to see what other scientists had found. We looked for experiments where people with smell issues due to COVID-19 were involved. These people had to have been suffering for less than four weeks. We considered any treatment tested and compared with no treatment or a harmless substitute.
+We downloaded the trials we found and noted simple things like whether people's sense of smell returned to normal, if they had severe side effects, and if their sense of smell changed. We also noted less general outcomes like changes in the sense of taste, quality of life related to the disease, and other side effects, like nosebleeds. 
+In total, five studies involving 691 people were included. The test medicines were intranasal corticosteroid sprays, intranasal corticosteroid drops, intranasal hypertonic saline, and zinc sulphate.
+
+4. Results: 
+The studies found different results for the four types of treatment. 
+We analyzed three studies, with 288 people. These individuals had recently lost their sense of smell after getting COVID-19. For those treated with the intranasal corticosteroid spray, we were uncertain about how well this spray worked to restore the sense of smell both according to the patients themselves and based on our professional tests. Similarly, we were unsure if this spray changed the sense of smell in any way. None of the three studies noted any major side effects, but we can't be sure if they were looking for any.
+For the 248 people treated with intranasal corticosteroid drops, we saw that this treatment likely made no real difference to people's sense of smell recovery. 
+The use of hypertonic saline nasal irrigation and zinc sulphate are mentioned in the full text of the review. 
+The evidence we have now on how well these treatments work is weak. There are still ongoing studies. Since this work will continue to be updated, more answers will come as we get more results.

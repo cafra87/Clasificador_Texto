@@ -1,0 +1,22 @@
+Clinical Trial RESULTS
+What were the most common medical problems?
+The table below shows the most common medical problems that happened during
+this study.
+Most common medical Group 1 Group 2
+problems in the study (out of 20 participants) (out of 15 participants)
+0 participants 2 participants
+Diarrhea
+(0%) (13%)
+0 participants 1 participant
+Muscle and joint stiffness
+(0%) (7%)
+1 participant 0 participants
+Virus
+(5%) (0%)
+1 participant 0 participants
+Headache
+(5%) (0%)
+It is important to know that researchers look at the results of many studies to decide
+which medicines work best and are safest for patients. Further clinical studies with
+RDEA3170 are not currently planned.
+7

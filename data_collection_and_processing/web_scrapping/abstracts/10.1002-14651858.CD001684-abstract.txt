@@ -1,0 +1,14 @@
+Background
+Toxoplasmosis is a widespread parasitic disease and usually causes no symptoms. However, infection of pregnant women may cause congenital infection, resulting potentially in mental retardation and blindness in the infant. 
+Objectives
+The objective of this review was to assess whether or not treating toxoplasmosis in pregnancy reduces the risk of congenital toxoplasma infection. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (February 2006). We updated this search on 1 October 2009 and added the results to the awaiting classification section. 
+Selection criteria
+Randomised controlled trials of antibiotic treatment versus no treatment of pregnant women with proven or likely acute Toxoplasma infection, with outcomes in the children reported. We also inspected relevant reports of less robust experimental studies in which there were (non randomly allocated) control groups, although it was not planned to include such data in the primary analysis. 
+Data collection and analysis
+Reports of possibly eligible studies were scrutinised by two investigators.
+Main results
+Out of the 3332 papers identified, none met the inclusion criteria.
+Authors' conclusions
+Despite the large number of studies performed over the last three decades we still do not know whether antenatal treatment in women with presumed toxoplasmosis reduces the congenital transmission of Toxoplasma gondii. Screening is expensive, so we need to evaluate the effects of treatment, and the impact of screening programmes. In countries where screening or treatment is not routine, these technologies should not be introduced outside the context of a carefully controlled trial. 

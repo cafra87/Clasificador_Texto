@@ -1,0 +1,17 @@
+1. Plain Title: 
+Checking Blood Flow for Healthier Healing After Breast Cancer Surgery
+
+2. Rationale: 
+One in every eight women will face breast cancer in their lifetime. After removing the cancerous area, many women choose to have reconstructive surgery to regain their body shape. However, a common issue after this surgery is dead skin tissue. Doctors often try to avoid this by checking blood flow to the skin during the operation, because good blood flow is important for healing. A method using a substance called indocyanine green is thought to be better at predicting skin damage than just a regular checkup. We need to see if this method is indeed better, and how we can use it in our procedures.
+
+3. Trial Design:
+To answer these questions, we collected information from previous studies. We chose studies where doctors compared using indocyanine green and regular checkups to see blood flow in women who had reconstructive surgery after breast cancer. We looked at the outcomes like dead skin tissue, need for another surgery, infections, blood collection and fluid collection. We then assessed the quality of each study and organized the information.
+
+4. Results:
+From nine studies involving 1589 women and 2199 breast reconstructions, the results are mixed and not very clear. For individual women, we're not sure if using indocyanine green affects the chance of skin tissue dying, infections, or blood and fluid collection. We have some evidence to suggest that it might lower the need for another surgery. When looking at each breast separately, the method seems to reduce skin tissue dying, the need for another surgery, and infections. However, the impact on blood and fluid collection is still unclear.
+
+Almost all studies used a method called the SPY system with indocyanine green. However, the exact way they used it was not fully described. 
+
+Because of the way these studies were done, we cannot be entirely sure about these results. We didn't find any proper tests comparing indocyanine green and regular check-ups. So, we cannot recommend one method over the other right now. To make a clear decision, we need high-quality studies where women are randomly put into the two different check-up groups. 
+
+In conclusion, we know the health of the skin is crucial for reconstructive surgery after breast cancer, and we're exploring better ways to ensure it. However, we still need more research to say what works best.

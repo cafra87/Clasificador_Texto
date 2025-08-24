@@ -1,0 +1,331 @@
+1CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+differ ent than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Glasdegib (Daurismo®) 
+Protocol Number: B1371003
+Dates of Trial: 27 June 2012 to 04 March 2019
+Title of this Trial: A Study To Test PF -04449913 (Glasdegib) With Intensive or 
+Non-Intensive Chemotherapy In Patients With Acute 
+Myeloid Leukemia or Myelodysplastic Syndrome
+[A Phase 1b/2 Study to Evaluate the Safety and Efficacy of 
+PF-04449913, an Oral Hedgehog Inhibitor, in Combinatio n 
+With Intensive Chemotherapy, Low Dose Ara -C or 
+Decitabine in Patients With Acute Myeloid Leukemia or 
+High -Risk Myelodysplastic Syndrome] 
+Date(s) of this Report: 17April 2020
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your particip ation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results, please contact the doctor or staff at 
+your study site.
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+2WHY WAS THIS STUDY DONE?
+Acute myeloid leukemia (or “AML”) and myelodysplastic syndrome (or “MDS”) are 
+types of blood cancers that usually affect patients over the age of 40.  These cancers 
+are caused by too many immature white blood cells being made in the bone marrow.  
+This redu ces the ability of the body to make normal blood cells such as white blood 
+cells (that fight off infections), red blood cells (that deliver oxygen to muscles and 
+organs), and platelets (that help blood clot).  The treatment options for AML and 
+MDS are limi ted if the patient can’t receive “intensive” chemotherapy (strong 
+medications) because of other medical problems.  Researchers are looking for new 
+medicines that can help patients with AML and MDS live longer without their cancer 
+rapidly getting worse.
+Glasdegib (now approved under the brand name Daurismo®in the United States) was 
+the investigational medicine tested in this study, and it was not yet approved at the 
+beginning of this study.  Glasdegib was developed to help reduce growth of cancerous 
+stem ce lls in the bone marrow.  Cancer stem cells are cells that self -regenerate and 
+contribute to tumor growth.  These cancer stem cells may be one of the reasons why 
+some cancers return after chemotherapy treatment.  
+This study was divided into 2 parts, or “ph ases”.  The main purpose of the first phase 
+of the study (Phase 1) was to determine the best dose of glasdegib to use in the 
+second phase of the study (Phase 2).  To do this, the researchers asked:
+What dose -limiting toxicities, or “DLTs”, did patients hav e during 
+1treatment cycle with glasdegib?
+DLTs are certain medical problems caused by taking glasdegib which require 
+the patient to lower the dose or stop taking the medicine temporarily or 
+permanently.
+For Phase 2, there were 2 main questions that the re searchers wanted to ask, 
+depending on whether the patients were “Fit” (healthy enough to be treated with 
+intensive chemotherapy) or “Unfit” (unable to be treated with intensive chemotherapy 
+because of other medical problems):
+How many Fit patients would ac hieve “complete remission” when 
+taking glasdegib? 
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+3In this study, complete remission or complete response meant that the patients 
+no longer had any evidence of AML or MDS.
+Do Unfit patients taking glasdegib with non -intensive chemotherapy 
+(low-dose Ara -C, or “LDAC”) live longer than those taking LDAC alone? 
+In this study, Unfit patients received an alternative chemotherapy medicine 
+(LDAC) that was approved for use in patients at the time.  
+WHAT HAPPENED DURING THE STUDY?
+This study included patients who:
+Were newly diagnosed with AML or high -risk MDS, and had not received 
+treatment for their AML before.  Patients could have received treatment for 
+their MDS before enrolling in the study.
+Aged ≥18 years (for all Phase 1 patients and Phase 2 Fit patients) or aged 
+≥55years (for Phase 2 Unfit patients)
+Able to walk around, take care of themselves, and be active for more than 50% 
+of the day 
+Patients were considered Unfit for intensive chemotherapy if they:
+Were aged ≥75years, or
+Were unable to do any work (suc h as household chores), or
+Had evidence of kidney disease, or severe heart disease. 
+What happened during Phase 1 of the study?
+Phase 1 of this study compared 3 groups of patients that were assigned to 1 of 2 doses 
+of glasdegib (either 100 mg or 200 mg) to find the recommended dose of glasdegib 
+for the Phase 2 portion of the study.  The patients were also given chemotherapy 
+treatment based on whether their doctor thought they were Fit or Unfit for intensive 
+chemotherapy.
+The fig ure on the next page shows what happened during Phase 1 of the study.
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+4During Phase 1, each patient took 100 mg or 200 mg of glasdegib in pill form, once 
+daily by mouth for 28 days.  The patients were also treated with different 
+chemotherapy drugs as show n above, and monitored for medical problems. 
+What happened during Phase 2 of the study?
+Phase 2 of the study compared 2 groups of Unfit patients to find out if patients taking 
+glasdegib with non -intensive chemotherapy (LDAC) would live longer than those 
+taking LDAC alone.  Unfit patients were assigned to each group by chance alone, 
+which is known as a “randomized” study.  This is done to make the groups more 
+similar, which makes comparing the groups more fair.  Twice as many patients were 
+assigned to take glasdegib with LDAC, compared to LDAC alone.  Phase 2 also 
+treated 1 group of Fit patients, who took glasdegib along with intensive 
+chemotherapy, to find out what percent would achieve complete remission.
+The figure below shows what happened during Phase 2 of the study.
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+5While most patients were only in the study for approximately 6 to 12 months, the 
+entire study took over 6 years to complete.  The Sponsor ran this study at 48 locations 
+in 6 countries in North America and Europe.  It began 27 June 2012 and ended 
+04March 2019.  A total of 20 women and 32 men participated in Phase 1, and 
+65women and 138 men participated in Phase 2.  All patients were between the ages 
+of 27 and 92. 
+Patients were to be treated until their AML or MDS stopped responding or got worse, 
+until they developed unacceptable medical problems, or until they chose to stop 
+treatment.  Of the 52 patients who started Phase 1 of the study, 9 finished the study.  
+Of the 203 patients who started Phase 2 of the study, 23 finished the study.  Th e most 
+common reason for not completing the study was because the patient died.  A total of 
+3 patients left Phase 1 and 8 patients left Phase 2 before the study was over by their 
+choice or a doctor decided it was best for a patient to stop being in the stu dy.
+When the study ended in March 2019, the Sponsor reviewed the information 
+collected.  The Sponsor then created a report of the results.  This is a summary of that 
+report.
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+6WHAT WERE THE RESULTS OF THE STUDY?
+During Phase 1 of the study, what dose -limitin g toxicities 
+(DLT) were reported?
+During Phase 1, researchers wanted to find the correct dose of glasdegib for treating 
+patients with AML or MDS.  To find the correct dose, the researchers needed to 
+know how many patients in each dose group had a DLT durin g their first 28 -day 
+treatment cycle.
+There was 1 patient who had a DLT.  This patient was in the Fit group and took 
+100mg of glasdegib once a day with intensive chemotherapy.  However, some of the 
+patients who took either 100 mg or 200 mg of glasdegib on ce a day had other medical 
+problems that caused them to temporarily stop or lower their dose of glasdegib.  
+Using this information, the researchers decided that 100 mg once a day was the 
+correct glasdegib dose to use during Phase 2 of the study.
+During Phase 2 of the study, did Unfit patients taking 
+glasdegib with non -intensive chemotherapy (LDAC) live 
+longer than those taking LDAC alone?
+The results suggested that Unfit patients taking glasdegib with LDAC lived longer 
+than Unfit patients taking L DAC alone.  The researchers measured the “median time” 
+between starting the study medicines and the patients dying of any cause.  The median 
+time was the time point where half (50%) of the patients taking glasdegib with LDAC, 
+or LDAC alone, had passed away from any cause.  Patients taking glasdegib with 
+LDAC lived a median of 9 months from receiving their first dose of study medication 
+until dying from any cause.  Patients taking LDAC alone lived a median of 5 months 
+from receiving their first dose of study medication until dying from any cause.  Based 
+on these results, the researchers have decided that the results are not likely due to 
+chance.  The test medicine may be an option for treating patients with AML or MDS 
+who are unable to be treated with intensi ve chemotherapy.
+These results are shown in the graph on the next page.
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+7During Phase 2 of the study, what percent of Fit patients 
+achieved complete remission while taking glasdegib?
+To answer this question, the researchers looked at the results for all patients, and then 
+for patients who were under the age of 55 and patients who were 55 years of age or 
+older.  A total of 29 of 69 patients (42%) taking glasdegib with intensive 
+chemotherapy achieved complete remission during the study.  A total of 7 of 
+9patients (78%) under the age of 55 and taking glasdegib with intensive 
+chemotherapy achieved complete remission during the study.  A total of 22 of 
+60patients (37%) that were age 55 or older and taking glasdegib with intensive 
+chemotherapy achieved comple te remission during the study.
+These results are shown in the graph on the next page.
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+8This does not mean that everyone in this study had these results.  Other studies may 
+produce different results, as well.  These are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this 
+summary.  
+WHAT MEDICAL PROBLEMS DID PATIENTS 
+HAVE DURING THE STUDY?
+The researchers recorded any medical problems the patients had during the study.  
+Patients could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the patient was 
+taking.  Sometimes th e cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be.
+During Phase 1, all patients in this study had at least 1 medical problem.  A total of 
+20patients left the study because of medical problems.  The most common medical 
+problems during Phase 1 are listed below.  To view the full list of medical problems 
+reported by 5% or more of patients, please visit www.clinicaltrials.gov or 
+www.clinicaltrialsregister.eu and use the study identifier information found at the end 
+of this summary.
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+9Most Common Medical Problems in Phas e 1
+(Reported by More Than 30% of Patients in Any Group) 
+Medical ProblemGlasdegib 
+100mg/200 mg
++
+LDAC
+(23 Patients Treated)Glasdegib 
+100mg/200 mg
++
+Decitabine
+(7 Patients Treated)Glasdegib 
+100mg/200 mg
++
+Cytarabine/
+Daunorubicin
+(22 Patients Treated)
+Diarrhea 10 (44%) 2 (29%) 16 (73%)
+Constipation 10 (44%) 3 (43%) 13 (59%)
+Tiredness 8 (35%) 3 (43%) 8 (36%)
+Low white blood cell 
+count7 (30%) 4 (57%) 5 (23%)
+Low white blood cell 
+count with fever9 (39%) 1 (14%) 12 (55%)
+Nausea 10 (44%) 5 (71%) 17 (77%)
+Low blood platelets 7 (30%) 3 (43%) 5 (23%)
+Muscle spasms 6 (26%) 2 (29%) 12 (55%)
+Headache 4 (17%) 1 (14%) 11 (50%)
+Fever 6 (26%) 1 (14%) 11 (50%)
+Limb swelling 6 (26%) 1 (14%) 9 (41%)
+Vomiting 3 (13%) 2 (29%) 9 (41%)
+Bad taste in mouth 8 (35%) 2 (29%) 8 (36%)
+Low blood 
+potassium5 (22%) 1 (14%) 8 (36%)
+Low blood calcium 2 (9%) 1 (14%) 7 (32%)
+Arm or leg pain 1 (4%) 2 (29%) 7 (32%)
+Back pain 3 (13%) 4 (57%) 5 (23%)
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+10Hair loss 2 (9%) 3 (43%) 6 (27%)
+Low red blood cell 
+count4 (17%) 3 (43%) 5 (23%)
+Loss of strength or 
+energy4 (17%) 3 (43%) 1 (5%)
+Low appetite 3 (13%) 3 (43%) 4 (18%)
+During Phase 2, all of the patients in this study had at least 1 medical problem.  A 
+total of 65 patients left the study because of medical problems.  The most common 
+medical problems during Phase 2 are listed below.  To view the full list of medical 
+problems reported by 5% or more of patients, please visit www.clinicaltrials.gov or 
+www.clinicaltrialsregister.eu and use the study identifier information found at the end 
+of this summ ary.
+Most Common Medical Problems in Phase 2
+(Reported by More Than 30% of Patients in Any Group) 
+Phase 2 “Unfit” Phase 2 “Fit”
+Medical ProblemGlasdegib 100 mg
++
+LDAC
+(84 Patients Treated)LDAC
+(41 Patients Treated)Glasdegib 100 mg
++
+Cytarabine/
+Daunorubicin
+(69 Patients Treated)
+Diarrhea 24 (29%) 9 (22%) 49 (71%)
+Low white blood cell 
+count with fever30 (36%) 10 (24%) 44 (64%)
+Nausea 30 (36%) 5 (12%) 40 (58%)
+Low blood 
+potassium13 (16%) 6 (15%) 37 (54%)
+Fever 25 (30%) 9 (22%) 34 (49%)
+Constipation 21 (25%) 6 (15%) 32 (46%)
+Low red blood cell 38 (45%) 17 (42%) 28 (41%)
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+11count
+Low appetite 29 (35%) 5 (12%) 26 (38%)
+Tiredness 27 (32%) 8 (20%) 25 (36%)
+Vomiting 18 (21%) 4 (10%) 25 (36%)
+Low blood sodium 11 (13%) 0 24 (35%)
+Low blood platelets 26 (31%) 11 (27%) 23 (33%)
+Abdominal pain 15 (18%) 4 (10%) 22 (32%)
+Headache 11 (13%) 5 (12%) 22 (32%)
+Low blood calcium 5 (6%) 1 (2%) 22 (32%)
+Limb swelling 22 (26%) 7 (17%) 22 (32%)
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  
+During Phase 1, 37 patients (71%, or 37 out of 52 patients) had serious medical 
+problems.  Thirty -nine (39) patients passed away durin g Phase 1 of the study.  Most 
+deaths were due to the patient’s AML or MDS getting worse. 
+During Phase 2, 135 patients (70%, or 135 out of 194 patients) had serious medical 
+problems.  In the Fit group, 35 patients had serious medical problems.  In the Unfit 
+groups, 68 patients receiving glasdegib and LDAC had serious medical problems, 
+compared to 32 patients receiving only LDAC.  A total of 162 patients passed away 
+during Phase 2 of the st udy.  Most deaths were due to the patient’s AML or MDS 
+getting worse.
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+12Serious Medical Problems in Phase 1
+(Reported by More Than 1 Patient in Any Group) 
+Medical ProblemGlasdegib 
+100mg/200 mg
++
+LDAC
+(23 Patients 
+Treated)Glasdegib 
+100mg/200 mg
++
+Decit abine
+(7 Patients 
+Treated)Glasdegib 
+100mg/200 mg
++
+Cytarabine/
+Daunorubicin
+(22 Patients Treated)
+Low white blood cell 
+count with fever6 (26%) 1 (14%) 2 (9%)
+AML or MDS got worse 4 (17%) 1 (14%) 1 (5%)
+Pneumonia 2 (9%) 2 (29%) 0
+Infection of stomach or 
+intestines0 0 2 (9%)
+Fell down 2 (9%) 0 0
+Serious Medical Problems in Phase 2
+(Reported by More Than 5% of Patients in Any Group)
+Phase 2 “Unfit” Phase 2 “Fit”
+Medical ProblemGlasdegib 100 mg
++
+LDAC
+(84 Patients 
+Treated)LDAC
+(41 Patients 
+Treated)Glasdegib 100 mg
++
+Cytarabine/
+Daunorubicin
+(69 Patients Treated)
+Low white blood cell 
+count with fever24 (29%) 7 (17%) 14 (20%)
+Blood stream infection 
+(sepsis)3 (4%) 5 (12%) 6 (9%)
+Pneumonia 19 (23%) 7 (17%) 4 (6%)
+AML or MDS got worse 10 (12%) 5 (12%) 2 (3%)
+Low red blood cell count 6 (7%) 0 0
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)
+13WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT01546038
+www.clinicaltrialsregister.eu Use the study identifier 2012-000684 -24
+www.pfizer.com/research/research_
+clinical_trials/trial_resultsUse the protocol number B1371003
+Clinical trials with glasdegib are ongoing, and further trials are plan ned. 
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e19345ec56\Approved\Approved On: 20-Apr-2020 03:53 (GMT)

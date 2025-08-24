@@ -1,0 +1,36 @@
+Clinical Study Results
+To answer this question, the researchers calculated the amount of time that the
+participants lived with their PRCC without their tumors growing. This is called
+progression-free survival, also called PFS.
+The doctors took pictures of the participants’ tumors at different times throughout
+the study. They did this using CT or MRI scans to measure how long it took for
+tumors to grow a certain amount. This allowed the researchers to learn how each
+study treatment affected the size of the tumors during the study. To calculate the
+PFS, the researchers counted the number of months that the participants in each
+treatment group lived without their tumors growing. The researchers looked at
+these results using a median. A median is a kind of average. It is between the
+lowest and highest numbers.
+They compared the results in the participants who took savolitinib and those who
+took sunitinib. The researchers found that the differences between the 2 treatment
+groups were too small to know if savolitinib slowed tumor growth compared to
+sunitinib.
+The researchers found that the median PFS for each group was:
+• 7.0 months in the participants who took savolitinib
+• 5.6 months in the participants who took sunitinib
+The chart below shows these results.
+Median PFS
+12.0
+shtnom
+10.0
+7.0 months
+8.0 fo
+rebmun
+5.6 months
+6.0
+4.0
+naideM
+2.0
+0
+Group 1 Group 2
+Savolitinib Sunitinib
+6

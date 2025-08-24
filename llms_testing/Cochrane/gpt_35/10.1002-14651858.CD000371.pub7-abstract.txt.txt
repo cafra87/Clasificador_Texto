@@ -1,0 +1,9 @@
+Plain Title: Effects of Routine Deworming on Child Health
+
+Rationale: Deworming drugs are recommended by the World Health Organization (WHO) for regular treatment of school children in areas where helminth infection is common. Advocacy organizations believe that routine deworming has benefits beyond worm removal. This study aims to summarize the effects of deworming programs on child growth, hemoglobin levels, cognition, school attendance and performance, physical fitness, and mortality. 
+
+Trial Design: The study included a review of randomized controlled trials comparing deworming drugs to placebo or no treatment in children aged 16 years or younger. The analysis included data on weight, height, hemoglobin, cognition, school attendance, school performance, physical fitness, and mortality. The study assessed the trials for bias and extracted data. The analysis was based on the burden of helminth infection. 
+
+Results: The study identified 51 trials, including one with over one million children. Overall, the results showed that routine deworming did not have a significant impact on weight, height, hemoglobin levels, cognition, school attendance, school performance, or mortality. There was inconsistent evidence regarding the effect on school attendance and physical fitness. Older studies showed larger effects on weight gain, but more recent and larger studies did not show the same benefits. 
+
+Conclusion: Public health programs that regularly treat all children with deworming drugs do not seem to improve child health outcomes such as height, hemoglobin levels, cognition, school performance, or mortality. The evidence is inconsistent regarding the effect on school attendance, and there is insufficient data on physical fitness. It is important to consider the findings of recent studies that did not show benefit, rather than relying solely on older studies. These conclusions are consistent with the previous edition of the study published in 2015.

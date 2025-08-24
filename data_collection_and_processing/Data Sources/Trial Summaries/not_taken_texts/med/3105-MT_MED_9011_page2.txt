@@ -1,0 +1,27 @@
+Clinical Study Results
+Why was the research needed?
+Researchers are looking for a better way to treat people who have plaque
+psoriasis. Before a drug can be approved for patients to take, researchers do
+clinical studies to find out how safe it is and how it works.
+Plaque psoriasis is a disease that happens when a person’s immune system
+does not work as well as it should. In healthy people, the immune system fights
+infections or anything it does not recognize by creating certain proteins. These
+include proteins called IL-17A and CCL20, which cause swelling.
+In people who have psoriasis, the body creates too many of these proteins. This
+can cause a higher than normal amount of swelling, which can cause the immune
+system to attack healthy tissue. This can cause several medical problems,
+including red, itchy, scaly patches called “plaques” to form on the skin.
+The study drug, AZD0284, was developed to treat plaque psoriasis by decreasing
+the amounts of proteins that cause a higher than normal amount of swelling. This
+decrease might help the immune system to attack only infections and not healthy
+tissue.
+In this study, the researchers wanted to find out if AZD0284 helped decrease the
+amount of IL-17A and CCL20 in the body. They also wanted to learn if AZD0284
+helped decrease the severity of the participants’ skin plaques and their itching, and
+if AZD0284 caused any medical problems.
+The main questions the researchers wanted to answer in this study were:
+• Did AZD0284 help decrease the severity of participants’ skin plaques?
+• Did AZD0284 help decrease the amounts of IL-17A and CCL20 in the body?
+• Did AZD0284 help decrease the itchiness of the participants’ skin plaques?
+• What medical problems did the participants have during the study?
+2

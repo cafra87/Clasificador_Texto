@@ -1,0 +1,26 @@
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Males and females were included in the study if they:
+• Were at least 12 years old.
+• Had been diagnosed with HES for at least six months before
+starting the study treatment.
+• Had a blood eosinophil level of at least 1000 cells/microlitre
+before starting the study.
+• Were on stable HES treatment for four weeks before starting the
+study treatment.
+• Had at least two HES flares in the year before starting the study.
+Males and females were excluded from the study if they had:
+• Life-threatening HES.
+• A specific genetic change that could lead to increased eosinophil
+levels.
+• Abnormalities in other laboratory values.
+• Received mepolizumab in the four months before starting the
+study treatment.
+• Any other disease(s) or had taken any medicine(s) before starting
+the study, that the study doctor thought would affect the results
+of the study.
+Overall, 108 patients received at least one dose of the study medicine. The study
+included 51 (47%) males and 57 (53%) females. The average age was 46 years. The
+youngest patient was 12 years old and the oldest patient was 82 years old.

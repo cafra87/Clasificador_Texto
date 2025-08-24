@@ -1,0 +1,11 @@
+Plain Language Summary (PLS): 
+
+Title: Antioxidant Supplements and Mortality: A Review
+
+Rationale: Antioxidant supplements are commonly used to prevent diseases and promote overall health. However, our study aimed to examine whether these supplements are actually beneficial or harmful for adults in terms of preventing mortality. The study also aimed to identify the specific antioxidants that may increase the risk of death. This research is important because it helps us understand the potential risks and benefits of using antioxidant supplements.
+
+Trial Design: In this study, we conducted a systematic review of existing research on antioxidant supplements. We searched various databases to find relevant clinical trials. We included both primary and secondary prevention trials that compared antioxidant supplements (such as beta-carotene, vitamin A, vitamin C, vitamin E, and selenium) to placebo or no intervention. We analyzed the data using different statistical methods to determine the effects of these supplements on mortality. 
+
+Results: We included a total of 78 randomized trials with 296,707 participants. The mean age of the participants was 63 years, and almost half of them were women. The duration of supplementation varied from 28 days to 12 years. Overall, we found that antioxidant supplements did not have a significant effect on mortality in our analysis. However, when we looked at specific antioxidants, beta-carotene and vitamin E were found to increase the risk of death. Higher doses of vitamin A were also associated with increased mortality. On the other hand, vitamin C and selenium did not significantly affect mortality. These findings suggest that antioxidant supplements may not be beneficial and can even be harmful in some cases.
+
+Conclusions: Based on our review, there is no evidence to support the use of antioxidant supplements for primary or secondary prevention of mortality. In fact, some antioxidants like beta-carotene and vitamin E may increase the risk of death. Higher doses of vitamin A were also associated with increased mortality. Therefore, it is important to consider these supplements as medicinal products and evaluate them thoroughly before marketing.

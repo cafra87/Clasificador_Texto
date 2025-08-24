@@ -1,0 +1,22 @@
+Clinical Study Results
+What were the results of the study?
+This is a summary of the main results from this study overall. The results each
+participant had might be different and are not in this summary.
+Researchers look at the results of many studies to decide which treatments work
+best and are safest. Other studies may provide new information or different results.
+Always talk to a doctor before making any treatment change.
+Could the researchers develop a useful model to predict the amount of
+olaparib in the participants’ blood?
+The researchers developed a mathematical model to help understand the need
+for future studies with olaparib. To test how useful this model was, they took 2
+measurements from the participants’ blood samples during each treatment period.
+These measurements were:
+• The average highest level of olaparib in the blood after the participants
+took 1 dose
+• The average total level of olaparib in the blood over time after the participants
+took 1 dose
+These results helped the researchers understand how to predict olaparib levels in
+the participants’ blood. The researchers were also able to compare these results to
+how well the different doses of the drug dissolved. They found that their model was
+useful for helping them predict the levels of olaparib in the participants’ blood.
+5

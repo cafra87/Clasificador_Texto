@@ -1,0 +1,26 @@
+Clinical Study Results
+Why was the research needed?
+Researchers are looking for a better way to treat people who have relapsed or
+refractory lymphoma. Before a drug can be approved for people to take, researchers
+do clinical studies to find out how safe it is and how it works.
+Cancer is a disease that happens when the body cannot control the growth of
+cells. Lymphoma is a type of cancer that starts in the lymphocytes, which are white
+blood cells. Lymphocytes help the body fight infection and disease and are stored
+in an area of the immune system called the lymph nodes. Lymphoma starts in the
+lymphocytes and can grow within the lymph nodes. “Relapsed” means that the
+cancer was treated and seemed to be gone, but then later returned. “Refractory”
+means that treatment did not affect the cancer at all.
+There are treatments for lymphoma. But, these treatments may not stop the cancer
+from growing or spreading and may not stop the cancer from returning. These
+treatments may also cause medical problems.
+In this study, the researchers wanted to learn about the safety of a current cancer
+treatment called durvalumab when given with the study drugs tremelimumab or
+AZD9150.
+To do this, the researchers kept track of the “dose limiting toxicities” that the
+participants had during the study. A dose limiting toxicity is a medical problem that
+is severe enough to stop the study doctor from increasing the participant’s dose of
+study treatment. A dose limiting toxicity is also called DLT.
+The researchers also wanted to find the “maximum tolerated dose” of the study
+drugs. The maximum tolerated dose is the highest dose of a drug that does not
+cause a DLT. The maximum tolerated dose is also called MTD.
+2

@@ -1,0 +1,30 @@
+Clinical Study Results
+Hazard ratio
+For the hazard ratio, the researchers found that the participants who got durvalumab and
+tremelimumab together were 15% less likely to die during the study compared to the participants
+who got SOC treatment. But, the researchers did not consider this 15% difference between the
+2 groups to be statistically significant.
+How likely it was that the participants would be alive 2 years after starting the study
+The researchers found that:
+• There was a 35.4% chance that the participants who got durvalumab and tremelimumab
+together would still be alive 2 years after starting the study.
+• There was a 22.7% chance that the participants who got SOC treatment would still be alive 2
+years after starting the study.
+The figure below shows these results.
+How likely it was participants would be
+alive 2 years after starting the study
+100
+80
+)%(
+ecnahc
+60
+35.4% chance
+40
+ylekiL
+22.7% chance
+20
+0
+Group 2 Group 3
+(durvalumab and (SOC treatment)
+tremelimumab)
+8

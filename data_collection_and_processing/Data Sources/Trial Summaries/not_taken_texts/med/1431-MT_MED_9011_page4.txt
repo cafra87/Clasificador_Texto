@@ -1,0 +1,39 @@
+Clinical Study Results
+The table below shows the different treatment groups.
+Types of Length of Dose of Dose of
+Group cancer each cycle durvalumab tremelimumab Chemotherapy
+Carboplatin
+Group 1 Lung
+3 weeks 1120 mg 75 mg with
+(6 participants) cancer
+etoposide
+Carboplatin
+Group 2 Breast
+3 weeks 1120 mg 75 mg with
+(2 participants) cancer
+gemcitabine
+Carboplatin
+Group 3 Breast
+3 weeks 1120 mg 75 mg with
+(1 participant) cancer
+nab-paclitaxel
+Oxaliplatin
+Group 4 Stomach with
+4 weeks 1500 mg 75 mg
+(1 participant) cancers 5FU and leucovorin
+(2 doses per cycle)
+Nab-paclitaxel
+Group 5 Pancreas
+4 weeks 1500 mg 75 mg with
+(6 participants) cancer
+gemcitabine
+Cisplatin
+Group 6 Esophagus
+4 weeks 1500 mg 75 mg with
+(16 participants) cancer
+5FU
+In Group 6, treatment happened in 2 parts. There were 6 participants in Part A and 10
+participants in Part B. The participants in Part B started the study after the participants in
+Part A finished the study. The participants in Part B only got tremelimumab in the first and
+last cycles.
+4

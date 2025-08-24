@@ -1,0 +1,25 @@
+Clinical Trial RESULTS
+The picture below shows the results for Doses A and B.
+Average highest levels of study drugs in the blood by dose
+15
+12
+Dose A Dose B Lm/gμ
+9
+7.1 7.3
+6
+Dose A Dose B
+3
+1.3 1.1
+0
+Lesinurad Allopurinol
+What medical problems did participants have during
+the study?
+A lot of research is needed to know if a drug causes a medical problem. So
+when researchers study new drugs, they keep track of all the medical problems
+that participants have during the study. These problems are called “adverse
+events”. They may or may not be caused by the study drug.
+During this study, 5 out of the 28 participants (17.9%) had at least 1 medical
+problem after taking Dose A. None of the participants had medical problems
+after taking Dose B. None of the participants left the study because of medical
+problems.
+6

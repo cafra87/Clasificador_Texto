@@ -1,0 +1,14 @@
+Background
+Paracetamol, either alone or in combination with codeine or dihydrocodeine, is commonly used to treat chronic neuropathic pain. This review sought evidence for efficacy and harm from randomised double‐blind studies. 
+Objectives
+To assess the analgesic efficacy and adverse events of paracetamol with or without codeine or dihydrocodeine for chronic neuropathic pain in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase from inception to July 2016, together with reference lists of retrieved papers and reviews, and two online study registries. 
+Selection criteria
+We included randomised, double‐blind studies of two weeks' duration or longer, comparing paracetamol, alone or in combination with codeine or dihydrocodeine, with placebo or another active treatment in chronic neuropathic pain. 
+Data collection and analysis
+Two review authors independently searched for studies, extracted efficacy and adverse event data, and examined issues of study quality and potential bias. We did not carry out any pooled analyses. We assessed the quality of the evidence using GRADE. 
+Main results
+No study satisfied the inclusion criteria. Effects of interventions were not assessed as there were no included studies. We have only very low quality evidence and have no reliable indication of the likely effect. 
+Authors' conclusions
+There is insufficient evidence to support or refute the suggestion that paracetamol alone, or in combination with codeine or dihydrocodeine, works in any neuropathic pain condition. 

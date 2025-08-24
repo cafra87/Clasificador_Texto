@@ -1,0 +1,15 @@
+1. Plain Title:
+Understanding the Effects of Blood Thinners on COVID-19 Patients
+
+2. Rationale:
+COVID-19 primarily affects breathing, but can also cause harmful blood clots in vessels and organs known as thromboembolism and this can negatively affect a patient's chances of recovery. Drugs called anticoagulants, which include heparins and others, are commonly used to prevent and treat thromboembolism. In addition to helping prevent blood clots, heparins may also somewhat help control inflammation. The main question we wanted to answer in this study was whether these blood-thinning drugs could help people hospitalized with COVID-19 or not.
+
+3. Trial Design:
+We checked a number of databases and sources, collecting information from doctors and scientists all around the world up until April 14, 2021. We looked at studies that tested the use of these blood thinner drugs in people in the hospital for COVID-19. These studies compared the use of blood thinners to other treatments, placebos (like sugar pills without any medication), or no treatment at all. We wanted to find out if these blood thinners helped lower the number of people who died because of any cause or because of COVID-19, helped prevent more severe breathing problems, or helped with other health issues like deep vein thrombosis, pulmonary embolism, and serious bleeding. We followed these patients for a period of about 2 weeks to 3 months.
+
+4. Results:
+The studies we looked at had a total of 16,185 participants from multiple countries. We found that higher doses of blood thinners compared to lower doses did not drastically affect the number of deaths, and may only slightly increase the risk of minor bleeding. However, high doses could help reduce the chances of blood clotting in the lungs (pulmonary embolism) at the cost of a slight increase in serious bleeding. Other health complications like deep vein thrombosis, stroke, heart attack, irregular heartbeats did not significantly change with higher doses of these blood thinners. We didn’t find enough evidence about if these drugs reduce the need for more breathing support, or if they could increase a COVID-19 patient's quality of life. 
+
+When we compared blood thinners to no treatment at all, it seemed like these drugs might reduce the overall number of deaths, but we are not sure yet because these studies weren't as carefully controlled. There's not enough evidence about if these drugs can help with breathing or other health problems.
+
+In addition to these completed studies, 62 other studies are still ongoing and will offer more knowledge once finished. Our early findings indicate that while the different amounts of blood thinners used didn't greatly affect the number of deaths or minor bleeding, more studies need to be done to understand their effects fully. Especially studies focusing on comparing blood thinners to no treatment at all and studies using different types of blood thinners.

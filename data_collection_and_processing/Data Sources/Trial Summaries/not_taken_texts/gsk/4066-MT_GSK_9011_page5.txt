@@ -1,0 +1,31 @@
+What were the overall results of the study?
+Study doctors measured patients’ hip bone mineral density using dual energy X-ray
+absorptiometry (DEXA) scans. A DEXA scan is a special type of X-ray that measures
+bone mineral density.
+Hip bone mineral density of each patient was measured at the beginning of the study
+(baseline) and at each six month visit for three years. The difference between the hip
+bone mineral density values at each visit and at baseline is called change from baseline.
+The change from baseline values of patients in each treatment group were combined,
+averaged by visit, and converted into yearly percentages. The overall average for the
+three-year treatment period was used to calculate the percent change from baseline
+per year. The results for 262 patients for whom the change from baseline value could
+be calculated are shown in the table below.
+Percent change from baseline per year in average hip bone mineral
+density
+Vilanterol Fluticasone furoate
+and vilanterol
+132 patients 130 patients
+Percent change from baseline
+per year in average bone 0.18% higher 0.27% lower
+mineral density
+Difference in percent change
+from baseline between the two 0.46%
+treatment groups
+Since the difference in the percent change values between the two treatment groups
+was small, researchers concluded that both treatments had a similar effect on hip bone
+mineral density.
+More information about the study results is available in the scientific results summaries
+(links to those summaries are provided at the end of this document).
+What were the side effects?
+Unwanted medical events (adverse events) can happen to people when they receive a
+medicine. Study doctors record these events. A summary of all these events can be

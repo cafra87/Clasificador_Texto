@@ -1,0 +1,17 @@
+Plain Title: Preventive Strategies for High Altitude Illness: A Review of Miscellaneous and Non-Pharmacological Interventions
+
+Rationale: High altitude illness (HAI) refers to a range of syndromes that can occur when traveling to high elevations. These syndromes include acute mountain sickness, high altitude cerebral edema, and high altitude pulmonary edema. In this review, we investigated the effectiveness of various non-medication methods in preventing HAI. The goal of the study was to determine if these interventions could help reduce the risk of HAI and improve the overall well-being of individuals at risk.
+
+Trial Design: The study involved a review of randomized controlled trials that examined non-pharmacological interventions for preventing HAI. The trials included participants at risk of developing high altitude illness, regardless of their age or gender. The interventions were administered before ascending to high altitudes. The study analyzed the data from 20 trials involving 1406 participants.
+
+Results: 
+
+1. Preacclimatization and other measures based on pressure: The use of simulated altitude or remote ischaemic preconditioning (RIPC) did not show clear evidence of improving the risk of acute mountain sickness. Positive end-expiratory pressure (PEEP) showed some improvement in reducing the risk of acute mountain sickness, but this finding was based on a trial with a small number of participants. The risk of adverse events associated with these interventions remains unclear.
+
+2. Supplements and vitamins: Antioxidants, medroxyprogesterone, iron, and Rhodiola crenulata did not show a significant improvement in the risk of acute mountain sickness. However, the effectiveness of these interventions is uncertain due to limited quality evidence. Erythropoietin showed some evidence of reducing the risk of acute mountain sickness, but the quality of the evidence was very low. The use of ginkgo biloba did not provide clear results due to conflicting findings among different studies. The risk of adverse events associated with these interventions is also uncertain.
+
+3. Other comparisons: When comparing ginkgo biloba with acetazolamide, the evidence was inconsistent. The combined administration of ginkgo biloba and acetazolamide showed some improvement in reducing the risk of acute mountain sickness, but this finding was based on a single trial with potential bias. The use of medroxyprogesterone plus acetazolamide did not show significant improvement compared to either medication alone. The risk of adverse events for these interventions is unclear.
+
+Overall, the evidence regarding the effectiveness of non-pharmacological interventions for preventing high altitude illness is limited and of low to very low quality. The safety of these interventions also remains uncertain. Additional studies, especially those comparing non-pharmacological methods with medication alternatives like acetazolamide, are needed to provide more conclusive evidence.
+
+In conclusion, this review highlights the need for further research to establish the efficacy and safety of non-pharmacological interventions in preventing high altitude illness. Clinicians and other interested parties should consider the limited evidence available when making recommendations for preventing HAI.

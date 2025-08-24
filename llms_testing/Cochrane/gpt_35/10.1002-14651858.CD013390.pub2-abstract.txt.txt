@@ -1,0 +1,15 @@
+Plain Title: Surgical Interventions for Infantile Nystagmus Syndrome: A Review
+
+Rationale: 
+Infantile nystagmus syndrome (INS) is a type of eye movement disorder that can affect vision. While there is currently no cure for INS, there are potential treatments available, including surgery. However, there is a lack of consensus and clinical guidelines regarding the effectiveness and safety of surgical interventions for INS. It is important to understand these treatment options and their associated side effects to help healthcare professionals make informed decisions about managing INS.
+
+Trial Design: 
+This study aimed to assess the effectiveness and safety of surgical interventions for INS. The researchers searched various databases and registries for randomized controlled trials (RCTs) that studied the efficacy and safety of surgical options for treating INS. The outcome measures included changes in visual acuity, head posture, nystagmus waveform characteristics, visual recognition, quality of life, and adverse effects.
+
+Results: 
+Only one eligible RCT was identified, involving 10 participants in India. The participants were randomized to receive either a large retro-equatorial recession of certain eye muscles or a simpler procedure involving tenotomy and resuturing of these muscles. Unfortunately, no RCTs comparing surgical interventions for INS to no treatment were found. The study did not provide detailed information about the participants' age, gender, or specific type of INS. The evaluation period was six months. The study was deemed to have a low risk of bias for certain factors but a high risk of bias for others.
+
+The results showed uncertain evidence regarding the effect of surgical interventions on visual acuity and nystagmus waveform characteristics. Adverse effects were not reported by any participants in either intervention group. Quality of life improvements were mentioned in the study but without quantitative data. Changes in head posture, nystagmus waveform period durations, visual recognition times, and permanent adverse effects were not reported. Overall, the certainty of the evidence for the efficacy and safety of surgical interventions for INS was very low.
+
+Conclusions: 
+This review found limited high-quality evidence regarding the effectiveness and safety of surgical interventions for INS. Given the irreversible nature of these procedures and the fact that they are often performed on children, healthcare professionals should consider the lack of evidence when deciding on treatment options for INS. More high-quality RCTs are needed to provide a better understanding of the efficacy and safety profile of surgical interventions for INS. This will help healthcare professionals, individuals with INS, and their parents or caregivers make well-informed decisions about treatment.

@@ -1,0 +1,242 @@
+CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc.
+Medicine(s) Studied: Xeljanz®(tofacitinib)
+Protocol Number: A3921288
+Dates of Trial: 16 November 2017 to 20February 2020
+Title of this Trial: A Study of Tofacitinib in Patients With Ulcerative Colitis in 
+Stable Remission
+[A Phase 3b/4, Multi -Center, Double -Blind, Randomized, 
+Parallel Group Study of Tofacitinib (CP-690,550) in Subjects 
+With Ulcerative Colitis in Stable Remission ]
+Date (s)of this Report: 23March 2021
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated. If you 
+have any questions about the study or results ,please contact the doct or or staff at 
+your study site.
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)
+2WHY WAS THIS STUDY DONE?
+Ulcerative colitis (“UC”) is a long -term inflammatory bowel disease that causes 
+inflammation (swelling) and ulcers (sores) in the digestive tract.  UC affects the 
+mucosa (inner lining) of the large intestine (colon) and rectum.   Patients with UC 
+experience occasional periods of increased inflammation, known as flares.  Flares are 
+chara cterized by diarrhea (loose stools) and presence of blood in the stools, as well as 
+sense of urgency.  Flares are followed by periods of remission (time with no 
+symptoms) that vary in length from weeks to years.
+There is no known cure for UC.  Treatment ca n greatly reduce signs and symptoms of 
+UC and can even lead to long -term remission.  However, t here are few treatment 
+options for patients with moderately to severely active UC.  Medication is the most 
+common treatment for UC.  Tofacitinib is a medicine th at works to reduce the activity 
+of the immune system.  It is an oral (taken by mouth) medication that has been 
+approved, and is available by prescription, to treat adults with active, moderate to 
+severe UC that did not respond well to other medications .
+Researchers have continued to study tofacitinib to find out more about its safety and 
+how well it works.  In one study , researchers saw that participant swith UC who took 
+either 5mg or 10 mg of tofacitinib twice a day were more likely to stay in remission 
+compared to participants who took placebo.  H owever, a formal study to compare a 
+reduced dose of tofacitinib (5 mg twice a day) to the standard dose (10 mg twice a 
+day) of tofacitinib had not been done.
+In this study, researchers wanted to find out if participants with UC who were in 
+stable remission (ongoing time with no symptoms) would stay in remission if the dose 
+of the treatment was reduced from 10 mg of tofacitinib twice a day to 5 mg of 
+tofacitinib twice a day.  Researchers wanted to answer the question:
+What difference did switching from 10 mg of tofacitinib twice a day to 5 mg 
+of tofacitinib twice a day have on the percent of participants in remission after 
+6months compared to staying on 10 mg of tofacitinib tw ice a day?
+Researchers also wanted to learn more about the safety of tofacitinib in participants
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)
+3who switched from 10 mg of tofacitinib twice a day to 5 mg of tofacitinib twice a day 
+compared to participants who continued to take 10 mg of tofacitinib twice a day .  
+They monitored participants for any medical problems that happened while they were 
+taking tofacitinib .
+The results for the primary endpoint (percent of participants in remission after 
+6months) as well as safety results for participants from the start of the study until 
+February 2020 (27 months) are summarized here.
+WHAT HAPPENED DURING THE STUDY?
+This study compared 2groups of participants with UC to find out how many
+participants who were in stable remission and switched from taking 10mg tofac itinib
+twice a day to 5 mg tofacitinib twice a day would be in remission 6 months later
+compared to participants who continued to take 10mg tofacitinib twice a day .The 
+study included participants who:
+Were participating in another study of tofacitinib ( Study A3921139 ),
+Had been taking 10 mg tofacitinib twice a day fo r at least 2 years in a row,
+Were in stable remission for UC on 10 mg tofacitinib twice a day for 6 months 
+prior to beginning this study , and
+Had not been taking any oral corticosteroids for their UC for at least 4 weeks 
+prior to beginning this study.
+Participants were put into 1 of 2 treatment groups by chance alone.  This is known as 
+a “randomized” study.  This is done to make the groups more similar.  Reducing 
+differences between the groups (like age or the number of men and women), makes 
+the groups more even to compare.
+This trial was also “double -blinded”.  This means that participants and doctors did 
+not know who was given which dose of tof acitinib .  This was done to make sure that 
+the trial results were not influenced in any way.
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)
+4Each participant in the study took 2 pills twice a day by mouth:
+5mg tofacitinib group: one 5 mg tofacitinib tablet and one placebo tablet 
+twice a day (70 out of 140 participants in the study).
+10mg tofacitinib group: two 5 mg tofacitinib tablets twice a day (70 out of 
+140 participants in the study).
+A placebo does not have any medicine in it, but it looks just like the study medicine.  
+The pills for theinvestiga tional medicine looked exactly the same as the pills for the 
+placebo.  This made it so that participants did not know to which study group they 
+were assigned.
+During the entire study, participants are to co me to the study site 17 times over 42 
+months and havetheir UC assessed.  At 4of these visits, participants are to have a
+lower endoscopy (flexible sigmoidoscopy/colonoscopy) to look for swelling or 
+unusual changes to the lining of their colon .  A lower endoscopy uses a tiny camera 
+on the end of a thin, flexible tube that is inserted into the anus to view the inside of 
+the rectum and most of the colon.
+The participant’s UC disease activity was measured using a modified Mayo score.  The 
+modified Mayo score rates the activity of UC based on 3 categories.  Each category is 
+graded from 0 to 3, with 3 being the most severe.  The 3 categories are:
+Stool frequency (how many bowel movement s per day ?)
+Rectal bleeding (is blood s een in the stool?)
+Endoscopy results (how does the lining of the colon look?)
+The scores from each of the 3 categories were added together to give the modified 
+Mayo score.  The modified Mayo score rates the disease activity of UC on a scale 
+from 0 to 9 .  Participants who had a score of 0 or 1 for the endoscopy results, a stool 
+frequency score of 0 or 1, and a score of 0 for rectal bleeding were said to be in 
+remission.  Any participant who experienced a wor sening of their UC disease activity 
+(flares) was allowed to have their dose adjusted during the study.
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)
+5This report summarizes the findings for the primary endpoint in this study.  The 
+primary endpoint is the main question in a study that researchers want to answer.  In 
+some studies, like this one, results for the primary endpoint are studied while 
+participants are still taking part in the rest of the study. In this study, the primary 
+endpoint was studied (“primary analysis”) after all participants had been on the study 
+for 6 months.  The percentage of participants in remission after taking tofacitinib for 
+6months was calculated for participants in the 5 mgand 10 mg tofacitinib groups.  
+The percentage of participants in remission after 6 months was compared between 
+the 2 groups.
+The figure below shows what is to happen during the entire study.
+The Sponsor is running this study at 69locations in 20countries in Europe, North 
+America, Asia, Africa, and Oceania .  The primary endpoint of the study whose results 
+are reported here began 16November 2017 and ended 20February 2020; the rest of 
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)6the study is ongoing .  Ninety -two (92) men and 48 women participated.  All 
+participants were between the ages of 21 and 81.   Results for the rest of the study will 
+be reported when all participants have completed th e entire study.
+Participants were to be treate d for 42 months, with the primary analysis occurring 
+after all participants had taken tofacitinib for 6 months . Of the 140participants who 
+started the study, 115finished the first 6 month partof the study . Twenty -five ( 25)
+participants did not finish the first 6 month portion of the study; of these,
+2participants from the 5mg group did not finish because their UC worsened and 
+1participant from the 5mg group did not finish because their UC worsened and 
+1participant from the 5 mg group did not finish due to pregnancy.  Twenty -two (22) 
+participants left before the first 6 month part of the study was over by their choice or 
+a doctor decided it was best for a participant to stop being in the study.
+When datacollection for the primary endpoint ended in February 2020 , the Sponsor 
+reviewed the information collected for the primary endpoint . The Sponsor then 
+created a report of th oseresults. This is a summary of that report.
+WHAT WERE THE RESULTS OF THE STUDY?
+What difference did switching from 10 mg of tofacitinib 
+twice a day to 5 mg of tofacitinib twice a day have on the 
+percent of participants in remission after 6 months 
+compared to staying on 10mg of tofacitinib twice a day ?
+In this study, more than 75% (3 out of 4) of all participants in the study were in 
+remission after 6 months of taking tofacitinib.  More participants in the 10 mg group 
+(90%) were in remission after 6 months of taking tofacitinib compared to participants
+in the 5 mg group (77%).
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)
+7These are just some of the main findings of the study, and more information may be 
+available at the websites listed at the end of this summary.
+WHAT MEDICAL PROBLEMS DID 
+PARTICIPANTS HAVE DURING THE STUDY?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused b y a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be.
+Fifty ( 50)out of 140 participants in this study had at least 1 medical problem.  A total 
+of 9participants left the study because of medical problems.  Of these, 1 participant
+in the tofacitinib 5 mg group and 1 participant in the tofacitinib 10 mg group left the 
+study due to medical problems which the researchers believed to be related to 
+tofacitinib .  The most common medical problems are listed below.
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)
+8Most Common Medical Problems
+(Reported by 3 or More Participants in the Study )
+Medical ProblemTofacitinib 5 mg
+(70Participants
+Treated)Tofacitinib 10 mg
+(70Participants
+Treated)
+Worsening of u lcerative colitis 10 (14%) 9 (13%)
+Common cold 6 (9%) 7 (10%)
+Nose and throat infection 4 (6%) 4 (6%)
+Stomach pain 4 (6%) 3 (4%)
+Upset stomach 3 (4%) 3 (4%)
+Bronchitis 1 (1%) 5 (7%)
+Headache 2 (3%) 3 (4%)
+High blood pressure 2 (3%) 3 (4%)
+Increased level of a certain protein in 
+theblood(creatine phosphokinase)1 (1%) 4 (6%)
+Cold sores 4 (6%) 0
+Muscle pain 3 (4%) 1 (1%)
+Leg swelling 2 (3%) 2 (3%)
+Shingles 1 (1%) 3 (4%)
+Flu 1 (1%) 3 (4%)
+Increase d level of a certain protein in 
+the stool (fecal calprotectin)1 (1%) 2 (3%)
+Abnormal growth on the lining of the 
+colon1 (1%) 2 (3%)
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)
+9WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.
+Ten (10) participants (7%) had serious medical problems: 6participants in the 
+tofacitinib 5 mg group and 4participants in the tofacitinib 10 mg group.  Two (2) of 
+the 6 participants in the tofacitinib 5mg group had a flare and were allowed to start 
+taking 10 mg of tofacitinib.   The serious medical problem for these 2 participants
+happened after they started taking 10 mg of tofacitinib.  No participants died during 
+the study.  The serious medical problems reported by participants in the study are 
+shown in the table below.   Some participants reported more than 1 serious medical 
+problem.
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)
+10Serious Medical Problems
+(Reported by Any Participant )
+Serious Medical ProblemTofacitinib 5 mg
+(70 Participants
+Treated)Tofacitinib 10 mg
+(70 P articipa nts 
+Treated)
+Low number sof red blood cells 
+due to low levels of iron1 (1%) 0
+Chest pain 0 1 (1%)
+Skin infection 1 (1%) 0
+Bladder infection 1 (1%) 0
+Injury to the arm or leg 0 1 (1%)
+Back pain 0 1 (1%)
+Non -cancer ous(benign) tumor in 
+the mouth1 (1%) 0
+Skin cancer located on the outside 
+portion of the vagina1 (1%) 0
+Stroke 1 (1%) 0
+Breast disorder 1 (1%) 0
+Thickening of the lining of the 
+uterus1 (1%) 0
+Blood clot in the lung 0 1 (1%)
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)
+11WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit :
+www.clinicaltrials.gov Use the study identifier NCT 03281304
+www.clinicaltrialsregister.eu Use the study identifier 2017-002274 -39
+The full scientific report of this study is available online at:
+www.pfizer.com/research/research_
+clinical_trials/trial_resultsUse the protocol number A3921288
+This clinical trial is ongoing.  When it has finished, additional information will be 
+available to better understand the benefits and the risks of different doses of 
+tofacitinib for maintaining remission in patients with UC.
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e196b5cffe\Approved\Approved On: 06-Apr-2021 07:09 (GMT)

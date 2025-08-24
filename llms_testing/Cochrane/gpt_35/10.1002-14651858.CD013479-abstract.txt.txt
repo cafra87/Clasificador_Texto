@@ -1,0 +1,14 @@
+Plain Title: Different HPV Vaccine Schedules and Their Effectiveness
+
+Rationale: Human papillomavirus (HPV) is a common virus that can cause cervical cancer in women. The current vaccines are effective in preventing this cancer, but many people still don't get vaccinated. This study aimed to evaluate the effectiveness, safety, and benefits of different HPV vaccine schedules and types in both females and males.
+
+Trial Design: The study included 20 randomized controlled trials with a total of 31,940 participants. The trials had different designs and involved people aged 9 to 26 years, including those with and without HIV. The follow-up period ranged from seven months to five years.
+
+Results: 
+- Two doses of the HPV vaccine are as effective as three doses in females aged 9 to 15 years. Both schedules showed similar antibody responses even after five years of follow-up. However, more research is needed to determine the long-term effects and any potential serious adverse events.
+- A longer interval (6 or 12 months) between the first two doses of the HPV vaccine is more effective in producing stronger antibody responses than a shorter interval (2 or 6 months) in females aged 9 to 14 years and males in the same age group. No deaths were reported in any of the studies.
+- The quadrivalent HPV vaccine is effective in reducing the incidence of external genital lesions and anogenital warts in males aged 10 to 26 years compared to a control group. However, it may cause more injection-site adverse events such as pain or redness.
+- The nonavalent and quadrivalent HPV vaccines offer similar protection against cervical, vaginal, and vulval precancerous lesions or cancer in females and males aged 9 to 26 years. However, the nonavalent vaccine may cause slightly more local adverse events.
+- People living with HIV who receive the bivalent or quadrivalent HPV vaccines show high antibody responses. However, the evidence for the effectiveness and potential harms in this population is uncertain.
+
+In conclusion, the study found that two doses of the HPV vaccine are as effective as three doses in young females. The quadrivalent vaccine can reduce external genital lesions and anogenital warts in males. Both the nonavalent and quadrivalent vaccines offer similar protection against cervical, vaginal, and vulval precancerous lesions or cancer. However, more research is needed to fully understand the long-term effects and potential serious adverse events. Post-marketing surveillance is necessary to monitor the safety of HPV vaccines in the population. Further studies are also needed to determine the effectiveness of reduced-dose schedules and improve vaccine coverage rates.

@@ -1,0 +1,28 @@
+Clinical Study Results
+What treatments did the participants take?
+In this study, the participants took their treatment through an MDI, also called a metered dose
+inhaler. An MDI is a device that delivers a specific amount of a treatment for the participant to
+breathe in. The participants took 2 puffs of their treatment twice a day.
+The participants took either:
+• a “standard” dose of BGF MDI
+• a “low” dose of BGF MDI
+• GFF MDI
+• BFF MDI
+The doses were measured in micrograms, also known as µg. These are shown in the chart
+below.
+Dose of
+Dose of Dose of formoterol
+budesonide glycopyrronium fumarate
+Standard dose of BGF MDI 320 μg 14.4 μg 9.6 μg
+Low dose of BGF MDI 160 μg 14.4 μg 9.6 μg
+GFF MDI None 14.4 μg 9.6 μg
+BFF MDI 320 μg None 9.6 μg
+This was a “double-blind” study. This means none of the participants, researchers, study doctors,
+or other study staff knew what treatment each participant was taking. Some studies are done
+this way because knowing what treatment the participants are taking can affect the results of the
+study. When the study ended, the research sponsor found out which treatment the participants
+took so they could create a report of the study results.
+A computer program was used to randomly choose the treatment each participant took. This
+helps make sure the groups are chosen fairly. Researchers do this so that comparing the results
+of each treatment is as accurate as possible.
+4

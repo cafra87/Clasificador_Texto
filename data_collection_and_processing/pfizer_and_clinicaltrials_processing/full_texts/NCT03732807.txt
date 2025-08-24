@@ -1,0 +1,509 @@
+Clinical Study Results
+This summary reports the results of only one study. Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to study participants. The results of this study 
+might be different than the results of other studies tha t the researchers review.
+Sponsor:    Pfizer Inc. 
+Medicine(s) Studied: Ritlecitinib (PF -06651600)
+Protocol Number: B7981015
+Dates of Study: 03 December 2018 to 24 June 2021
+Title of this Study: A Placebo Controlled, Dose -Ranging Study to Investigate
+the Efficacy and Safety of PF -06651600 in Adult and 
+Adolescent Alopecia Areata (AA) Subjects
+[A Phase 2b/3 Randomized, Double -Blind, 
+Placebo -Controlled, Dose -Ranging Study to Investigate the 
+Efficacy and Safety of PF -06651600 in Adult and 
+Adolescent Alope cia Areata (AA) Subjects With 50% or 
+Greater Scalp Hair Loss ]
+Date(s) of this Report: 23May2022
+–Thank You –If you or your child participated in this study, Pfizer, the Sponsor, would like to thank 
+you for youror your child’s participation.
+This summary will describe the study results. If you have any questions about the 
+study or the results, please contact the doctor or staff at your or your child’s study 
+site.Why was this study done?
+What is alopecia areata ?
+Alopecia areata is an autoimmune disorder, which may be chronic and reoccurring , 
+where a patient experience snon-scarring hair loss .  It can affect adults and children 
+across all ages, races, and sexes.   Alopecia areata can have a large impact on the
+psychological health of both adult and pediatric patients, including damage to the
+patient’s self-esteem, an increased occurrence of anxiety and depressi onand other 
+psychological conditions, problems with social relationships , decreased health -related 
+quality of life and a general decline in quality of life .
+Patchy alopecia areata is the most common form of alopecia areata, which may 
+develop into more widespread and often treatment -resistant forms of alopecia areata, 
+especially when the disease starts a t an earlier age.  Alopecia areata involving 50% or 
+greater scalp hair loss, including the loss of all the hair on the scalp ( alopecia totalis)
+and the loss of all scalp, face and body hair (alopecia universalis) can be considered 
+extensive form sof alopecia areata . 
+What is Ritlecitinib ?
+Ritlecitinib is a small molecule oral medication .  Small molecule s canmove easily 
+through the cell membrane to interact with targeted molecules present inside a cell .
+Ritlecitinib inhibits the enzymes (protein molecule in cells which speed up chemical 
+reactions in the body) known as a Janus kinase 3 (JAK3) and tyrosine kinase 
+expressed in hepatocellular carcinoma ( TEC )family . These enzymes are important 
+regulators of inflammatory pathways in the cell and cause the production of molecules 
+known as cytokines.  It is believed that these inflammatory pathways and cytokines are 
+involved in dermatologic diseases such as vitiligo, atopic dermatitis ,as well as alopecia 
+areata . What was the purpose of this study?
+The purpose of this study was to compare ritlecitinib with a placebo to determine 
+ritlecitinib ’s efficacy and safety in treating alopecia areata patients . Ritlecitinib is an 
+investigational medication because it is not approved for use . The placebo looks like 
+the study medication but does not contain any active ingredients. Researchers 
+compare dthe results of taking the placebo to the results of taking ritlecitinib to see if 
+there were any difference s.
+Researchers wanted to know:
+Did the participants taking ritlecitinib have a better response than 
+theparticipants taking placebo atWeek 24 ?
+What happened during the study?
+How was the study done?
+Researchers tested ritlecitinib on a group of study participants to find out if study 
+participants taking ritlecitinib had a better response as measured by the Severity 
+Alopecia Tool (SALT) in comparison to placebo at Week 24.  Following Week 24, 
+participants taking placebo were switched to ritlecitinib during the extension period.  
+The SALT score measures the severity of alopecia by capturing the percentage ofhair 
+loss.  It was calculated by dividing the scalp into 4 quadrants with allocated percentage 
+scalp surface area in each area.   The study was carried out as shown i n Figure 1 below .Figure 1: Overall study design
+The study participants and researchers did not know who took ritlecitinib ,what 
+dosage was received ,orwho took the placebo.   This is known as a “blinded” study.  
+Study p articipants were assigned to each group by chance alone.
+Where did this study take place?
+The Sponsor ran this study at 118locations in Argentina, Australia, Canada, Chile, 
+China, Colombia, Czech Republic, Germany, Hungary, Japan, Mexico, Poland, Russia, 
+Spain, South Korea, Taiwan, United Kingdom ,and the U nited States.
+When did this study take place?
+It began 03 December 2018 and ended 24 June 2021 .
+Who participated in this study?
+The study included participants who :
+Had a primary diagnosis of alopecia areata
+Had at least 50% hair loss on their scalp
+Were c urrently experiencing hair loss on their scalp
+Were at least 12years old or older ,depending on the study location
+A total of 1097 participants were screened, and 718 participants were randomized or 
+assigned to a treatment group by chance .
+A total of 272males participated .
+A total of 446female sparticipated .
+Six hundred and thirteen out of 718 (85%)of participants were at least 18 years 
+old.Participants were to be treated until the planned end of treatment at 48 weeks . Of the 
+718participants who started the study, 614participants completed the stu dy 
+treatment .
+Three participants were not treated, and 101 participants did not finish the study 
+because :
+the participant left by their own choice ,
+the participant experienced a medical problem ,
+the participant discovered they were pregnant,
+a doctor decided it was best for a participant to stop being in the study ,
+the participant could not be contacted ,
+the treatment did not work for them ,
+a protocol deviation occurred (an unplanned change from the study design ),
+the participant was n on-complian twhile taking the study medication , 
+orfor other reasons.
+How long did the study last?
+Study participants were in the study for approximately 57weeks .  The entire study 
+took approximately 2½years to complete.
+When the last participant ’slast visit occurred in June 2021 , the Sponsor began 
+reviewing the information collected.  The Sponsor then created a report of the results.  
+This is a summary of that report.What were the results of the study?
+Did the participants taking ritlecitinib have a better response than 
+the participants taking placebo at Week 24?
+The responses of the participants to treatment with ritlecitinib or placebo was 
+measured using the SALT score . A response was defined as those participants whose 
+SALT score improved to less than or equal to 20% at Week 24. In Figure 2 below, 
+the response based on absolute SALT ≤20 at Week 24 is shown for the different 
+treatment groups.
+Figure 2: Response of participants to treatment with ritlecitinib or placebo at 
+Week 24
+At Week 24, the participants in the 200/50 mg, 200/30 mg, 50 mg, and 30 mg 
+groups treated with ritlecitinib were significantly different from placebo .  
+A significant difference between 2 groups means that there is a measurable 
+difference between the groups and that, statistically, the probability of 
+obtaining that difference by chance is very small (less than 0.125%for this 
+study ).
+The percentage of responders ranged from 14% inthe group treated with 30 mg of 
+ritlecitinib to 31% in the 200/50 mggroup . The group treated with r itlecitinib at
+10mg (2%) was not that different when compared to placebo ( 2%).
+Based on these results, the researchers have decided that the results are not likely 
+the result of chance.  Ritlecitinib may help in the treatment of alopecia areata .  
+This does not mean that everyone in this study had these results.  This is a summary 
+ofthe main result of this study.  
+What medical problems did participants have during 
+the study?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance). Or, medical problems could
+also have been caused by a study treatment or by another medicine the participant was 
+taking. Sometimes the cause of a medical problem is unknown. By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what effects a study medication might have on a participant.
+Five hundred and eighty -seven out of 71 5participants (82%) that received study 
+treatment in this study had at least 1 medical problem up to Week 48.  A total of 
+22participants left the study because of medical problems.  The most common medical problems –those reported byat least 5% of participants –are described 
+below.
+Below are instructions on how to read Table 1. 
+Instructions for Understanding Table 1. 
+The 1stcolumn of Table 1lists medical problems that were commonly 
+reported during the study.  All medical problems reported by at least
+5% of participants are listed.
+The 2ndto 6thcolumn stells how many of the 584participants who 
+tookdifferent doses of ritlecitinib for 48 weeks reported each medical 
+problem.  Next to this number (the number in parenthesis ) is the 
+percentage of the participants who took each dose ofritlecitinib who 
+reported the medical problem. 
+The 7thand 8thcolumn stellhow many of the 131participants who 
+took placebo during the first 24 weeks followed by treatment with 
+ritlecitinib (either 200/50 mg [65 participants ] or 50 mg 
+[66participants]) from Weeks 25 to 48 reported each medical problem.  
+Next to this number (the number in parenthesis ) is the percentage of 
+the participants who took placebo during the first 24 weeks followed 
+by either treatment with ritlecitinib (200/50 mg [65 participants] or 
+50mg [66 participants]) from Weeks 25 to 48 who reported the 
+medica l problem.
+Using these instructions, you can see that 6out of the 131(5%)
+participants who took ritlecitinib in the 200/ 50mggroup during the 
+first 24 weeks reported acne.  A total of 5out of the 
+65(8%)participants who took placebo during the first 24weeks 
+followed by treatment with ritlecitinib (200/50 mg [65 participants]) 
+from Weeks 25 to 48 reported acne.Table 1. Commonly reported medical problems by study participants uptoWeek 48
+Medical 
+ProblemRitlecitinib Placebo to 
+Ritlecitinib
+200/50 mg 200/30 mg 50mg 30mg 10mg 200/50 mg 50 mg
+No of 
+Participants131 129 130 132 62 65 66
+Abdominal 
+pain1 out of 
+131 (1%)5 out of 
+129 (4%)5 out of 
+130 
+(4%)3 out of 
+132 
+(2%)0 out 
+of 62 
+(0%)4 out of 65 
+(6%)0 out of 
+66 (0%)
+Acne 6 out of 
+131(5%)10 out of 
+129 (8%)12 out 
+of 130 
+(9%)12 out 
+of 132 
+(9%)3 out 
+of 62 
+(5%)5 out of 65 
+(8%)8 out of 
+66 
+(12%)
+Joint 
+stiffness4 out of 
+131 (3%)5 out of 
+129 (4%)2 out of 
+130 
+(2%)4 out of 
+132 
+(3%)2out 
+of 62 
+(3%)2 out of 65 
+(3%)6out of 
+66 (9%)
+Constipation 1 out of 
+131 (1%)0 out of 
+129 (0%)1 out of 
+130 
+(1%)7 out of 
+132 
+(5%)1 out 
+of 62 
+(2%)1 out of 65 
+(2%)0 out of 
+66 (0%)
+Cough 6 out of 
+131 (5%)0 out of 
+129 (0%)3 out of 
+130 
+(2%)3 out of 
+132 
+(2%)0 out 
+of 62 
+(0%)4 out of 65 
+(6%)2out of 
+66 (3%)
+Diarrhea 9 out of 
+131 (7%)4 out of 
+129 (3%)12 out 
+of 130 
+(9%)8 out of 
+132 
+(6%)0 out 
+of 62 
+(0%)4 out of 65 
+(6%)1 out of 
+66 (2%)
+Dizziness 9 out of 
+131 (7%)8 out of 
+129 (6%)4 out of 
+130 
+(3%)8 out of 
+132 
+(6%)1 out 
+of 62 
+(2%)0 out of 65 
+(0%)2 out of 
+66 (3%)
+Feeling tired 4 out of 
+131 (3%)6 out of 
+129 (5%)6 out of 
+130 
+(5%)6 out of 
+132 
+(5%)4 out 
+of 62 
+(6%)3 out of 65 
+(5%)2 out of 
+66 (3%)
+Infection of 
+one or more 
+of the 
+pockets from 
+which hair 
+grows 
+(follicles)11 out of 
+131 (8%)11 out of 
+129 (9%)8 out of 
+130 
+(6%)5 out of 
+132 
+(4%)4 out 
+of 62 
+(6%)4 out of 65 
+(6%)4 out of 
+66 (6%)
+Headache 17 out of 
+131 (13%)14 out of 
+129 (11%)16 out 
+of 130 
+(12%)24 out 
+of 132 
+(18%)12 out 
+of 62 
+(19%)8 out of 65 
+(12%)8 out of 
+66 
+(12%)Table 1. Commonly reported medical problems by study participants uptoWeek 48
+Medical 
+ProblemRitlecitinib Placebo to 
+Ritlecitinib
+200/50 mg 200/30 mg 50mg 30mg 10mg 200/50 mg 50 mg
+No of 
+Participants131 129 130 132 62 65 66
+Flu 8 out of 
+131 (6%)1 out of 
+129 (1%)3 out of 
+130 
+(2%)3 out of 
+132 
+(2%)3 out 
+of 62 
+(5%)1 out of 65 
+(2%)0 out of 
+66 (0%)
+Trouble 
+sleeping3 out of 
+131 (2%)0 out of 
+129 (0%)2out of 
+130 
+(2%)1out of 
+132 
+(1%)1out 
+of 62 
+(2%)1out of 65 
+(2%)4out of 
+66 (6%)
+Muscle 
+aches and 
+pain6 out of 
+131 (5%)3 out of 
+129 (2%)3 out of 
+130 
+(2%)5 out of 
+132 
+(4%)6 out 
+of 62 
+(10%)0 out of 65 
+(0%)1 out of 
+66 (2%)
+Blocked 
+nose1 out of 
+131 (1%)1 out of 
+129 (1%)2 out of 
+130 
+(2%)3 out of 
+132 
+(2%)4 out 
+of 62 
+(6%)1 out of 65 
+(2%)1 out of 
+66 (2%)
+Infection of 
+nose and 
+throat (cold)19 out of 
+131 (15%)21 out of 
+129 (16%)18 out 
+of 130 
+(14%)21 out 
+of 132 
+(16%)7 out 
+of 62 
+(11%)7 out of 65 
+(11%)4 out of 
+66 (6%)
+Nausea 11 out of 
+131 (8%)3 out of 
+129 (2%)3 out of 
+130 
+(2%)12 out 
+of 132 
+(9%)3 out 
+of 62 
+(5%)8 out of 65 
+(12%)1 out of 
+66 (2%)
+Throat pain 4 out of 
+131 (3%)6 out of 
+129 (5%)6 out of 
+130 
+(5%)1 out of 
+132 
+(1%)0 out 
+of 62 
+(0%)2 out of 65 
+(3%)5 out of 
+66 (8%)
+Itching 4 out of 
+131 (3%)7 out of 
+129 (5%)1 out of 
+130 
+(1%)3 out of 
+132 
+(2%)1 out 
+of 62 
+(2%)1 out of 65 
+(2%)1 out of 
+66 (2%)
+Rash 5 out of 
+131 (4%)3 out of 
+129 (2%)7 out of 
+130 
+(5%)1 out of 
+132 
+(1%)0 out 
+of 62 
+(0%)1 out of 65 
+(2%)1 out of 
+66 (2%)Table 1. Commonly reported medical problems by study participants uptoWeek 48
+Medical 
+ProblemRitlecitinib Placebo to 
+Ritlecitinib
+200/50 mg 200/30 mg 50mg 30mg 10mg 200/50 mg 50 mg
+No of 
+Participants131 129 130 132 62 65 66
+Nose, sinus, 
+or throat 
+infection18 out of 
+131 (14%)12 out of 
+129 (9%)11 out 
+of 130 
+(8%)16 out 
+of 132 
+(12%)2 out 
+of 62 
+(3%)7 out of 65 
+(11%)6 out of 
+66 (9%)
+Infection of 
+the kidneys, 
+bladder, or 
+urethra11 out of 
+131 (8%)3 out of 
+129 (2%)1 out of 
+130 
+(1%)5 out of 
+132 
+(4%)0 out 
+of 62 
+(0%)4 out of 65 
+(6%)2 out of 
+66 (3%)
+Raised, itchy 
+rash9 out of 
+131 (7%)9 out of 
+129 (7%)7 out of 
+130 
+(5%)5 out of 
+132 
+(4%)1 out 
+of 62 
+(2%)4 out of 65 
+(6%)4out of 
+66 (6%)
+Vomiting 6 out of 
+131 (5%)7 out of 
+129 (5%)2 out of 
+130 
+(2%)5 out of 
+132 
+(4%)1 out 
+of 62 
+(2%)2 out of 65 
+(3%)3 out of 
+66 (5%)
+Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, is considered to be an important medical event, or causes lasting problems.
+Fourteen participants ( 2%) had serious medical problems up to Week 48.  
+Eleven participants in the group sthat received ritlecitinib for 48 weeks
+experienced a serious medical problem.  
+oIn the 200/50 mggroup (4 participants )experienced a serious medical 
+problem including : 
+inflammation of the appendix (appendicitis)infection of the lung tissue ( empyema )and overactive and toxic 
+response to an infection ( sepsis )
+a type of breast cancer that begins in the milk -producing glands of 
+the breast called invasive lobular breast carcinoma
+miscarriage
+oIn the 200/30 mg group (2 participants) experienced :
+inflammation of the appendix (appen dicitis) 
+chemical poisoning & suicidal behavior
+oIn the 50 mg group (2 participants) experienced :
+breast cancer
+blockage in an artery in the lungs (pulmonary embolism)
+oIn the 30 mg group (1 parti cipant) experienced infection or 
+inflammation of pouches that formed in the intestines ( diverticulitis ).
+oIn the 10 mg group (2 participants) experienced : 
+suicidal behavior
+inflammatory condition of the skin ( eczema )
+Three participants in the groups that received placebo for the first 24 weeks 
+followed by treatment with ritlecitinib from weeks25to 48 experienced a 
+serious medical problem.  These medical problems were all reported during the 
+first 24 weeks when the participants were taking placebo.
+oIn the placebo to 200/50 mg group no serious medical problems were 
+exper ienced by participants
+oIn the placebo to 50 mg group (3 participants) experienced :
+miscarriageA mental condition in which a person experiences blindness, 
+paralysis ,or other nervous system (neurologic) symptoms that 
+cannot be explained by illness or injury ( conversion disorder )
+heavy period
+No participants died during the study. Where can I learn more about this study?
+If you have questions about the results of you ror your child’s study , please speak with 
+the doctor or staff at you roryour child ’sstudy site.
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT03732807
+www.clinicaltrialsregister.eu Use th e study identifier 2018-001714 -14
+www.pfizer.com/research/
+research_clinical_trials/trial_resultsUse the protocol number B7981015
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for study participants.
+Again, if you or your child participated in 
+this study, thank you for volunteering.
+We do research to try to find the 
+best ways to help study participants, and you 
+or your child helped us to do that !

@@ -1,0 +1,46 @@
+Clinical Trial RESULTS
+What were the most common medical problems?
+The most common medical problems were common cold and headache. The table
+below shows all the medical problems in this study.
+Medical Problems in this Study
+Placebo + AZD9977 +
+Placebo AZD9977 Eplerenone Eplerenone
+(Out of 23 (Out of 23 (Out of 23 (Out of 23
+Participants) Participants) Participants) Participants)
+1 participant 1 participant 1 participant 0 participants
+Common cold
+(4.4%) (4.4%) (4.4%) (0%)
+1 participant 0 participants 0 participants 2 participants
+Headache
+(4.4%) (0%) (0%) (8.7%)
+0 participants 1 participant 0 participants 0 participants
+Bloating
+(0%) (4.4%) (0%) (0%)
+0 participants 1 participant 0 participants 0 participants
+Dizziness
+(0%) (4.4%) (0%) (0%)
+0 participants 0 participants 0 participants 1 participant
+Fever
+(0%) (0%) (0%) (4.4%)
+0 participants 1 participant 0 participants 0 participants
+Gas
+(0%) (4.4%) (0%) (0%)
+0 participants 1 participant 0 participants 0 participants
+Red eye
+(0%) (4.4%) (0%) (0%)
+0 participants 0 participants 0 participants 1 participant
+Runny nose
+(0%) (0%) (0%) (4.4%)
+0 participants 0 participants 0 participants 1 participant
+Skin irritation
+(0%) (0%) (0%) (4.4%)
+1 participant 0 participants 0 participants 0 participants
+Sneezing
+(4.4%) (0%) (0%) (0%)
+0 participants 0 participants 0 participants 1 participant
+Splinter
+(0%) (0%) (0%) (4.4%)
+0 participants 0 participants 1 participant 0 participants
+Stomach pain
+(0%) (0%) (4.4%) (0%)
+7

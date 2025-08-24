@@ -1,0 +1,13 @@
+1. Plain Title: 
+"Comparing Ways to Find Early Tooth Decay"
+
+2. Rationale: 
+Tooth decay can harm your oral health if not spotted early. The sooner it’s found, the less harm is done to your teeth. Traditional X-rays are often used to help find tooth decay, but they are not perfect. It’s important to find the best method to spot early decay so dentists can fix teeth with as little harm as possible. This less invasive treatment can also reduce treatment costs for you and healthcare services. This study looks at different imaging methods to spot tooth decay that has not started eating into the tooth yet. 
+
+3. Trial Design:
+The researchers started by searching different databases for previous studies on this topic. They included studies that compared how well a certain imaging method works against a known standard. Some studies used a single test, while others compared two or more tests. The studies had to be about teeth that were not yet badly damaged by decay. They used a method to combine their results and see what worked best. 
+
+4. Results:
+The researchers found 77 studies with lots of different results. Film X-rays, digital X-rays, and a method called 3D imaging were used most often. They figured that these methods can correctly spot tooth decay about 47% of the time, but can tell when there’s no decay about 88% of the time. This means many teeth with decay might not get noticed, but very few healthy teeth will be wrongly said to have decay. The 3D imaging did better at finding decay than the other methods. 
+
+However, tooth decay can still be missed, which means it can get worse if untreated. Starting treatment on teeth that might not have decay isn't harmful, but 3D imaging uses high radiation and its routine use isn't justified. It may be useful if it spots decay while looking for other issues. There’s a need for more research to compare the methods in real-life settings to prevent mistaken results. The findings of this study should be used with caution due to shortcomings in the design and execution of many previous studies.

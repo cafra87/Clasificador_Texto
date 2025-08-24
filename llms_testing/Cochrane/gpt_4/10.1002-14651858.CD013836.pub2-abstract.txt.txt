@@ -1,0 +1,13 @@
+1. Plain Title: 
+Researching Best Treatment for Newborn Infections 
+
+2. Rationale: 
+Infection in newborns, known as neonatal sepsis, is a serious health issue causing sickness and death worldwide. It's the third top reason for newborn deaths, making up 13% of all such tragedies. Despite this, we don't have enough reliable information on how to diagnose and treat it. This often results in newborns being given antibiotics when they might not need them. In fact, in rich countries, studies show that 83% to 94% of newborns given antibiotics for suspected infections turn out not to have an infection according to their blood tests. An earlier research study from 2005 suggested certain antibiotics could help, and we're trying to update this study. We need a clearer understanding of the effects of different antibiotics on this sort of newborn infection.
+
+3. Trial Design: 
+In our research, we scoured several online databases for studies that put different antibiotics head-to-head when treating these infections in newborns. We included studies that worked with babies over 72 hours old who were suspected or confirmed of having the infection, alongside related health issues. We did not consider studies testings treatments for fungal infections. From these searches, we picked out five studies (580 participants) which compared different antibiotics. We studied all these previous trials thoroughly, double-checking their methods and results, and evaluated the evidence they provided.
+
+4. Results:
+The trials we looked at compared five different sets of antibiotics. Sadly, we found no proof showing any specific antibiotic treatment was better than any other at reducing death rates or severe health events, supporting circulation, kidney damage, brain development issues, stomach infection or hearing problems. Unfortunately, none of the studies were big enough to shed enough light on this issue. Also, none of the trials checked for support for breathing issues or harm to hearing.
+
+To sum up, it's not yet clear which antibiotic treatment is the best due to lack of larger, well-designed studies. This is why further studies with a low risk of error are needed to guide doctors in the best way to treat newborns suffering from such infections. Currently, the same form or level of effectiveness can’t be confirmed among all studied antibiotics.

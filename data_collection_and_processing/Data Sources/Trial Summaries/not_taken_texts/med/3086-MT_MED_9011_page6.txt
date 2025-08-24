@@ -1,0 +1,20 @@
+Clinical Study Results
+How many participants had serious adverse reactions?
+None of the participants had serious adverse reactions during the study.
+None of the participants died because of serious adverse reactions during the study.
+How many participants had adverse reactions?
+There were 15.0% of participants who had adverse reactions during the study. This
+was 3 out of 20 participants.
+None of the participants stopped taking the study drug because of adverse
+reactions they had during the study.
+What adverse reactions did the participants have?
+The most common adverse reaction during the study was having protein in
+the urine.
+The table below shows the adverse reactions that happened during the study.
+There was 1 participant who had 2 adverse reactions.
+Adverse reactions
+AB/FF
+(out of 20 participants)
+Having protein in urine 15.0% (3)
+Having blood in urine 5.0% (1)
+6

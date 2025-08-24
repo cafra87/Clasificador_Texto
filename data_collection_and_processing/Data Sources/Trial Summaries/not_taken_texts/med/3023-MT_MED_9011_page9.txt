@@ -1,0 +1,30 @@
+Clinical Study Results
+The table below shows the serious adverse reactions that happened during the study.
+There was 1 patient who experienced 2 serious adverse reactions.
+The table includes the 2 participants who died due to continuous shutting down of the
+nervous system.
+Serious adverse reactions during the study
+Group 1 Group 2 Group 3 Group 4 Group 5 Group 6 Group 7
+(35 mg (70 mg (140 mg (280 mg (560 mg (1,120 mg (900 mg
+Serious AZD4785) AZD4785) AZD4785) AZD4785) AZD4785) AZD4785) AZD4785)
+adverse out of 3 out of 3 out of 3 out of 3 out of 9 out of 5 out of 2
+reaction participants participants participants participants participants participants participants
+Continuous
+shutting
+down of 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 11.1% (1) 0.0% (0) 50.0% (1)
+the nervous
+system
+Chest pain 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 11.1% (1) 0.0% (0) 0.0% (0)
+Infusion-
+related 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 11.1% (1) 20.0% (1) 0.0% (0)
+reaction
+Damage to
+the nerves
+outside of 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 20.0% (1) 0.0% (0)
+the brain and
+spinal cord
+How many participants had adverse reactions?
+• 78.6% of participants had at least 1 adverse reaction. This was 22 out of 28 participants.
+• 7.1% of participants stopped taking study drug because of adverse reactions. This was
+2 out of 28 participants.
+9

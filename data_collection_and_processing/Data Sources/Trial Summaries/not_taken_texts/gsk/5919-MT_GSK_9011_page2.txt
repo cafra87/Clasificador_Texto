@@ -1,0 +1,34 @@
+Overview
+Why was this study conducted?
+This study was done to assess GSK’s rotavirus vaccine without porcine circovirus 1 fragments
+(PCV-1). The study compared different production batches of the PCV-free vaccine, and
+compared the PCV-free vaccine to the currently used vaccine.
+What was studied? Who was in this study?
+Body’s defenses (called antibodies) 786 baby boys and 814 baby girls took part
+against rotavirus in the study. They were 6 to 12 weeks old
+when they started the study.
+Possible side effects
+What kind of study was it? Main results
+Assessing lot-2-lot consistency: the There were no meaningful differences
+researchers compared different between the levels of rotavirus
+production batches (lots) of the PCV- antibodies in babies, regardless of:
+free vaccine.
+which batch of the PCV-free rotavirus
+Controlled: the researchers compared vaccine they received
+the PCV-free vaccine to the currently
+whether they received the PCV-free
+available one.
+vaccine or the currently used vaccine
+Randomized: assignment to vaccination
+The side effects reported in this study
+groups was decided by chance (like
+were known side effects of the currently
+tossing a coin).
+used rotavirus vaccine. The results did
+Observer-blind: neither the babies’ not raise any new safety concerns.
+parents or guardians nor the medical
+staff responsible for evaluation of the
+study results knew which vaccine the
+babies got.
+NCT number: NCT02914184
+EudraCT number: 2016-000598-19

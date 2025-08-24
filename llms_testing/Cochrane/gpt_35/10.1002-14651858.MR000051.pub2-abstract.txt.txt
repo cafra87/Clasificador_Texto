@@ -1,0 +1,22 @@
+Plain Title: Different Approaches to Monitoring Clinical Studies: Advantages and Disadvantages
+
+Rationale: 
+Clinical trials need careful monitoring to ensure participant safety, protect personal information, and maintain data quality. However, there are uncertainties about which monitoring methods are most effective. This study aimed to evaluate different monitoring strategies used in clinical intervention studies to help researchers, support units, and monitors make informed decisions based on current knowledge and evidence. The study also aimed to determine if certain strategies have the potential to treat the condition being studied.
+
+Trial Design: 
+This study looked at different monitoring strategies used in clinical intervention studies. The researchers searched for relevant literature and ongoing studies up to March 2021. They included both randomized and non-randomized studies that evaluated monitoring methods in one or more clinical intervention studies. The study did not have any language or publication date restrictions. The researchers collected data on the monitoring methods, countries involved, study population, study setting, and the number of participants in each group. The primary outcome was the identification of critical and major monitoring findings in prospective intervention studies. The secondary outcomes included individual error domains, participant recruitment and follow-up, and resource use. The researchers used a research method called meta-analysis to summarize the effects of different monitoring strategies.
+
+Results: 
+The study identified eight eligible studies, which were grouped into five comparisons. 
+
+1. Risk-based monitoring versus extensive on-site monitoring: Based on two large studies, the evidence suggests that risk-based monitoring is not inferior to extensive on-site monitoring in terms of identifying major or critical findings. Risk-based monitoring had comparable results to on-site monitoring but was associated with lower resource use and costs.
+
+2. Central monitoring with triggered on-site visits versus regular on-site visits: The evidence for this comparison was limited, but it suggested that central monitoring with triggered on-site visits may be more effective than regular on-site visits.
+
+3. Central statistical monitoring and local monitoring with or without on-site visits: Based on one study, a combination of central statistical monitoring and local monitoring without on-site visits may lead to the misses of a small number of major and critical findings. More research is needed to understand the impact on participant retention and recruitment.
+
+4. Traditional 100% source data verification (SDV) versus targeted or remote SDV: Studies comparing these two approaches found that targeted or remote SDV was effective in verifying source documents and identifying errors. However, it increased the workload on data management.
+
+5. Systematic on-site initiation visit versus on-site initiation visit upon request: Limited evidence suggests that these two approaches have similar effects on participant retention and recruitment.
+
+The conclusions from the investigators indicate that more research is needed to draw reliable conclusions. However, the study suggests that risk-based, targeted, and central monitoring strategies show promise for being efficient. Further research is necessary to develop reliable triggers for on-site visits and identify specific risk indicators. Evaluating approaches with an initial assessment of trial-specific risks should be a focus of future research.

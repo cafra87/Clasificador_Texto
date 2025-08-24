@@ -1,0 +1,12 @@
+Plain Title: Comparison of Different Weaning Approaches for Newborns on Ventilators
+
+Rationale:
+Newborns with respiratory failure who are admitted to the neonatal intensive care unit (NICU) often require mechanical ventilation to support their breathing. However, this can lead to complications in both the short and long term. Weaning, or gradually reducing the ventilator support, is an important step to prevent these complications. We wanted to determine whether using a structured weaning protocol would be more effective than a non-structured approach in reducing the duration of mechanical ventilation and the length of stay in the NICU and hospital. We also wanted to assess the safety and effectiveness of protocolized weaning in different subgroups of newborns, such as those with different gestational ages or birth weights, and different types of weaning protocols.
+
+Trial Design:
+In this study, we analyzed randomized controlled trials that compared structured weaning protocols with non-structured weaning practices in newborn infants. The trials included infants with a gestational age of 24 weeks or more who were enrolled in the study within 28 days after their expected date of birth. We searched various databases and contacted experts in the field to gather all relevant studies.
+
+Results:
+After screening the search results, we found a total of 1752 records. After removing duplicates and irrelevant studies, we did not find any randomized controlled trials that specifically looked at weaning from mechanical ventilation in newborn infants. Although we found two trials that met the inclusion criteria, they only included a portion of newborns and did not provide the necessary data for our analysis. As a result, we were unable to draw any conclusions regarding the superiority or inferiority of protocolized weaning over non-protocolized weaning in terms of the duration of mechanical ventilation in newborn infants.
+
+In summary, based on the available evidence, we cannot determine whether using a structured weaning protocol is better or worse than a non-structured approach for reducing the duration of mechanical ventilation in newborn infants. Further research is needed to investigate this issue and provide more conclusive results.

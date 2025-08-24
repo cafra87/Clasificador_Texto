@@ -1,0 +1,17 @@
+1. Plain Title
+Exploring Methotrexate as a Possible Treatment for Crohn's Disease
+
+2. Rationale
+Crohn's disease is a long-term health problem that causes parts of the digestive system to become sore and inflamed. This can lead to discomfort, like belly pain or diarrhea, and even serious health issues if not treated properly. Steroids have been used to calm these symptoms but often, the disease comes back when the steroids are stopped or some patients still require constant use of steroids. Additionally, steroids can cause other health problems when used for a long time. Methotrexate has been found to be helpful in treating a similar condition, rheumatoid arthritis, so we thought to try it as a possible new treatment for Crohn's Disease. This study is needed because if successful, methotrexate could provide a better way to manage Crohn's disease without the problems attached to steroid use.
+
+3. Trial Design
+In this study, we tested methotrexate on adults with Crohn's disease who were not responding well to their current treatment. Seven studies were considered, involving a total of 495 patients aged 17 and above. Different doses and forms of methotrexate were given, with some patients taking the drug orally and others receiving it via injection. Patients' reactions to methotrexate were followed for a specified period, usually until it was clear whether the drug was helping them or not.
+
+4. Results
+The results of the study showed that a higher dose of methotrexate given by an injection into the muscle helped more patients to control their Crohn's disease compared with a dummy treatment. Out of every 5 patients given this treatment, about 1 benefited from it. However, this form of treatment caused more side effects, leading to some patients stopping the treatment. Common side effects experienced included tummy upset, abdominal pain, diarrhea, skin rash, and headache. 
+
+Lower doses of methotrexate given by mouth didn't show a clear benefit when compared with a dummy treatment or another drug for Crohn’s disease. Likewise, adding methotrexate to other Crohn’s disease medications seemed to offer no clear benefit over those medications used alone. 
+
+However, all these trials were small and we believe more research is needed - particularly on using methotrexate alongside other treatments. This might help us understand better how methotrexate can be used to help people grappling with Crohn's disease.
+
+In conclusion, a higher injected dose of methotrexate showed some benefits for patients and could be an alternative for those who have not seen improvements with other treatments. But further studies are required to prove these findings and to explore other treatment combinations.

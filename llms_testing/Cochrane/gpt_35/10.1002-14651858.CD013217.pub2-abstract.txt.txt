@@ -1,0 +1,13 @@
+Plain Title: The Effectiveness of Non-Pharmacological Treatment for Opioid Withdrawal in Newborns
+
+Rationale:
+Substance use is increasing among women of childbearing age, leading to higher rates of neonatal abstinence syndrome (NAS) and neonatal opioid withdrawal syndrome (NOWS). Non-pharmacological care is commonly used to treat substance withdrawal in newborns, but there is no established definition or standard for these practices. This study aims to evaluate the safety and efficacy of non-pharmacological treatment for infants at risk of opioid withdrawal or exhibiting symptoms.
+
+Trial Design:
+The study included six randomized controlled trials involving 353 infants between 1975 and 2018. Infants were categorized into different interventions, such as modifying environmental stimulation, feeding practices, and support of the mother-infant dyad. We assessed the length of hospitalization and the use of pharmacological treatment as primary outcomes. The certainty of evidence for all outcomes was found to be very low to low.
+
+Results:
+The study found no significant difference in the length of hospitalization when modifying environmental stimulation or supporting the maternal-infant dyad. No studies evaluated the effect of feeding practices on hospitalization. Similarly, there was no evidence of a difference in the use of pharmacological treatment for modifying environmental stimulation, feeding practices, or supporting the maternal-infant dyad. Secondary outcomes, such as neonatal intensive care unit admission and days to regain birth weight, also showed no significant differences among the interventions.
+
+Conclusions:
+Based on the six included studies, we are uncertain whether non-pharmacological care for opioid withdrawal in newborns has a significant impact on important clinical outcomes, such as the length of hospitalization and use of pharmacological treatment. The evidence gathered in this review is of very low to low certainty. Larger and well-designed studies are needed to determine the effectiveness of non-pharmacological care for opioid withdrawal in newborns and to inform specific clinical practices.

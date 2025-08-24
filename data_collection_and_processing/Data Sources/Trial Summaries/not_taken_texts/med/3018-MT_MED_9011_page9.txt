@@ -1,0 +1,23 @@
+What serious adverse reactions happened during this study?
+The tables below show the serious adverse reactions that happened during the
+study.
+Serious adverse reactions related to MEDI5083
+Part 1 Part 2
+(out of 29 participants) (out of 9 participants)
+Sudden kidney injury 3.4% (1) 0.0% (0)
+Fever 3.4% (1) 0.0% (0)
+Injection site reaction 3.4% (1) 0.0% (0)
+Unexplained death 0.0% (0) 11.1% (1)
+Serious adverse reactions related to durvalumab
+There were 11 participants in Part 1 who did not get any durvalumab. So, the results
+below are for 18 out of 29 participants in Part 1 and all 9 participants in Part 2.
+Part 1 Part 2
+(out of 18 participants) (out of 9 participants)
+Sudden kidney injury 5.6% (1) 0.0% (0)
+Diarrhea 5.6% (1) 0.0% (0)
+In Part 1, none of the participants died because of serious adverse reactions.
+In Part 2, 11.1% of the participants died because of serious adverse reactions
+related to MEDI5083. This was 1 out of 9 participants. The serious adverse
+reaction was unexplained death. None of the participants in Part 2 died because
+of serious adverse reactions related to durvalumab.
+9 | Clinical Study Results

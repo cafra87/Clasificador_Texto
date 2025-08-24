@@ -1,0 +1,13 @@
+1. Plain Title: 
+   Checking if a new treatment for an eye condition called keratoconus works 
+
+2. Rationale: 
+   Keratoconus is an eye problem where the cornea, the clear layer at the front of your eye, changes shape. This makes your vision blurry. Around 1 in every 2000 people experience this. It can reduce one's quality of life because sight is a major part of our daily activities. A new treatment method has been introduced that uses UV light and vitamin B2. The aim is to stop the disease from getting worse. This research study aimed to see if this new treatment is really safe and effective when compared to not having any treatment.
+
+3. Trial Design: 
+   This study was carried out to see if this new treatment works. We looked at people with keratoconus who either had the treatment or didn't have any treatment. Created for a year, we wanted to see if the eye condition got worse. The measure we used was "keratometry readings" which tell us how curved the cornea of the eye is and visual sharpness. Only adults took part in this study.
+
+4. Results: 
+   A total of 225 eyes were studied. We graded the quality of our results and found it wasn't very high due to the high risk for errors. The results were not as clear as we would have liked. But, we saw that the new treatment may have caused the cornea to be less steep when examined with an instrument that measures the curvature. People being treated also had slightly better non-corrected visual sharpness after 12 months. But, the treatment did cause some minor and temporary side effects. These included swelling of the cornea, irritation, and recurring cornea scratches. As for those who did not receive treatment, they didn’t have any of these side effects.
+
+In a nutshell, our study suggests that this new treatment might prove useful for keratoconus. However, there is a need for more carefully controlled studies to add weight to these findings. We need to understand better if and how effectively this treatment can help manage keratoconus, considering its minor side effects.

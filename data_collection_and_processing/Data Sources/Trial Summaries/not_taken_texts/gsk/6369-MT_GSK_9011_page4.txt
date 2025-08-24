@@ -1,0 +1,50 @@
+Average Standard Uptake Values*
+10
+9
+E
+U 8
+L
+A
+V 7
+E
+K 6
+A
+T
+P 5
+U
+D 4
+R
+A D 3
+N
+A 2
+T
+S
+1
+0
+Blood Brain Kidney Liver Thigh Muscle
+REGION OF INTEREST
+*Standard Uptake Values are a measure of concentration
+Across four PET-CT scans, the average volume of radiolabelled GSK3128349
+was highest in the liver and lowest in the blood.
+Average Volume of
+Radiolabelled GSK3128349**
+600
+500
+L
+M 400
+N
+I
+E 300
+M
+U
+L O 200
+V
+100
+0
+Blood Brain Kidney Liver Thigh Muscle
+REGION OF INTEREST
+**Volume is the amount
+What were the side effects?
+Study doctors collect information about the safety of study medicines. They
+document the side effects that are reported by volunteers during the study. If
+they believe that the side effect was caused by the intervention, they note

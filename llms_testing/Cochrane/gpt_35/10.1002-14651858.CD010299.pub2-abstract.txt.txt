@@ -1,0 +1,12 @@
+Plain Title: Patient-Reported Measures for Gynaecologic Cancer Follow-up: What Do They Show?
+
+Rationale:
+Cancer is a common cause of death worldwide. Gynaecologic cancer treatment can greatly affect a woman's quality of life. Patient-reported outcome measures (PROMs) are self-reports by patients about their health and well-being. Using PROMs instead of traditional follow-up methods may have psychological benefits for the patient and save healthcare costs.
+
+Trial Design:
+To assess the effectiveness of PROMs as an alternative to routine follow-up after gynaecological cancer treatment, we conducted a search of various medical databases and clinical trial registers. We looked for randomized controlled trials (RCTs) and non-RCTs that compared PROMs or quality of life questionnaires to traditional hospital visits for follow-up. These studies involved women who completed PROMs at intervals and shared the results with their cancer care team.
+
+Results:
+After analyzing thousands of references, we found no studies that met our inclusion criteria. Therefore, we have no data to provide evidence about the use of PROMs for gynaecological cancer follow-up. However, we concluded that well-designed RCTs or non-randomized studies are needed to compare different follow-up strategies and improve our understanding of this topic.
+
+In summary, this study aimed to evaluate the effectiveness of PROMs for gynaecologic cancer follow-up. However, we found no evidence to support or refute their use. Further research is necessary to determine the benefits and drawbacks of using PROMs in this context.

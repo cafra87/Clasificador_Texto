@@ -1,0 +1,425 @@
+1CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+This trial was sponsored by Pfizer as part of an alliance with 
+Merck KGaA, Darmstadt, Germany.
+Medicine(s) Studied: Avelumab/PF -06834635/MSB0010718C
+Protocol Number: B9991016
+Dates of Trial: 28 November 2016 to 23 December 2019 
+Title of this Trial: Study to compare avelumab in combination with standard of 
+care chemoradiotherapy (SoC CRT) versus SoC CRT for 
+definitive treatment in patients with locally advanced 
+squamous cell carcinoma of the head and neck (JAVELIN 
+HEAD AND NECK 100)
+[A randomized double -blind phase 3 study of avelumab in 
+combination with standard of care chemoradiotherapy 
+(cisplatin plus definitive radiation therapy) versus standard of 
+care chemoradiotherapy in the front-line treatment of 
+patients with locally advanced squamous cell carcinoma of 
+the head and neck]
+Date of this Report: 9September 2020 
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+2have any questions about the study or results, please contact the doctor or staff at 
+your study site.
+WHY WAS THIS STUDY DONE?
+Squamous cell carcinoma is a type of cancer that originates in the squamous cells, 
+which are flat cells that line the outer layer of the skin and the mouth, nose, and 
+throat.  Squamou s cell carcinoma is the most common type of cancer found in the 
+head and neck.
+Researchers are looking for treatments for squamous cell carcinoma of the head and 
+neck.  Avelumab is a medicine that may work by targeting a protein called 
+“Programmed Death -Ligand 1” (PD -L1) found on the cancer cell.  PD -L1 is involved 
+in the body’s immune system response to cancer. 
+When this study was started, avelumab was being tested for use in patients with locally 
+advanced squamous cell carcinoma of the head and neck.  Lo cally advanced refers to 
+cancer that has spread to nearby body tissues.  Although avelumab is approved in 
+other types of cancer, it is not approved for use in head and neck cancer. 
+The standard treatment for squamous cell carcinoma of the head and neck in cludes a 
+combination of radiation therapy and a chemotherapy medicine called cisplatin.  
+The main goal of this study was to determine if adding a new drug (avelumab) b efore,
+during ,and after standard treatment would increase the amount of time it takes f or 
+cancer to worsen (progress).  The study also evaluated the overall safety of avelumab 
+in combination with standard radiation and chemotherapy treatment.
+WHAT HAPPENED DURING THE STUDY?
+This study included 2 groups of patients taking either:
+standard rad iation and chemotherapy treatment plusavelumab
+standard radiation and chemotherapy treatment plusplacebo
+A placebo does not have any medicine in it, but it looks just like the study medicine
+and is given the same way .
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+3The study included adult patients who:
+had squamous cell cancer of the head and neck (in the mouth or throat) that 
+was locally advanced
+had cancer that was likely to spread or come back after treatment
+were appropriate to receive standard radiation and chemotherapy treatment 
+with cisplatin
+had not yet received treatment for their cancer  
+had adequate liver, kidney ,and bone marrow function
+The patients and researchers did not know who took avelumab and who took the 
+placebo. This is known as a “ double -blinded” study.  
+Potential pa tients were evaluated by the study doctor to make sure they met the 
+criteria to participate in the study.  This was known as the “screening period”.  Next, 
+eligible patients were randomly assigned to 1 of 2 treatment groups:
+Group A (3 50patients): Standard radiation and chemotherapy treatment plus
+avelumab
+Group B (34 7patients): Standard radiation and chemotherapy treatment plus
+placebo
+Patients were assigned to each group by chance.  Putting people into groups by 
+chance is called rando mization.  This helps make it more likely that the groups will be 
+more even to compare before they start receiving the study treatments . 
+Avelumab and placebo were given by intravenous (IV) infusion (a needle into a vein) .  
+Thestudy included 3 treatment phases:
+7-day Lead -In Phase: Patients received a single dose of avelumab or placebo on 
+day 1
+Chemoradiotherapy Phase: Patients received avelumab or placebo on Days 8, 
+25, or 39 plus standard radiation and chemotherapy treatment
+Maintenance Phase: Patients received avelumab or placebo every 2 weeks for 
+up to 12 months
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+4Maintenance treatment means a treatment that is given to stop cancer from coming 
+back after it has been treated in the initial phase .  
+After the last dose of mainte nance treatment, there was a 90 -day follow -up period that 
+included regular safety assessments .  There was a long -term follow -up period, which 
+lasted until patients left the study or the study ended.
+The figure below shows what happened during this study.
+Patients were expected to be on treatment for about 15 months, but the entire study 
+lasted about 3 years.  The sponsor ran this study at 196 locations in 22 countries in 
+Asia, Australia, Europe ,and North America.  The first patient was enrolled on 
+12December 2016.  575 men (82%) and 122 women (18%) joined the study.  Patients 
+in the study were between the ages of 26 and 86. 
+Patients were expected to complete the lead -in, chemoradiotherapy, maintenance, and 
+follow -up phases of the study. The tables belo w show how many patients completed 
+treatment phases and how many patients did not complete treatment phases either by 
+their choice or because a doctor decided it was best for a patient to stop being in the 
+study .
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+5Lead -In Phase
+Group A : Out of 350 patients:
+345 (99%) completed treatment
+5 patients (1%) stopped taking study treatment early   
+The most common reasons for stopping study treatment were medical 
+problems or patient choice
+Group B : Out of 347 patients:
+343 (99%) completed treatment  
+4 pat ients (1%) stopped taking study treatment early   
+The most common reasons for stopping study treatment were patient 
+death, patient no longer met criteria to participate, or patient choice
+Chemoradiotherapy Phase
+Group A : Out of 345 patients who entered chemoradiother apy phase :
+312 (90%) completed treatment with avelumab 
+33 patients (10%) stopped taking avelumab early
+234patients (6 8%) completed treatment with cisplatin and 
+322patients (93%) completed radiation therapy  
+111 patients (32%) stopped taking cisplatin early and 23 patients (7%) 
+stopped radiation therapy early  
+The most common reasons for stopping study treatment were medical 
+problems, patient death, patient choice ,or a doctor decided it was best 
+for a patien t to stop treatment
+Group B : Out of 340 patients who entered chemoradiotherapy phase :
+313 (92%) completed treatment with placebo  
+27 patients (8%) stopped taking placebo early   
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+6236patients (69%) completed treatment with cisplatin and 
+320patients (94%) completed radiation therapy  
+104 patients (31%) stopped taking cisplatin early and 20 patients (6%) 
+stopped radiation therapy early  
+The most common reasons for stopping study treatment were medical 
+problems, patient death, patient choice ,or a doctor decided it was best 
+for a patient to stop treatment
+Maintenance Phase
+Group A : Out of 291 patients who entered maintenance phase :
+149 patients (51%) stopped maintenance therapy early
+107 patients (37%) completed maintenance therapy
+35patients (12%) were still under observation at the time of the data 
+cutoff  
+The most common reasons for stopping maintenance therapy early 
+were medical problems, worsening cancer, patient death, patient 
+choice ,or a doctor decided it was best for a patient to stop treatment
+Group B : Out of 304 patients who entered maintenance phase :
+119 patients (39%) stopped maintenance therapy early
+137 patients (45%) completed maintenance therapy
+48patients (16%) were still under observation at the time of the data 
+cutoff  
+The most common reasons for stopping maintenance therapy early 
+were medical problems, worsening cancer, patient death, patient 
+choice, or a doctor decided it was best for a pat ient to stop treatment
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+7Follow -Up Phases
+Group A : Out of 231 patients who entered the 90-day follow -up phase:
+172 patients (74%) completed this phase
+24 patients (10%) left this phase early
+35patients (15%) were still under observation at the time of the data 
+cutoff  
+The most common reasons for stopping the follow -up phase early 
+were patient death or patient choice
+Out of 209 patients who entered the long -term follow -up phase:
+43 patients ( 21%) left this phase early
+166 patients (79%) were still under observation at the time of the data 
+cutoff  
+The most common reasons for stopping the long -term follow -up 
+phase early were patient death or patient choice
+Group B : Out of 236 patients who ente red the 90-day follow -up phase:
+179 patients (76%) completed this phase
+18 patients (8%) left this phase early
+39patients (17%) were still under observation at the time of the data 
+cutoff  
+The most common reasons for stopping the follow -up phase early 
+were patient death or patient choice
+Out of 201 patients who entered the long -term follow -up phase: 
+29 patients (14%) left this phase early
+172 patients (86%) were still under observation at the time of the data 
+cutoff  
+The most common reasons for stoppi ng the long -term follow -up 
+phase early were patient death or patient choice
+In March 2020 , the Sponsor began reviewing the information collected.  The Sponsor 
+then created a report of the results.  This is a summary of that report.
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+8WHAT WERE THE RESULTS OF THE STUDY?
+Did adding avelumab b efore, during ,and after standard 
+radiation and chemotherapy treatment increase the amount 
+of time it takes for cancer to worsen (progress)?
+To answer this question, the researchers compared the progression free survival 
+(PFS), which is the time patients survived without their cancer getting worse.   At the 
+time the study results were analyzed :
+118 out of 350 patients in Group A (34%) had their cancer worsen or had died
+106 out of 347 patients in Group B (31%) had their cancer worsen or had died
+There was a 21% higher risk of cancer worsening in patients from Group A 
+(avelumab andstandard treatment), compared to patients from Group B 
+(placebo andstandard treatment)
+The figure below shows the estimated chance of a patien t surviving without cancer 
+getting worse, at month 24 of the study:
+The study data was reviewed by an independent Data Monitoring Committee (DMC).  
+DMCs are used to ensure the safety of study participants and to determine if it is 
+appropriate for a study to continue.  There were no new or unexpected safety issues 
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+9identifie d with avelumab.  However, the DMC concluded that there was little to no 
+chance that the trial would demonstrate any benefit when adding avelumab to the 
+standard radiation and chemotherapy treatment.  The addition of avelumab did not 
+increase the amount of time it takes for cancer to worsen, and consequently the study 
+was stopped early to give patients an opportunity to seek other treatments.
+These are just some of the main findings of the study, and more information may be 
+available at the websites listed at the end of this summary.  
+WHAT MEDICAL PROBLEMS DID PATIENTS 
+HAVE DURING THE STUDY?
+The researchers recorded any medical problems the patients had during the study. 
+Patients could have had medical problems for reasons not related to the study (for 
+exam ple, caused by an underlying disease or by chance).  Medical problems could also 
+have been caused by a study treatment or by another medicine the patient was taking.  
+Sometimes the cause of a medical problem is unknown.  By comparing medical 
+problems acros s many treatment groups in many studies, doctors try to understand 
+what the side effects of an experimental drug might be.
+In this report, all medical problems that occurred during the treatment periods are 
+discussed, regardless of whether or not the study doctors thought that the medical 
+problems were related to taking the study treatment.
+Of the 348 patients in Group A who received st andard treatment andavelumab , 
+345(99%) had at least 1 medical problem.  A total of 87patients in this group (25%) 
+stoppe d taking study treatment because of medical problems.  
+Of the 344 patients in Group B who received standard treatment andplacebo , 
+342(99%) had at least 1 medical problem.  A total of 88 patients in this group (26%) 
+stopped taking study treatment because of medical problems.  
+The most common medical problems are listed below. 
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+10Most Common Medical Problems
+(Occurring in More Than 10% of Patients)
+Medical ProblemGroup A
+Standard Treatment 
+& Avelumab
+(348 Patients Treated)Group B
+Standard Treatment 
+& Placebo
+(344 Patients Treated)
+Nausea 210 (60%) 201 (58%)
+Low number of red 
+blood cells (anemia)205 (59%) 193 (56%)
+Constipation 178 (51%) 154 (45%)
+Weight loss 159 (46%) 171 (50%)
+Dry mouth 151 (43%) 157 (46%)
+Inflammation of 
+mucous membranes146 (42%) 130 (38%)
+Trouble swallowing 146 (42%) 155 (45%)
+Skin injury caused 
+by radiation 
+treatment135 (39%) 136 (40%)
+Low appetite 129 (37%) 124 (36%)
+Feeling tired 116 (33%) 128 (37%)
+Vomiting 114 (33%) 124 (36%)
+Change in sense of 
+taste106 (31%) 119 (35%)
+Low number of a 
+type of white blood 
+cells (neutrophils)105 (30%) 100 (29%)
+Inflammation of the 
+mouth and lips96 (28%) 97 (28%)
+Fever 95 (27%) 46 (13%)
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+11Most Common Medical Problems
+(Occurring in More Than 10% of Patients)
+Medical ProblemGroup A
+Standard Treatment 
+& Avelumab
+(348 Patients Treated)Group B
+Standard Treatment 
+& Placebo
+(344 Patients Treated)
+Low magnesium 
+level92 (26%) 84 (24%)
+Low potassium level 89 (26%) 73 (21%)
+Increased level of 
+creatinine in blood, 
+which may indicate 
+kidney disease88 (25%) 73 (21%)
+Low sodium level 84 (24%) 70 (20%)
+Diarrhea 83 (24%) 67 (20%)
+Throat pain 75 (22%) 91 (27%)
+Cough 73 (21%) 64 (19%)
+White blood cell 
+count decreased 69 (20%) 64 (19%)
+Feeling weak 65 (19%) 61 (18%)
+Low number of 
+white blood cells 
+(leukopenia)64 (18%) 46 (13%)
+Painful swallowing 64 (18%) 48 (14%)
+Neutrophil count 
+decreased 64 (18%) 60 (17%)
+Ringing in ears 59 (17%) 66 (19%)
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+12Most Common Medical Problems
+(Occurring in More Than 10% of Patients)
+Medical ProblemGroup A
+Standard Treatment 
+& Avelumab
+(348 Patients Treated)Group B
+Standard Treatment 
+& Placebo
+(344 Patients Treated)
+Increased level of 
+enzyme in blood that
+may indicate liver 
+damage (alanine 
+aminotransferase)57 (16%) 30 (9%)
+Trouble sleeping 56 (16%) 44 (13%)
+Increased level of 
+enzyme in blood that 
+may indicate liver 
+damage (aspartate 
+aminotransferase)55 (16%) 24 (7%)
+Inflammation and 
+infection of lungs54 (16%) 38 (11%)
+Inflammation of skin 52 (15%) 42 (12%)
+Underactive thyroid 51 (15%) 43 (13%)
+Difficulty speaking 51 (15%) 47 (14%)
+Headache 45 (13%) 40 (12%)
+Rash 43 (12%) 35 (10%)
+Low albumin level (a 
+type of protein in 
+blood)42 (12%) 37 (11%)
+Dizziness 41 (12%) 33 (10%)
+Low number of 
+platelets  46(13%) 41(12%)
+Chills 40 (12%) 7 (2%)
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+13Most Common Medical Problems
+(Occurring in More Than 10% of Patients)
+Medical ProblemGroup A
+Standard Treatment 
+& Avelumab
+(348 Patients Treated)Group B
+Standard Treatment 
+& Placebo
+(344 Patients Treated)
+Mouth pain 40 (12%) 44 (13%)
+Platelet count 
+decreased 40 (12%) 33 (10%)
+Dehydration 39 (11%) 42 (12%)
+Cough that produces 
+mucous39 (11%) 32 (9%)
+Itching 38 (11%) 24 (7%)
+Lymphocyte count 
+decreased35 (10%) 36 (11%)
+Trouble breathing 34 (10%) 37 (11%)
+Increased potassium 
+level34 (10%) 32 (9%)
+Low number of a 
+type of white blood 
+cells (lymphocytes)33 (9%) 27 (8%)
+Increased blood 
+sugar32 (9%) 33 (10%)
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+14WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  
+Of the 348 patients in Group A who received standard treatment andavelumab , 
+184(53%) had serious medical problems.  Of the 344patients in Group B who 
+received standard treatment andplacebo , 175 (51%) had serious medical problems .  
+The most common serious medical problems are listed below.
+Most Common Serious Medical Problems
+(Occurring in More Than 2% of Patients)
+Medical ProblemGroup A
+Standard Treatment 
+& Avelumab
+(348 Patients Treated)Group B
+Standard Treatment 
+& Placebo
+(344 Patients Treated)
+Inflammation and 
+infection of lungs25 (7%) 20 (6%)
+Trouble swallowing 15 (4%) 13 (4%)
+Sudden episode of 
+kidney failure12 (3%) 12 (4%)
+Vomiting 11 (3%) 12 (4%)
+Fever 11 (3%) 3 (1%)
+Low number of a 
+type of white blood 
+cells (neutrophils) 
+with fever9 (3%) 5 (2%)
+Dehydration 9 (3%) 15 (4%)
+Low number of red 
+blood cells (anemia)8 (2%) 12 (4%)
+Nausea 7 (2%) 9 (3%)
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+15Most Common Serious Medical Problems
+(Occurring in More Than 2% of Patients)
+Medical ProblemGroup A
+Standard Treatment 
+& Avelumab
+(348 Patients Treated)Group B
+Standard Treatment 
+& Placebo
+(344 Patients Treated)
+Inflammation of the 
+mouth and lips7 (2%) 4 (1%)
+Increased level of 
+creatinine in blood, 
+which may indicate 
+kidney disease7 (2%) 5 (2%)
+Serious condition 
+caused by immune 
+system reaction to 
+infection (sepsis)7 (2%) 5 (2%)
+Trouble breathing 5 (1%) 7 (2%)
+Low sodium level 4 (1%) 7 (2%)
+73 patients in Group A (21%) died during the study.  58 patients in Group B (17%) 
+died during the study.  Most of these deaths were due to the cancer itself and not the 
+treatment .
+WHERE CAN I LEARN MORE ABOUT THIS 
+STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.  For more details on this study protocol, please visit:
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)
+16www.clinicaltrials.gov Use the study identifier NCT02952586
+www.clinicaltrialsregister.eu Use the study identifier 2016-001456 -21
+Please remember that researchers look at the results of many studies to find out which 
+medicin es can work and are safe for patients.  No further studies with avelumab in 
+patients with squamous cell carcinoma of the head and neck are planned.
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e194de21a3\Approved\Approved On: 10-Sep-2020 10:17 (GMT)

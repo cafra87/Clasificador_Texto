@@ -1,0 +1,32 @@
+Clinical Study Results
+A solid tumor is a type of cancer that can form in different organs in the body.
+Many cancer treatments are designed to directly stop cancer cells from growing.
+The study drug, AZD1775, is being developed to stop an enzyme in the body
+from working. An enzyme is a substance produced by the body that helps control
+bodily functions and activities. AZD1775 is being developed to target an enzyme
+that helps with the growth of both normal and cancer cells. Researchers think
+that stopping this enzyme from working may help stop cancer cells from growing.
+In this study, the researchers wanted to find the “maximum tolerated dose”
+for AZD1775. The maximum tolerated dose is the highest dose of a drug that
+doesn’t cause “dose-limiting toxicities”, also called DLTs, in patients. A DLT is a
+medical problem that is severe enough to stop the researcher from increasing
+a participant’s study drug dose. The researchers also wanted to find out how
+often participants could take the maximum tolerated dose for AZD1775 without
+developing DLTs.
+The main questions the researchers wanted to answer in this study were:
+• What was the maximum tolerated dose of AZD1775 for the participants?
+• What medical problems did the participants have during the study?
+To answer the questions in this study, the researchers asked for the help of men and
+women who had solid tumors and had received cancer treatment. The participants in
+the study were 26 to 91 years old when they joined.
+What kind of study was this?
+This was an “open-label” study. This means the researchers and the participant
+knew what the participant was taking.
+All of the participants took AZD1775 in pill form by mouth. The AZD1775 doses
+were measured in milligrams, also called mg.
+This was also a “dose-escalation” study. This means that each group got only
+1 dose amount of AZD1775 during the study. Different groups of participants
+were given different doses of AZD1775. The researchers carefully studied the
+results from each group before deciding whether or not to give the next higher
+dose to the next group of participants.
+2

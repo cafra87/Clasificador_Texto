@@ -1,0 +1,19 @@
+1. Plain Title: 
+Understanding if Adding Vitamin A Derivative to Regular Treatment Can Help Adults with A Type of Blood Cancer 
+
+2. Rationale: 
+Acute myeloid leukaemia (AML), a type of blood cancer most common in adults, can be tough to treat, especially for older patients with other health problems. High-intensity treatments like stem cell transplants could be risky or not feasible for these individuals. Researchers thought that a form of Vitamin A, known as all-trans retinoic acid (ATRA), might help when added to usual cancer-fighting drugs. This vitamin A form can change and control how cancer cells grow. We wanted to find out if ATRA could be beneficial or cause harm when used with regular treatment compared to regular treatment alone. 
+
+3. Trial Design:  
+To learn more about the potential benefits and risks of ATRA, we gathered data from various clinical trials. These trials had compared the outcomes of AML patients who received only the usual treatment to those who were given AML treatment plus ATRA. We looked into the trial data, study registries, conference proceedings up to July 2018 and also asked experts for any unreleased information. 
+
+We only considered clinical trials that included AML patients of all stages and examined at least 80% adults. These participants could continue with the trials if other markers indicative of the disease were observed. Our research includes findings from eight trials involving nearly 4,000 patients. 
+
+4. Results: 
+From the data, we found that ATRA added to the usual treatment probably did not make a significant difference. Surprisingly, the survival rate was about the same for patients treated with ATRA and the regular treatment versus those who only received the regular treatment. 
+
+Moreover, disease-free survival rates, complete response rates, and the rates of death during the study also show similar results between the two groups. Also, most patients, regardless of whether they received ATRA, experienced common side-effects like infections. We're not entirely sure if ATRA lessens heart-related issues or increases the rates and severity of diarrhoea and nausea/vomiting. 
+
+However, one crucial piece of information we didn't find in any of these trials is whether the quality of life improved or worsened with the addition of ATRA to regular treatment. 
+
+In conclusion, currently, there seems to be no significant difference or benefit from adding ATRA to the treatment of AML patients. The risks of side-effects also appear similar to those with regular chemotherapy. Further research is required to understand the impact of ATRA on the patients' quality of life.

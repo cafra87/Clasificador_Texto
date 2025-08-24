@@ -1,0 +1,20 @@
+Clinical Study Results
+What kind of study was this?
+This was an “open-label” study. This means the researchers and the participants
+knew what the participants were taking.
+In this study, there were 4 treatment periods. Each treatment period was 7 days
+long.
+The participants took 1 dose of olaparib as a tablet on the first day of each
+treatment period. There were 4 different doses of olaparib. It was planned that
+during the study, each participant would take each of the 4 different doses.
+They would take a different dose during each treatment period. The doses were
+measured in milligrams, also known as mg.
+These were:
+• Dose A: 25 mg
+• Dose B: 100 mg
+• Dose C: 150 mg
+• Dose D: 250 mg
+A computer program was used to randomly choose the order that each participant
+took each dose. This helps make sure the groups are chosen fairly. Researchers
+do this so that comparing the results of each dose is as accurate as possible.
+3

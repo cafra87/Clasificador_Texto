@@ -1,0 +1,33 @@
+What were the overall results of the study?
+At the start of the study, each patient was given a diary to write down their bladder
+symptoms, including urinary incontinence. Patients were asked to bring the diary to
+each visit.
+The study doctor noted the number of urinary incontinence episodes for each patient
+over any three consecutive days before visiting the clinic. The number of episodes were
+averaged for each patient at Day 1 (baseline) and at Week 6. This is called the daily
+average number of urinary incontinence episodes.
+The results from all patients within each treatment group were combined and averaged
+to get the baseline and Week 6 values for each treatment group. The difference
+between these two values of the daily average number of urinary incontinence
+episodes is called the change from baseline.
+Results are shown in the table below.
+Change from baseline in daily average number of urinary
+incontinence episodes at Week 6
+Botulinum
+Placebo
+toxin type A
+10 patients
+11 patients
+Change from baseline in daily average
+number of urinary incontinence 0.18 lower 3.20 lower
+episodes at Week 6
+Difference between botulinum toxin
+3.02
+type A group and placebo group
+At Week 6, patients taking botulinum toxin type A had fewer urinary incontinence
+episodes than patients taking placebo.
+More information about the study results is available in the scientific results summary
+(a link to the summary is provided at the end of this document).
+What were the side effects?
+Unwanted medical events (adverse events) can happen to people when they receive a
+medicine. Study doctors record these events. A summary of all these events can be

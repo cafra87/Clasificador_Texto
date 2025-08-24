@@ -1,0 +1,51 @@
+Clinical Study Results
+How did durvalumab act in the blood?
+To answer this question, the researchers measured the level of durvalumab in the
+participants’ blood after the first dose and after multiple doses at “steady state”. Steady
+state means the body is absorbing the drug at the same rate the body is removing it.
+This was measured in micrograms per milliliter of blood, also called μg/mL.
+In general, the researchers found that steady state was reached after about 4 doses in
+a row. The highest level of durvalumab in the blood after the first dose was about the
+same whether it was given alone or with tremelimumab. At steady state, the highest
+level of durvalumab in the blood was higher when it was given alone than when it was
+given with tremelimumab.
+Highest level of durvalumab in the blood
+Durvalumab alone
+Durvalumab and tremelimumab
+800
+)m/gμ(
+700
+612 μg/m
+doolb
+600
+500 eht
+423 μg/m 405 μg/m 422 μg/m ni
+400 bamulavrud
+300
+200
+fo
+100 leveL
+0
+After first dose At steady state After first dose At steady state
+After the first dose, the researchers found that the level of durvalumab in the blood just
+before the next dose was about the same whether it was given alone or with tremelimumab.
+At steady state, the level of durvalumab in the blood just before the next dose was higher
+when it was given alone than when it was given with tremelimumab.
+Level of durvalumab in the blood just before the next dose
+Durvalumab alone
+Durvalumab and tremelimumab
+200
+)m/gμ(
+169 μg/m
+doolb
+150
+eht
+100 87.9 μg/m ni bamulavrud
+60.8 μg/m
+53.1 μg/m
+50
+fo
+leveL
+0
+After first dose At steady state After first dose At steady state
+4

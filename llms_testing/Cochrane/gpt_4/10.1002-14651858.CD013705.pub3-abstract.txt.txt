@@ -1,0 +1,21 @@
+Plain Title: 
+Effectiveness of Quick COVID-19 Tests
+
+Rationale:
+We all know that COVID-19 is a challenging health issue for the world. Rapid testing can help us control its spread by quickly identifying infected people. These quick tests can tell you if you currently have the virus in less time than standard laboratory tests. This study looks into these speedier tests, specifically the 'antigen tests', to see how accurate they are in both people showing COVID-19 symptoms and those without symptoms. 
+
+Trial Design:
+This study was a review of many research reports on the accuracy of these fast antigen tests. It involved studies involving people who were suspected of having COVID-19, knew they had the infection or knew they didn't, or were being tested as a routine measure. The effects of different factors like where the test is done, age, how the tests were done, and other things were considered. The study pulled data from 155 sets of research, with different methods, people, and settings included.
+
+Results:
+Various rapid tests were examined in this study, and most of them were done in Europe. It was found that these tests are more effective in the first week after symptoms show up, when the virus is abundant in the body. If the test is used after the first week of symptoms appearing, or if a person doesn't have any symptoms, the test might not be as accurate. 
+
+For every 10 people who test positive in the first week of showing symptoms, about one could be a false positive (meaning they don't actually have the virus). However, it was also found that for every 5 true cases, approximately 1 may be missed. 
+
+For people without symptoms who got tested because they could have been exposed to the virus, the skip rate could even be higher with maybe half of the actual cases being missed. 
+
+The study also noticed that not all tests have the same accuracy. When used as per the instructions given by the makers, the accuracy varied. Only a few of these fast tests could meet the performance standards set by the World Health Organization (WHO). 
+
+In conclusion, these fast antigen tests could be helpful when a quick decision about someone's care is needed or when standard tests are not feasible. However, they are more fitting to be used as an initial check prior to the standard test, as the sensitivity of these tests varies greatly and a negative result does not certainly mean the individual isn't infected. 
+
+Further research is still required especially on how effective these tests can be in different settings like schools, traveler screening stations, or healthcare institutions to help reduce the spread of the virus.

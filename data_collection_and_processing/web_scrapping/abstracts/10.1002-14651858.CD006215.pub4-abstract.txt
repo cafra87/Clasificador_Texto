@@ -1,0 +1,14 @@
+Background
+A burn wound is a complex and evolving injury, with both local and systemic consequences. Burn treatments include a variety of dressings, as well as newer strategies, such as negative pressure wound therapy (NPWT), which, by means of a suction force that drains excess fluids from the burn, tries to promote the wound healing process and minimise progression of the burn wound. 
+Objectives
+To assess the effectiveness of NPWT for people with partial‐thickness burns.
+Search methods
+We searched the Cochrane Wounds Group Specialised Register (searched 04 September 2014); The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 8). 
+Selection criteria
+All randomised controlled trials (RCTs) and controlled clinical trials (CCTs) that evaluated the safety and effectiveness of NPWT for partial‐thickness burns. 
+Data collection and analysis
+Two review authors used standardised forms, and extracted the data independently. We assessed each trial for risk of bias, and resolved differences by discussion. 
+Main results
+One RCT, that was an interim report, satisfied the inclusion criteria. We undertook a narrative synthesis of results, as the absence of data and poor reporting precluded us from carrying out any formal statistical analysis. The trial was at high risk of bias. 
+Authors' conclusions
+There was not enough evidence available to permit any conclusions to be drawn regarding the use of NPWT for treatment of partial‐thickness burn wounds. 

@@ -1,0 +1,12 @@
+What is ulcerative colitis?
+Ulcerative Colitis (or "UC") is a long-term inflammatory medical condition that affects the large intestines (also known as the colon). Symptoms include cramping, constipation, diarrhea, rectal bleeding, and fatigue (feeling very tired).
+The exact cause of UC is not known. It is thought that UC is caused by an overactive immune system, which is normally responsible for fighting infections. Medicines are available that lower the activity of the immune system, but some people with UC do not get better when taking these medicines. Some people who do get better when taking these medicines still have worse UC over time.
+Researchers are looking for new treatments that can help treat patients with UC.
+What are Ritlecitinib and Brepocitinib?
+Ritlecitinib is a "small molecule" oral medication (swallowed). Small molecules can move easily through the cell membrane to interact with other molecules, such as enzymes, inside a cell.
+Ritlecitinib prevents (inhibits) certain enzymes from working. Enzymes are protein molecules in cells which speed up chemical reactions in the body. The enzymes that ritlecitinib inhibits are known as janus kinase 3 (JAK3) and the tyrosine-protein (TEC) kinase family.
+Both of these enzymes help control inflammatory pathways in the cell. They also cause molecules known as cytokines to be released. Cytokines cause inflammation. This inflammation is usually used by the immune system to fight infections that may be caused by viruses or bacteria. In people with UC, the body's immune system causes inflammation even although they are healthy. Brepocitinib is another small molecule oral medication. It inhibits enzymes known as janus kinase 1 (JAK1) and tyrosine kinase 2 (TYK2). These enzymes control signals to the immune system cells that produce cytokines. By stopping the function of JAK1 and TYK2, brepocitinib may prevent the abnormal immune system response and inflammation in people with UC.
+What was the purpose of this study?
+The main purpose of the study was to find out if ritlecitinib or brepocitinib was more effective at relieving UC symptoms. In addition, both study medications were compared to placebo. A placebo does not have any medicine in it, but it looks just like the study medication.
+Researchers wanted to know:
+Did the participants taking Ritlecitinib or Brepocitinib have more relief from their UC symptoms?

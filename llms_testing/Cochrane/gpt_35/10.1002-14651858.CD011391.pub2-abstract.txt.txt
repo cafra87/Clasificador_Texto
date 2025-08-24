@@ -1,0 +1,12 @@
+Plain Title: Laparoscopic vs Open Surgery for Pancreatic Cancer
+
+Rationale:
+Pancreatic cancer is a serious condition that currently can only be treated through surgical removal of the tumor. This procedure, called distal pancreatectomy, can be done using either laparoscopic or open surgery. Laparoscopic surgery has been shown to have advantages over open surgery in other organs, such as reducing complications and hospital stay. However, there are concerns about the safety of laparoscopic surgery for pancreatic cancer. This study aims to assess the benefits and risks of laparoscopic distal pancreatectomy compared to open surgery for pancreatic ductal adenocarcinoma.
+
+Trial Design:
+The study analyzed existing research studies comparing laparoscopic and open surgery for pancreatic cancer. The participants in these studies had resectable pancreatic cancer. The duration of the study varied across the included research. 
+
+Results:
+No randomized controlled trials were found on this topic. However, the study included 12 non-randomized studies that involved a total of 1576 participants. The quality of evidence from these studies was very low. The results showed that laparoscopic surgery had similar short-term mortality and long-term mortality rates compared to open surgery. The proportion of people experiencing serious adverse events or a clinically significant pancreatic fistula was not significantly different between the two types of surgery. The rate of recurrence at the follow-up period was imprecise. Mean length of hospital stay was shorter by approximately 2.43 days for laparoscopic surgery compared to open surgery.
+
+In conclusion, there is currently no strong evidence from randomized controlled trials comparing laparoscopic and open surgery for pancreatic cancer. Observational studies suggest that laparoscopic surgery may lead to a shorter hospital stay. However, more research is needed to determine if laparoscopic surgery is as effective as open surgery in terms of cancer treatment. Future studies should evaluate patient-oriented outcomes such as mortality rates, quality of life, complications, recovery time, and cancer recurrence.

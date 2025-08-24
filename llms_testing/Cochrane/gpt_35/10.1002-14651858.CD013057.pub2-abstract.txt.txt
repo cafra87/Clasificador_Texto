@@ -1,0 +1,13 @@
+Plain Title: Effects of Aural Cleaning on Chronic Ear Infections
+
+Rationale: 
+Chronic suppurative otitis media (CSOM), also known as chronic otitis media (COM), is a long-lasting ear infection that causes inflammation and discharge from the middle ear. It can lead to symptoms such as ear discharge and hearing loss. Aural cleaning, which involves manual cleaning of the ear, is commonly used to treat CSOM. Different techniques, such as dry mopping and suction clearance, may be used for aural cleaning. However, there is a need to evaluate the effectiveness of these procedures in treating CSOM and improving patient outcomes.
+
+Trial Design:
+This study aimed to assess the effects of aural cleaning procedures on individuals with CSOM. The researchers conducted a search for relevant studies and included randomized controlled trials (RCTs) with adults and children who had chronic ear discharge or CSOM. The interventions included different methods of aural cleaning, which could be performed alone or in combination with other treatments. The researchers analyzed the data using established procedures and assessed the certainty of the evidence for each outcome.
+
+Results:
+Three studies, involving a total of 431 participants, were included in the analysis. These studies compared different aural cleaning methods with no treatment or other aural cleaning methods. The results showed that daily dry mopping was not significantly different from no treatment in resolving ear discharge after four weeks. The certainty of this evidence was very low. No significant differences were observed in other outcomes, such as hearing or adverse events, between the different aural cleaning methods.
+
+Conclusion:
+Based on the available evidence, it is unclear whether aural cleaning is effective in resolving ear discharge in individuals with CSOM. The quality of the evidence was poor, and more research is needed in this area. Similarly, the comparison between daily suction clearance followed by antibiotic ear drops and a single episode of suction clearance followed by self-administration of topical antibiotics showed no clear difference in outcomes. Further research is required to determine the effectiveness of these interventions and their potential risks or benefits.

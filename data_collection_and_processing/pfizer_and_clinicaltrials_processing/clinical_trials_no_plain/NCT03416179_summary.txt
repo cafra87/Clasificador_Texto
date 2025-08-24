@@ -1,0 +1,4 @@
+A Study Evaluating Intensive Chemotherapy With or Without Glasdegib or Azacitidine With or Without Glasdegib In Patients With Previously Untreated Acute Myeloid Leukemia
+Glasdegib is being studied in combination with azacitidine for the treatment of adult patients with previously untreated acute myeloid leukemia (AML) who are not candidates for intensive induction chemotherapy (Non-intensive AML population).
+
+Glasdegib is being studied in combination with cytarabine and daunorubicin for the treatment of adult patients with previously untreated acute myeloid leukemia (Intensive AML population).

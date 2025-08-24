@@ -1,0 +1,9 @@
+Plain Title: Effectiveness and Safety of Treatments for Eczema: A Biomedical Study
+
+Rationale: Eczema is a common and chronic inflammatory skin disorder that seriously affects the quality of life for those with moderate to severe eczema. Existing treatments provide control, but it is unclear which treatment is most beneficial due to limited comparison trials. This study aims to assess and rank the efficacy and safety of different types of systemic immunosuppressive treatments for moderate to severe eczema.
+
+Trial Design: This study analyzed randomized controlled trials of systemic immunosuppressive agents for moderate to severe eczema. The study compared these agents against placebo or other eligible eczema treatments. The study included participants of various ages with moderate to severe eczema. The duration of the study varied from 2 weeks to 60 months.
+
+Results: The study included a total of 74 trials with 8177 participants. The most commonly assessed treatments were ciclosporin, dupilumab, and methotrexate. Dupilumab ranked first for effectiveness compared to other biological treatments, showing significant improvement in eczema symptoms in the short term. The evidence for the efficacy of most other treatments was of low or very low certainty. Safety outcomes did not raise new concerns about the use of dupilumab.
+
+Conclusion: This study found that dupilumab is the most effective biological treatment for eczema. It significantly reduces eczema signs and symptoms in the short term for people with moderate to severe eczema. However, there is still uncertainty regarding the efficacy and safety of conventional treatments like ciclosporin compared to newer biological treatments like dupilumab. More research is needed, especially head-to-head trials, to evaluate the long-term efficacy and safety of available treatments for moderate to severe eczema.

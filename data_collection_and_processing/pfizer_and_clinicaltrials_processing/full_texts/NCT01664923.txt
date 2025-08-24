@@ -1,0 +1,198 @@
+1CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+differ ent than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine (s) Studied: Enzalutamide/PF -04998299 (formerly MDV3100)
+Protocol Number: MDV3100 -09(C34310 14)
+Dates of Trial: 07August 2012to 17January 2018
+Title of this Trial: Safety and Efficacy Study of Enzalutamide Versus 
+Bicalutamide in Men With Prostate Cancer (STRIVE)
+[STRIVE:  A Multicenter Phase 2, Randomized, 
+Double -Blind, Efficacy and Safety Study of Enzalutamide vs. 
+Bicalutamide in Men W ith Prostate Cancer Who Have Failed 
+Primary Androgen Deprivation Therapy ]
+Date of this Report: 7May2020
+–Thank You –
+Pfizer, t he Sponsor ,would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated. If you 
+have any questions about the study or results ,please contact the doctor or staff at 
+your study site.
+090177e1936afe1a\Approved\Approved On: 27-May-2020 06:01 (GMT)
+2WHY WAS THIS STUDY DONE?
+Prostate cancer is the name for ca ncer that starts in the prostate, which is a small, 
+walnut -sized gland that lies at the base of the bladder in men and is part of the male 
+reproductive system.
+Prostate cancer is a common cancer in men , and it is often a slow -growing cancer 
+with few symptoms.
+Enzalutamide is a prescription medicine that is approved to treat men with prostate 
+cancer.   Enzalutamide work sby interfering with the connections between androgens 
+(a type of hormone that plays a role in male traits and reproductivity ) and androgen 
+receptors (a protein in the body that attaches to androgens).  This may help to slow 
+the growth of prostate cancer.
+The main goal of this study was to learn more about the use of enzalutamide in 
+patients with prosta te cancer that did not sufficiently improve after r eceiving 
+treatment to block androgens. Researchers wanted to answer th is research question:
+How long did patients survive without prostate cancer getting worse after 
+receiving enzalutamide ,compared to bicalutamide ?
+Bicalutamide is a medicine approved to treat men with prostate cancer.   
+WHAT HAPPENED DURING THE STUDY?
+This study compared 2 groups of patients to find out how long patients would survive
+without prostate cancer getting worse after receiving enzalutamid e,compared to 
+bicalutamide .  The study included patients who had prostate cancer that did not 
+sufficiently improve after receiving treatment to block androgens.  These patients had 
+either mild prostate cancer symptoms or no prostate cancer symptoms when the study 
+began.
+Patients in this study were assigned to receive either enzalutamide or bicalutamide .  
+The patients and researchers did not know who took enzalutamide and who took 
+bicalutamide .  This is known as a “blinded” study.  Patients were assigned to each 
+treatment group by chance alone.  This is known as a “randomized” study.  Putting 
+090177e1936afe1a\Approved\Approved On: 27-May-2020 06:01 (GMT)
+3people into groups by chance helps make the groups more similar so they can be 
+compared. 
+First, patients were checked by a study doctor to make sure they met the req uirements 
+to join the study.  This was called the screening period.
+During the treatment period, patients received the following treatments:
+Group 1: 197patients received enzalutamide at a dose of 160 milligrams (mg), 
+taken by mouth each day
+Group 2: 198patients received bicalutamide at a dose of 50 mg , taken by 
+mouth each day
+Patients in both groups also received placebo pills. A placebo does not have any 
+active medicine in it, but looks just like the medicine.  The placebo pills were given so 
+that both treatments would look the same, and the study would remain blinded.
+During the treatment period, p atients came to study visits at week 1, week 5, and 
+week 13, then every 12 weeks thereafter.   At the study visits, imaging tests were done 
+and patients were checked by study doctors to determine if p rostate cancer was 
+getting worse .  Patients were also asked about any medical problems they were having.
+After researchers reviewed results from the treatment period ,patients had the option 
+to enter the “open -label extension” part of the study.   During this part of the study, 
+all patients received enzalutamide and came to study visits at week 1, week 5, week 17, 
+and then every 16 weeks thereafter .  “Open -label” means that the patients and 
+researchers knew which medicine the patients were taking.   Patients came to a 
+follow -up visit 30 days after their last dose of study treatment .  
+The figure on the following page shows what happened during this study.
+090177e1936afe1a\Approved\Approved On: 27-May-2020 06:01 (GMT)
+4The amount of time that patients were in the study varied , but the entire study took
+more than 5years to complete , including both the main part of the study and the 
+open -label extension part of the study .  The sponsor ran this study at 62locations in 
+inthe United States .It began 07 August 2012 and ended 17 January 2018 .  396men 
+joined the study ,and 395 men received study treatment .  All patients were between 
+the ages of 46and 9 2. 
+Patients were to continue receiving study treatment until it was confirmed that their 
+prostate cancer had gotten wors e.Of the 396patients who started the study,
+145patients ( 37%) were still receiving study treatment when the main part of the 
+090177e1936afe1a\Approved\Approved On: 27-May-2020 06:01 (GMT)
+5study ended in February 2015 .  251patients ( 63%) stopped taking study treatment by 
+their choice , because a doctor decided it w as best for a patient to stop the study , 
+because they had a medical problem, because prostate cancer got worse ,or because 
+they passed away .  A total of 93patients from the enzalutamide group and 37patients 
+from the bicalutamide group entered the open -label extension part of the study and 
+received enzalutamide .
+When the study ended in January 2018, the Sponsor began reviewing the infor mation 
+collected.  The Sponsor then cr eated a report of the results. This is a summary of that 
+report.
+WHAT WERE THE RESULTS OF THE STUDY?
+How  long did patients survive without prostate cancer 
+getting worse after receiving enzalutamide ,compared to 
+bicalutamide ?
+To answer this question, the researchers looked at data gathered from the beginning 
+of the study until the main part of the study ended in February 2015 .  They looked at 
+the median length of time that patients survived without cancer getting worse after 
+receiving study treatment .  A “median” is the middle number in a group of numbers.
+So, researchers looked at the length of time that each patient survived without cancer 
+getting worse , in order from highest to lowest.  The median is the middle number, 
+and patients would have the same chance of surviving a longer time or a shorter time 
+than this number without cancer getting worse .
+During this time, the median length of time that patients survived without cancer 
+getting worse after receiving enzalutamide was 19.4 months, while the median length 
+of time that patient s survived without cancer getting worse after receiving 
+bicalutamide was5.7months . 
+The researchers have de termined that these results are clinically meaningful, and not 
+likely based o n chance.  The figure on the following page shows th esestudy r esults.
+090177e1936afe1a\Approved\Approved On: 27-May-2020 06:01 (GMT)
+6This does not mean that everyone in this study had these results . Other studies may 
+produce different results , as well .  These are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this 
+summary.  
+WHAT MEDICAL PROBLEMS DID PATIENTS
+HAVE DURING THE STUDY ?
+The researchers recorded any medical problems the participant shad during the study. 
+Participant s could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance). Or, medical problems could 
+also have been caused by a study treatment, or by another medicine the participan t
+was taking. Sometimes the cause of a medical problem is unknown. By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might b e.
+369out of 395(93%) patients who received study treatment h ad at least 1 medical 
+problem .A total of 58patients (15%) stopped taking study treatment because of 
+medical problems.  Out of the 37patient swho took bicalutamide during the main 
+part of the study and switched to enzalutamide during the open -label extension part 
+090177e1936afe1a\Approved\Approved On: 27-May-2020 06:01 (GMT)
+7of the study, 36patients (9 7%) had at least 1 medical problem.  9(24%) of these 
+patients stopped taking study treatment because of medical problems.  Themost 
+common medical problems are listed below. 
+Most Common Medical Problems
+(Reported by More Than 10% of Patients)
+Medical ProblemEnzalutamide
+(197Patients 
+treated)Bicalutamide
+(198Patients 
+treated)Bicalutamide
+During Main 
+Study/ 
+Enzalutamide 
+During Open -
+Label Extensio n
+(37Patients 
+treated)
+Feeling tired 83 (42%) 57 (29%) 10 (27%)
+Joint pain 46 (23%) 29 (15%) 5 (14%)
+Fall 42 (21%) 19 (10%) 8 (22%)
+Back pain 41 (21%) 34 (17%) 3 (8%)
+Nausea 38 (19%) 32 (16%) 9 (24%)
+Hot flush 34 (17%) 20 (10%) 2 (5%)
+Constipation 29 (15%) 33 (17%) 6 (16%)
+Low appetite 28 (14%) 17 (9%) 6 (16%)
+Diarrhea 27 (14%) 29 (15%) 9 (24%)
+Feeling dizzy 27 (14%) 15 (8%) 6 (16%)
+High blood pressure 26 (13%) 10 (5%) 5 (14%)
+Low number of red 
+blood cells24 (12%) 21 (11%) 4 (11%)
+Pain in hands or feet 23 (12%) 10 (5%) 1 (3%)
+Difficulty sleeping 22 (11%) 9 (5%) 2 (5%)
+090177e1936afe1a\Approved\Approved On: 27-May-2020 06:01 (GMT)
+8Urinary tract 
+infection16 (8%) 23 (12%) 7 (19%)
+Heartburn 10 (5%) 2 (1%) 6 (16%)
+Heart failure 7 (4%) 5 (3%) 4 (11%)
+Low blood pressure 6 (3%) 6 (3%) 4 (11%)
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems .  
+136out of 395patients ( 34%) had serious medical problems , including 76patients 
+(39%) in the enzalutamide group and 60patients (30%) in the bicalutamide group .  
+Out of the 37patients who took bicalutamide during the main part of the study and 
+switched to enzalutamide during the open -label extension part of the study, 
+16patients ( 43%) had serious medical problems .
+A total of 18patients (5%) died during the study , including 11 patients (6%) in the 
+enzalut amide group and 6 patients (3%) in the bicalutamide group .  Out of the 
+37patients who took bicalutamide during the main part of the study and switched to 
+enzalutamide during the open -label extension part of the study, 1 patient (3%) died.  
+5of the 18deaths were due to prostate cancer progression , and 13 of these deaths 
+were due to a medical problem .  
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+090177e1936afe1a\Approved\Approved On: 27-May-2020 06:01 (GMT)
+9The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT01664923
+Clinical trials with enzalutamide are ongoing. Please remember that researchers look 
+at the results of many studies to fi nd out which medicines can work and are safe for 
+patients.
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that !
+090177e1936afe1a\Approved\Approved On: 27-May-2020 06:01 (GMT)

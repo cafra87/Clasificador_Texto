@@ -1,0 +1,16 @@
+Plain Title: The Effectiveness of Mindfulness on the Well-being and Academic Performance of Medical Students and Junior Doctors
+
+Rationale:
+Mindfulness interventions are becoming popular for improving mental well-being. However, there is a lack of research specifically focused on medical students and junior doctors. These individuals are at a high risk for poor mental health, so it is important to understand if mindfulness interventions can help prevent these issues.
+
+Trial Design:
+This study looked at the effects of psychological interventions, primarily mindfulness, on the mental well-being and academic performance of medical students and junior doctors. The study included participants from various levels of medical training and lasted for a specific period of time.
+
+Results:
+The study found that mindfulness interventions did not show a significant difference in anxiety or depression immediately after the intervention compared to those who did not undergo the intervention. However, it is important to note that the estimated effect size was unlikely to be clinically important. There were no studies that assessed the long-term effects of mindfulness interventions on these outcomes.
+
+For secondary outcomes, the study found a small but significant difference immediately after the intervention in favor of mindfulness for reducing stress. However, this difference was also unlikely to be clinically important. There was no substantial difference in burnout immediately after the intervention. The study did find a small but significant difference in academic performance immediately after the intervention; however, this difference was also unlikely to be clinically important. Lastly, there was no substantial difference in quality of life immediately after the intervention.
+
+The certainty of evidence for all outcomes was low to very low, and most studies had some concerns about their risk of bias. Overall, there is limited evidence to draw conclusions about the effects of mindfulness interventions on medical students and junior doctors. There is also no evidence on the long-term effects of mindfulness in this population.
+
+In conclusion, the effectiveness of mindfulness interventions for medical students and junior doctors remains uncertain. More research is needed to better understand the impact of mindfulness on this population's mental well-being and academic performance.

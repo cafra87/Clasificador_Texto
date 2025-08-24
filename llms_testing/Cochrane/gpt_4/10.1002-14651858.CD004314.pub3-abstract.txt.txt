@@ -1,0 +1,23 @@
+1. Plain Title: 
+A Study Comparing Two Types of Botulinum Toxin for Treating Neck Muscle Disorder 
+
+2. Rationale:
+Neck muscles can sometimes cause problems and behave in ways that they aren't supposed to. They can be extremely painful and even force your head into uncomfortable positions. This problem is known as cervical dystonia and is unfortunately quite common.
+
+To help people deal with cervical dystonia, doctors often use a special kind of medicine called botulinum toxin. There are two types of this medicine: Type A and Type B. Usually, doctors prefer using Type A first. However, there's no particular reason why Type B might not work as well as Type A or even better.
+
+Because of this, we set out to compare how well these two types of botulinum toxin work in treating cervical dystonia. We wanted to know which one is better in relieving the painful symptoms and whether one might have more side effects than the other. This study is necessary as it could help improve how we currently manage cervical dystonia and give us more effective treatment options. 
+
+3. Trial Design: 
+For our study, we only used trials where people didn’t know if they were receiving type A or B botulinum medicine. We also only included trials where both types were directly compared against each other. Trials involved adults who had problems with neck muscles.
+
+To find these trials, we searched medical databases, reference lists of articles, and conference proceedings up until October 2016. In total, we found  three trials that met our criteria. These trials were done on a total of 270 participants. The treatment involved a single session of injecting either Type A or B botulinum medicine. 
+
+4. Results:
+When we looked at the result of the trials, we did not find any major difference between the two types of botulinum toxin in terms of how well they worked in relieving symptoms. This result was the same even two to four weeks after the injection was given.
+
+We also found no significant difference in the number of people who experienced side effects. However, more people who received Type B toxin complained of having a sore throat or dry mouth compared to those who received Type A.
+
+Based on these findings, we are concluding that a single treatment session with either Type A or B are both safe and equally effective in the treatment of cervical dystonia. However, given that Type B may have more risk of sore throat and dry mouth, doctors might need to consider this when choosing the best treatment option for their patients. Therefore, our study does not support favoring one over the other based on the results of these single-treatment trials. 
+
+And as with any medical treatment, it's always best to consult with your doctor to check which form of treatment might be best for you. Always remember that this study was only based on single treatments, and repeated or long-term effects might differ.

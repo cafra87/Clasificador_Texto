@@ -1,0 +1,17 @@
+1. Plain Title: 
+   The Effects of Various Exercise Types on Fibromyalgia Symptoms
+
+2. Rationale: 
+   Imagine a long-term illness where constant body pain, tiredness, and stiffness is your everyday ordeal. This is the life of someone with fibromyalgia, a condition that affects many people worldwide. One of the widely accepted treatments for fibromyalgia is exercise. There is a range of exercises that can be done - running, weight lifting, stretching, to name a few. Our study wanted to investigate whether a mixture of these exercises can help improve the life quality of people with fibromyalgia compared to those who follow regular treatments or those who do not exercise. 
+
+3. Trial Design: 
+   Our study gathered information from different scientific literature about exercise training for fibromyalgia. We specifically looked at studies which mixed two or more exercise types - like aerobic (running, swimming), resistance (weight lifting), and flexibility (stretching) exercises. We focused on controlled trials where the group of adult fibromyalgia patients, 98% of whom were female and around 51 years old on average, were given these mixed exercise routines. Key things we wanted to know were: Did their life quality improve? Did the pain, stiffness, and fatigue lessen? How many quit the program? Were there any unpleasant side effects? 
+
+4. Results: 
+   Our review covered 29 experiments including over 2,000 patients who did mixed exercises. When compared to the control group (people who did normal activities or no exercise), those who did mixed exercises showed improvements in life quality, function, and reduced pain and fatigue in most cases. However, it was noticed that the stiffness showed only minor improvements. 
+   
+   Let's take pain as an example. Before the study, the average pain score (on a scale of 100) was about 59 for the people who didn't exercise and 53 for those who did mixed exercises. This means that doing various types of exercises made people feel 5 points less pain on average. However, there were a few who felt more fatigue or pain when exercising. But we can't be sure how likely this is as very few people experienced this. Implies, some people got better while some didn't. 
+   
+   What about the long-term effects of these workouts? In fewer studies that focused on this question, the quality of life, tiredness, and physical function improvements usually lasted up to one year. However, stiffness and pain didn't usually show long-term improvements. Also, we noticed that very few studies reported on the side effects of these exercises, making it difficult to determine if they can be harmful. 
+
+In conclusion, mixed exercises may help fibromyalgia patients have a better quality of life, and less fatigue. Pain may slightly decrease, and physical ability may improve but varies with each individual. There isn't enough evidence to make certain claims about the safety and long-term effects of these exercise programs. As always, it's best to consider your medical advice before starting a new exercise routine.

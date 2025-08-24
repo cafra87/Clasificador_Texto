@@ -1,0 +1,13 @@
+Plain Title: Effects of Medications on Type 2 Diabetes Prevention
+
+Rationale: Type 2 diabetes mellitus (T2DM) is becoming a significant global health concern. We wanted to investigate whether specific medications could delay or prevent T2DM and its associated complications in individuals at risk for developing the condition.
+
+Trial Design: We conducted a review of randomized controlled trials (RCTs). These trials compared two types of medications, DPP-4 inhibitors and GLP-1 analogues, with other interventions or no intervention. The trials included people with impaired glucose tolerance, impaired fasting blood glucose, or moderately elevated glycosylated haemoglobin A1c (HbA1c). The duration of the study varied but lasted at least 12 weeks.
+
+Results: We analyzed seven completed RCTs involving a total of 98 participants using DPP-4 inhibitors and 1620 participants using GLP-1 analogues. The trials investigated various outcomes related to T2DM prevention and its associated complications. However, we did not find enough trials to perform a meta-analysis. 
+
+In one trial, the DPP-4 inhibitor vildagliptin did not result in any deaths. The incidence of T2DM in this trial was 3 out of 90 participants in the vildagliptin group compared to 1 out of 89 participants in the placebo group. Only 1 out of 90 participants in the vildagliptin group experienced congestive heart failure. However, no data on non-fatal myocardial infarction, stroke, health-related quality of life, or socioeconomic effects were reported.
+
+For GLP-1 analogues, one trial of exenatide reported no participant deaths. Another trial of liraglutide 3.0 mg showed that 2 out of 1501 participants in the liraglutide group and 2 out of 747 participants in the placebo group died after 160 weeks of treatment. The incidence of T2DM after 160 weeks was 26 out of 1472 participants in the liraglutide group compared to 46 out of 738 participants in the placebo group. The trial also indicated that 70% of participants in the liraglutide group regressed from elevated blood glucose levels to normal levels.
+
+Overall, there is currently no strong evidence that DPP-4 inhibitors or GLP-1 analogues significantly affect the risk of developing T2DM or its complications in individuals at risk for the condition. Most of the trials did not include outcomes that are important to patients.

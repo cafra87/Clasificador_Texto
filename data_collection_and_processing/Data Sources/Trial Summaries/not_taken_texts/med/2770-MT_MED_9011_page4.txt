@@ -1,0 +1,33 @@
+Clinical Trial RESULTS
+What were the study results?
+Below is a summary of the results of some of the questions researchers asked during the study.
+It is important to know that researchers look at the results of many studies to decide which
+doses work the best and are the safest for patients. Further clinical studies with lesinurad and
+allopurinol are currently planned.
+How much lesinurad and allopurinol stayed in participants’ blood when taken
+as a combined tablet compared to separate tablets?
+Overall, researchers found that participants had about the same amount of lesinurad and
+allopurinol in their blood no matter which dose they took. This was also true of the highest
+amount of the study drug measured at any time while participants were in the study.
+Average total amount of study drugs in the blood
+Researchers compared the average amount of lesinurad and allopurinol in the blood of
+participants in Groups 1 and 3. Researchers measured the amount of lesinurad and allopurinol
+that stayed in participants’ blood in microgram hours per milliliter, or μg*hr/mL.
+The figure below shows the results for Doses A, B, E, and F.
+Average Total Amount of Study Drugs in the Blood by Dose
+E F
+A B
+35 32.0 32.7
+30.7 31.1
+30
+25
+Lm/rh*gμ
+20
+15
+10
+A B
+E F
+5 3.5 3.5 2.2 2.0
+0
+Lesinurad Allopurinol
+4

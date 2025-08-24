@@ -1,0 +1,12 @@
+Plain Title: Internal Iliac Artery Revascularization vs. Occlusion for Treating Certain Aneurysms 
+
+Rationale: 
+Endovascular aortic aneurysm repair (EVAR) is a treatment option for certain types of aneurysms. However, anatomical issues can make the procedure more complicated and can lead to a specific complication called type Ib endoleak. To avoid this complication, a common technique is to block the internal iliac artery and extend the treatment to the external iliac arteries. Unfortunately, this technique can cause other problems like buttock claudication, sexual dysfunction, and spinal cord injury. New devices and techniques have been developed to address these issues and improve patient outcomes. These approaches aim to maintain blood flow to the pelvic area and minimize complications.
+
+Trial Design: 
+We searched for studies that compared the effectiveness of revascularization of the internal iliac artery versus occlusion during endovascular repair of specific types of aneurysms. However, we did not find any randomized controlled trials that met our criteria.
+
+Results: 
+Since we did not find any studies that met our criteria, we cannot draw any conclusions about the effects of internal iliac artery revascularization versus occlusion for treating these types of aneurysms. More high-quality studies are needed to determine the best approach for managing these aneurysms when the distal seal zone is inadequate in the common iliac artery.
+
+In summary, more research is needed to understand the best way to treat certain aneurysms using endovascular techniques. The existing studies do not provide enough evidence to support one approach over another. By conducting further research, we hope to improve patient outcomes and reduce complications associated with these procedures.

@@ -1,0 +1,11 @@
+Stem cell transplantation for ischemic stroke
+Review question 
+Is stem cell transplantation safe and more effective than conventional treatments in improving recovery after ischemic stroke? 
+Background 
+Stroke represents a leading cause of death and disability worldwide, with very large healthcare and social costs. Available therapies, targeted to restore patency of the blood vessel, consist of intravenous thrombolysis (the breakdown of blood clots formed in blood vessels, using medication) and endovascular mechanical thrombectomy (surgical removal of clot), administrated within a few hours of stroke onset, to just a few selected patients. Preliminary studies of stem cell transplantation (injecting cells that may save or replace damaged nerve tissue) could be safe and effective in ischemic stroke. However, information in humans is lacking. This review updates the previous Cochrane Review on this topic (Boncoraglio 2010). 
+Study characteristics 
+We included randomized trials that recruited adults with ischemic stroke, at any time after onset. We included any kind of stem cell or method of administration. 
+Key results 
+We identified seven randomized trials, involving 401 participants. Overall, stem cell transplantation was associated with a reduced neurological impairment, but not with a better functional outcome. No safety concerns were raised. 
+Certainty of the evidence 
+The certainty of the evidence ranged from low to very low because of the risk of bias in the included studies, the lack of precision of the results, and different designs. More well‐designed randomized controlled trials are needed. 

@@ -1,0 +1,14 @@
+Background
+The emergence and spread of multiple‐drug‐resistant tuberculosis (MDR‐TB), caused by strains of Mycobacterium tuberculosis resistant to at least isoniazid and rifampicin, is a potential threat to global tuberculosis control. Treatment is prolonged, expensive, more toxic than treatment of susceptible tuberculosis, and often unsuccessful. Experts are still undecided on the management of people exposed to MDR‐TB. 
+Objectives
+To evaluate antituberculous drugs given to people exposed to MDR‐TB in preventing active tuberculosis. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (March 2009), CENTRAL (The Cochrane Library 2009, Issue 1), MEDLINE (1966 to March 2009); EMBASE (1974 to March 2009), LILACS (1982 to March 2009), conference proceedings, and reference lists. We also contacted researchers and organizations. 
+Selection criteria
+Randomized controlled trials comparing antituberculous drug regimens with an alternative antituberculous drug regimen, placebo, or no intervention given to people exposed to MDR‐TB for preventing active tuberculosis. 
+Data collection and analysis
+Two authors independently inspected titles and abstracts identified by the search in order to identify potentially relevant publications for inclusion and analysis. 
+Main results
+No randomized controlled trials met the inclusion criteria.
+Authors' conclusions
+The balance of benefits and harms associated with treatment for latent tuberculosis infection in people exposed to MDR‐TB is far from clear. Antituberculous drugs should only be offered within the context of a well‐designed randomized controlled trial, or when people are given the details of the current evidence on benefits and harms, along with the uncertainties. 

@@ -1,0 +1,19 @@
+1. Plain Title: 
+The Role of Light Therapy in Treating Severe Skin Condition, Atopic Eczema
+
+2. Rationale:
+Atopic eczema, also known as atopic dermatitis, is a type of skin problem that lasts a long time. This condition can cause a lot of troubles like itching, dry skin, and rashes making it hard for people to live comfortably. Sometimes skin creams and soothing gels are not good enough to treat this problem, or people might have a hard time using them. In these cases, a type of treatment called phototherapy, which uses light, may be used to help with atopic eczema. We wanted to see if phototherapy works to treat this condition. Additionally, we wanted to know if phototherapy can be better for those who experience side effects from creams and gels.
+
+3. Trial Design: 
+For our study, we looked at various medical research platforms and found 32 different research trials that tested whether phototherapy helped people suffering from atopic eczema. We included results from people of all ages and types of this skin condition. The trials had an equal number of men and women, with ages ranging from 5 to 83 years, and the average age being 28 years. Most of the participants were being treated in skin care clinics. We tested different types of phototherapy to see which ones were most effective. On average these trials went on for about 13 weeks, with some as short as 10 days and some as long as a year.
+
+4. Results:
+Our study showed that people may find relief from their eczema symptoms using a type of light therapy called NB-UVB after about 12 weeks of treatment. People reported less itching and there seemed to be better healing of skin with this treatment compared to no treatment. This method did not seem to cause people to stop the treatment because of side effects. 
+
+However, the results were not very sure because there were some issues with how data was collected or analyzed in the trials. No trial reported on how therapy affected their life quality.
+
+When comparing NB-UVB with UVA1, another form of light therapy, or PUVA, a treatment that combines medication and light therapy, the results were not very clear. This was mostly because the information was shaky and not very reliable due to issues in the trials’ methods. 
+
+Some of the commonly reported side effects for all types of phototherapies were skin irritation, burns, worsening of eczema, and additional skin infection. 
+
+Our study shows that NB-UVB phototherapy may help to heal skin and reduce discomforts due to atopic eczema without increasing the chance of people stopping treatment due to side effects. However, when comparing NB-UVB with UVA1 or PUVA, the evidence is very weak. More studies are needed to understand the true safety and effectiveness of all different kinds of phototherapy treatments for atopic eczema.

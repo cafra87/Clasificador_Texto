@@ -1,0 +1,17 @@
+Plain Title:
+Evaluating the Benefits and Risks of Knee Arthroscopy Surgery for Degenerative Knee Conditions 
+
+Rationale: 
+Many people suffering from knee osteoarthritis or degenerative meniscal tears often undergo arthroscopic knee surgery, despite guidelines recommending against it. Osteoarthritis is a common condition as we age where the protective cartilage that cushions the joints breaks down. This can lead to swelling, pain, and issues in mobility, affecting the patient's quality of life. Similarly, a degenerative meniscal tear is a common knee injury where the meniscus, a rubbery disk that cushions the knee, wears and tears over time, causing pain and often restricting movement. The study was conducted to understand whether arthroscopic surgery really helps improve these conditions or not. 
+
+Trial Design: 
+Our study consisted of 16 smaller studies involving a total of 2,105 participants whose ages ranged between 46 to 65 years old, with women making up 56% of participants. The study compared the effects of arthroscopic surgery to other methods, such as exercise, injections, non-arthroscopic lavage (rinsing), drug therapy, and placebo surgeries. We measured outcomes like pain, function, treatment success from the patient's perspective, quality of life, and any serious or total adverse events related to the knee, including additional surgeries. 
+
+Results:
+The study found that arthroscopic surgery doesn't really make a big difference in pain or function three months post-surgery compared to placebo surgeries. While it did show slight improvements in some cases, the findings were not impressive enough to guarantee significant clinical benefits for the patients. We also found unclear proof if arthroscopic surgery leads to more adverse events or follow-up surgeries, ascertaining this would need more investigation.
+
+Post-operation pain ratings were only slightly better in the arthroscopic surgery group compared to the placebo group (35.5 points vs 40.1 points out of 100), and the function wasn't really different between both groups. Even in terms of life-quality, there wasn't a very large difference between both groups, making it uncertain if arthroscopic surgery brings major health benefits. 
+
+Out of 100 people, 74 reported finding success with placebo, while 82 reported success post-arthroscopy, but this isn't a big enough difference to strongly prefer arthroscopic surgery.  The likelihood of adverse events and follow-up surgeries was also slightly higher among the arthroscopy groups compared to non-surgical or placebo treatments.
+
+In conclusion, arthroscopic surgery might not bring any significant benefits in pain or function improvement compared to placebo procedures for patients suffering from osteoarthritis or degenerative meniscal tears. Whether it leads to more adverse events or follow-up surgeries remains uncertain, and more research is needed to conclude firmly.

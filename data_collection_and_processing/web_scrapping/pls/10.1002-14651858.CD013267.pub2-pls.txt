@@ -1,0 +1,13 @@
+Endovascular therapy versus medical treatment for symptomatic intracranial artery stenosis 
+Question 
+Is endovascular therapy (ET) plus conventional medical treatment (CMT) beneficial for symptomatic intracranial atherosclerotic stenosis compared to CMT alone? 
+Background 
+Narrowing of blood vessels in the brain (intracranial atherosclerotic stenosis: ICAS) is a common cause of stroke worldwide. The main treatment choices are catheter treatments (endovascular therapy: ET) and conventional medical treatment (CMT). However, it is unclear which treatment is best. We reviewed trials that compared ET and CMT for ICAS that had recently caused stroke symptoms. 
+Search date 
+The search was completed on 30 August 2019.
+Study characteristics 
+We included three randomised controlled trials (studies in which participants are assigned to one of two or more treatment groups using a random method) with a total of 632 participants who had recent symptoms from ICAS. Two trials were carried out across multiple centres and compared ET with metal devices (stents) with CMT alone. One trial took place in a single Chinese centre and compared different types of ET with CMT alone. 
+Key results 
+ET was associated with a higher rate of death or further stroke at both early and late review. There were no major differences in the rates of mini‐stroke and death or dependency in the long term. 
+Quality of the evidence 
+The quality of evidence was low to moderate due to performance bias and early termination of trials. 

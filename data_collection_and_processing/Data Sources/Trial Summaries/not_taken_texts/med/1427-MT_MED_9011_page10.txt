@@ -1,0 +1,25 @@
+Did MEDI4736 alone help the participants with PD-L1 high cancer live
+longer than chemotherapy?
+The researchers wanted to know how MEDI4736 alone affected participants with
+a certain type of urothelial cancer called PD-L1 high. This is because people with
+this type of cancer have a large amount of the PD-L1 protein on their tumor cells.
+There were 209 participants who got MEDI4736 and 207 participants who got
+chemotherapy who had PD-L1 high cancer.
+Overall, the researchers found that in the participants with PD-L1 high cancer,
+the difference between those who got MEDI4736 alone and those who got
+chemotherapy was small. It was too small for the researchers to know if MEDI4736
+alone helped these participants live longer.
+To answer this question, the researchers counted how many months the
+participants lived with their cancer after getting study treatment. They calculated
+the median number of months for each group.
+The median number of months that the participants with PD-L1 high cancer lived
+for after study treatment was:
+> 14.4 months for the participants who got MEDI4736 alone
+> 12.1 months for the participants who got chemotherapy
+Did the participants getting MEDI4736 alone or with tremelimumab
+have less severe symptoms?
+The researchers found that the participants getting MEDI4736 alone had less
+severe symptoms during treatment compared with those getting chemotherapy.
+They found that the participants getting MEDI4736 with tremelimumab did not
+have a change in symptoms compared with those getting chemotherapy.
+10 | Clinical Study Results

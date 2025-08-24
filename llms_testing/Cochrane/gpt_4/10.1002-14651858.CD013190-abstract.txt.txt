@@ -1,0 +1,13 @@
+1. Plain Title: 
+Understanding if a Special Type of Microscopy Can Better Identify Skin Cancer
+
+2. Rationale: 
+Melanoma, a type of skin cancer, is becoming more common. Although it accounts for a smaller portion of all skin cancer cases, it leads to most of skin cancer deaths. Catching this cancer early is vital for a better chance of beating it. So, doctors need to be very watchful for signs of it, but also be mindful not to mislabel harmless skin changes as cancerous. In this tricky balance, a tool called "reflectance confocal microscopy" (or RCM, a special close up look at the skin) could be helpful. The study is carried out to see if RCM can help doctors identify melanoma more accurately than another common tool called dermoscopy (a skin exam using magnification and a bright light). 
+
+3. Trial Design: 
+The study involves a thorough look at many past research studies till August 2016 across multiple databases, including Cochrane Central, MEDLINE, Embase, and seven others. The research papers chosen were those that involved adults suspected of having melanoma or unusual skin changes, investigated with RCM alone or in comparison to dermoscopy. All selected studies had either confirmed the presence of skin abnormalities through lab tests or monitored patients over time. Two authors of the study independently extracted important data and reached out to original authors for any missing information.
+
+4. Results: 
+After an extensive search, 18 relevant research articles were found. These articles covered 19 groups of patients with a total of 2838 skin abnormalities. The study finds that RCM could be better than dermoscopy for identifying suspicious changes on the skin. If we think of an instance with 1000 skin changes suspected to be cancerous, where 30% are actually cancer, RCM could reduce the number of benign (non-cancerous) skin changes mistakenly removed by 280 compared to using dermoscopy only. However, both tests would still miss 30 actual melanomas in the group. For harder-to-diagnose cases, RCM could decrease the unnecessary removal of benign changes by 296, but both tests would miss 20 melanomas. 
+
+These results suggest that using RCM could bring significant improvement in identifying harmful skin changes and avoiding unnecessary removal of harmless ones. However, as the information comparing RCM and dermoscopy directly is limited, more real-world studies are needed to verify this finding.

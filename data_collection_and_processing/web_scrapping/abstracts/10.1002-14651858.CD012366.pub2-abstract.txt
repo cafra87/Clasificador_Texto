@@ -1,0 +1,14 @@
+Background
+Retinoblastoma is the most common primary intraocular malignancy of childhood. Systemic chemotherapy is a common treatment for intraocular retinoblastoma, and laser treatment is used as adjuvant therapy during or immediately after chemotherapy courses in selected cases. 
+Objectives
+To compare the effectiveness and safety of adding focal laser therapy to systemically‐delivered chemotherapy in treating intraocular retinoblastoma. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2016, Issue 9), MEDLINE Ovid (1946 to 20 October 2016), Embase Ovid (1980 to 20 October 2016), LILACS (Latin American and Caribbean Health Sciences Literature Database) (1982 to 20 October 2016), the ISRCTN registry (www.isrctn.com/editAdvancedSearch); searched 20 October 2016, ClinicalTrials.gov (www.clinicaltrials.gov); searched 20 October 2016, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en); searched 20 October 2016. We did not use any date or language restrictions in the electronic searches for trials. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) of systemic chemotherapy with versus without adjuvant laser therapy for postequatorial retinoblastoma. 
+Data collection and analysis
+We planned to use standard methodological procedures expected by Cochrane. We planned to meta‐analyse the primary outcome, that is the proportion of eyes with recurrence of tumours within three years from treatment 
+Main results
+No studies met the inclusion criteria for this review.
+Authors' conclusions
+No evidence from randomised controlled trials was found to support or refute laser therapy in addition to systemic chemotherapy for postequatorial retinoblastoma. 

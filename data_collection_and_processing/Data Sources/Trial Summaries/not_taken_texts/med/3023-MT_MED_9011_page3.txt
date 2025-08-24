@@ -1,0 +1,42 @@
+Clinical Study Results
+In this study, Part 1 was the dose escalation study. The researchers also planned to have
+a second part of the study. In this part, additional participants would be given a dose that
+had been well-tolerated in Part 1 of the study. However, the researchers decided to end
+the study after the first part. So, only the results from the first part are included in this
+summary. There were 7 dose treatment groups in this study. Each participant took part in
+1 of the dose groups.
+The treatment in this study was given in “cycles”. Each cycle lasted for 28 days. If
+a participant’s cancer was worse at the end of a cycle, or if the dose given was not
+tolerated by participants, treatment was stopped. If the treatment was tolerated, the
+participant could start a new cycle. The table below shows the different treatment groups
+in this study.
+Group AZD4785 treatment
+Group 1 Cycle 1
+(3 participants) • 35 mg infusion of AZD4785 on days 1, 3, 5, 8, 15 and 22
+Cycle 2 onwards
+• 35 mg infusion of AZD4785 once a week
+Group 2 Cycle 1
+(3 participants) • 70 mg infusion of AZD4785 on days 1, 3, 8, 15 and 22
+Cycle 2 onwards
+• 70 mg infusion of AZD4785 once a week
+Group 3 Cycle 1
+(3 participants) • 140 mg infusion of AZD4785 on days 1, 3, 8, 15 and 22
+Cycle 2 onwards
+• 140 mg infusion of AZD4785 once a week
+Group 4 Cycle 1
+(3 participants) • 280 mg infusion of AZD4785 on days 1, 3, 8, 15 and 22
+Cycle 2 onwards
+• 280 mg infusion of AZD4785 once a week
+Group 5 Cycle 1
+(9 participants) • 560 mg infusion of AZD4785 on days 1, 3, 8, 15 and 22
+Cycle 2 onwards
+• 560 mg infusion of AZD4785 once a week
+Group 6 Cycle 1
+(5 participants) • 1,120 mg infusion of AZD4785 on days 1, 3, 8, 15 and 22
+Cycle 2 onwards
+• 1,120 mg infusion of AZD4785 once a week
+Group 7 Cycle 1
+(2 participants) • 900 mg infusion of AZD4785 on days 1, 3, 8, 15 and 22
+Cycle 2 onwards
+• 900 mg infusion of AZD4785 once a week
+3

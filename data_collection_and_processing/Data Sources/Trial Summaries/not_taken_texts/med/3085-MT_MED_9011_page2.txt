@@ -1,0 +1,35 @@
+Clinical Study Results
+What kind of study was this?
+This was a “single-blind” study. This means the researchers knew what the participants were
+taking, but the participants did not.
+The participants in this study took either abediterol or a placebo through an inhaler. A placebo
+looks like a drug but does not have any medicine in it. Researchers use a placebo to help make
+sure any of the effects they see in the participants who take the study treatment are actually
+caused by the study treatment.
+A computer program was used to randomly choose the treatment each participant took. This
+helps make sure the groups are chosen fairly. Researchers do this so that comparing the results
+of each treatment is as accurate as possible.
+What happened during the study?
+Before the study started, the doctors:
+• did a physical examination
+• checked the heart health of the participants using an electrocardiogram, also known
+as an ECG
+• took blood and urine samples
+• asked the participants about their medical history, how they were feeling, and what
+medicines they were taking
+During the study, the participants took either the abediterol inhaler treatment or the placebo
+inhaler treatment once a day for 9 days. Throughout the study, the participants also continued
+taking the steroid inhaler treatment they were already taking.
+At the end of the study, the participants visited their study site 1 more time. During this visit,
+the doctors checked the health of the participants again and asked how they were feeling.
+The figure below shows how the study was done.
+Single-blind study
+Screening Treatment Follow-up
+2 visits 9 visits 1 visit
+Doctors checked the health Participants took 1 of 2 Doctors checked the health
+of participants inhaler treatments once of participants
+during each visit
+about 2 weeks after last
+about 2 weeks about 2 weeks
+treatment visit
+2

@@ -1,0 +1,274 @@
+CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: ARRY -382 (PF -07265804)
+Protocol Number: ARRAY -382-201 (C4261001)
+Dates of Trial: 01 September 2016 to 24 October 2019
+Title of this Trial: A Study of ARRY -382 in Combination With Pembrolizumab 
+for the Treatment of Patients With Advanced Solid Tumors
+[A Phase 1b/2 Study of ARRY -382 in Combination with 
+Pembrolizumab, a Programmed Cell Death Receptor 1 
+(PD-1) Antibody, for the Treatment of Patients with 
+Advanced Solid Tumors]
+Date(s) of this Report: 26October 2020
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your part icipation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results, please contact the doctor or staff at 
+your study site.
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+2WHY WAS THIS STUDY DONE?
+Many treat ments for cancer work by trying to help the body’s immune system attack 
+and kill cancer cells.  However, these treatments do not work for all patients, and 
+some only work for a short time before the patient’s cancer gets worse.  Researchers 
+think that comb ining different medications that help the immune system fight cancer 
+in different ways could help patients’ cancer get better.
+ARRY -382 is a study drug that has not been approved by the United States Food and 
+Drug Administration (FDA).  ARRY -382 is taken by mouth once a day.  ARRY -382 is 
+thought to work by helping the immune system slow or stop the growth of cancer 
+cells.  Pembrolizumab is approved by the FDA for the treatment of patients with 
+many different types of cancer, and is given through a needle i nto a vein (IV).  
+Pembrolizumab also works by helping the immune system slow or stop the growth of 
+cancer cells, but in a different way than ARRY -382.  Studies in animals found that 
+combining these 2 types of medicines helped the immune system do a better job of 
+slowing the growth of tumors.
+This study was divided into 2 parts, or “phases”. The main purpose of the first phase 
+of the study (Phase 1) was to determine the best dose of ARRY -382 to use in Phase 2 
+when given with the drug pembrolizumab.  To do this, the researchers asked,
+What dose -limiting toxicities, or “DLTs”, did patients have when taking 
+ARRY -382 with pembrolizumab?
+DLTs are certain medical problems caused by taking ARRY -382 with 
+pembrolizumab which require the patient to lower the dose or stop taking the 
+medicine temporarily or permanently.
+Phase 2 of the study was designed to see whether ARRY -382, when taken together 
+with the drug pembrolizumab, had a beneficial effect on the patients’ cancer 
+(improved symptoms, reduced rate of tumor growt h or decreased the size of tumors 
+in the body). To do this, the researchers asked,
+How many patients had their cancer get better when taking ARRY -382 
+with pembrolizumab?
+The researchers also monitored the patients for any medical problems that they had 
+during the study.
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+3WHAT HAPPENED DURING THE STUDY?
+This study included patients who met the following conditions:
+Aged 18 years or older
+For Phase 1:
+oDiagnosed with one of certain types of cancer, such as of the ovaries, 
+breast, head and neck, bladder, colon, pancreas, stomach, skin, or lung
+oCancer had not responded to standard treatment, was not currently 
+treatable, or the patient had refused standard treatment
+For Phase 2:
+oAdvanced solid tumor cancer that had gotten worse while being treated 
+with certain typ es of anti -cancer therapy (called “PD -1/PD -L1 inhibitor 
+resistant”)
+oAdvanced cancer of the ovaries, abdomen (peritoneum), or fallopian 
+tubes that got worse within 6 months of being treated with ≥ 4 cycles of 
+platinum -based chemotherapy (called “platinum -resistant”)
+oAdvanced pancreatic cancer (PDS) that had been treated at least once 
+before
+Able to walk around, take care of themselves, and do light house work or office 
+work
+Had adequate kidney, liver, bone marrow, and heart function
+Had not been treated bef ore with cancer medications called ‘checkpoint 
+inhibitors’ (such as a PD -1, PD -L1, or CTLA -4 inhibitor)
+This was an “open -label” study, which means that the patients and doctors knew what 
+dose of ARRY -382 and pembrolizumab the patients were receiving. 
+What happened during Phase 1 of the study?
+Phase 1 of this study compared 3 groups of patients that were assigned to 1 of 3 doses 
+of ARRY -382 (either 200 mg, 300 mg, or 400 mg per day) to find the recommended 
+dose of ARRY -382 for the Phase 2 portion of the study.  The figure below shows 
+what happened during Phase 1 of the study.
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+4During Phase 1, each patient took 1 of 3 doses of ARRY -382 in pill form, once daily 
+by mouth for 21 days.  The patients were also treated with pembrolizumab IV once 
+every 3 weeks and monitored for medical problems.
+What happened during Phase 2 of the study?
+Phase 2 of this study compared 3 groups of patients with different types of cancer to 
+see if their cancer got better with ARRY -382 and pembrolizumab treatment.  Based 
+on the Pha se 1 results, all of the patients in Phase 2 were assigned to take 200 mg 
+ARRY -382 once daily.  The figure below shows what happened during Phase 2 of the 
+study.
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+5While many patients were only in the study for a few months, the entire study took 
+just over 3years to complete.  The Sponsor ran this study at 15 locations in the 
+United States of America.  It began on 01 September 2016 and ended 
+24October 2019.  A total of 10 men and 9 women participated in Phase 1 and 
+22men and 35 women participated in Phas e 2.  All patients were between the ages of 
+30 and 8 7. 
+Patients were to be treated until their cancer stopped responding or got worse, until 
+they developed unacceptable medical problems, or until they chose to stop treatment.  
+All patients who started Pha se 1 or Phase 2 of the study stopped taking the study 
+medicines before the study ended.  Most patients left before the study was over 
+because their cancer had gotten worse, by their choice, or because a doctor decided it 
+was best for a patient to stop bein g in the study.
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+6This study was stopped when early results showed that too few patients had their 
+cancer get better when taking ARRY -382 and pembrolizumab.  When the study ended 
+in October 2019, the Sponsor reviewed the information collected.  The Sponsor t hen 
+created a report of the results.  This is a summary of that report.
+WHAT WERE THE RESULTS OF THE STUDY?
+During Phase 1 of the study, what dose -limiting toxicities (DLT) 
+were reported when taking ARRY -382 with pem brolizumab?
+During Phase 1, researchers wanted to find the correct dose of ARRY -382 for treating 
+patients with cancer when taken with pembrolizumab.  To find the correct dose, the 
+researchers needed to know how many patients in each dose group had a DLT during 
+their first 21 -day treatment cycle.
+There were 2 patients who took 400 mg ARRY -382 and 1 patient who took 300 mg 
+ARRY -382 who had DLT .  Of the 3 patients, 1 had increased muscle enzyme levels in 
+their blood (CPK), 1 had increased liver enzymes in their blood (ALT/AST and 
+bilirubin), and 1 h ad acute pancreatitis.  S ome of the other patients who took 200 mg, 
+300 mg, or 400 mg of ARRY -382 once a day had other medical problems that caused 
+them to temporarily stop or lower their dose of ARRY -382.  Using this information, 
+the researchers decided t hat 300 mg once a day was the correct ARRY -382 dose to 
+use with pembrolizumab during Phase 2 of the study.
+During Phase 2 of the study, how many patients had their cancer get 
+better when taking ARRY -382 with pembrolizumab?
+One (1) patient out of 27 (4%) with pancreatic cancer (PDA) had their cancer get 
+better while taking ARRY -382 with pembrolizumab.  None of the patients with 
+“PD-1/PD -L1 inhibitor resistant” cancer or “platinum -resistant” ovarian cancer had 
+their cancer get better.  The percentage of pat ients whose cancer stayed the same was 
+42% for PD -1/PD -L1 refractory cancer, 19% for pancreatic cancer (PDA), and 36% 
+for platinum -resistant ovarian cancer.  These results did not show that one treatment 
+was better than another.  The differences seen could have been due to chance.  
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+7This does not mean that everyone in this study had these results.  Other studies may 
+produce different results, as well.  These are just some of the main findings of the 
+study, and more information may be available at the websit es listed at the end of this 
+summary.  
+WHAT MEDICAL PROBLEMS DID 
+PARTICIPANTS HAVE DURING THE STUDY?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By c omparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be.
+Eighteen (18) out of 19 patients in Phase 1 of this study had at least 1 medical 
+problem.  Two (2)patientsin Phase 1 left the study because of medical problems.  
+Fifty-six (56) of 57 patients in Phase 2 of this study had at least 1 medical problem.  A 
+total of 10 patients in Phase 2 left the study because of medical problems.  The most 
+common medical pro blems in Phase 1 and Phase 2 are listed below and on the next 
+2pages.
+Most Common Medical Problems in Phase 1
+(Reported by 20% or More of Patients) 
+Medical ProblemPembrolizumab 2 mg/kg
+ARRY -382 200 mg
+(6 Patients Treated)ARRY -382 400 mg
+(7 Patients Treated)ARRY -382 300 mg
+(6 Patients Treated)
+Increased liver enzyme in 
+blood (AST)2 (33%) 4 (57%) 6 (100%)
+Increased muscle enzyme 
+in blood (CPK)2 (33%) 3 (43%) 3 (50%)
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+8Increased liver enzyme in 
+blood (ALT)2 (33%) 2 (29%) 3 (50%)
+Tiredness 2 (33%) 3 (43%) 2 (33%)
+Fever 2 (33%) 3 (43%) 2 (33%)
+Increased liver enzyme in 
+blood (alkaline 
+phosphatase)1 (17%) 3 (43%) 2 (33%)
+Increased digestive 
+enzyme in blood (Lipase)1 (17%) 1 (14%) 4 (67%)
+Increased digestive 
+enzyme in blood 
+(Amylase)1 (17%) 1 (14%) 3 (50%)
+Low red blood cells 
+(anemia)1 (17%) 4 (57%) 0
+Nausea 1 (17%) 3 (43%) 1 (17%)
+Itching skin 2 (33%) 0 2 (33%)
+Flat red skin rash 1 (17%) 1 (14%) 2 (33%)
+Vomiting 1 (17%) 1 (14%) 2 (33%)
+Most Common Medical Problems in Phase 2
+(Reported by 15% or More of Patients) 
+Medical ProblemPembrolizumab 2 00mg + ARRY -382 300mg
+PD-1/PD -L1 
+Inhibitor Resistant 
+Cancer
+(19 Patients Treated)Pancreatic Cancer
+(27 Patients 
+Treated)Platinum -Resistant 
+Ovarian Cancer
+(11 Patients Treated)
+Tiredness 10 (53%) 16 (59%) 3 (27%)
+Nausea 9 (47%) 13 (48%) 5 (46%)
+Increased liver enzyme in 
+blood (AST)8 (42%) 9 (33%) 4 (36%)
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+9Vomiting 8 (42%) 9 (33%) 1 (9%)
+Increased muscle enzyme 
+in blood (CPK)9 (47%) 5 (19%) 2 (18%)
+Abdominal pain 4 (21%) 7 (26%) 4 (36%)
+Low red blood cells 
+(anemia)5 (26%) 9 (33%) 1 (9%)
+Low appetite 3 (16%) 9 (33%) 2 (18%)
+Diarrhea 8 (42%) 4 (15%) 2 (18%)
+Increased liver enzyme in 
+blood (ALT)3 (16%) 5 (19%) 4 (36%)
+Constipation 2 (11%) 7 (26%) 3 (27%)
+Dehydration 5 (26%) 5 (19%) 2 (18%)
+Increased liver enzyme in 
+blood (alkaline 
+phosphatase)5(26%) 4 (15%) 0
+Low blood potassium 4 (21%) 4 (15%) 1 (9%)
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  A total of 7 patients in Phase 1 (37%, or 7 out of 
+19patients) had serious medical problems.  A total of 28 patients in Phase 2 (49%, or 
+28 out of 57 patients) had serious medical problems.  Most were not thought to be 
+related to ARRY -382 treatment.  Fifteen (15) patients in Phase 1 and 35 patients in 
+Phase 2 passed away during the study.  Most deaths were due to the patients’ cancer 
+getting worse.  The most common serious medical problems in Phase 1 and Ph ase 2 
+are shown in the table on the next page.  
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+10Serious Medical Problems in Phase 1
+(Reported by More Than 1 Patient) 
+Serious Medical ProblemPembrolizumab 2 mg/kg
+ARRY -382 200 mg
+(6 Patients Treated)ARRY -382 400 mg
+(7 Patients Treated)ARRY -382 300 mg
+(6 Patients Treated)
+Low red blood cells 
+(anemia)1 (17%) 1 (14%) 0
+Lung inflammation 1 (17%) 1 (14%) 0
+Fever 0 1 (14%) 1 (17%)
+Serious Medical Problems in Phase 2
+(Reported by More Than 1 Patient) 
+Serious Medical ProblemPembrolizumab 2 00mg + ARRY -382 300mg
+PD-1/PD -L1 
+Inhibitor Resistant 
+Cancer
+(19 Patients Treated)Pancreatic Cancer
+(27 Patients 
+Treated)Platinum -Resistant 
+Ovarian Cancer
+(11 Patients Treated)
+Dehydration 1 (5%) 3 (11%) 0
+Buildup of fluid around 
+the lungs0 2 (7%) 2 (18%)
+Abdominal pain 0 1 (4%) 1 (9%)
+Low red blood cells 
+(anemia)1 (5%) 1 (4%) 0
+Pneumonia 1 (5%) 0 1 (9%)
+Fever 0 2 (7%) 0
+Flat red skin rash 1 (5%) 1 (4%) 0
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+11WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.  The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT02880371
+www.pfizer.com/research/research_
+clinical_trials/trial_resultsUse the protocol number C4261001
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients.  No further clinical trials with 
+ARRY -382 are planned at this time.
+Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)

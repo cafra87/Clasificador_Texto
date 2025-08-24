@@ -1,0 +1,15 @@
+1. Plain Title:
+Effectiveness Comparison: Long-acting Insulin Vs Intermediate-acting Insulin for Type 1 Diabetes Patients
+
+2. Rationale:
+Type 1 diabetes is a long-lasting condition causing high sugar levels in your blood which can lead to severe health issues like heart disease and kidney failure. To control the blood sugar levels, doctors usually recommend two forms of insulin – intermediate or long-acting types. This study was Majorly Conducted to verify if long-acting insulin works any better or not.
+
+3. Trial Design:
+For this study, we used already existing reports and studies from recognized databases such as MEDLINE, EMBASE, and The Cochrane Library. We selected trials that directly compared long-acting insulin with intermediate-acting insulin for type 1 diabetes patients. Two researchers individually examined the titles of studies. They selected 23 trials that held a total of 6,787 people—one group of 3,872 people used long-acting insulin while 2,915 people in the other group used intermediate-acting insulin.
+
+4. Results:
+Our findings revealed some differences between the two insulin types. The long-acting insulin led to lower blood sugar levels, especially at night. It helped reduce the sudden decrease of glucose in the blood, which can make a person feel shaky, sweaty, or even faint. This benefit was seen more noticeably among people who took insulin at bedtime.
+
+However, we couldn't find any massive difference in the diabetes control overall between the two groups. Though we did notice that people using the intermediate insulin showed a bit more weight gain. But, there were no differences in terms of major side effects or deaths.
+
+So, our takeaway is that long-acting insulin might be a better choice for managing nighttime blood sugar levels for people with type 1 diabetes. Yet, further studies are needed to be completely sure about this.

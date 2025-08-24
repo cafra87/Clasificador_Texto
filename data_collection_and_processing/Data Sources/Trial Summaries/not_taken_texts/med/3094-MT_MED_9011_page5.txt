@@ -1,0 +1,42 @@
+Clinical Study Results
+The researchers found that the average amount of AZD1775 in the blood after taking AZD1775
+until 72 hours later was:
+• 14,260 nM•h when the participants took AZD1775 with food
+• 15,370 nM•h when the participants took AZD1775 without food
+The figure below shows these results.
+Average amount of AZD1775 in the blood after taking
+AZD1775 until 72 hours later
+18,000
+15,370 nM•h
+16,000
+14,260 nM•h
+14,000
+)h•Mn(
+12,000
+10,000
+tnuomA
+8,000
+6,000
+4,000
+2,000
+0
+AZD1775 with food AZD1775 without food
+The researchers found that the highest amount of AZD1775 in the blood after taking AZD1775 was:
+• 989 nM when the participants took AZD1775 with food
+• 1,172 nM when the participants took AZD1775 without food
+The figure below shows these results.
+Highest amount of AZD1775 in the blood after taking AZD1775
+1,400
+1,172 nM
+1,200
+989 nM
+1,000
+)Mn(
+800
+tnuomA
+600
+400
+200
+0
+AZD1775 with food AZD1775 without food
+5

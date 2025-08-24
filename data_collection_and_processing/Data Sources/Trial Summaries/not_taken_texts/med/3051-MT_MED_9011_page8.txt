@@ -1,0 +1,26 @@
+How many participants had adverse events?
+X All participants had adverse events. This was 35 out of 35 participants.
+How many participants had serious adverse events?
+X 40.0% of participants had serious adverse events. This was 14 out of 35
+participants.
+How many participants stopped getting study treatment due to adverse events?
+X 11.4% of participants stopped getting treatment due to adverse events. This
+was 4 out of 35 participants.
+The most common serious adverse event was:
+X Pneumonia
+The most common adverse events were:
+X Pain at the injection site
+X Fever
+X Fatigue
+X Difficulty breathing
+X Coughing
+X High blood pressure
+X Low number of red blood cells
+X Underactive thyroid gland
+X Headache
+X Rash
+X Back pain
+X Weight loss
+X Nausea
+X Constipation
+8 | Clinical Study Results

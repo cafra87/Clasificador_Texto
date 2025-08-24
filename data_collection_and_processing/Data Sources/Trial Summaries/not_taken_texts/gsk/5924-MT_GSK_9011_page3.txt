@@ -1,0 +1,24 @@
+Where was this study done?
+Study sites were in six countries.
+Number of patients from each country who were included
+in the assessment of how well belimumab worked
+Brazil 177
+Columbia 41
+France 4
+South Africa 19
+United Kingdom 11
+United States 196
+0 50 100 150 200 250
+Number of patients
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Men and women who self-identify as black race were included in the study if
+they:
+• Were at least 18 years old.
+• Had SLE with symptoms of at least moderate severity.
+• Tested positive for the presence of autoantibodies at two different time
+points before starting the study treatment.
+• Were on stable SLE treatment for at least one month before starting the
+study treatment.

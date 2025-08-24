@@ -1,0 +1,4 @@
+A Phase 2b Study To Evaluate The Efficacy And Safety Profile Of PF-06651600 And PF-06700841 In Active Non-segmental Vitiligo Subjects
+An AE was any untoward medical occurrence in a study participant administered a product or medical device; the event did not necessarily need to have a causal relationship with the treatment or usage. The abnormal test findings, clinically significant signs and symptoms of anaemia, neutropenia, thrombocytopenia and lymphopenia were reported as AEs. The clinical significance was determined by the investigator.
+
+An AE was considered a TEAE if the event started during the effective duration of treatment. All events that started on or after the first dosing day and time/start time, if collected, but before the last dose plus the lag time were flagged as TEAEs.

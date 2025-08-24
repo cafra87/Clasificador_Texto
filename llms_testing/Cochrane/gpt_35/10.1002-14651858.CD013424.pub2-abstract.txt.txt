@@ -1,0 +1,16 @@
+Plain Title: Effectiveness and Safety of Osteoporosis Medication in Patients with Chronic Kidney Disease
+
+Rationale: 
+Chronic kidney disease (CKD) is a condition that can increase the risk of osteoporosis, a condition that weakens the bones. People with CKD are more likely to have osteoporosis compared to those without CKD. While there are drugs that can effectively treat osteoporosis in the general population, we are unsure if they are safe and effective for people with CKD. This is because CKD can affect how the body handles minerals and bone health.
+
+Trial Design: 
+This study aimed to assess the effectiveness and safety of medications for osteoporosis in patients with CKD stages 3-5, including those who need dialysis. The study design involved randomized controlled trials where patients were assigned to different treatment groups. The study included patients with CKD stages 3-5D and lasted for a certain period of time. 
+
+Results: 
+The study included seven trials with a total of 9,164 participants who had osteoporosis and CKD stages 3-5D. All participants were postmenopausal women. The trials evaluated five different medications for osteoporosis: abaloparatide, alendronate, denosumab, raloxifene, and teriparatide. However, all studies had a high risk of bias, meaning that the results should be interpreted with caution.
+
+Among patients with CKD stages 3-4, the use of anti-osteoporotic drugs may reduce the risk of vertebral fractures, but the certainty of this evidence is low. However, these medications probably make little to no difference in the risk of other types of fractures or adverse events. The results regarding the effect on bone mineral density (BMD) at specific sites were unclear due to limitations in the data reported.
+
+Among patients with severe CKD stages 5 or 5D, the evidence on the effectiveness of anti-osteoporotic drugs is very limited. It is uncertain whether these drugs reduce the risk of fractures, improve BMD at specific sites, or decrease the risk of death. More research is needed, particularly larger studies that include different patient populations and stages of CKD, to better understand the effects of these medications.
+
+In conclusion, among patients with CKD stages 3-4, anti-osteoporotic drugs may help reduce the risk of vertebral fractures, but their impact on other types of fractures and adverse events is uncertain. Among patients with severe CKD stages 5 and 5D, the evidence is very limited and more research is needed to determine the effects of these medications on fractures, BMD, and survival. Larger studies including different patient groups and stages of CKD are necessary to fully evaluate each medication's effectiveness and safety.

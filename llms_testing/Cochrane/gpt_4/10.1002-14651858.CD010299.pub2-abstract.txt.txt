@@ -1,0 +1,13 @@
+1. Plain Title: 
+Understanding the Use of Personal Health Surveys for Monitoring After Cancer Treatment 
+
+2. Rationale: 
+Cancer is a common illness around the globe, and the treatments can strongly affect a woman's life, particularly when it comes to cancers of the female reproductive system. After the treatment, keeping an eye on the patient's health is crucial to detect potential returns of the cancer. Normally, we use hospital visits to do this. But, it's thought that using personal health surveys (also known as PROMs) may be a good way to track the wellbeing of the patient. This strategy is not only useful in running checks on health and comfort after the treatment but could also help save money for health services. 
+
+3. Trial Design: 
+The goal of this study was to check how useful these personal health surveys are when compared to the traditional method of regular hospital visits. We tried to find studies that had compared these two methods in women who had treatments for cancers in the female reproductive system. Specifically, we picked out studies where women filled out surveys about their health at different times and shared these results with their healthcare team during follow-ups. But despite our efforts to search through all sorts of data sources from medical registers to documents from scientific meetings, we failed to uncover any suitable studies.
+
+4. Results: 
+Unfortunately, out of over two thousand references we found, none of them were the right fit for our analysis. In the end, we couldn't gather any data to make a well-informed judgment about whether these personal health surveys are a good alternative to traditional hospital visits after treatment for reproductive system cancers in women. 
+
+In conclusion, we need more well-planned studies. Best would be studies involving many hospitals or even multiple countries. These studies should look at different follow-up strategies to help us learn more. In particular, they should use data analysis tools to account for differences in patient health at the start of the study. Only then can we better understand the role of personal health surveys in tracking the health of women after cancer treatment.

@@ -1,0 +1,15 @@
+```Osteoarthritis is a common joint condition that affects millions of people around the 
+world. Osteoarthritis happens when the "cartilage" in the joint wears down through 
+overuse, injury or patient age. Cartilage is the rubbery material that acts as padding, or 
+a cushion, between the bones in the joint and stops the bones from rubbing together. 
+When the cartilage wears down, the joint can become stiff and painful. Osteoarthritis 
+often affects the knees and hips but can be seen in other joints. 
+Researchers did this study to compare the long-term pain relief and "joint safety" of 
+non-steroidal anti-inflammatory drugs (also known as NSAIDs) with tanezumab in 
+patients with osteoarthritis of the hips or knees. Joint safety is a measure of how well 
+the bone and joint are doing and whether there are any safety problems. Doctors 
+often prescribe NSAIDs like naproxen, celecoxib, or diclofenac to help patients with 
+their osteoarthritis. Tanezumab is an "investigational drug", which means it is not 
+approved for use in the countries where the patients in this study live. It is a new type 
+of drug that is being studied to see if it may be able to help patients with osteoarthritis 
+pain.```

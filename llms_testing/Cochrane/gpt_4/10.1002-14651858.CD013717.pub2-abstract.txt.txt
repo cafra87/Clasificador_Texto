@@ -1,0 +1,27 @@
+Plain Title: 
+Examining How Travel Rules Can Help Slow Down COVID-19 Spread
+
+Rationale: 
+Around the end of 2019, people started getting sick from a new disease called COVID-19, which started in Wuhan, China. Since then, it has spread to people all over the world. In response, many countries put rules in place to keep the disease from spreading even more. These rules included closing borders, limiting travel, checking people for illness at borders, and telling travelers to stay home for a while when they arrived in a new place (quarantine). 
+
+We wanted to find out how well these travel rules worked at slowing down the spread of the disease. Our main question was if these measures helped avoid, detect, or delay new COVID-19 cases.
+
+Trial Design: 
+Our team looked at a lot of research that was already done on this question. The studies included different kinds, like those that tested a specific idea, carefully watched what happened naturally, or used fancy computer models to predict what might happen. These studies were about what happened during COVID-19 and also about similar diseases called SARS and MERS. 
+
+From these, we chose 62 studies that were most relevant. Forty-nine of these used computer models, and thirteen watched and reported what they saw happening in real life in different places around the world. 
+
+Results: 
+From these studies, we found that the different travel measures put in place had various effects.
+
+Reducing or stopping travel across borders showed some promise in preventing new infections and slowing down the spread of the disease in the community. Measures like screening for signs of illness or exposure at borders also seemed to have some impact, with one study suggesting that worldwide screening could potentially reduce the number of new cases from other countries by a significant amount.
+
+Testing at borders was found to be effective at spotting new cases. The percentage of detected cases varied a lot, but most of the time, it was between 58 to 90%.
+
+Quarantine - asking travellers to stay home for a while - also appeared effective, depending on how long it lasted and whether people followed the instructions.
+
+Combining quarantine with screening at borders seemed to improve the results even more. In general, the way these measures were combined, including the amount of time at quarantine and when tests were done, often made a difference.
+
+However, our findings are based mostly on computer models, not real-life cases. This means that real-world results could be very different from what the models predict. Many factors, like how much the disease is already spreading in the community, how much travel is happening, and other health measures also in place, can affect how well these travel control measures work.
+
+So, while our study suggests that travel restrictions can help in managing the disease's spread, more research, using different designs and focusing on both benefits and potential downsides, is needed for a clearer understanding.

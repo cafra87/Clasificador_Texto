@@ -1,0 +1,276 @@
+ 
+ 1 CLINICAL TRIAL RESULTS  
+ 
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+differ ent than the results of other studies that the researchers review.  
+Sponsor:     Pfizer, Inc.  
+Medicine (s) Studied:  Talazoparib  (PF-06944076)  
+Protocol Number:  Study 673 -201 (C3441008; ABRAZO ) 
+Dates of Trial:  13 December  2013  to 31 Oct ober 2018  
+Title of  this Trial:  A Study of Talazoparib in Patients with Breast Cancer That 
+is Advanced or Has Spread  [A Phase 2, 2 -Stage,  
+2-Cohort Study of Talazoparib (BMN 673) Administered to 
+Germline BRCA Mutation Subjects With Locally Advanced 
+and/or Metastatic Breast Cancer ]  
+Date of this Report:  19 December  2019   
+– Thank You – 
+Pfizer, t he Sponsor , would like to thank you for your participation in this clinical trial 
+and provide  you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results , please contact the doctor or staff at 
+your study site.  
+  
+ 
+ 2 WHY WAS THIS STUDY DONE?  
+Breast cancer is one of the most common causes of cancer in women.  In 2012, 
+around 1.7 million women were diagnosed with this disease around the world .  Men 
+can also get breast cancer , though this is  quite rare.   
+Some breast cancers are caused by “mutations” in “DNA” in the BReast CAncer 
+“genes” 1 and 2, which are more commonly known as BRC A1 and BRC A2.  DNA is 
+a material inside the cells of all living things that  controls how cells in the body grow.  
+Genes are parts of DNA that contain the code for a specific feature, like eye color .  
+Mutations are changes in the DNA  that can alter how a cell will behave.    
+If the BRC A1 and BRC A2 genes have mutations  then this may cause breast cancer.  
+These mutations can be inherited from a parent w ith this  mutation or through chance , 
+which is like the roll of a dice.   Special proteins known as “poly (ADP -ribose) 
+polymera se” or “PARP” are found in all cells , and these proteins can help damaged 
+cells fix or repair themselves so that the cell survives.  When PARP helps cancer cells 
+fix or repair themselves, it means that the cancer cell (and the tumor it is part of) can continue to grow and spread.   
+Talazoparib is a “PARP  inhibitor ,” which means it is a drug that can help stop the 
+normal activity of PARP.  At the time of this study, talazoparib was an “investigational drug”.  An investigational drug means that the treatment has not been 
+approved by the US Food and Drug Administration (FDA) , the European Medicines 
+Agency (EMA), or other regulatory agencies.  This study was carried out to see if talazoparib c ould help reduce tumor size and slow growth in people  with advanced 
+breast cancer who have inherited mutations in the BRCA 1 or BRCA 2 genes  from a 
+parent.   
+On 16  October 2018, talazoparib received approval from the FDA for use in some 
+people with breast cancer.  While this study was taking place, the sponsor decided it 
+was b etter to recruit patients into a Phase 3 study that compared talazoparib with 
+usual treatment for breast cancer rather than enroll patients into this study.  This 
+study was stopped early on 31  October 2018 , and the sponsor transferred patients 
+who were sti ll being treated with talazoparib into another study.   
+   
+ 3 WHAT HAPPENED DURING THE STUDY?  
+All patients in this study received talazoparib .  The researchers wanted to find out if a 
+patient’s previous breast cancer treatment could change the way talazoparib was able 
+to treat the tumor.  Some patients with cancer are given chemotherapy with drugs 
+containing platinum while others are given chemotherapy with drugs that do not 
+contain platinum.  This study included 2 different groups of patients previously 
+treate d for breast cancer as shown in the table below.  The patients in both of these 
+groups ha d breast cancer that wa s advanced and difficult to treat.  
+Description of Treatment Groups  
+Group  Previous Treatment for Breast Cancer  Number of 
+Patients Treateda 
+1 Prior c hemotherapy with drug s containing platinum 
+(platinum -based therapy)  like cisplatin  or carboplatin.   
+Patients initially responded to treatment , and while 
+the cancer came back, this occurred more than 
+8 weeks  after last dose of platinum -therapy  48b 
+2 Prior chemotherapy with 3 or more  courses of 
+treatment with drugs like docetaxel, paclitaxel, 
+doxorubicin, capecitabine, vinorelbine, or eribulin that 
+are not based on a platinum drug .   
+Note:  Use of a platinum -based therapy before or 
+after surgery was allowed providing the cancer did not 
+return within 6  months of the last platinum dose  35 
+a 84 patients originally joined this study, but 1 patient left before receiving treatment and only 
+83 patients were treated with talazoparib  
+b This group originally contained 49 patients as it included the patient who left the study before 
+receiving talazoparib .  
+ 
+The study included patients who : 
+• Were 18  years or older 
+• Had breast cancer that was advanced and not suitable for radiotherapy or surgery 
+or had “metastatic disease”, which is when the cancer has spread to other parts of 
+the body  
+• Inherited the BRCA 1 or BRCA 2 gene mutation    
+ 4  
+ 
+Patients joined the study at 1 of 34 sites in the U nited States (US), United Kingdom  
+(UK) , France, Germany , and Spain.  The study began on 13 December 2013 when the 
+first patient had their first visit.  All patients were aged between 31 years and 75 years,  
+and nearly all were women.  There were 2 men treated in the study, with 1 in each 
+group.  There were originally 84 patients who joined the study, but 1 patient left 
+before receiving treatment with talazoparib. A total of 83 patients were treated  with 
+talazoparib in this study  until their doctor determined their cancer was getting worse, 
+the side effects were too severe, the patient decided they wanted to leave the study, or 
+the study was closed by the Sponsor .  The main reason patients treated with 
+talazoparib left the study was because they passed away (81%, or 67 out of the 
+83 treated  patients) .  
+ 
+ 5 As of 01 September 2016  (the data c utoff date for the full report), 10 patients from 
+the group previously treated with platinum -based treatment  (21%, or 10 out of the 
+48 treated patients) and 16 patients from the group previously treated with 3  or more 
+chemotherapy courses with non- platinum  drugs (46%, or 16 out of the 35  treated 
+patients) were still in the study but were “off -treatment” and not taking  talazoparib.  
+In addition, 5 patients f rom the group previously treated with platinum -based 
+treatment (10%, or 5 out of 48  treated  patients) and 4 patients from the group 
+previously treated with 3  or more chemotherapy courses with non- platinum drugs  
+(11%, or 4 out of 35  treated patients) were “on -treatment” and taking  talazoparib.  
+These on -treatment patients were followed until 31 October 2018 , when the study 
+was closed early by the Sponsor .  At the time the study ended, 2 o ut of these 
+9 patients were continuing to receive talazoparib  treatment .  As these 2  patients were 
+benefitting from talazoparib,  the Sponsor transferred them into another study so they 
+could continue this treatment .   
+Data collected up to 01  September  2017 were reviewed by the Sponsor and used to 
+write a report.  This is a summary of the information included in the report on how  
+talazoparib was able to treat br east cancer.  Data collected up until 31  October  2018 , 
+when the  Sponsor closed the study , were analyzed in a s upplementary safety report.  
+The main findings of the safety report are  summarized in this document.  
+WHAT WERE THE RESULTS OF THE STUDY?  
+Did taking talazoparib help tumors disappear or shrink?   
+Researcher s looked at the “objective response rate,” which is whether tumors 
+disappeared (eg, “complete response”) or shrunk ( eg, “partial response”) after taking  
+talazoparib .  Overall, 23 patients had a tumor that disappear ed or shr unk (28%, or 
+23 out of the 83 treated patients) .  This included patients from the group previously 
+treated with platinum -based treatment  (21% , or 10 out of the 48 treated patients ) and 
+also from the group previously treated w ith 3 or more chemotherap y courses with 
+non-platinum  drugs  (37% , or 13  out of  the 35 treated patients ).   
+  
+ 6  
+Did taking talazoparib help tumors disappear, shrink or stay the 
+same for 24 weeks?  
+Researcher looked at whether tumors disappeared, shrunk or stayed the same ( eg, 
+“stable disease”) for 24 weeks,  as this gives researchers an idea of the clinical benefit 
+of talazoparib .  Overall,  29 patients had clinical benefit  from treatment at 24  weeks 
+(35%, or 29 out of the 83 treated patients ).  This included  patients from the group 
+previously treated with  platinum -based treatment  (27% , or 13 out of the 48 treated 
+patients ) and patients from the group previously treated with  3 or more chemotherap y 
+courses with non- platinum  drugs  (46% , or 16 out of the 35 treated patients) .  
+ 
+How long did patients taking talazoparib continue to respond to this treatment?
+ 
+Researchers measured how long it took for the tumor to come back after it had 
+disappeared and the time it took for the tumor to start to grow again after it had 
+shrunk .  The researchers took the results (in the number of months) and put them in 
+order from the smallest to the largest.  They then looked at the middle number , or the 
+“median ”, to help them answer this question .  Th ere was a median of almost 
+4 mont hs for patients in the group previously treated with platinum -based 
+ 
+ 7 chemotherapy and a median of almost 6 months for patients in the group previously 
+treated with 3 or more chemotherap y courses with non- platinum  drugs .   
+ 
+How long did patients go without their cancer getting any worse 
+after taking talazoparib?  
+Researchers measured how long patients went without their cancer getting any worse 
+after taking talazoparib.  Th ere was a median of 4  months f or patients in the group 
+previously t reated with platinum -based treatment and a median of  6 months for 
+patients in the group previously treated with 3  or more chemotherap y courses with 
+non-platinum drugs .   
+ 
+When researchers looked at the time before patients passed  away , this was a median 
+of 12 months for patients in the group previously treated with platinum -based 
+treatment and a median of  17 months  for patients in the group previously treated with 
+3 or more chemotherapy courses with non- platinum drugs .  This included dat a 
+collected up until 01  September 2016 .  As the sponsor had access to data up to 
+07 April  2017 , they used this to look  again at the time before patients passed away.  
+This date of 07 April 2017 is likely to give a more accurate result.  T his was a median 
+of 13 months for patients in the group previously treated with platinum -based 
+ 
+ 8 treatment and a median of  15 months for patients in the group previously treated with 
+3 or more chemotherapy courses with non- platinum drugs.  
+ 
+Based on these results, the researchers thought talazoparib m ay be 1 of the options  
+available to doctors who are trea ting patients with breast cancer who have the BRCA 1 
+or BRCA 2 mutation.  This includes patients previously treated with platinum -based 
+treatment  as well as patients previously treated with 3 or more chemotherapy courses 
+with non- platinum drugs.  This does not mean that everyone in this study had these 
+results .  Other studies may produce  different results as well .  These are just some of 
+the main f indings of the study, and more information may be available at the websites 
+listed at the end of this summary.   
+WHAT MEDICAL PROBLEMS DID PATIENTS  
+HAVE DURING THE STUDY?  
+The researchers recorded any medical problems the patients  had during the study.  
+Patients  could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment, or by another medicine  the patient was 
+taking.   Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an investigationa l drug might be.  
+  
+ 
+ 9 A total of 81  out of the 83 treated patients in this study had at least 1 “non -serious” 
+medical problem .  A “s erious ” medical problem is a medical problem that is  life 
+threatening, needs hospital care, or cause lasting problems.   Overall,  5 patients left the 
+study because of medical problems (6%, or 5 out of the 83 treated patients).  This 
+included  4 patients from the group previously treated with platinum -based treatment  
+(8%, 4 out of the 48  treated patients) and 1 patient from the group previously treated 
+with 3 or more chemotherapy courses with non- platinum drugs  (3%, 1 out of the 
+35 treated patients) .  The  most common medical problems experienced by patients in 
+this study are listed in the following table , and these were most  often in the digestive 
+system (stomach and intestines), were gen eral like tiredness, or were seen i n blood test  
+result s.  Medical problems were also seen in other areas of the body and affected the 
+heart , eyes, brain , or blood system.  W hile overall more than 1 in 10 patients had some 
+type of problem that  affect ed these areas of the body,  none of the individual medical 
+problems in these areas were seen in more than 1 in 10 patients.   
+Most Common Medical Problems   
+(Reported by a t Least 10% of  Patients  in Either  Group ) 
+Medical Problem  Prior Platinum -based 
+Chemotherapy  
+(48 Patients Treated ) Previously Treated 
+with 3  or More 
+Chemotherap y 
+Course s with 
+Non -platinum  Drugs  
+(35 Patients Treated)  
+Feeling tired  29 (60%) 8 (23%) 
+Low red blood cell count 
+(anemia ) 24 (50%)  19 (54%)  
+Upset stomach or f eeling sick  20 (42%)  15 (43%)  
+Diarrhea  or loose stools  18 (38%)  10 (29%)  
+Low platelets ( or small bits of 
+cells in the  blood)  18 (38%)  9 (26%)  
+Low numbers of neutrophils  
+(a type of white blood cell)  10 (21%)  12 (34%)   
+ 10 Medical Problem  Prior Platinum -based 
+Chemotherapy  
+(48 Patients Treated)  Previously Treated 
+with 3  or More 
+Chemotherapy 
+Courses with 
+Non -platinum Drugs  
+(35 Patients Treated)  
+Headache  9 (19%)  11 (31%)  
+Feeling weak  3 (6%)  10 (29%)  
+Not feeling hungry  12 (25%)  10 (29%)  
+Joint pains  8 (17%)  9 (26%)  
+Being out of breath  11 (23%)  9 (26%)  
+Back pain  12 (25%)  8 (23%)  
+Viral c hest infection  11 (23%)  3 (9%)  
+Hair loss (baldness)  11 (23%)  6 (17%) 
+Vomiting or b eing sick   10 (21 %) 8 (23%)  
+Stomach pain  7 (15%)  7 (20%)  
+Cough  9 (19%)  7 (20%)  
+Constipat ion 9 (19%)  6 (17%)  
+Low numbers of leukocytes (a 
+type of white blood cell)  7 (15%)  6 (17%)  
+Low platelet count   
+(from blood test)  7 (15%)  5 (14%)  
+Low neutrophil count  
+(from blood test)  5 (10%)  5 (14%)  
+Muscle spasms  4 (8%)  5 (14%)  
+  
+ 11 WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?  
+A total of 69 patients ( 83%, or 69 out of the 83 treated patients ) passed away while in 
+this study,  and almost all of these deaths were due to the cancer coming back or  
+getting worse.  Other serious medical problems were seen in 16 patients in the group 
+previously treated with prior platinum -based treatment (33%, or 16 out of the 
+48 treated patients) and 7 patients in the group previously treated with 3  or more 
+chemotherapy courses with non- platinum drugs  (20%, or 7 out of the 35 treated 
+patients) .  These serious medical problems mainly affected the blood (eg, low levels of 
+red blood cells or “platelets” or small bits of cells), the lungs or were because of the cancer.   
+ 
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?  
+If you have questions about the results of yo ur study, please speak with the doctor or 
+staff at your study site.  
+The full scientific report of this study is available online at:  
+www.clinicaltrials.gov  Use the study identifier:  NCT 02034916  
+www.clinicaltrialsregister.eu  Use the EudraCT number:  2013 -003076 -12 
+ 
+Please remember that researchers look at the results of many studies to fi nd out which 
+medicines can work and are safe for patients.  
+Again, thank you  for volunteering.  
+We do research to try to find the  
+best ways to help patients, and you 
+helped us to do that ! 

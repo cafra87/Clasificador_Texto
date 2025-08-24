@@ -1,0 +1,38 @@
+Clinical Study Results
+How long the participants lived after starting the study
+To find out how long the participants lived after starting the study, the researchers used the
+median length of time they lived.
+The researchers found that the participants who got durvalumab alone lived longer after starting
+the study compared to the participants who got SOC treatment. But, the difference between the
+2 groups was too small for the researchers to consider this difference to be statistically
+significant.
+Overall, the researchers found that after starting the study:
+• The participants who got durvalumab alone lived for a median of about 16.3 months.
+• The participants who got SOC treatment lived for a median of about 12.9 months.
+The figure below shows these results.
+Median amount of time the participants
+lived after starting the study
+36
+)shtnom(
+30
+24
+emit
+16.3 months
+18
+12.9 months
+fo
+12
+tnuomA
+6
+0
+Group 1 Group 3
+(durvalumab alone) (SOC treatment)
+Did the participants who got durvalumab and tremelimumab together live longer
+compared to the participants who got SOC treatment?
+No. Overall, the researchers found that the participants who got durvalumab and tremelimumab
+together did not live significantly longer than the participants who got SOC treatment.
+To answer this question, the researchers compared:
+• the “hazard ratio” between the 2 groups
+• how likely it was that the participants would be alive 2 years after starting the study
+• how long the participants lived after starting the study
+7

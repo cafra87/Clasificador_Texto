@@ -1,0 +1,208 @@
+ 
+CLINICAL TRIAL RESULTS  
+ 
+ 
+ 
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.  
+ 
+ 
+Sponsor:     Pfizer, Inc.  
+Medicine(s) Studied:  Respiratory Syncytial Virus (RSV) Stabilized Prefusion F 
+Subunit Vaccine (RSVpreF; PF -06928316)  
+Protocol Number:  C3671001  
+Dates of Trial:  18 April  2018 to 20 November  2019 
+Title of this Trial:  First Clinical Study of a RSVpreF Vaccine in Healthy 
+Volunteers [A Phase 1/2, Placebo -Controlled, Randomized, 
+Observer -Blind, Dose -Finding, First -in-Human Study t o 
+Describe the Safety, Tolerability, and Immunogenicity of A 
+Respiratory Syncytial Virus (RSV) Vaccine in Healthy Adults]  
+Date (s) of this Report:  26 May 2021 
+ 
+– Thank You – 
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results , please contact the doctor or staff at 
+your study site.  
+ 
+ 
+ 
+ 2 WHY WAS THIS STUDY DONE?  
+Respiratory syncytial virus (RSV) is a virus that can cause an infection with symptoms 
+that are similar to a bad cold, such as cough, fever, sore throat, and runny nose.  This infection can be very serious in infants and young ch ildren.  
+This study is about a vaccine called the “ respiratory syncytial virus stabilized 
+prefusion  F subunit vaccine”, or RSVpreF .  A vaccine is used to help prevent 
+infection by helping the body to fight off germs.  RSVpreF  may be able to help 
+prevent inf ections caused by RSV .  
+RSVpreF  is an investigational vaccine, which means that it has not been approved for 
+general use and it is not yet known if it will protect against disease  caused by RSV .  
+This study is the first time this vaccine has been tested in  people.  To learn about the 
+safety of this RSVpreF vaccine, the researchers asked these questions:  
+• What percentage of participants had “local reactions” (redness, swelling, or pain at 
+the injection site) within 14 days after vaccination 1?  
+• What percentage of participants had “systemic events” (nausea, headache, muscle 
+pain, diarrhea, tiredness, joint pain, vomiting, or fever) within 14 days after 
+vaccination 1?  
+• What percentage of participants had medical problems within 1 month after vaccination 1? 
+• What percentage of participants had serious medical problems or medical 
+problems that required treatment from a doctor within 12  months  after 
+vaccination  1? 
+• For some participants only, the researchers were also interested in the percentage 
+of participants that had medical problems within 1 month after Vaccination 2.  
+   
+ 
+ 3 WHAT HAPPENED DURING THE STUDY?  
+This study compared 2 different groups of participants to find out if participants 
+reacted differently to the RSVpreF vaccine by itself, the RSVpreF vaccine that included aluminum hydroxide, the RSVpreF vaccine plus a flu (influenza) vaccine, or 
+“placebo”.  The aluminum hydroxide is an ingredient that is commonly included in 
+vaccines to make the immune system react more strongly to the vaccine.  A pl acebo 
+does not have any active ingredients in it but is given in the same way as the study 
+vaccine.  Some participants were given placebo instead of the vaccine to see what 
+would happen if the new vaccine was not given.  The 2 different groups of participa nts were called the Sentinel Cohort and the Expanded Cohort.  A cohort is 
+just another word for a group of people in a clinical study.  
+Participants in the Sentinel Cohort were given RSVpreF vaccine, RSVpreF vaccine plus aluminum hydroxide, or placebo at Vi sit 1.  Participants were initially given a low 
+dose (60  µg) of the RSVpreF vaccine (with or without aluminum hydroxide) or 
+placebo and then checked for 2  weeks to see how they reacted to the vaccine.  If the 
+researchers thought there were no safety concer ns with this low dose, a new group of 
+participants were treated with a middle dose (120  µg) of RSVpreF vaccine (with or 
+without aluminum hydroxide) or placebo.  These participants were then checked for 2 weeks to see how they reacted to the vaccine.  If th e researchers thought there were 
+no safety concerns with the middle dose, another new group of participants were treated with a high dose (240  µg) of RSVpreF vaccine (with or without aluminum 
+hydroxide) or placebo.  These participants were then checked for  2 weeks to see how 
+they reacted.  If the researchers thought there were no safety concerns, the 
+participants in the Expanded Cohort were given the low, middle, or high dose RSVpreF vaccine (with or without aluminum hydroxide) as well as a flu vaccine or placebo at Visit 1 and returned to the Study Center approximately 2  weeks after 
+Vaccination 1 for their Visit 2 assessments.  The participants in the Expanded Cohort 
+then received a second injection at their second visit to the Study Center (Visit 2), 
+which  was approximately 4  weeks after Vaccination 1.  In this cohort, if the 
+participant was given RSVpreF vaccine with or without aluminum hydroxide plus placebo at Visit 1 then they were given flu vaccine at Visit 2.  If they received RSVpreF vaccine with or without aluminum hydroxide plus flu vaccine at Visit 1, they  
+ 
+ 4 were given placebo at Visit 2.  If they received placebo only at Visit 1, they were given 
+flu vaccine at Visit 2.  
+Some of the participants who received the high dose (240  µg) of RSVpreF vaccine 
+(with or without aluminum hydroxide) as well as a flu vaccine in the Expanded 
+Cohort were invited back to the Study Center 1 year later to be vaccinated again.  The results of this revaccination study are described separately.  
+The study included participant s who were healthy and 18 through 85 years of age.  
+The participants and most of researchers did not know who was given each type of vaccine and who was given placebo.  Only the person who gave the injections knew what vaccine each participant was given.  This is known as an “observer blinded” study and this is done to make sure that the study results were not influenced in any way.   
+Participants in the Sentinel Cohort and the Expanded Cohort were put into groups by 
+chance alone.  This is known as a “randomized” study.  This is done to make the 
+groups more similar.  Reducing differences between the groups (like the number of 
+men and women), makes the groups more even to compare.  
+While participants were only in the study for 12  months, the entire study took around 
+19 months to complete.  The Sponsor ran this study at 36 locations in the United 
+States.  It began on 18  April  2018 and ended on 20 November  2019.  There were 
+462 men and 771  women between 18 and 85 years of age who participated and were 
+vaccinated in this study.   
+Of the 1235 participants who started the study, 1135 were vaccinated and finished 12 months of medical checks.  There were 98 participants who were vaccinated but 
+did not have 12 months of medical checks.  These participants left before th e study 
+was over by their choice or a doctor decided it was best for a participant to stop being in the study.  
+  
+ 
+ 5  
+When the study ended in November 2019, the Sponsor began reviewing all of the 
+information collected.  The Sponsor then created a report of the results from the main study.  This is a summary of that report.  The results of the revaccination study are reported separately.   
+WHAT WERE THE RESULTS OF THE STUDY?  
+Did participants who were given the RSVpreF  vaccine have 
+any adverse reactions to the vaccine?  
+The researchers looked at whether there were any local reactions to the vaccine.  A local reaction is something that is seen at the site where the injection of the vaccine was given.  This can include pain at the injection site, redness, and/or swelling.  
+Participants were asked to record details of these local reactions, if experienced, in a 
+study diary they were given.  Local reactions were to be recorded in the study diary for 
+14 days after Vaccination 1.   
+ 
+ 
+ 6 Participants who had any local reaction in the Sentinel Cohort and the Expanded 
+Cohort are shown in the following figures.  The researchers found that most local reactions to the vaccine were mild to moderate in severity.  More local reactions were observed in participants who received the RSVpreF vaccine than in those who received placebo.  Participants who received the RSVpreF vaccine with aluminum 
+hydroxide reported more local reactions than those who received the RSVpreF 
+vaccine without aluminum hydroxide.  Local reactions were also more common in younger compared to older participants.    
+  
+ 
+Note: The  RSV vaccine mentioned in these diagrams is the RSVpreF vaccine.  
+ 
+ 
+ 7  
+Note: The RSV vaccine mentioned in these diagrams is the RSVpreF vaccine.  
+The researchers also looked at whether there were any “systemic events” or reactions 
+to the vaccine.  Systemic means something that affects the whole body or that can 
+affect specific parts of the body like the head or joints.  Systemic events that particip ants may have had after they had been given the vaccine include high 
+temperature, feeling like they were going to be sick, actually being sick, headache, 
+tiredness, muscle pain and joint pain.  Participants were asked to record details of 
+these systemic ev ents, if experienced, in their study diary.  Systemic events were to be 
+recorded in the study diary for 14 days after Vaccination 1.   
+Participants who had any systemic event in the Sentinel Cohort and the Expanded 
+Cohort are shown in the following figures .  Most systemic events were mild to 
+moderate in severity.  These systemic events were seen more often in participants who 
+had the RSVpreF vaccine compared to those who had placebo.   
+ 
+ 
+ 8   
+ 
+ 
+Note: The RSV vaccine mentioned in these diagrams is the RSVpreF vaccine.  
+ 
+ 
+ 9  
+Note: The RSV vaccine mentioned in these diagrams is the RSVpreF vaccine  
+Overall, local reactions and systemic events seen in this study reflected the type of 
+reaction that may be observed after vaccination.  Based on number and type of reactions seen in this study, the RSVpreF vaccine is considered well tolerated.  
+This does not mean that everyone in this study had these results.  Other studies may produce different results, as well.  These are just some of the main findings of the study, and more information may be available at the websites listed at the end of this summary.  
+WHAT MEDICAL PROBLEMS DID 
+PARTICIPANTS HAVE DURING THE STUDY?  
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was taking.  Sometimes the cause of a medical problem is unknown.  By comparing medical problems across many tre atment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be.  
+ 
+ 
+ 10 In the Sentinel Cohort, 16 out of 168 participants in this study had at least 1 medical 
+problem within 1 month after Vaccination 1.  In the Exp anded Cohort, 164 out of 
+1065 participants had at least 1 medical problem within 1 month after Vaccination 1.  
+A total of 3 participants left the study because of safety reasons due to medical problems.  These were a bone infection in 1 participant and lung cancer in 
+2 participants.  The researchers at the Study Center did not think these medical 
+problems were related to the RSVpreF vaccine.   
+Medical problems were reported by 3 or fewer participants (25%) in any one group in 
+the Sentinel Cohort and by 11 o r fewer participants (26%) in the Expanded Cohort 
+within 1 Month after Vaccination 1 in the non- placebo groups.  Medical problems 
+were reported by a 1  participant (8%) in the placebo group in the Sentinel Cohort and 
+by 5 or fewer participants (12%) in the placebo group in the Expanded Cohort within 
+1 Month after Vaccination 1.  These medical problems were generally similar between 
+the different vaccine groups in each cohort.  In the Sentinel Cohort and Expanded 
+Cohort in participants 18 through 49  years of age, the most common medical 
+problems were symptoms of a common cold or stomach upsets.  In the Sentinel Cohort in participants 50 through 85 years of age and in the Expanded Cohort in participants 65 through 85 years of age, the most common medical proble ms were 
+symptoms of a common cold, stomach upsets, or falls.   
+Medical problem that the researcher at the Study Center considered to be related to 
+study vaccines were reported by no participants in the Sentinel Cohort and by 3 or 
+fewer participants (8%) in  the Expanded Cohort within 1 Month after Vaccination 1 
+in the non- placebo groups.   
+Medical problems were reported by 13 or fewer participants (33%) in the Expanded 
+Cohort within 1 Month after Vaccination 2 in the non -placebo group and by 7  or 
+fewer parti cipants (17%) in the placebo group at this time point . 
+   
+ 
+ 11 WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?  
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.   
+In the Sentinel Cohort, there were no serious medical problems in the 84 participants 
+18 through 49 years of age and 3 serious medical  problems in the 84 participants 
+50 through 85  years of age in the 12 -months after vaccination.  In the Expanded 
+Cohort, there were 15 serious medical problems in the 533 participants 18 through 
+49 years of age and 52  serious medical problems in the 532  participants 65 through 
+85 years of age in the 12 -months after vaccination.  None of these serious medical 
+problems were thought by the researchers at the Study Center to be related to the 
+vaccine or caused taking part in this study.  
+There were 6 participant s who passed away during the study, but none of these deaths 
+were thought by the researcher at the Study Center to be related to the vaccine or caused taking part in this study .   
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?  
+If you have questions about the res ults of your study, please speak with the doctor or 
+staff at your study site.  
+For more details on your study protocol, please visit:  
+www.clinicaltrials.gov  Use the study identifier NCT03529773  
+ 
+Further clinical trials with the RSVpreF vaccine are planned.  
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for participants.    
+ 
+ 12 Again, thank you for volunteering.  
+We do research to try to find the  
+best ways to help patients, and you 
+helped us to do that!  

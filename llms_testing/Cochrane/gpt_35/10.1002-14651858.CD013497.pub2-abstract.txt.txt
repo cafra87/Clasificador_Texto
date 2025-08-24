@@ -1,0 +1,11 @@
+Plain Title: Effectiveness and Safety of GM-CSF-Supplemented Culture Media in Assisted Reproduction
+
+Rationale: GM-CSF is a growth factor used in assisted reproduction to improve outcomes. However, its use adds cost to the treatment. This review aimed to evaluate the evidence on the effectiveness and safety of GM-CSF-supplemented culture media.
+
+Trial Design: This study reviewed randomized controlled trials comparing GM-CSF-supplemented culture media with non-supplemented media in women undergoing assisted reproduction. The search included various databases and expert communication. 
+
+Results: The review included five studies, with three providing data for meta-analysis. The evidence is uncertain regarding the impact of GM-CSF on live birth rate and miscarriage rate compared to non-supplemented culture media. The findings suggest that if the live birth rate with non-supplemented media is 22%, the rate with GM-CSF supplementation could be between 21% and 30%. Similarly, if the miscarriage rate with non-supplemented media is 4%, the rate with GM-CSF supplementation could be between 2% and 5%. 
+
+Furthermore, there is uncertainty about the effects of GM-CSF on clinical pregnancy, multiple gestation, preterm birth, birth defects, and aneuploidy. There were no events of stillbirth in the studies analyzed. 
+
+The low to very low quality of the evidence prevents us from determining whether GM-CSF is more effective or safer than non-supplemented culture media. Patients should be provided with independent information to make informed decisions. Claims of improved pregnancy rates from marketing information are not supported by the available evidence. Well-designed and adequately powered clinical trials are necessary to provide more definitive results.

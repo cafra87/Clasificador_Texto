@@ -1,0 +1,10 @@
+Drugs for preventing lung cancer in healthy people
+Review question 
+We reviewed the evidence assessing the relationship between vitamins or antioxidant intake and lung cancer prevention, mortality and adverse events for that cancer. This review updates our Cochrane Review on this topic published in 2012. 
+Background 
+Lung cancer is among the leading causes of cancer death throughout the world, and its prevention has become a public health priority. It has been suggested that vitamin supplements and some antioxidants may prevent lung cancer. 
+Study characteristics 
+This review includes 12 studies in which healthy adults were randomly assigned to receive vitamin supplements or placebo (a substance that has no physical effects) and were followed over time to evaluate their risk of developing lung cancer. The evidence is current to May 2019. 
+Key results 
+None of the treatments compared with placebo have shown a difference in the risk for lung cancer incidence or lung cancer mortality in healthy people. In smokers and people exposed to asbestos, vitamin A increases lung cancer incidence, lung cancer mortality and all‐cause mortality. Vitamin C increases lung cancer incidence in women. Vitamin E increases the risk of haemorrhagic strokes. 
+The certainty of the evidence is high for the following comparisons against placebo: vitamin A; vitamin E; selenium; and combinations of vitamins A, C, E, selenium and zinc. 

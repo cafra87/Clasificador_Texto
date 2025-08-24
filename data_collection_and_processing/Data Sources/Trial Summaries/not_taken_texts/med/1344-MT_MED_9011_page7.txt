@@ -1,0 +1,24 @@
+Clinical Trial RESULTS
+How many participants developed serious medical problems?
+A medical problem is considered serious when it is life-threatening, causes lasting problems,
+or requires hospital care. No participants died during this study, and no participants
+developed serious medical problems.
+What were the medical problems in the study?
+The table below shows the medical problems that happened to at least 1 participant
+in the study.
+Placebo AZD7594 200 µg AZD7594 400 µg AZD7594 1600 µg
+(Out of 6 (Out of 7 (Out of 7 (Out of 7
+participants) participants) participants) participants)
+Dry throat 0 1 (14.3%) 0 0
+Stuffy nose 0 1 (14.3%) 0 0
+Pain in the upper
+0 1 (14.3%) 0 0
+part of the throat
+Folliculitis (infection
+0 0 1 (14.3%) 0
+of hair follicles)
+Gout (swelling of joints
+caused by having too much 1 (16.7%) 0 0 0
+uric acid in the blood)
+Lightheadedness 0 0 0 1 (14.3%)
+7

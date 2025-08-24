@@ -1,0 +1,14 @@
+Background
+Tests for thrombophilia are being performed on a large scale in people after venous thromboembolism (VTE) even though the benefits of testing are still subject to debate. The most important benefit would be a reduction in the risk of recurrent VTE due to the use of additional prophylactic measures. This is an update of a review first published in 2009. 
+Objectives
+The objective of this review was to assess the benefit of testing for thrombophilia after VTE in terms of risk reduction of recurrent VTE. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched May 21 2012) and CENTRAL (2012, Issue 5). The authors searched MEDLINE and EMBASE. 
+Selection criteria
+Randomized controlled trials (RCTs) and controlled clinical trials (CCTs) that compared the rate of recurrent VTE in participants with VTE who were tested for thrombophilia with the rate in participants with VTE who were not tested were eligible. 
+Data collection and analysis
+We planned to extract data from identified studies using data extraction forms.
+Main results
+No studies were included because no RCTs or CCTs could be identified.
+Authors' conclusions
+There are currently no randomized controlled trials or controlled clinical trials that have assessed the benefit(s) of testing for thrombophilia on the risk of recurrent VTE. 

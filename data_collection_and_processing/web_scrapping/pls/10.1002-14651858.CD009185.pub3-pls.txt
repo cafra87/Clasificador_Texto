@@ -1,0 +1,9 @@
+Procalcitonin, C‐reactive protein, and erythrocyte sedimentation rate for the diagnosis of acute pyelonephritis in children 
+What is the issue? 
+In some children with urinary tract infection (UTI), the infection is localized to the bladder (lower urinary tract). In others, bacteria ascend from the bladder to the kidney (upper urinary tract). Only children with upper urinary tract involvement are at risk for developing permanent kidney damage. If non‐invasive biomarkers could accurately differentiate children with lower urinary tract disease from children with upper urinary tract disease, treatment and follow‐up could potentially be individualized. 
+What did we do? 
+We examined the usefulness of three widely available blood tests (procalcitonin, C‐reactive protein, erythrocyte sedimentation rate) in differentiating upper from lower urinary tract disease. We found 34 relevant studies of which 24 provided data for our primary outcome. Twelve studies (1000 children) provided data for the procalcitonin test; 16 studies (1895 children) provided data for the C‐reactive protein test, and 8 studies (1910 children) provided data for the erythrocyte sedimentation rate test. 
+What did we find? 
+We found all three tests to be sensitive (summary sensitivity values ranged from 81% to 93%), but not very specific (summary specificity values ranged from 37% to 76%). 
+Conclusions 
+None of the tests were accurate enough to allow clinicians to confidently differentiate upper from lower urinary tract disease. 

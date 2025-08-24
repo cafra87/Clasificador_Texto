@@ -1,0 +1,40 @@
+Page 3 of 9
+Where was this study done?
+Study sites were in 33 countries.
+Number of patients from each country who received at
+least one dose of the study medicine
+Argentina 130
+Australia 20
+Brazil 450
+Bulgaria 131
+Canada 2
+Chile 9
+Colombia 324
+Croatia 15
+Czech Republic 89
+Estonia 3
+Hong Kong 42
+Hungary 115
+Indonesia 94
+Italy 14
+Republic of Korea 319
+Lithuania 5
+Malaysia 17
+Mexico 292
+New Zealand 14
+Peru 83
+Philippines 136
+Poland 68
+Portugal 38
+Romania 30
+Russian Federation 217
+Serbia 224
+Slovakia 3
+Spain 60
+Switzerland 10
+Taiwan 274
+Thailand 67
+Ukraine 123
+United States 585
+0 100 200 300 400 500 600
+Number of patients

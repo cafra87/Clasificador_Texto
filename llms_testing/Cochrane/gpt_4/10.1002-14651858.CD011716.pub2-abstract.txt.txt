@@ -1,0 +1,13 @@
+1. Plain Title: 
+Examining the Effects of Oxygen Therapy in People with a Certain Type of Lung Disease
+
+2. Rationale: 
+Certain lung problems like Interstitial Lung Disease (ILD) do not affect the oxygen levels in people while they are resting, but when they start to do exercises or any form of physical activity, the oxygen level in their body drops. This can make it harder for them to do things and can make them feel short of breath. Oxygen therapy, where additional oxygen is provided during activity or movement, could possibly help people with ILD, like the specific type called Idiopathic Pulmonary Fibrosis (IPF), do things more easily and feel less out of breath.
+
+3. Trial Design: 
+To get a clear picture of the effect of oxygen therapy, we looked at many previous studies concerning the same from the year 1950 to May 2016 by using several research databases. We picked out those studies which tested oxygen therapy against a control group in people with any form of ILD. In total, we included three studies which had 98 participants, all of whom had IPF. These studies took place in hospital respiratory physiology laboratories. Our team of reviewers evaluated the studies independently for any bias and noted down the key facts and outcomes using a prepared checklist.
+
+4. Results: 
+The results showed that two of the studies did not find any particular benefit of extra oxygen on exercise ability or shortness of breath during exercise. Also, these two studies did not adjust the oxygen provided to prevent decreased oxygen levels during exertion. Yet, another study demonstrated that extra oxygen did seem to help by increasing the time participants were able to exercise. No studies were found regarding the effect of mobile oxygen therapy on quality of life, survival, costs, or time to serious illness or hospitalization. Also, no adverse effects were reported in these studies. However, the quality of the evidence provided by these studies was low according to our evaluation criteria.
+
+Despite examining the previous research, we are still unsure about the benefits of oxygen therapy in ILD patients due to the limited number of studies available. More research in this area is needed for a definite conclusion.

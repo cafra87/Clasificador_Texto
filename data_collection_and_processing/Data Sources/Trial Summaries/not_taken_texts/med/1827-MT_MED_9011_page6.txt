@@ -1,0 +1,30 @@
+Clinical Study Results
+Adverse events may or may not be caused by the treatments in the study. A lot of
+research is needed to know whether a treatment causes an adverse event.
+How many participants had
+97.5% (39 out of 40 participants)
+adverse events?
+How many participants had
+37.5% (15 out of 40 participants)
+serious adverse events?
+How many participants
+stopped taking study treatment 7.5% (3 out of 40 participants)
+because of adverse events?
+The most common serious adverse events were nausea and vomiting. These were
+the only serious adverse events that happened in more than 1 participant.
+The most common adverse events are shown below.
+Most common adverse events during the study
+Adverse event Total (out of 40 participants)
+Nausea 40.0% (16)
+Headache 37.5% (15)
+Vomiting 35.0% (14)
+Decreased appetite 32.5% (13)
+Tiredness 30.0% (12)
+Low numbers of red blood cells, also
+27.5% (11)
+called anemia
+The study doctors also counted the number of dose-limiting toxicities the
+participants had during the study. A dose-limiting toxicity is a medical problem that
+is severe enough to stop the study doctor from increasing the participant’s dose of
+study treatment. A dose-limiting toxicity is also known as a DLT.
+6

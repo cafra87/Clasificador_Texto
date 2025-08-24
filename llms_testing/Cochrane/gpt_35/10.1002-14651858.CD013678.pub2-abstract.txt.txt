@@ -1,0 +1,11 @@
+Plain Title: Surgical Interventions for Lamellar Macular Holes: Improving Vision and Outcomes
+
+Rationale: Lamellar macular holes (LMHs) are small defects in the macula that can cause visual problems. Surgery may be a treatment option for people with LMHs, especially if their vision is getting worse or if they have significant disability. However, there is currently not enough evidence to support this recommendation.
+
+Trial Design: This study looked at the effects of surgical interventions on the vision and outcomes of people with LMHs. The researchers searched different databases to find relevant studies, and they included randomized controlled trials (RCTs) that involved participants with confirmed LMH diagnosis and reported surgical interventions. The study authors collected and analyzed the data according to standard methods.
+
+Results: The researchers found one RCT that met their criteria for inclusion. In this trial, 24 participants underwent surgery (pars plana vitrectomy, peeling of the epiretial proliferation, and fovea-sparing removal of the internal limiting membrane) and 12 participants were observed without surgery. The certainty of the evidence was low due to bias and the small number of participants in the study.
+
+After six months, the surgery group showed better improvement in vision compared to the observation group. Central retinal thickness increased in the surgery group but decreased in the observation group. Retinal sensitivity also improved more in the surgery group. However, the trial did not report on vision-related quality of life or metamorphopsia. There were no reported complications, but information about deterioration in vision was not available.
+
+Conclusion: Based on this single trial, surgery for LMHs improved visual and anatomical outcomes compared to observation alone. However, the evidence is limited due to the small size of the study. More high-quality trials with larger participant numbers and fewer limitations are needed to make stronger conclusions about the effectiveness of surgery for LMHs.

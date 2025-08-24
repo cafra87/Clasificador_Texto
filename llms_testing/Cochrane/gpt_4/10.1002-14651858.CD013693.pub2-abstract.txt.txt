@@ -1,0 +1,13 @@
+1. Plain Title: 
+Testing for Tuberculosis in Children 
+
+2. Rationale: 
+Tuberculosis (TB) is a serious disease that spreads from person to person through the air. Globally, a lot of children under 15 years contract, get sick or die from TB. So, it is important to find ways to find TB in children early, treating them to stop the disease, or prevent it if they are at high risk. 
+
+3. Trial Design: 
+In this study, we looked at how well different tests were able to find TB in children under 15 years. The study aimed to find the best way to test for TB in children who might be at risk because they came in contact with persons with TB, live with HIV, suffer from pneumonia, have not had good nutrition, or generally live in areas where lots of people have TB. The scientists looked at databases for any studies done on this topic and compared results of symptom-based tests, chest X-rays, and using a test called Xpert MTB/RIF. They also looked closely at how these tests were combined.
+
+4. Results: 
+The study found 19 different reports that checked how well these tests worked. For the symptom-based tests, the results were different based on what exact symptoms were looked at, but generally worked quite well with a success rate between 61% to 89%. However, some children who didn't have TB would also show positive in these tests. Chest X-Rays also worked quite well with an 87% success rate. The Xpert MTB/RIF test showed very different results between two studies, but it did very well in one of the studies with a success rate of 100%. However, there were not enough studies to figure out how well it generally works. There were no studies found on the Xpert Ultra test.
+
+The tests varied quite a bit and could have been better if they followed the same steps and the scientists also noted that the way they checked if the tests did work could have been better. So, they suggest more studies should be done to find out the best way to test children for TB and stop this disease from harming our young ones.

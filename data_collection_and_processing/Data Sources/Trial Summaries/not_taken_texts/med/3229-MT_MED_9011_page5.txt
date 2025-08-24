@@ -1,0 +1,40 @@
+Clinical Study Results
+Did MEDI0382 affect the participants’ blood sugar levels?
+Yes. Overall, the researchers found that the participants who got MEDI0382
+had a decrease in their blood sugar levels. The researchers also found that the
+participants who got the placebo had an increase in their blood sugar levels.
+To answer this question, the researchers measured the participants’ blood sugar
+levels before they got treatment, and at the end of the study. Then, the researchers
+compared the percent change in these measurements.
+The researchers found that after 7 weeks of treatment, the participants in:
+• Group 1, who got the lowest dose, of MEDI0382 had an average decrease in
+their blood sugar levels of 39.7%.
+• Group 2, who got the middle dose of MEDI0382, had an average decrease in
+their blood sugar levels of 31.2%.
+• Group 3, who got the highest dose of MEDI0382, had an average decrease in
+their blood sugar levels of 37.9%.
+• Group 4, who got the placebo, had an average increase in their blood sugar
+levels of 2.5%.
+The figure below shows these results.
+Average percent change in blood sugar levels
+after 7 weeks
+20
+Group 1: Group 2: Group 3: )%(
+10 2.5%
+Lowest dose Middle dose Highest dose
+increase ragus
+of MEDI0382 of MEDI0382 of MEDI0382
+0
+Group 4:
+doolb
+Placebo
+-10
+ni
+-20 egnahc
+-30
+31.2% tnecreP
+decrease
+-40 39.7% 37.9%
+decrease decrease
+-50
+5

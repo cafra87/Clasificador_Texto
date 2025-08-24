@@ -1,0 +1,14 @@
+Background
+The benefits and harms of three dimensional imaging versus traditional two dimensional imaging for laparoscopic cholecystectomy are not known. 
+Objectives
+To assess the benefits and harms of use of three dimensional systems versus two dimensional systems during laparoscopic cholecystectomy. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until October 2010 for randomised clinical trials. 
+Selection criteria
+Only randomised clinical trials, irrespective of language, blinding, or publication status were considered for the review. 
+Data collection and analysis
+Two authors independently identified trials and independently extracted data. We intended to calculate the risk ratio (RR), mean difference (MD), or standardised mean difference (SMD) with 95% confidence intervals (CI) using both the fixed‐effect and the random‐effects models with RevMan 5 based on intention‐to‐treat analysis. 
+Main results
+One trial randomised 60 patients to three dimensional laparoscopic cholecystectomy (n = 30) versus standard two dimensional laparoscopic cholecystectomy (n = 30). This trial was of high risk of bias. There were no post‐operative complications or conversion to open cholecystectomy in either group. There was no significant difference in the operating time (MD ‐1.00 minute; 95% CI ‐17.77 to 15.77) or number of errors between the two groups. 
+Authors' conclusions
+Currently, there is no evidence that three dimensional image is superior to two dimensional image in laparoscopic cholecystectomy. 

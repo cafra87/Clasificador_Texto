@@ -1,0 +1,13 @@
+1. Plain Title: Does Vitamin D Help Treat COVID-19? A Study 
+2. Rationale: 
+COVID-19, a respiratory disease, has impacted many lives around the globe. One possible treatment approach being discussed is the use of vitamin D supplements. However, it is not clear if this method is effective and safe. This study was done to better understand the effects of vitamin D in treating people with COVID-19. 
+3. Trial Design: 
+This study looked at different research work available up to March 11, 2021. They focused on research where people with COVID-19, regardless of how severe it was, their age, gender, or ethnicity, were given vitamin D to see whether it improved their condition. The researchers did not include studies where vitamin D was used as a preventive measure or studies dealing with other similar diseases, like SARS or MERS. 
+4. Results: 
+This study looked at three trials with a total of 356 people, where half of them were given vitamin D. For patients with severe COVID-19, the researchers found that the data was not certain enough to conclude whether vitamin D affected all-cause mortality or the need for machine-driven breathing support. 
+
+They also did not get enough data to comment on the impact of vitamin D on the quality of life of these patients. Safety checks for vitamin D showed unclear results: for example, one person vomited soon after consuming vitamin D, but it was not certain whether the vitamin D was the cause. For people with COVID-19 who did not show symptoms or had mild symptoms, the researchers again could not draw solid conclusions due to lack of proper records. 
+
+In conclusion, current research does not provide enough data to say confidently whether vitamin D can be used as a treatment for COVID-19. Researchers call for more well-planned trials to better understand this topic. 
+
+Please note: while current findings are inadequate, 21 more studies are in progress that may provide better insights in the future. As such, this analysis will be updated with new data as they become available.

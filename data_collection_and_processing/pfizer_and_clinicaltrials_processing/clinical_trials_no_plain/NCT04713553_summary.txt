@@ -1,0 +1,15 @@
+A Phase 3 Study to Evaluate the Safety, Tolerability, and Immunogenicity of Multiple Production Lots and Dose Levels of BNT162b2 RNA-Based COVID-19 Vaccines Against COVID-19 in Healthy Participants
+This is a Phase 3, randomized, observer-blind study in healthy individuals.
+
+The primary study will evaluate the safety, tolerability, and immunogenicity of the SARS-CoV-2 RNA vaccine candidate (BNT162b2):
+
+As a 30-microgram dose, administered from 1 of 4 manufacturing lots (batches)
+As a 20-microgram dose, administered from 1 of the manufacturing lots
+As a 2-dose (separated by 21 days) schedule
+In people 12 through 50 years of age
+
+The booster study will evaluate the safety, tolerability, and immunogenicity of 2 SARS-CoV-2 RNA vaccine candidates (BNT162b2 and BNT162b2.B.1.351):
+
+Each as a 30-microgram dose
+Each as a 1-dose booster vaccine, administered approximately 3 months after Dose 2
+In people 18 through 50 years of age

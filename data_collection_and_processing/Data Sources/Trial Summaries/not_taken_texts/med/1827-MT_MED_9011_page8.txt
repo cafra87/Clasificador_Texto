@@ -1,0 +1,15 @@
+Clinical Study Results
+What serious adverse reactions happened during this study?
+The table below shows the serious adverse reactions that happened in the study.
+It does not show the serious adverse reactions that happened in each group.
+Because there was a small number of participants in each group, leaving this
+information out helps protect their identities.
+Serious adverse reactions that happened in the study
+Serious adverse reaction Total (out of 40 participants)
+Heart attack 2.5% (1)
+Nausea 2.5% (1)
+Vomiting 2.5% (1)
+Heart failure 2.5% (1)
+Pain 2.5% (1)
+Inflammation of the lungs 2.5% (1)
+8

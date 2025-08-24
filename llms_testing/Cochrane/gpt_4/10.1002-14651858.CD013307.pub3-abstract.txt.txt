@@ -1,0 +1,19 @@
+1. Plain Title: 
+Studying the Effects of Non-Medication Techniques in Preventing Delirium in Hospital Patients
+
+2. Rationale:
+Delirium is a sudden brain disorder that often affects patients in the hospital. It can be very distressing and can lead to serious health problems. Currently, we don't have many effective treatments for delirium, so trying to prevent it from happening in the first place is crucial. Traditionally, non-medication, or "non-pharmacological", methods have been thought to play a big role in preventing delirium. This study was intended to see how effective such methods really are in preventing delirium in hospital patients that aren't in intensive care units. 
+
+3. Trial Design:
+Our study involved looking at a variety of random control trials (or RCTs) which tested single and multiple non-medication methods to prevent delirium in hospitalized grown-ups who weren't in intensive care or highly dependent settings. We took a close look at all the studies we could find up until September 16, 2020, and did not limit ourselves by language or date. Our main goals were to see if these interventions reduced the occurrence of delirium, how they affected the patients' chances of surviving the hospital stay or developing dementia, and measured any other effects as noted in the study plans.
+
+4. Results:
+We ended up including 22 RCTs that involved a total of 5718 adult participants in our review. The results showed that non-medication methods probably do reduce the occurrence of delirium when compared to regular care. However, these methods didn't seem to change the patients' chances of not surviving the hospital stay. There was no data on whether these interventions affected cases of new dementia. 
+
+The interventions did perhaps result in a slight decrease in the length of delirium bouts and might also lead to a small reduction in the length of the hospital stay. However, they didn't seem to make a difference in how many patients needed to be moved to a care home when leaving the hospital. Other outcomes were not often reported. 
+
+Furthermore, our deeper exploration revealed that certain methods, such as re-orientation (using familiar objects), cognitive stimulation, and good sleep hygiene were linked with a lesser risk of delirium. Keeping up with nutrition and hydration, good oxygen supply, reviewing medications, mood evaluation, and taking care of bowel and bladder needs might also lower delirium risk, but these findings are not as firm. 
+
+Lastly, the use of a liberal blood transfusion threshold over a restrictive one probably results in little to no difference in delirium cases. 
+
+In conclusion, there is good evidence that these non-medication interventions might reduce delirium by 43% when compared to regular care. However, they don't seem to affect chances of not surviving the hospital stay. There is some evidence that they might reduce the duration of hospital stay and the length of delirium but it's unclear if they affect delirium severity. Further research should zero in on these interventions to come up with effective, tailored practices.

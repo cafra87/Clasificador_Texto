@@ -1,0 +1,23 @@
+long-term nature of asthma, patients can have low adherence to treatment that may
+lead to poor control of asthma symptoms.
+How was this study designed?
+To monitor patients’ adherence to treatment, all inhalers used in this study had a
+sensor clipped on to them. These sensors recorded the time and date when the
+patients used their inhalers. This information could be viewed by the patients on an
+app installed on their smartphone and by the study doctor or nurse on their computer.
+Together, the sensors, the app, and the computer system, are called the Connected
+Inhaler System (CIS).
+The main objective of this study was to see how the use of CIS affected poorly
+controlled asthma patients’ adherence to their Relvar/Breo Ellipta treatment.
+Which medicines and devices were used in the study?
+Before starting the study, patients were asked to replace their previous asthma
+treatment (if different) with Relvar/Breo Ellipta.
+All patients received Relvar/Breo Ellipta inhaler, with the sensor clipped on it, to be
+used once daily. This inhaler contained:
+• fluticasone furoate (an inhaled corticosteroid [ICS], a medicine that reduces
+swelling and irritation in the lungs) and,
+• vilanterol (an inhaled long-acting beta agonist [LABA], a medicine that relaxes
+and opens the airways in the lungs).
+Patients were prescribed another inhaler, with a sensor clipped on it, containing
+salbutamol (a medicine that relaxes and opens the airways in the lungs), to use if their
+asthma symptoms worsened.

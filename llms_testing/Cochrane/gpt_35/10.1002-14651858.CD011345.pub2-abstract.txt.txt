@@ -1,0 +1,16 @@
+Plain Title: Using Timed Intercourse to Improve Pregnancy Rates in Couples Trying to Conceive
+
+Rationale:
+Many couples struggle with infertility, with about 10-15% experiencing subfertility. One potential factor contributing to difficulty conceiving is timing intercourse correctly. Conception is only possible during a specific fertile period around ovulation. "Timed intercourse" is a method where couples track ovulation to increase their chances of getting pregnant. While this approach may improve the chances of conceiving and reduce unnecessary interventions and costs, it may also come with some downsides, like consuming time and causing stress. This study aimed to evaluate the benefits and risks of using ovulation prediction methods for timing intercourse.
+
+Trial Design:
+This study was designed to answer the question, "How does timed intercourse affect pregnancy rates?" The researchers conducted a systematic review of randomized controlled trials (RCTs) comparing timed intercourse with other methods or no ovulation prediction. They included couples who were trying to conceive and assessed various outcomes, such as live birth, adverse events, clinical pregnancy, and time to conception. They analyzed the data from the selected RCTs to calculate risk ratios and confidence intervals. They also assessed the quality of evidence using GRADE methods.
+
+Results:
+The researchers included five RCTs involving 2,840 women or couples in their analysis. Unfortunately, one large study did not publish outcome data, so the analysis only considered four RCTs. The overall quality of evidence was low to very low due to imprecision, lack of reporting relevant outcomes, and a high risk of publication bias.
+
+While one study reported a small increase in live births following timed intercourse, the results were inconclusive due to the small sample size. The evidence showed no difference in stress levels between timed intercourse and other methods. Furthermore, no adverse events were reported in most studies. Two studies reported clinical pregnancy rates, which showed no significant difference between timed intercourse and other methods. However, four studies reported higher pregnancy rates with timed intercourse compared to other methods.
+
+The conclusions from the investigators were that there is insufficient evidence to determine the effectiveness of timed intercourse in achieving live birth, adverse events, and clinical pregnancy. However, timed intercourse may improve pregnancy rates compared to other methods. It is important to interpret these findings with caution due to the low quality of evidence and the possibility of publication bias. Further research is needed to provide more accurate outcomes, such as live birth rates, clinical pregnancy rates, and adverse effects, to determine the safety and efficacy of timed intercourse for couples trying to conceive.
+
+In summary, this study aimed to assess the benefits and risks of using ovulation prediction methods for timing intercourse in couples trying to conceive. While the evidence is limited, timed intercourse may increase pregnancy rates. However, more research is needed to obtain reliable results and determine the safety and effectiveness of this approach.

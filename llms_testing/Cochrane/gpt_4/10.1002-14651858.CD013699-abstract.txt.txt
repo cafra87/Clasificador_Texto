@@ -1,0 +1,17 @@
+1. Plain Title:
+Using Technology to Track COVID-19 Spread
+
+2. Rationale:
+With the spread of the coronavirus (COVID-19), finding people who have been in contact with somebody who is infected is a top priority. This process is called "contact tracing". Contact tracing helps to find and isolate these people to stop the virus from spreading further. One possible solution to help speed up this process is the use of digital technology, like mobile phone apps. This study aims to investigate how effective these technological tools are for contact tracing during infectious disease outbreaks like the COVID-19 pandemic.
+
+3. Trial Design:
+To do this, we looked at studies from January 2000 up until May 2020. The studies we included had to do with digital solutions for contact tracing during infectious disease outbreaks and had to involve a range of people from various backgrounds. These digital solutions could be apps on a user’s smartphone or other devices provided by government or third parties. We then looked at how well these technologies identified and traced contacts of infected individuals, how long the process took, and what people thought about these technologies. We also considered things like privacy and safety concerns.
+
+4. Results:
+Our study found six reports that used real-life data and another six reports that used computer simulations to study digital solutions for contact tracing. The results from these computer simulations offer a small amount of evidence indicating that digital contact tracing can reduce the number of people each infected person goes on to infect. These simulations suggested that digital contact tracing might provide a 18%-26% reduction in infection rates, while manual contact tracing might provide a 35%-53% reduction. 
+
+Real-world studies gave some evidence that digital contact tracing might do a better job of locating contacts and reduce the time needed to complete contact tracing when compared to traditional methods. For example, during an Ebola outbreak, the use of a mobile app found twice as many contacts per case as traditional paper methods. Another study conducted after an outbreak at a US hospital found that a digital method identified 45 close contacts while standard methods identified only 13. 
+
+Despite these positives, it's important to note that these study results are not very certain. The research methods used might not have given an accurate count of the true number of close contacts. Also, while digital tracing seems to be faster and generally preferred over traditional methods, it also may present higher costs and internet access challenges, especially for people living in lower-income areas. Privacy risks were also noted, especially with wearable devices. 
+
+In short, it is not yet certain how well digital contact tracing works in real-world settings. More research is needed, including studies into how digital solutions can complement traditional contact tracing systems, how these technologies can be made more acceptable to users, and the impact on different population groups. Privacy concerns can also influence whether or not people choose to use these technologies, so this area requires further research.

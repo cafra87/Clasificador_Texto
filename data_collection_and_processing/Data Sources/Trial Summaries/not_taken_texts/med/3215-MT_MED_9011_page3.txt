@@ -1,0 +1,26 @@
+Clinical Study Results
+In Group 1, the doses were:
+Week 1 2 3 4 5 6 7 8 9
+Dose 50 μg 100 μg 200 μg 300 μg 400 μg 500 μg 600 μg 600 μg 600 μg
+In Group 2, the doses were:
+Week 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Dose 50 μg 50 μg 100 μg 100 μg 200 μg 200 μg 400 μg 400 μg 600 μg 600 μg 600 μg 600 μg 600 μg 600 μg
+In Group 3, the doses were:
+Week 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Dose 50 μg 50 μg 50 μg 50 μg 150 μg150 μg150 μg150 μg300 μg300 μg300 μg300 μg600 μg600 μg600 μg600 μg600 μg600 μg
+What happened during the study?
+The study started in August 2018 and ended in August 2019.
+Before the participants took study treatment, they visited their study site 2 times. At these
+visits, the study doctors checked the health of the participants to make sure they could join the
+study. This part of the study lasted up to 5 weeks. The study doctors:
+• did a physical exam and asked about the participants’ medications and any medical problems
+they were having
+• checked the participants’ heart health using an electrocardiogram, also called an ECG
+• took blood and urine samples
+The study doctors did these tests and measurements throughout the study.
+At these visits, the study doctors showed the participants how to give themselves injections using
+a saltwater injection, also called saline. The participants met with a dietician who gave them diet
+and exercise advice.
+The participants in Group 1 also started wearing a device to measure their blood sugar, called a
+continuous glucose monitoring device. This is known as a CGM device.
+3

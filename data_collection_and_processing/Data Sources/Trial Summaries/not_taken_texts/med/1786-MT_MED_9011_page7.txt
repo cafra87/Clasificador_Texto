@@ -1,0 +1,11 @@
+Clinical Trial RESULTS
+What were the most common medical problems in the study?
+The table below shows the most common medical problems that happened
+in at least 3.0% of participants in the study.
+Symbicort Placebo
+(51 participants) (51 participants)
+Back pain 2 (3.9%) 0
+Common cold 2 (3.9%) 0
+COPD 0 3 (5.9%)
+Shortness of breath 2 (3.9%) 2 (3.9%)
+7

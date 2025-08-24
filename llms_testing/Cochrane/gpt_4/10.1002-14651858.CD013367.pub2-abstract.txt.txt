@@ -1,0 +1,13 @@
+1. Plain Title: 
+   Understanding the Effectiveness of Using Humor to Improve The Health of People with Schizophrenia 
+
+2. Rationale: 
+   Schizophrenia is a severe mental disease that interferes with a person's ability to think clearly, manage emotions, make decisions, and relate to others. There has been a suggestion that humor-based activities could help improve the health and well-being of people living with schizophrenia. These activities could be done in various places such as hospitals, nursing homes, or day care centers and could be added to the standard care routine. There was a need to investigate whether these humor activities are beneficial for people with schizophrenia because there has not been a comprehensive summary of the research done on this idea so far. 
+
+3. Trial Design: 
+   To study this, a very meticulous process was followed. Information from previous studies done until February 2021 was collected. These studies must have been well-organized trials that compared the effects of these humor activities to either other psychological treatments or the standard care routine. However, studies whose data could not be further used for analysis were not considered. Two researchers checked the collected information, chose the studies, gained the necessary data, and gauged the quality of the studies separately. They used statistical methods to compare different study outcomes. In the end, the findings from three studies were included in this review. 
+
+4. Results: 
+   Out of the three studies included, one did not give any related results, leaving two studies with 96 total participants for the analysis. However, sadly, essential outcomes such as changes in general mental state, negative symptoms, quality of life, and side effects were not reported. The results showed that humor-based activities did not necessarily improve the state of mind, positive or negative symptoms, or anxiety in people with schizophrenia. The effect of these activities on people leaving the study early is uncertain due to the small number of participants. On the positive side, these activities might help lower feelings of depression. But, when compared to standard care, these activities did not necessarily improve depressive symptoms. Whether people left the study early for any reason compared with standard care is also uncertain.
+
+In conclusion, we still do not know if humor-based activities are beneficial to people living with schizophrenia. There is a need for more studies that are carefully planned and clear about the important outcomes to be investigated.

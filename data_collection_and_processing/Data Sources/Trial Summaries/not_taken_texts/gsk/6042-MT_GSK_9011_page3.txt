@@ -1,0 +1,18 @@
+Where was this study done?
+Study sites were in four countries.
+Number of patients includedin the study from each
+country
+China 20
+Japan 10
+Republic of Korea 34
+United States 16
+0 10 20 30 40
+Number of patients
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Men and women were included in the study if they:
+• Were at least 18 years old.
+• Received belimumab 10 mg/kg for a minimum of 6 months in a
+previous belimumab studies.

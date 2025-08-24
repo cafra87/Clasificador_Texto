@@ -1,0 +1,22 @@
+Alopecia areata (AA) is an autoimmune skin disease that causes hair loss ranging from 
+small patches to a loss of all hair on the head and body. AA occurs when the immune 
+system mistakes normal cells in the body as foreign invaders and attacks these cells.  
+There is no cure for AA and most countries do not have an approved treatment for 
+AA. Treatments that reduce the activity of parts of the immune system are often used 
+to treat AA, but some of these treatments can cause other health problems or can 
+only be used for short periods of time. Researchers are looking for new treatments 
+for AA that can be taken safely for longer periods of time.
+Two (2) drugs were tested in this study: PF-06651600 and PF-06700841.  
+PF-06651600 and PF-06700841 are both experimental drugs that have not been 
+approved for sale yet. PF-06651600 blocks the activity of protein called "Janus 
+kinase 3" and the "TEC family kinases". PF-06700841 blocks the activity of 2 other 
+enzymes called "Janus kinase 1" and "Tyrosine-protein kinase 2". These enzymes act 
+like on/off switches for the cells of the immune system. By turning off these 
+switches, the cells of the immune system are expected to produce fewer cytokines, a 
+different type of protein, that are believed to make AA worse.  
+The researchers wanted to know,
+- Were patients who took PF-06651600 or PF-06700841 more likely to have 
+their AA improve compared to patients who were treated with a placebo?
+To do this, researchers measured the severity of each patient's AA at the beginning of 
+the study. The researchers measured the severity of AA after 24 weeks of treatment.  
+The difference in severity was used to decide if a patient's AA had improved or not.

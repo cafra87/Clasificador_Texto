@@ -1,0 +1,20 @@
+Plain Title: Effectiveness and Safety of Oral Antibiotics for Chronic Blepharitis
+
+Rationale:
+Chronic blepharitis is a common eye condition that causes damage to the surface of the eye and discomfort. It affects a significant number of ophthalmology patients, with the incidence increasing with age. The condition is associated with other pathologies such as rosacea, meibomianitis, and infections. Current treatment focuses on relieving symptoms using artificial tears, lid scrubs, and warm compresses. However, managing chronic blepharitis can be difficult. One potential approach is the use of oral antibiotics, which can target bacterial infections and reduce inflammation. However, guidelines on the use of oral antibiotics for chronic blepharitis are currently lacking.
+
+Trial Design:
+To assess the benefits and potential harms of using oral antibiotics for chronic blepharitis, researchers conducted a systematic search for relevant studies. They included randomized controlled trials that compared oral antibiotics with a placebo in adults with chronic blepharitis. The researchers searched various databases without any restrictions on date or language. They collected data according to established Cochrane methodology and graded the certainty of the evidence using the GRADE classification.
+
+Results:
+The researchers included two studies involving a total of 220 participants. One study compared oral doxycycline with placebo and enrolled participants with blepharitis and facial rosacea in the USA. The other study conducted in South Korea compared high-dose and low-dose doxycycline with placebo in participants with chronic meibomian gland dysfunction. Unfortunately, the two studies did not measure the same outcomes, so a meta-analysis could not be performed.
+
+The evidence for the effect of oral antibiotics on subjective improvement in symptoms was very uncertain. One study suggested that oral doxycycline had little to no effect on subjective symptoms based on scores from the Ocular Surface Disease Index and bulbar conjunctival hyperemia. However, the three-arm study suggested that both high-dose and low-dose doxycycline may slightly improve the number of symptoms and proportion of participants with symptom improvement.
+
+The evidence for improving clinical signs such as tear production and tear film stability was also very uncertain. The studies found some improvements in these signs with oral doxycycline, but the clinical importance of these improvements remains unclear.
+
+One study indicated that oral doxycycline may increase the incidence of serious side effects compared to placebo. Adverse events such as migraine headache and non-Hodgkin's lymphoma were reported.
+
+Based on the available evidence, it is currently insufficient to draw meaningful conclusions about the use of oral antibiotics for chronic blepharitis. More high-quality trials are needed to provide better evidence on the effectiveness and safety of oral antibiotics for this condition.
+
+In conclusion, based on the limited evidence available, the use of oral antibiotics for chronic blepharitis is still uncertain. There are potential improvements in clinical signs but also an increased risk of adverse events. Further research is needed to better understand the role of oral antibiotics in the treatment of chronic blepharitis.

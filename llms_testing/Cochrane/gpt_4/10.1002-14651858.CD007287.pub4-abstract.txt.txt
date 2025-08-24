@@ -1,0 +1,17 @@
+1. Plain Title
+Exploring if Stimulating the Immune System can Help Fight Ovarian Cancer
+
+2. Rationale
+Ovarian cancer is a serious disease that, despite advances in therapies, still causes significant health problems for women. In looking for new treatments, scientists are investigating the ability of our immune system to specifically target and destroy cancer cells in the body. This approach, called "active immunotherapy", could offer an alternative way of treating ovarian cancer. The hope is that it could improve the body's natural defense against the disease, decrease the chances of cancer returning, and ultimately improve the chances of survival.
+
+3. Trial Design
+To test this theory, the researchers analyzed scientific studies up to July 2017. These studies, including randomized controlled trials (medical experiments where participants are randomly assigned to different treatment groups) and non-randomized studies, involved women who have a type of ovarian cancer known as epithelial ovarian cancer. The women in these studies were treated with different types of active immunotherapy. The researchers considered the women's response to the treatment, any side effects, as well as the overall survival rates. 
+
+4. Results
+The findings from these studies were mixed. While some studies show promise, specifically ones that target a molecule known as CA-125, others failed to demonstrate a clear health benefit in patients. In studies where active immunotherapy showed promise, patients' immune responses were strong, which led to better survival rates and moderate side effects. The only catch was that this was seen in non-randomized studies which are less reliable than randomized trials. 
+
+On the other hand, in four large randomized trials, the therapy did not show any health benefits even though it triggered immune responses in about 60% of the patients. In these studies, the time it took for the cancer to return after treatment was between 10.3 to 18.9 months for women who received the therapy, and 10.3 to 13 months for those who didn't. Overall survival rates were similar in both groups. 
+
+Interestingly, small studies targeting many different cancer-related molecules showed promising results in terms of immune response. However, these approaches need to be tested in larger, more methodical trials before we can be sure of their effectiveness. 
+
+In conclusion, while stimulating our immune system to fight cancer cells is a promising field of investigation, it is clear that more research is needed. Future studies should be carefully designed and conducted to minimize biases, collecting enough information to truly understand if this approach is beneficial for ovarian cancer patients.

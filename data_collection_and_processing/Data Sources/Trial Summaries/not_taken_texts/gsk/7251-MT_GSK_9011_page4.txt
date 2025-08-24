@@ -1,0 +1,26 @@
+Where was this study done?
+Study sites were in nine countries.
+Number of patients who received at least one dose of
+study medicine
+Australia 37
+Canada 48
+Germany 103
+Republic of Korea 79
+Netherlands 38
+Poland 82
+Romania 106
+Spain 62
+United States 59
+0 20 40 60 80 100 120
+Number of patients
+What were the overall results of the study?
+In this study, patients scored their COPD symptoms (shortness of breath, cough and
+phlegm production, and chest tightness and chest congestion) once daily using the
+Evaluating Respiratory Symptoms in COPD (E-RS: COPD) tool. This tool helps measure
+the severity of COPD symptoms, where higher scores indicate more severe symptoms.
+For each patient, the difference between E-RS: COPD score in the week before starting
+the study treatment (baseline) and Month 6 were calculated. This difference in
+patients’ scores within each treatment group were combined and averaged to get the
+change from baseline scores. A decrease in the average E-RS: COPD score at Month 6
+compared with the baseline score indicates a reduction in COPD symptoms during the
+study.

@@ -1,0 +1,289 @@
+Clinical Study Results
+This summary reports the results of only one study . Researchers must look at the 
+results of many types of studies to understand if a study medication works, how it 
+works, and if it is safe to prescribe to patients . The results of this study might be 
+different than the results of other studies that the resea rchers review.
+Sponsor:    Pfizer Inc. 
+Medicine Studied: Gemtuzumab ozogamicin (MYLOTARG™)
+Protocol Number: B1761031
+Dates of Study: 03 July 2019 to 27 April 2021
+Title of this Study: A study to assess the general safety and effect of 
+gemtuzumab ozogamicin (MYLOTARG™) on the 
+heart of patients with CD33 -positive acute myeloid 
+leukemia and to seehow the drug moves through the 
+body 
+[A single -arm, open -label, phase 4 study evaluating QT
+interval, pharmacokinetics, and safety of gemtuzumab 
+ozogamicin (MYLOTARG™) as a single -agent 
+regimen in patients with relapsed or refractory 
+CD33-positive acute myeloid leukemia ]
+Date of this Report: 30March 2022
+–Thank You –
+If you participated in this study, Pfizer, the Sponsor, would like to thank you for your 
+participation.
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+This summary will describe the study results . If you have any questions about the study 
+or the results, please contact the doctor or staff at your study site.
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Why was this st udy done?
+What is CD33 -positive acute myeloid leukemia ?
+Acute myeloid leukemia (or “AML”) is a type of blood cancer . This cancer is caused 
+by too many immature white blood cells being made in the bone marrow. This 
+reduces the ability of the body to make normal blood cells such as white blood cells 
+(that fight off infections), red blood cells (that deliver oxygen to muscles and organs), 
+and platelets (that help blood clot).
+In normal cells, CD33 is a protein that is involved in helping cells communicate and
+connect/bond to things . They are also involved in cell growth. Cancer cells may grow 
+more quickly. 
+Participants in this study had CD33 -postive AML, which means that they had the 
+CD33 protein on the surface of their cancer cells. Their CD33 -positive AML was 
+either:
+Relapsed: This means that the patient had a response to their most recent cancer 
+treatment, but the cancer came back.
+Or
+Refractory: This means that the patient did not have any response to their most 
+recent cancer treatment, or the disease got worse while receiving the most recent 
+treatment.
+What is gemtuzumab ozogamicin (MYLOTARG™) ?
+Gemtuzumab ozogamicin (GO) (MYLOTARG™) is an antibody that attaches to 
+myeloid cells (a type of cell in the bone marrow and blood ) that have the CD33
+protein . Once attached to the cancer cells, the drug delivers a substance into the cells 
+and causes the diseased cell to die.
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+At the time of this study GO is the only approved AML therapy that specifically 
+targets the CD33 protein . 
+In the United States ( US), GO is appro ved for treating adults and children 1 month 
+and older who have been diagnosed with CD33 -positive AML for the first time . It is 
+also approved for treating relapsed or refractory CD33 -positive AML in adults and 
+children 2years and older . Participants in this study had relapsed or refractory 
+CD33 -positive AML.
+In the European Union , GO is approved (to be given in combination with some 
+other anti-cancer medications) for treating participants 15 years and older, who have 
+been diagnosed with CD33-positive AML for the first time and have not previously 
+been treated for their AML. 
+The Food and Drug Administration (FDA) asked the researchers to do some 
+additional tests to s ee whether GO has an effect on the heart function (described in 
+next secti on).
+What was the purpose of this study?
+Themain goal of this study was to see if taking GO has an effect on the heart 
+function (specifically the “QT interval”) of pa rticipants with AML .
+Inthis study, researchers used an electrocardiogram (ECG) machine , to measure heart 
+function . The QT interval is a measurement made on the ECG that measures the 
+electrical activity for part of the heart function .
+The researchers wanted to see if there were any changes in the QT interval after 
+taking GO , compared to before taking GO . Specifically, researchers wanted to see if 
+GO causes “QT prolongation”. QT prolongation occurs when the heart takes longer 
+to contract and relax. This can affect the heart rhythm (beating of the heart ) and can 
+lead to l ife-threatening hea rt rhythm disorder .
+To make sure the comparisons were accurate, researchers adjusted or “corrected” the 
+QT interval using a special formula . This i sso QT interval values c ould be compared 
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+fordifferent heart rates. The corrected QT interval is called “QTc”. In this study, the 
+corrected QTc values used to described results is called “QTcF ”.
+Researchers wanted to know:
+Did the participants have a change in the irheart function
+(measured by QT change) after taking GO, compared to before 
+taking GO?
+What happened during the study?
+How was the study done?
+Researchers t ested GO on a group of study participants with CD33 -positive AML to
+find out if study participants taking GO had a change in their heart function. 
+This was an “open -label” study, which means that the researchers and the participants 
+knew what study medication they were receiving. Apart from GO, participants also 
+received their normal medications to relieve their cancer symptoms . Participants were 
+also given medicines to help reduce symptoms such as fever and chills, known as 
+“infusion reactions ”, before receiving GO.
+Before being included in the study, participants were “screened” to see if they qualify 
+to be in the study. During screening, a bone marrow or blood sampl es was collected 
+to see if participants had CD33 on their cancer cells. 
+Participants were given 3mg/m2of GOvia intravenous (IV) infusion (using a “drip”) 
+on Days 1, 4 and 7 per cycle for 1or 2cycles . Infusion of the study medication took 
+about 2hours on each day . Some participants received GOfor 1cycle, and others for 
+2cycles, depending on what the research doctors felt was best, and how what side 
+effects the participants were having due to receiving GO.
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Participants returned to the study un it for tests and biological sample collection on 
+Days 10, 15 and 21 of each cycle , and had a final end-of-treatment (EoT) visit, 
+36days after the last dose of GO , or start of new/other anticancer treatment.
+After the EoT visit ,participants were monitored every 12weeks for 12 months, either 
+via phone call or by being asked to return to the study unit for assessments ,during a 
+Follow -up Period.
+Participants had regular ECGs to monitor changes in their heart .Participants also had 
+other tests, and blood sam ples collected to monitor their safety, check the level of 
+GO in their blood and how GO was processed by their body . Some participants also 
+had urine samples collected. Participants were also asked about how well they were 
+feeling, and about any other medi cations they were taking.
+The schematic of the basic study plan is shown below.
+Where did this study take place?
+The Sponsor ran this study at 17locations in 6countries in Europe and North 
+America .
+When did this study take place?
+It began on 03 July 2019 and ended on 27 April 2021.
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Who participated in this study?
+A total of 66 potential participants were screened to see if they qualify to be in the 
+study. 
+In total, 52 participants (51 adults and 1 teenager ) who had CD33 -positive AML that 
+was either relapsed or refractory ,qualified to be in the study .Only results for the 
+51adult participants are shown in this report. 
+Participants included in the study also met specific criteria with regards to the status 
+of their leukemia, their heart rate measurements (specifically, QT interval), and their
+current and previous treatments for their cancer . 
+A total of 31 men participated
+A total of 20 women participated
+All participants were between the ages of 22years and82years.
+Of the 51 adult participants in the study , 50 participants received at least 1 dose of 
+study medication . One participant did not receive any treatment.
+Of the 50 participants who received study medication:
+46of the 50 participants (92%) completed Cycle 1 treatment, and
+9 of the 50 participants (18%) completed Cycle 2 treatment .
+Two of the participants did not complete the ir assigned treatment due to medical 
+problems . 
+All 51participants (including the 1 participant who did not receive any study 
+medication) entered the follow -up part of the study. Most of the participants (49 of 
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+the 51 participants [96%] ) did not complete the follow -up part of the study, due to the 
+following reasons:
+Participant passed away : 45of the 51 participants (88%)
+Participant decided they did not want to be in the study anymore : 2 of the 
+51participants (4%)
+Researchers were unable to contact the participant: 1 of the 51 participant s(2%)
+Other reason: 1 of the 51 participant s(2%)
+How long did the study last?
+Study participants were in the study for about 12 months . The entire study took 1year 
+and 9 months to complete.
+When the study ended in April 2021 , the Sponsor began reviewing the information 
+collected . The Sponsor then created a report of the results . This is a summary of that 
+report.
+What were the results of the study?
+Did the participants have a change in their heart function (measured 
+by QT change) after taking GO, compared to before taking GO?
+Only r esults for all adult participants are shown below. 
+The study found that GO did cause changes in heart function, measured by QT 
+change. None of the changes were of concern to researchers though .
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Did the study medication cause QTc prolongation?
+The researc hers did a comparison (“analysis”) of QTc interval values before taking 
+GO and after taking GO using statistical tests. They used QTcF for the main 
+comparison. 
+Figure 1 shows the average changes in QTc from before the first dose of GO was 
+given (“baseline ”) to different time points in Cycle 1 after GO was given. Time points 
+assessed were Day1 (at 1, 2 and 4 hours), Day 4 (at 0 and 2 hours) and Day 7 (at 0, 2, 
+4 and 6 hours). Bars above the line show increases in QTcF from baseline , and bars 
+below the line show decreases in QTcF from baseline .
+Researchers decided beforehand on a specific cut off value that would tell them if the 
+change in QTc was significant or not. The study found that the largest possible 
+difference in QTc values after taking GO calculated by researchers was below the cut 
+off value. This means that QTc values after taking GO were acceptable compared to 
+average QTc values at baseline, for the time points in this study. The researchers did 
+not think that GO causes significant QTc pr olongation.
+There were no participants with individual QTc changes from baseline or maximum 
+QTc values that were of concern to researchers.
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Figure 1. Summary of Average QTcF Change From Baseline in Cycle 1
+D = Day; H = hours after first dose of GO on eac h dosing day
+This does not mean that everyone in this study had these results. This is a summary of 
+just some of the main results of this study. Other studies may have different results.
+What medical problems did participants have during 
+the study?
+The re searchers recorded any medical problems the participants had during the study . 
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance) . Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking . Sometimes the cause of a medical problem is unknown . By comparing medical 
+problems across many treatment groups in many studies, doctors try to understand 
+what effects a study medication might have on a participant.-505101520
+D1, 1H D1, 2H D1, 4H D4, 0H D4, 2H D7, 0H D7, 2H D7, 4H D7, 6HAverage Change From Baseline (msec)
+Cycle Day, Time Ater GO Dose
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Only r esults for all adult participants are shown below. 
+Forty -nine (49) out of 50participants (98%) in this study who received GO in the 
+study had at least 1 medical problem. The most common medical probl ems –those 
+reported by 10% or more of participants –are described below.
+Below are instructions on how to read Table 1. 
+Instructions for Understanding Table 1. 
+The 1stcolumn of Table 1lists medical problems that were commonly 
+reported during the study . All medical problems reported by more than 
+10% of participants are listed.
+The 2ndcolumn tells how many of the 50 participants taking the study 
+medication reported each medical problem .Next to this number is the 
+percentage of the 50 participants taking the study medication who 
+reported the medical problem. 
+Using these instructions, you can see that 20out of the 50participants 
+(40%) taking the study medication had a medical problem of low white 
+blood cells count with fever.
+Some participants had medical problems related to their heart rate, but most were 
+mild tomoderate . One participant had medical problems of ‘irregular heartbeat ’and 
+‘rapid heartbeat ’that were considered severe . 
+No participants had side effects related to the electrical activity of their heart, that 
+were considered life -threatening or caused the death of the participant. 
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Table 1. Commonly reported medical problems by study participants
+Medical ProblemStudy Medication
+(50Participants)
+Low white blood cell count with fever 20out of 50participants ( 40%)
+Low blood platelets 11out of 50participants ( 22%)
+Low blood potassium 9out of 50participants ( 18%)
+Fever 9 out of 50 participants (18%)
+Nausea 8 out of 50participants ( 16%)
+Blood stream infection 7out of 50participants ( 14%)
+Low red blood cell count 6out of 50participants ( 12%)
+Vomiting 6 out of 50 participants (12%)
+Increased liver enzyme s in blood 5 out of 50 participants (10%)
+Constipation 5out of 50participants ( 10%)
+Diarrhea 5 out of 50 participants (10%)
+AML got worse 5 out of 50 participants (10%)
+Nosebleed 5 out of 50 participants (10%)
+Headache 5 out of 50 participants (10%)
+Low blood magnesium levels 5 out of 50 participants (10%)
+Low levels of white blood cells 5 out of 50 participants (10%)
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Did study participants have any serious medical 
+problems?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.
+A total of 34 out of 50 participants (68%) had serious medical problems .Serious 
+medical problems that were reported for 2 or more participants are shown in Table 2.
+Most of the serious medical problems were not considered by researchers to be 
+related to GO. A total of 5 out of 50 participants (10%) had serious med ical problems 
+that researchers thought might be related to GO. 
+Low white blood cell counts with fever in 3 out of 50 participants (6%)
+Low blood platelets in 1 out of 50 participants (2%)
+Bacterial infection of the kidneys, bladder or urethra in 1 out of 50 participants 
+(2%)
+Blood vessel leakage in 1 out of 50 participants (2%)
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Use the same for reading Table 2 as p rovided for Table 1. 
+Table 2. Serious medical problems reported by 2 or more participants 
+in the study
+Serious Medical ProblemStudy Medication
+(50 Participants)
+Low white blood cell count with fever 11 out of 50 participants (22%)
+Blood stream infection 7 out of 50 participants (14%)
+AML got worse 5 out of 50 participants (10%)
+Fever 3 out of 50 participants (6%)
+Pneumonia 3 out of 50 participants (6%)
+Non -typical pneumonia 2 out of 50 participants (4%)
+Low blood platelets 2 out of 50 participants (4%)
+Overall, 45 out of 50 (90%) participants passed away during the entire study
+(including the follow -up period) , due to the following reasons:
+AML g otworse (“disease progression”): 35 out of 50 participants (78%)
+Blood vessel leakage : 1 out of 50 participants (2%)
+Other reasons: 14 out of 50 participants (31%)
+Only the event of “blood vessel leakage” was considered by the researchers to be 
+potentially related to GO. 
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)
+Where can I learn more about this study?
+If you have questions about th e results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on your study protocol, please visit:
+www.clinicaltrials.gov Use the study identifier NCT03727750
+www.clinicaltrialsregister.eu Use the study identifier 2018-002619 -89
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients .
+Again, if you participated in this study, 
+thank you for volunteering.
+We do research to try to find the 
+best ways to help patients , and you helped 
+us to do that !
+090177e199d3c470\Approved\Approved On: 31-Mar-2022 09:40 (GMT)

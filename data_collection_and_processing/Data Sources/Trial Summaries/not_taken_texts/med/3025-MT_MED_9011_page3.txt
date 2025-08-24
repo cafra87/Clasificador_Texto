@@ -1,0 +1,29 @@
+Clinical Study Results
+What kind of study was this?
+This was an “open-label” study. This means the researchers and the participant
+knew what the participant was taking.
+In this study, the participants took savolitinib or sunitinib as a pill by mouth. The
+doses were measured in milligrams, also called mg.
+There were 2 treatment groups in this study. A computer program was used to
+randomly choose the treatment each participant took. This helps make sure the
+groups are chosen fairly. Researchers do this so that comparing the results of each
+treatment is as accurate as possible.
+In this study, the participants took study treatment in 6-week time periods called
+“cycles”. The participants could keep taking study treatment until one of these
+happened:
+• their cancer got worse
+• they had a medical problem that the doctors thought might be related to the
+study treatment
+• they wanted to leave the study
+The table below shows the treatments in this study.
+Treatment schedule
+Group Treatment each cycle
+Group 1
+600 mg of savolitinib Once a day for 6 weeks
+(33 participants)
+Once a day for
+Group 2
+50 mg of sunitinib 4 weeks, then no
+(27 participants)
+treatment for 2 weeks
+3

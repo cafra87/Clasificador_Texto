@@ -1,0 +1,15 @@
+1. Plain Title
+Effects and Risks of Antipsychotic Drugs in Treating Agitation and Psychosis in Dementia Patients
+
+2. Rationale:
+Alzheimer's and vascular dementia often cause symptoms like agitation and psychosis. These can be scary and distressing for the patient and their caregivers. To help manage these symptoms, doctors sometimes use antipsychotic medicines. These are split into two groups: typical and atypical drugs. However, it's not clear whether these drugs really help without causing more harm. Some studies have shown mixed or negative results. Therefore, it was important to examine the effectiveness and safety of these medicines in a large scale review.
+
+3. Trial Design:
+For this study, we looked at how effective and safe antipsychotic drugs were for patients with Alzheimer's or vascular dementia. We carefully reviewed data from many different sources, including published studies, clinical trial registries and other records. We focused on trials that compared antipsychotic drugs with a placebo (a treatment that has no effect). Overall, we looked at the results from 24 trials, including over 6000 patients. These patients came from many different backgrounds and lived in a variety of places, such as hospitals, care homes and their own homes.
+
+4. Results:
+Our review found that typical antipsychotic drugs (like haloperidol and thiothixene) might have slight benefits in reducing agitation and psychosis. However, they could also lead to side effects such as drowsiness and movement symptoms. There might also be a slight increase in very serious side effects and death, although our findings aren't clear on this point.
+
+Atypical antipsychotics like risperidone and olanzapine had a small but positive effect on agitation and seemed to have little effect on reducing psychosis in people with dementia. Again, there were drawbacks. Like typical antipsychotics, they led to side-effects like drowsiness and movement symptoms. They also slightly raised the chance of serious side effects and death. 
+
+Our conclusions suggest that while these drugs may have some positive effects in reducing symptoms of agitation and psychosis, they also come with risks. If doctors are considering using these drugs, they should openly discuss the potential benefits and risks with the patient and their legal representative.

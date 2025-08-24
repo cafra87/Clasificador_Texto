@@ -1,0 +1,12 @@
+Plain Title: Evaluating Systemic Treatments for Allergic Eye Diseases in Children and Young People
+
+Rationale: 
+Atopic keratoconjunctivitis (AKC) and vernal keratoconjunctivitis (VKC) are severe eye diseases that cause chronic inflammation and can lead to vision problems. Currently, there are both topical and systemic treatments available for these conditions. This study focuses on evaluating the effectiveness of systemic treatments, including corticosteroids, NSAIDS, immunomodulators, and monoclonal antibodies, in children and young people up to the age of 16 who have AKC or VKC. The goal is to determine if these treatments are safe and beneficial for patients with these conditions.
+
+Trial Design:
+This study involves conducting randomized controlled trials (RCTs) to assess the effects of systemic treatments for AKC and VKC in children and young people. The trials will include participants up to the age of 16 who have been diagnosed with AKC or VKC. The design of the study will compare the effects of different systemic treatments to placebo or other systemic or topical treatments. The study is expected to take a certain amount of time to collect data and evaluate the outcomes, although the specific duration is not mentioned in the abstract.
+
+Results:
+After conducting a thorough search of various databases and registries, it was found that no trials met the criteria for inclusion in this study. This means that there is currently no scientific evidence from randomized controlled trials regarding the safety and effectiveness of systemic treatments for AKC and VKC in children and young people. Further research is needed to test the efficacy and safety of existing and future treatments for these conditions. Additionally, there is a need to develop outcome measures that can capture both objective clinical observations and subjective patient-reported experiences related to the condition and its treatments.
+
+In conclusion, this study aims to evaluate the effects of systemic treatments for severe allergic eye diseases in children and young people. However, due to the lack of available trials, there is currently no evidence to support the use of systemic treatments for these conditions. Future research is necessary to better understand the safety and efficacy of treatments and to develop better ways of measuring the outcomes of these treatments.

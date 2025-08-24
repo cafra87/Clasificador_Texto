@@ -1,0 +1,21 @@
+Plain Title: Effectiveness and Safety of IL-1 Blocking Agents for Treating COVID-19 
+
+Rationale: 
+IL-1 blocking agents are medications that can potentially help people with severe COVID-19 by modulating their immune response. This study aimed to determine the effects of these medications compared to standard care or placebo on the outcomes and safety of patients with COVID-19. 
+
+Trial Design: 
+The study included randomized controlled trials (RCTs) that evaluated IL-1 blocking agents in people with COVID-19, regardless of the severity of their condition. The researchers followed a specific methodology and assessed the risk of bias using established tools. The trials included participants who were hospitalized and required oxygen but were not intubated. The study duration varied across the trials. 
+
+Results: 
+The main findings of the study are as follows: 
+- Anakinra, one of the IL-1 blocking agents, does not appear to significantly improve clinical improvement at Day 28 compared to standard care or placebo. 
+- The evidence is uncertain regarding the effect of anakinra on the proportion of participants with a higher WHO Clinical Progression Score or all-cause mortality at Day 28. 
+- The evidence is very uncertain regarding the effect of anakinra on clinical improvement and all-cause mortality at Day 60 or beyond. 
+- Anakinra does not seem to substantially increase the risk of adverse events or serious adverse events in people with COVID-19. 
+
+- Canakinumab, another IL-1 blocking agent, also does not appear to significantly improve clinical improvement at Day 28 compared to standard care or placebo. 
+- The evidence is uncertain regarding the effect of canakinumab on the proportion of participants with a higher WHO Clinical Progression Score or all-cause mortality at Day 28. 
+- The evidence is very uncertain regarding the effect of canakinumab on all-cause mortality at Day 60 or beyond. 
+- Canakinumab does not seem to substantially increase the risk of adverse events or serious adverse events in people with COVID-19. 
+
+Overall, the study did not find evidence to support a significant beneficial effect of IL-1 blocking agents in treating COVID-19. The evidence is uncertain or very uncertain for several outcomes. There are ongoing trials that may provide further insights into the effectiveness and safety of these medications. These findings are regularly updated on the COVID-NMA platform.

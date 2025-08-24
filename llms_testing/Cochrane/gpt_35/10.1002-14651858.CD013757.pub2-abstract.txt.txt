@@ -1,0 +1,17 @@
+Plain Language Summary (PLS):
+
+1. Plain Title:
+Preventing Severe Respiratory Virus Infections in Children: The Effectiveness of Palivizumab
+
+2. Rationale:
+Respiratory viruses are a common cause of serious lung infections in infants and young children. Respiratory syncytial virus (RSV) is one of the main viruses that can cause these infections. Palivizumab is a medication given to children during their first RSV season to help prevent severe lung infections. This study aims to determine if palivizumab is effective in preventing severe RSV infections in children.
+
+3. Trial Design:
+This study involved looking at different research studies that compared the use of palivizumab to a placebo or no treatment in children between 0 and 24 months old. The studies included both boys and girls and focused on children at high risk of RSV infections. The study design involved giving palivizumab once a month for up to five months. The study duration varied depending on the individual studies.
+
+4. Results:
+The study found that palivizumab reduced the number of hospitalizations due to RSV infection in children. The risk of hospitalization was almost halved in children who received palivizumab compared to those who did not. This means that palivizumab can help prevent severe lung infections and the need for hospitalization in children.
+
+The study also found that palivizumab did not increase the risk of death or adverse events in children. It was found to be safe for use. Additionally, palivizumab was associated with a decrease in hospitalizations due to respiratory-related illnesses and a reduction in the number of days with wheezing.
+
+These findings suggest that palivizumab is an effective medication for preventing severe RSV infections in children at high risk. However, more research is needed to determine its effectiveness in children with other risk factors and in different socioeconomic settings.

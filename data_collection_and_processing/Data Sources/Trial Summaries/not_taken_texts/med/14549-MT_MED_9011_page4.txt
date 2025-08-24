@@ -1,0 +1,24 @@
+What is AZD1222?
+AZD1222 is a vaccine used to help protect people aged 18 years and older
+against COVID-19. COVID-19 is caused by a virus called coronavirus (SARS-CoV-2).
+AZD1222 stimulates the body’s natural defenses (immune system). It causes the
+body to produce its own protection through antibodies and T cells against the
+virus. This could help protect people against COVID-19 in the future. None of the
+ingredients in this vaccine can cause COVID-19.
+How do researchers make AZD1222 and how does it work inside the
+body?
+There are many different types of vaccines. The vaccine AZD1222 is a “viral
+vector” vaccine. This means that genetic information about the protein structure of
+SARS-CoV-2 is packaged into a harmless and weakened virus called a viral vector
+for the immune system to process. To make AZD1222, the researchers use a type
+of common cold virus called “adenovirus” that usually infects chimpanzees but not
+humans. It has been made so that it is impossible for this virus to grow in humans
+or change our own DNA.
+The information that the researchers put inside the weakened viral vector is the
+genetic code for the entire SARS-CoV-2 “spike” protein. This is a protein on the
+outside of the SARS-CoV-2 virus that allows it to enter someone’s cells, like a key
+to a lock. The spike protein is usually the first part of the virus that comes into
+contact with the immune system when someone gets infected. The vaccine does
+not contain any other parts of the SARS-CoV-2 virus and cannot cause COVID-19
+infection.
+4

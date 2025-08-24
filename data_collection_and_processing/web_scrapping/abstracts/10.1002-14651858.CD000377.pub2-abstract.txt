@@ -1,0 +1,14 @@
+Background
+The term 'challenging behaviour', in the absence of psychiatric disorder, encompasses a wide range of behaviours that may be harmful to people or property, may be difficult to manage and may limit access to community facilities. Antipsychotic medications have been used to modify such behaviours in people with learning disability, but there is little evidence to suggest that the benefits outweigh the risks. 
+Objectives
+To determine the effectiveness of antipsychotic medication for people with learning disability and challenging behaviour without additional mental illness. 
+Search methods
+Biological Abstracts, the Cochrane Library, EMBASE, MEDLINE, PsycINFO and BIOSIS were searched. Further references were sought from published trials and pharmaceutical companies. Trials were reliably identified and data extracted. 
+Selection criteria
+All randomised controlled trials of antipsychotic medication versus placebo.
+Data collection and analysis
+Reviewers independently evaluated and analysed data on an intention to treat basis. Data were evaluated at 4, 8 and 12 weeks as longer follow‐up data were not available. Reviewers assumed that those subjects lost to follow‐up had a bad outcome. 
+Main results
+Only nine randomised controlled trials could be included in the analyses. These provided no evidence of whether antipsychotic medication helps or harms adults with learning disability and challenging behaviour. 
+Authors' conclusions
+There are limited data on this important issue and more research is urgently needed.

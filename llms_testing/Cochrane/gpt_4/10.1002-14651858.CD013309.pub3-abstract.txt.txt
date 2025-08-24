@@ -1,0 +1,17 @@
+1. Plain Title:
+Continuous Glucose Monitoring in Preterm Infants: Are There Benefits or Harm?
+
+2. Rationale:
+Babies born too early (preterm infants) often struggle to maintain healthy levels of sugar (glucose) in their blood. This could potentially lead to brain and development problems. Continuous Glucose Monitoring (CGM) is a device that might help in maintaining normal glucose levels in these babies and decrease the need for painful blood tests. However, we don't know yet whether CGM might harm these fragile infants.
+
+3. Trial Design:
+This study aimed to compare the benefits and potential harm of using CGM instead of periodic blood sugar checks in preterm infants. Our study group included babies at risk of high or low glucose levels, babies known to have low glucose, and babies known to have high glucose levels. We reviewed reliable studies up until April 2021. The study included comparing data, results, and quality of four clinical trials with a total of 300 premature infants.
+
+4. Results:
+From the four trials, we could not clearly determine the effect of CGM on these infants' health or whether CGM prevents brain impairment or seizures. Also, it's unclear if CGM reduces in-hospital deaths. 
+
+The quality of the evidence we gathered was generally low - either due to poorly designed studies or unclear results. We discovered one additional ongoing study involving 60 infants, which is expected to finish in 2022. 
+
+It is important to note that none of our studies were conducted on preterm infants proven to have low or high glucose levels. One encouraging finding was that the risk of life-threatening bowel ailment known as necrotizing enterocolitis was lower in babies using CGM in one 2021 report. However, we cannot say for certain that CGM was the cause of this difference. 
+
+In conclusion, there isn't enough evidence to show whether CGM is beneficial, harmful, or has no effect on preterm infants' health or development. We need more clinical trials to confirm the best way to use CGM in helping babies with glucose problems before we can conduct larger studies on how CGM may lower deaths, disabilities, or other long-term brain problems.

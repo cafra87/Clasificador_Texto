@@ -1,0 +1,17 @@
+Page 4 of 8
+Where was this study done?
+Study sites were in four countries.
+Number of patients who received at least one dose of
+study medicine
+Canada 4
+Netherlands 4
+United Kingdom 14
+United States 13
+0 5 10 15
+Number of patients
+What were the main results of the study?
+Safety was measured by recording adverse events and monitoring patients’ test results.
+Adverse events
+The figure below shows the number of patients who had adverse events, including
+serious adverse events, from Day 1 onwards.
+Number of patients with adverse events from Day 1 onwards

@@ -1,0 +1,11 @@
+1. Plain Title: A Study on Using Certain Antidepressants to Prevent Chronic Tension Headaches.
+
+2. Rationale: Tension headaches are one of the most frequent disorders globally, affecting us both socially and financially. These headaches can range from mild to chronic, which is when they turn into a long-term issue. Experts think that brain chemicals, like serotonin, help control our pain. Some antidepressants like SSRIs (Selective Serotonin Re-uptake Inhibitors) and SNRIs (Serotonin-Norepinephrine Reuptake Inhibitors), influence how these brain chemicals work. This study was designed to see if these medicines can prevent tension headaches.
+
+3. Trial Design: In this study, researchers analyzed eight studies that included 412 adults of both genders suffering from chronic tension-type headaches. Selected people were treated with either antidepressants (SSRIs or SNRIs) or a placebo (a pill with no active drug). The main aim was to see how often the headaches happened after taking these drugs. Researchers also studied the amount of pain, how long the headache lasted, and the use of pain medication. The study lasted between two to four months.
+
+4. Results: After eight weeks, the study revealed that SSRI or SNRI treatment did not reduce the frequency of headaches any better than a placebo or another type of antidepressant (amitriptyline). However, it was found that the use of pain relief for sudden headache attacks decreased with SSRIs, but more so with amitriptyline. No differences were found when comparing these drugs' effects on the length and severity of headaches. The patients tolerated SSRIs or SNRIs better than other types of antidepressants due to fewer side effects, yet there wasn't a big difference in the number of people who stopped treatment due to these side effects.
+
+The study did not find any comparisons between SSRIs, SNRIs, and other treatments like Botox or non-drug therapies like psychology-based treatments and acupuncture.
+
+In conclusion, this study does not support the preventive use of SSRIs and SNRIs for chronic tension headaches because they are not more effective than a placebo or other types of antidepressants like amitriptyline. More research is needed to understand the best treatment for chronic tension headaches.

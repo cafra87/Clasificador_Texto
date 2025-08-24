@@ -1,0 +1,36 @@
+Clinical Trial RESULTS
+Highest amount of study drugs in the blood over time
+Researchers measured this using nanomoles per litre, or nmol/L. This is a
+scientifically accepted unit of measurement. They found that:
+• participants who took only AZD7986 had an average highest amount
+of 385.8 nmol/L of the drug in their blood
+• participants who took AZD7986 with verapamil had an average highest
+amount of 591.9 nmol/L of the drugs in their blood
+• participants who took AZD7986 with itraconazole had an average highest
+amount of 234.1 nmol/L of the drugs in their blood
+Generally, a higher amount of AZD7986 reached participants’ blood when they
+took the study drug with either verapamil or itraconazole versus when they
+took the study drug by itself.
+What medical problems did participants have?
+A lot of research is needed to know whether a drug causes a medical problem.
+So when new drugs are being studied, researchers keep track of all medical
+problems that participants have during the study. These medical problems are
+also called “adverse events”. They may or may not be caused by the study drug.
+How many participants had medical problems in this study?
+A total of 11 participants (73.3%) in the study had medical problems.
+Researchers looked at the medical problems participants had after they
+took each drug in the three treatments. The table below shows how many
+participants in each treatment group developed medical problems. No
+participants stopped taking the study drugs because of medical problems.
+How Many Participants Developed Medical Problems?
+AZD7986 + AZD7986 +
+AZD7986 Verapamil Verapamil Itraconazole Itraconazole
+(15 participants) (15 participants) (15 participants) (15 participants) (15 participants)
+How many
+participants
+5 participants 3 participants 7 participants 6 participants 5 participants
+developed
+(33.3%) (20.0%) (46.7%) (40.0%) (33.3%)
+medical
+problems?
+6

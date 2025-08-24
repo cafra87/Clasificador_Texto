@@ -1,0 +1,38 @@
+Clinical Study Results
+To answer this question, the researchers measured the blood sugar levels and weight of
+Group 1 participants before and after study treatment. Then, the researchers compared
+these measurements.
+The researchers found that:
+• The participants who were given MEDI0382 had a 21.5% decrease in blood
+sugar levels.
+• The participants who were given the placebo had a 6.3% decrease in blood
+sugar levels.
+• The participants who were given MEDI0382 had a 3.6% decrease in weight.
+• The participants who were given the placebo had a 0.2% decrease in weight.
+The figure below shows these results.
+Change in blood sugar levels Change in weight
+MEDI0382 Placebo MEDI0382 Placebo
+0 0
+0.2%
+ragus
+6.3% )%(
+-10 -2
+thgiew
+3.6% doolb )%(
+-20 -4
+21.5%
+slevel
+ni
+ni
+-30 -6
+egnahC
+egnahC
+-40 -8
+-50 -10
+What medical problems did the participants have during the study?
+This section is a summary of the medical problems that both Group 1 and Group 2
+participants had during the study that the study doctors thought might be related to the
+study drug. These medical problems are called “adverse reactions”. An adverse reaction
+is considered “serious” when it is life threatening, causes lasting problems, or requires
+hospital care.
+5

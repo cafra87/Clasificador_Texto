@@ -1,0 +1,15 @@
+1. Plain Title: 
+Evaluating Different Antibiotic Treatments for Children's Hospital Acquired Pneumonia
+
+2. Rationale: 
+Hospital-acquired pneumonia refers to a lung infection contracted while a patient, in this case, a child, is in the hospital. It's a fairly common disease in hospitals and can complicate a patient's stay by making them sicker. Most of our knowledge about this condition is from studies on adults, and not much is known about its effects on and treatments for children. This is why this study is important. The main goal is figuring out which antibiotic treatments work best for children with this kind of pneumonia.
+
+3. Trial Design: 
+In this study, we looked at different trials carried out across different databases and registers up to February 2021. We selected trials that compared one antibiotic to another in treating hospital-acquired pneumonia in babies and children. We analysed the data from these trials to check for bias and assess the certainty of the evidence. We wanted to figure out whether one antibiotic was better than others in terms of reducing death rates, serious side effects, and treatment failure. We also wanted to see if these treatments improved the quality of life, reduced pneumonia-related deaths, or caused other minor side-effects.
+
+4. Results:
+In total, four trials with 84 child participants were considered. Each trial used a different pair of antibiotics for comparison, leading to unique results that couldn't be mixed for a larger analysis. Therefore, we could not determine if one antibiotic was more effective overall.
+
+Only one trial gave us information on death rates and serious side-effects. Three trials reported on whether the treatment failed or not. But two of the trials also included children with community-acquired pneumonia, so it was hard to tell how many children with only hospital-acquired pneumonia got better or not.
+
+None of the trials reported on the quality of life, pneumonia-related deaths, or non-serious side-effects. Overall, the study’s results don't provide solid evidence to show if one antibiotic is better than the other. So, we concluded that we still don't know which antibiotics are best for treating hospital-acquired pneumonia in children. This finding shows a need for more trials to test different antibiotics used for this illness in children and babies.

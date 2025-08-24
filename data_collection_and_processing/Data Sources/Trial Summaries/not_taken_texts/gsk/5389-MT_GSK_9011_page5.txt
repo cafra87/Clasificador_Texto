@@ -1,0 +1,45 @@
+Argentina 498
+Australia 45
+Austria 119
+Belarus 23
+Belgium 7
+Bosnia and Herzegovina 383
+Bulgaria 646
+Canada 53
+Chile 70
+China 509
+Colombia 113
+Croatia 295
+Czech Republic 531
+France 6
+Georgia 588
+Germany 529
+Greece 39
+Hungary 297
+India 395
+Indonesia 173
+Israel 68
+Japan 141
+Republic of Korea 187
+Latvia 411
+Macedonia 659
+Malaysia 18
+Mexico 90
+Netherlands 10
+Philippines 902
+Poland 1409
+Romania 623
+Russian Federation 1303
+Serbia 228
+Slovakia 131
+South Africa 422
+Spain 108
+Taiwan 41
+Thailand 142
+Turkey 10
+Ukraine 1364
+United Kingdom 131
+United States 2590
+Vietnam 178
+0 500 1000 1500 2000 2500 3000
+Number of Patients

@@ -1,0 +1,7 @@
+This document provides a short summary of this study for a general audience. You can find more information in scientific
+summaries of the study. Links to those summaries are provided below.
+For readers of this document in text form, the websites associated with the hyperlinks above are:
+EudraCT summary:
+https://www.clinicaltrialsregister.eu/ctr-search/search?query=2018-000431-27
+US NIH/clinicaltrials.gov:
+https://clinicaltrials.gov/ct2/show/NCT03636906

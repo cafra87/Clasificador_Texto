@@ -1,0 +1,11 @@
+Plain Protocol Title: Testing the Safety of Cancer Medicines Durvalumab Alone or with Tremelimumab
+
+Rationale: Many people are dealing with cancer or "solid tumors". This is hard for them because their bodies aren't able to fight off the cancer cells effectively. Scientists believe there might be a better way to tackle cancer by using medicines called durvalumab and tremelimumab. These medications could help the body's defense system, known as the immune system, recognize and fight cancer cells. This study needs to be done to see if using these medications either alone or together is safe and beneficial to treat people with cancer.
+
+Objectives: We want to find out how safe it is for patients with cancer to take a fixed dose of either durvalumab alone or with tremelimumab. We'll measure how many patients have side effects from the medicines, what those side effects are, how serious they are, and if they go away by themselves or need treatment. Another thing we want to see is how long patients live after getting these treatments. 
+
+Trial Design: This study will include patients from different places and hospitals. It is an open study, so everyone will know what treatment they are getting. Patients will be treated with the medications for as long as they are benefiting and not having serious side effects. Any side effects will be followed for 90 days after treatment ends. We will also check on the patients every 3 months for up to 5 years to see how they are doing.
+
+Trial Population: This study is for adults 18 years and older who have cancer that can't be cured by surgery. They should not have been treated with certain immune system drugs previously. They need to be feeling well enough to do normal things like walking, and need to have normal organ and marrow function as measured by blood tests.
+
+Interventions: Patients will be given one of two treatments. One group will get a combined treatment of durvalumab and tremelimumab given through an IV drip into the arm every 4 weeks for up to 4 doses. Then, they will receive durvalumab alone every 4 weeks. Another group will get durvalumab alone every 4 weeks from the start. A placebo will not be used in this study because all patients need an active treatment due to their cancer condition.

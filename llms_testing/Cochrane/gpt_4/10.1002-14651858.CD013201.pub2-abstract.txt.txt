@@ -1,0 +1,11 @@
+1. Plain Title: 
+Stem Cell Therapy for Treating Bleeding in the Brain of Premature Babies
+
+2. Rationale: 
+Bleeding in the brain, also known as Germinal matrix-intraventricular haemorrhage (GMH-IVH), is a serious problem that often affects premature babies in intensive care units worldwide. There are currently very limited ways to prevent or treat that condition. This study examines whether stem cell therapy, a cutting-edge medical technique that uses the body's own cells to repair damage, can help treat or prevent these brain bleeds. This approach is based on lab findings that show promise for repairing brain injuries, leading to active human studies now.
+
+3. Trial Design: 
+The researchers involved in this study used several methods to find and analyze the data they needed. They searched for data from previous studies, articles, conferences, databases of clinical trials, and other relevant sources. They looked for different types of controlled trials, aiming to compare various stem cell-related treatments to each other or to standard care methods. In terms of prevention, this study focused on very premature babies not yet diagnosed with GM-IVH. For treatment, it included premature babies diagnosed with this condition. The main outcomes they were interested in were: the death rate, significant problems in brain development, new occurrences of GM‐IVH, and expansion of a pre-existing minor GM‐IVH. 
+
+4. Results: 
+The researchers found many references, but no completed studies that could be used for their analysis. There is one trial based on stem cells for treating GM‐IVH which is still ongoing and five phase 1 trials (early stages of clinical drug development) were seen but not included within their search. Their conclusion is that, for now, there's no clear evidence to either support or reject the potential benefits or risks of using stem cell therapies to prevent or treat bleeding in the brain of premature babies. But given the ongoing trials, we can hope to have more concrete information in the future.

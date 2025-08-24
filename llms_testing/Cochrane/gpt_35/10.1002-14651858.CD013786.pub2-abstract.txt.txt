@@ -1,0 +1,15 @@
+Plain Title: Accuracy of Telehealth Assessment for Dementia and Cognitive Impairment
+
+Rationale: 
+Dementia affects millions of people worldwide, but many remain undiagnosed. This lack of diagnosis hinders access to proper care and treatment. Telehealth, which uses technology to provide healthcare remotely, can potentially improve access to dementia assessments, especially for those in rural areas. The COVID-19 pandemic has also highlighted the importance of telehealth. However, we need to determine if telehealth assessments are as accurate as in-person assessments.
+
+Trial Design: 
+This study aimed to evaluate the accuracy of telehealth assessments for diagnosing dementia and mild cognitive impairment (MCI). We conducted a thorough search of databases, clinical trial registers, and literature on November 4, 2020. We included cross-sectional studies with at least 10 participants referred for cognitive disorder assessments. Each participant underwent two assessments: a telehealth assessment and a face-to-face assessment with a specialist. The telehealth assessment was conducted remotely using technology, but some initial data may have been collected face-to-face by primary care nurses.
+
+Results: 
+Three studies, with a total of 136 participants, were included in this review. Two studies took place in community settings in Australia, and one study was conducted in veterans' homes in the USA. The participants were referred from primary care or identified as high-risk in care homes. The sensitivity of telehealth assessments for diagnosing all-cause dementia ranged from 0.80 to 1.00, while the specificity ranged from 0.80 to 1.00. However, these findings are of low certainty due to limited data and potential bias. For the diagnosis of MCI, the sensitivity was 0.71 and specificity was 0.73 based on one study. Telehealth assessment showed a sensitivity of 0.97 and a specificity of 0.22 for diagnosing any cognitive syndrome (combining dementia and MCI) in the same study. There were limited data on dementia subtype diagnosis accuracy. 
+
+In terms of patient and clinician satisfaction, one study indicated high levels of satisfaction with the telehealth model. However, there was no data on resource use, costs, or feasibility.
+
+Conclusion: 
+The available evidence suggests that telehealth assessments may be highly accurate in diagnosing all-cause dementia compared to face-to-face assessments. However, due to the small number of studies and variations in the target conditions, the estimates are imprecise. Telehealth models that incorporate some face-to-face contact with healthcare professionals other than the diagnosing doctor appear to perform better. Telehealth assessments for MCI had lower sensitivity and specificity, and errors occurred at the boundaries between cognitively healthy individuals and those with MCI or dementia. However, these errors were not more frequent than what would be expected from variations in clinician opinions. More research is needed to further understand the accuracy of telehealth assessments and their impact on resource use and feasibility.

@@ -1,0 +1,30 @@
+Clinical Study Results
+The figure below shows how Part B of the study was done.
+Part B: Double-blind study (51 participants)
+Screening Treatment Follow-up
+3 visits 10 visits 1 visit
+Doctors checked the health 25 participants were Doctors checked the health
+of participants given MEDI0382 of participants
+26 participants were
+given placebo
+about 2 weeks after
+up to 9 weeks about 6 weeks
+last treatment visit
+What were the results of the study?
+This is a summary of the main results from Part B of this study. The results for each
+individual participant might be different and are not in this summary. A full list of the
+questions the researchers wanted to answer can be found on the websites listed at
+the end of this summary. If a full report of the study results is available, it can also
+be found on these websites.
+How did MEDI0382 affect the blood sugar levels and weight of
+participants?
+The researchers compared the blood sugar levels and weight of participants from
+the start of Part B to their blood sugar levels and weight at the end of Part B.
+To do this, the researchers used a scientific method called the “least square
+mean” to calculate the results. The least square mean method takes missing
+or incomplete data that could cause results to be inaccurate into account.
+Researchers use this method to make sure study results are more accurate.
+At the end of the study, the researchers found that the blood sugar levels and
+weight of the participants who were given MEDI0382 decreased more than those
+of the participants who were given the placebo.
+4

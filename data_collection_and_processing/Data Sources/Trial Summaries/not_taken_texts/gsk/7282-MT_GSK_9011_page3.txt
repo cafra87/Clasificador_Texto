@@ -1,0 +1,29 @@
+Page 3 of 6
+Which patients were included in this study?
+Studies have a list of requirements for patients who can enrol (inclusion criteria) and
+those who can’t (exclusion criteria). For this study, the main inclusion and exclusion
+criteria are listed below.
+Men and women with chronic hepatitis B were included in the study if they:
+• Were between 20 and 69 years old.
+• Were taking ETV for at least two years before starting the study
+treatment and:
+Their blood tested positive for the presence of HBeAg and HBsAg
+o
+proteins at the start of the study.
+Their blood tested negative for the presence of HBV DNA at the start
+o
+of the study.
+Men and women were excluded from the study if they had:
+• Cancer or signs of disease in the liver.
+• Infection with HIV or hepatitis C virus.
+• Received hepatitis B vaccine or were treated with interferon (protein)
+within six months before starting the study.
+• Received treatment with other anti-viral medicines, including TDF,
+adefovir, or tenofovir alafenamide fumarate, within two years before
+starting the study treatment.
+• An organ or bone marrow transplant or planned to have one.
+• Any other disease(s) or treatment(s) that the study doctor thought
+would affect the results of the study.
+Overall, 75 patients received at least one dose of TDF. The study included 55 (73%)
+men and 20 (27%) women. The average age was 48 years. The youngest patient was
+33 years old and the oldest patient was 69 years old.

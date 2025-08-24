@@ -1,0 +1,38 @@
+Who took part in these trials?
+The 4 trials included 24,422 male and female participants in Brazil, South Africa,
+and the United Kingdom. The participants received either AZD1222 or the control
+between 23 April and 6 December 2020.
+The answers to the questions below include information for 17,178 participants
+who received 2 injections.
+How old were the participants when they joined the trials?
+18 to 55 56 to 69 Over 70
+years old years old years old
+COV001 (United Kingdom)
+100.0% 0.0% 0.0%
+AZD1222
+(356) (0) (0)
+(out of 356 participants)
+Control 100.0% 0.0% 0.0%
+(out of 385 participants) (385) (0) (0)
+COV002 (United Kingdom)
+80.6% 9.3% 10.1%
+AZD1222
+(3,282) (377) (412)
+(out of 4,071 participants)
+Control 80.6% 9.1% 10.3%
+(out of 4,136 participants) (3,334) (378) (424)
+COV003 (Brazil)
+83.5% 14.4% 2.1%
+AZD1222
+(2,850) (492) (72)
+(out of 3,414 participants)
+Control 84.1% 14.0% 1.9%
+(out of 3,339 participants) (2,808) (466) (65)
+COV005 (South Africa)
+95.1% 4.9% 0.0%
+AZD1222
+(719) (37) (0)
+(out of 756 participants)
+Control 94.2% 5.8% 0.0%
+(out of 721 participants (679) (42) (0)
+10

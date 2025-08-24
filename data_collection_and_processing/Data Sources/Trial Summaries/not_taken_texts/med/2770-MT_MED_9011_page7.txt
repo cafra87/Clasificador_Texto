@@ -1,0 +1,23 @@
+Clinical Trial RESULTS
+The table below shows how many participants in each group had medical problems in this study.
+Group 1 Group 2 Group 3
+(out of 36 participants) (out of 28 participants) (out of 55 participants)
+Dose A Dose B Dose C Dose D Dose E Dose F
+How many
+5 8 5 1 5 11
+participants had
+(13.9%) (22.2%) (17.9%) (3.6%) (9.1%) (20.0%)
+medical problems?
+How many
+participants had 0 0 0 0 0 0
+serious medical (0.0%) (0.0%) (0.0%) (0.0%) (0.0%) (0.0%)
+problems?
+What were the most common medical problems?
+The only medical problem that happened in more than 1 participant per dose was a headache.
+In Dose B, 2 participants (5.6%) had a headache. In both Doses E and F, 2 participants (3.6%)
+also had a headache.
+What serious medical problems did participants have?
+A medical problem is considered serious when it is life threatening, causes lasting problems,
+or needs hospital care.
+No participants had serious medical problems or died during this study.
+7

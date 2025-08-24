@@ -1,0 +1,11 @@
+Plain Title: Patients' Experiences with Mobile Health Communication
+
+Rationale: This study aimed to understand how patients perceive and experience targeted digital communication through mobile devices in relation to reproductive, maternal, newborn, child, or adolescent health (RMNCAH). The goal was to explore the benefits and limitations of these communication methods to improve healthcare outcomes.
+
+Trial Design: Researchers analyzed 35 studies from different countries that focused on clients' perspectives on targeted digital communication. The studies included both low- and high-income settings and covered a range of topics, such as appointment reminders, prenatal health information, and sexual health education. The analysis used a three-step sampling process and a thematic framework analysis to assess clients' experiences.
+
+Results: Clients had mixed experiences with targeted digital communication. On one hand, they felt supported and connected when receiving messages, and some even shared the information with their loved ones. However, there were challenges faced by some clients, including limited access to cell networks and the internet, lack of phones or difficulties affording airtime, and limited privacy and confidentiality for sensitive health issues. Language barriers and skills in reading and using mobile phones also posed challenges. Clients suggested strategies such as using neutral language, tailoring content, and choosing optimal timing and frequency for messages to address these issues.
+
+The study highlighted the importance of considering these factors when implementing targeted client communication programs. Healthcare providers and program designers should be aware of barriers to ensure equitable access and effective communication. Future studies should aim to address these barriers and report on their efforts in order to improve the implementation of such programs.
+
+In conclusion, this study sheds light on the experiences and perspectives of patients regarding targeted digital communication via mobile devices in the context of RMNCAH. By understanding the benefits and challenges associated with these communication methods, healthcare providers can improve their communication strategies and promote better health outcomes for all patients.

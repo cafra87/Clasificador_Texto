@@ -1,0 +1,33 @@
+In this summary, “side effects” refer to those events that the study doctor thinks may
+have been caused by the study medicine. The side effects in this summary may be
+different to those in the Informed Consent or other documents related to the study
+medicine.
+In blinded studies, the doctor does not know which study medicine the patient is
+taking. In some cases, side effects will be assigned to placebo.
+No serious side effect was reported by more than one percent of patients in any
+treatment group up to Week 12. Three patients (one each from the placebo group,
+nemiralisib 50 mcg group, and nemiralisib 750 mcg group) reported a serious side
+effect of worsening symptoms of COPD. The patient from the nemiralisib 750 mcg
+group also reported low blood pressure. No patients in the other nemiralisib (12.5, 100,
+250, and 500 mcg) groups reported serious side effects.
+The table below shows the number of patients (percent) with non-serious side effects
+that were reported by two or more percent of patients up to Week 12.
+Number of patients (percent) with non-serious side effects that were
+reported by two or more percent of patients up to Week 12
+Placebo Nemiralisib
+12.5 mcg 50 mcg 100 mcg 250 mcg 500 mcg 750 mcg
+276 22 91 92 90 89 278
+patients patients patients patients patients patients patients
+Cough 8 (3%) 0 10 (11%) 9 (10%) 21 (23%) 28 (31%) 89 (32%)
+1 (less
+Headache 3 (1%) 0 1 (1%) 2 (2%) 1 (1%) 0
+than 1%)
+Throat 1 (less
+0 0 0 0 0 5 (2%)
+irritation than 1%)
+How has this study helped patients and researchers?
+This was a Phase II study. A Phase II study aims to collect information about the safety
+of the medicine and may also provide early information about how well the medicine
+works against the disease. This study showed that addition of nemiralisib to regular
+COPD medicine for patients with moderate-severe worsening of COPD did not show
+improvements in lung function. The number of side effects reported by patients in the

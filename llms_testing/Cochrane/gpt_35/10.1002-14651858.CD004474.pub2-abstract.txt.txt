@@ -1,0 +1,13 @@
+Plain Title: Effects of Tongxinluo Capsule on Unstable Angina
+
+Rationale:
+Unstable angina is a condition that affects the heart and can lead to serious outcomes like heart attack or sudden death. Tongxinluo capsule is a traditional Chinese medicine made from herbs and insects. It is commonly used in China and other Asian countries to treat heart problems. However, there is limited evidence on its actual benefits and potential risks. This study aims to assess the effects of tongxinluo capsule on people with unstable angina, in order to understand if it can be an effective treatment option.
+
+Trial Design:
+In this study, researchers searched different databases to find randomized trials that compared tongxinluo capsule alone or with standard treatment, to standard treatment alone or other anti-angina drugs, placebo, or no treatment. The search included various sources like medical databases, Chinese journals, and ongoing studies. The selected studies involved a total of 1413 participants, and the follow-up period was relatively short.
+
+Results:
+The findings from the included studies did not strongly support the use of tongxinluo capsule for reducing the combined outcome of acute myocardial infarction (heart attack), angioplasty (a procedure to open blocked arteries), coronary artery bypass graft (surgery to restore blood flow to the heart), sudden death, or all-cause mortality. However, tongxinluo capsule did show some positive effects. It reduced the frequency of acute angina attacks (chest pain), improved electrocardiogram (ECG) results, and relieved angina symptoms. This suggests that tongxinluo capsule, when combined with routine angina therapy, may help reduce the risk of subsequent heart events, improve symptoms, and show positive changes on the ECG.
+
+Conclusion:
+While the results of this study indicate potential benefits of tongxinluo capsule for patients with unstable angina, it is important to note the limitations of the included studies. Due to these limitations, more large-scale and high-quality randomized controlled trials are needed to provide conclusive evidence and make recommendations about the use of tongxinluo capsule as a treatment for unstable angina.

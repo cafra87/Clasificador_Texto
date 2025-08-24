@@ -1,0 +1,12 @@
+Plain Title: Surgical Treatments for Hip Fractures in Older Adults: Benefits and Outcomes
+
+Rationale: 
+Hip fractures are a significant problem for individuals and healthcare systems. They can cause a lot of challenges and burdens. The number of hip fractures is increasing worldwide. Most hip fractures inside the hip joint are treated with surgery. This study aims to compare different surgical treatments for hip fractures in older adults to see which ones have the best results.
+
+Trial Design: 
+This study used a network meta-analysis to compare different surgical treatments for hip fractures in older adults. We looked at randomized controlled trials and other studies that compared various treatments. The study included older adults with hip fractures from various places around the world. The study lasted for different amounts of time depending on the specific outcome being measured.
+
+Results: 
+After analyzing 119 studies with a total of 17,653 participants, we found that certain surgical treatments had better outcomes than others. Cemented modern unipolar hemiarthroplasty, dynamic fixed angle plate, and pins were more likely to reduce mortality at 12 months. However, uncemented modern bipolar hemiarthroplasty and total hip arthroplasty with single articulation had a higher risk of mortality. There wasn't enough evidence to determine if any treatment had a clear advantage in terms of quality of life after 12 months. Arthroplasty treatments were more likely to reduce the need for additional surgery compared to internal fixation or non-operative treatment.
+
+In conclusion, there was no one treatment that stood out as the best for hip fractures. However, cemented modern arthroplasties generally had better outcomes than other treatments. Total hip arthroplasty may be a suitable treatment for certain individuals, but more research is needed to confirm this. Overall, this study provides valuable information for doctors and patients in making treatment decisions for hip fractures in older adults.

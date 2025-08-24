@@ -1,0 +1,13 @@
+Plain Title: Chimeric Antigen Receptor (CAR) T-Cell Therapy for Diffuse Large B-Cell Lymphoma (DLBCL)
+
+Rationale:
+Diffuse large B-cell lymphoma (DLBCL) is a type of aggressive cancer that affects the lymphatic system. Many people with DLBCL experience relapse or are refractory to traditional treatments. The current treatment options have limited effectiveness, and the prognosis for these individuals is poor. However, a new treatment called chimeric antigen receptor (CAR) T-cell therapy has been developed and shows promise for treating DLBCL.
+
+Trial Design:
+We conducted a systematic review to assess the benefits and risks of CAR T-cell therapy for individuals with relapsed or refractory DLBCL. We searched various databases and included both randomized controlled trials and non-randomized studies. We focused on studies that evaluated CAR T-cell therapy in a controlled manner and had a sufficient number of participants.
+
+Results:
+Our review included 13 eligible studies that evaluated CAR T-cell therapy in individuals with DLBCL. These studies involved a total of 79 to 344 participants who received CAR T-cell therapy. Most of the participants had received multiple prior treatments and were at a high risk of relapse. The overall survival rates varied between 48% and 59% at 12 months and 50.5% at 24 months. Quality of life improvements were observed in some participants. Adverse events were reported in a significant number of participants, but the exact risk is uncertain. Cytokine release syndrome, a potential complication of CAR T-cell therapy, was also observed in some participants. Progression-free survival and complete response rates varied across studies, and the effects of CAR T-cell therapy on these outcomes are uncertain.
+
+Conclusion:
+The current evidence on the benefits and risks of CAR T-cell therapy for individuals with relapsed or refractory DLBCL is limited. There is a lack of comparative clinical trials, and the existing studies have limitations. Therefore, it is crucial to continue evaluating the evidence and conducting further investigations to better understand the effectiveness and potential complications associated with this new therapy.

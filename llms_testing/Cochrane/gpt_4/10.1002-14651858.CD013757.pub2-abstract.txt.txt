@@ -1,0 +1,13 @@
+Plain Title: 
+Does an Injection called Palivizumab Help Prevent Serious Lung Infections in Young Children?
+
+Rationale: 
+Lung infections (also called lower respiratory tract infections) can make babies and young kids very ill and are a main reason they need to go to the hospital. One leading cause of these infections is a virus called respiratory syncytial virus (RSV). Even though there's a medicine called Palivizumab that can help prevent severe RSV infections in children, it is quite expensive, so it’s necessary to see if it still works effectively.
+
+Trial Design: 
+To find out, we looked at different sources of research until mid-October 2021. Only certain types of studies were chosen, where young children (hopefully 0-24 months old) of any gender were randomly given either a monthly injection of Palivizumab (up to five times) or a harmless fake injection (placebo), or just regular care. The majority of children chosen for these studies were already at high risk of getting an RSV infection due to other health problems like lung disease or heart conditions. 
+
+Results:
+Our search resulted in five studies, with a total of 3343 children included. When we looked at these studies, we found that Palivizumab does help: it reduced the number of children who had to be hospitalized due to RSV infection. It also lowered the number of hospital stays due to lung-related illness and the number of days the kids wheezed. It even seems like it can significantly lower the chance of children getting RSV in the first place. However, it didn’t seem to have much effect on how many children died or experienced side effects, but those were relatively low to begin with.
+
+All in all, giving Palivizumab to children who are already likely to get an RSV infection due to other health problems can be helpful in preventing serious symptoms. However, more research is needed to understand its effect on children who have other risk factors for serious RSV disease, like immune problems, or who live in poverty, crowded situations or areas with low resources.

@@ -1,0 +1,14 @@
+Background
+Residual neuromuscular block is associated with serious postoperative complications. Some anaesthesiologists use neostigmine to reverse neuromuscular blockade for all paediatric surgical patients. However, the incidence of residual neuromuscular block may be lower in paediatric patients than in adults. The use of neostigmine has also caused complications, such as postoperative nausea, vomiting, excessive salivation and bradycardia. Therefore, whether neostigmine should be used routinely to reverse neuromuscular blockade in each paediatric patient is an important question for paediatric anaesthesiologists. 
+Objectives
+To assess the necessity of routine usage of neostigmine in preventing residual neuromuscular blockade in paediatric patients following the use of muscle relaxants. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) 2013, Issue 8, part of The Cochrane Library; MEDLINE via Ovid (1946 to August 2013); EMBASE via Ovid SP (1974 to August 2013); ClinicalTrials.gov (18 August 2013) and Chinese Clinical Trial Registry (18 August 2013) with no language restrictions. 
+Selection criteria
+We planned to include randomized controlled trials (RCTs) comparing neostigmine versus placebo in American Society of Anaesthesiologists (ASA) I or II paediatric surgical participants (younger than 12 years of age, including newborns) who had received non‐depolarizing muscle relaxants. 
+Data collection and analysis
+Two review authors independently assessed the studies for inclusion.
+Main results
+We found no study that satisfied the inclusion criteria. We found one study awaiting classification. 
+Authors' conclusions
+No RCTs were found that supported, or argued against, the routine use of neostigmine to reverse neuromuscular block in paediatric patients. 

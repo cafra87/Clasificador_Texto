@@ -1,0 +1,36 @@
+What were the overall results of the study?
+Researchers looked at the number of patients in each group who had died by the end
+of the study and the time from the start of the study until they died. Patients were
+counted if they died for any reason and not just because of COPD or heart disease. The
+study continued until about 1000 patients had died. This is called an event-driven
+study.
+The number of deaths for any reason is listed in the figure below.
+Number of Deaths
+500
+450
+400
+s 350
+t
+n 275
+e 265
+it a 300 (6.7%) 251 (6.4%) 246
+P (6.1%) (6.0%)
+f o 250
+r
+e
+b 200
+m
+u
+N 150
+100
+50
+0
+Placebo Fluticasone Furoate Vilanterol Fluticasone Furoate and
+Vilanterol
+The number of deaths was highest in the placebo group. Numerically fewer patients
+who received active medicines died compared with patients who received placebo.
+These differences in the number and percentage of deaths were not statistically
+significant. This means that any differences were likely to have been due to chance
+rather than the study medicines. The risk of death over time (hazard ratio) between
+each of the treatment groups was also not significantly different. Cardiovascular
+disorders were the most common primary cause of death.

@@ -1,0 +1,14 @@
+Background
+The pathophysiology of so called 'cough variant asthma' has not received a great deal of research interest and opinion lies divided as to whether it is really asthma or not. The proponents of cough variant asthma suggest a therapeutic trial of medications usually used to treat asthma 
+Objectives
+To determine the effectiveness of inhaled ß2 agonists in non‐specific chronic cough in children over the age of 2 years. 
+Search methods
+CENTRAL, MEDLINE and EMBASE were searched. Reference lists were checked and trial authors were contacted. 'Grey' literature including theses, internal reports, and non‐peer reviewed journals were sought. Searches are current as of February 2006. 
+Selection criteria
+All randomised (randomised and quasi‐randomised) controlled clinical trials in which inhaled ß2 agonists were given for chronic cough in children over 2 years of age were included. Two reviewers independently assessed articles for inclusion and methodological quality. 
+Data collection and analysis
+Data for trials of salbutamol versus placebo were extracted by both reviewers and entered into the Cochrane Collaboration software program Review Manager, version 4.2 
+Main results
+In children presenting with isolated chronic cough there was no significant difference between salbutamol treated group and placebo group. 
+Authors' conclusions
+Salbutamol was no different from placebo in reducing the frequency of cough measured objectively or scored subjectively. 

@@ -1,0 +1,19 @@
+Where was this study done?
+The study sites were located in six countries.
+Number of patients who received study medicine in each country
+Brazil 210
+Cambodia 38
+Ethiopia 55
+Peru 155
+Phillippines 6
+Thailand 58
+0 50 100 150 200 250
+What were the overall results of the study?
+For this study, malaria-free is defined as no P. vivax malaria parasites in the blood at six
+months after the parasites were originally removed with CQ treatment. Results by
+treatment group are shown in the following table:
+CQ only TQ+CQ PQ+CQ
+133 patients 260 patients 129 patients
+Number of patients in the 35 of 133 155 of 260 83 of 129
+study who remained (26%) (60%) (64%)
+malaria-free at six months

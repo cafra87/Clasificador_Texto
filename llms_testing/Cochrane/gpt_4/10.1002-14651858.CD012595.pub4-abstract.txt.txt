@@ -1,0 +1,17 @@
+1. Plain Title: 
+Assessing the Effectiveness of School-Based Dental Check-Ups for Children's Oral Health 
+
+2. Rationale: 
+This study focuses on dental screening in schools. During a dental screening, a dental health professional checks a child’s mouth for any dental issues at their school, and then lets their parents know about the child's current oral health and any treatments that may be needed. The aim is to spot potential problems before they cause pain or discomfort, to maintain good oral health in children. This is the third time this research has been conducted, with the initial research done in December 2017 and updated for the first time in August 2019. The goal of this research is to gauge the effectiveness of school dental screenings in improving the dental health of children and encouraging them to use dental services.
+
+3. Trial Design: 
+The study selected several other studies from four databases to evaluate, and collected more data until 15 October 2021. These selected studies were randomised controlled trials (RCTs), which means they compared school dental screenings to no screening at all or to other types of dental screening. Of the selected studies, eight with a total of 21,290 children aged 4 to 15 years from the UK, India, the USA, and Saudi Arabia were considered. These were examined over a period of 3 to11 months.
+
+4. Results: 
+This study found mixed results and points out areas where more research is needed. For instance, the effects of school dental screenings over a long time were not investigated. Also, the studies didn't report on the cost-effectiveness or any side effects of the screenings. Four studies compared traditional screening to no screening, but the result was inconclusive. Two studies suggested that a screening based on specific criteria may result in a small increase in dental service use compared to no screening. However, there wasn't a significant difference between this method and traditional screening. 
+
+When it came to getting children who needed treatment to visit the dentist, giving a specific referral letter to a dentist was more successful than a more general one. Dental appointments were more likely if the school dental screening also tried to motivate children to take care of their teeth. However, there was no real difference in dental attendance when comparing referring to a specific dental treatment facility to just advising to visit a dentist in general.
+
+Lastly, only one study reported on children who have had tooth decay treatment. This study compared a personalized referral letter following screening, with or without a dental information guide, to a standard referral letter. The findings were unclear.
+
+In conclusion, the researchers discovered that the evidence is not strong enough to judge whether school dental screenings help to improve dental attendance. As for whether traditional screening or criteria-based screening is better, or if certain types of communications post-screening work best, much more research is needed. Furthermore, none of the studies investigated the lasting effects of school dental screenings on oral health or discussed possible side effects or expenses.

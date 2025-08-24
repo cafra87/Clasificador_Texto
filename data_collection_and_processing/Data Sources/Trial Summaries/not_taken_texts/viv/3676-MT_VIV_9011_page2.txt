@@ -1,0 +1,23 @@
+Page 2 of 8
+Antiretroviral medicines treat HIV-1 infection by controlling the viral load. For this
+study, antiretroviral medicines worked well if the patient’s viral load was reduced to
+and remained less than 50 copies per millilitre (c/mL).
+In this study, researchers wanted to compare a new two-medicine regimen with a
+standard three-medicine regimen in patients with HIV-1 infection. They also assessed
+the safety of these medicines.
+Which medicines were studied?
+On Day 1, patients were placed in one of the following two treatment groups by chance
+(randomisation).
+• Two-medicine regimen group: Patients received dolutegravir (DTG) and
+lamivudine (3TC) once daily.
+• Three-medicine regimen group: Patients received DTG and a combination of
+tenofovir disoproxil fumarate (TDF) and emtricitabine (FTC) once daily.
+The 148-week treatment period was divided into two phases, as shown in the figure
+below. During the first 96 weeks, neither the patients nor the study doctors knew who
+was receiving which treatment. This is called a double-blind phase. After Week 96, the
+study doctor and patients knew which treatment they received. This is called an open-
+label phase.
+Study design
+After Week 148, patients in the two-medicine regimen group could choose to continue
+receiving DTG and 3TC in the study until they are approved for HIV treatment in their
+country.

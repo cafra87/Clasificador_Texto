@@ -1,0 +1,11 @@
+Plain Language Summary:
+
+1. Plain Title: The Effectiveness of Day Care Programs in Reducing Drowning in Children Under 6 in Low-Income Countries
+
+2. Rationale: Drowning is a major cause of death, especially in low- to middle-income countries. Children aged 1 to 4 years are particularly at risk, especially in rural areas near their homes. Day care programs could help protect children from drowning by providing supervision. This study wanted to find out if day care programs could reduce drowning in children and if they were safe and cost-effective.
+
+3. Trial Design: The researchers looked at studies that tested day care programs for children under 6 in low-income countries. They compared these programs to no programs or other drowning prevention methods. The studies could be randomized (where children were chosen randomly to be in the program or not) or non-randomized. They collected data about drowning and injury prevention in the enrolled children.
+
+4. Results: The review found two studies from rural Bangladesh that met the criteria. One study showed that a day care program combined with parent education, playpens provided to parents, and community-based activities reduced the risk of drowning compared to no program. The second study had uncertain results, but there were some indications that a day care program with playpens could reduce drowning. However, there was not enough data on other outcomes such as non-fatal drowning, unsafe water exposure, program safety, and other unintentional injuries. The cost-effectiveness of the programs was also reported, but further research is needed.
+
+In conclusion, this review suggests that day care programs with additional components may help reduce drowning in areas with a high burden of drowning. More research is needed to fully understand the effects of these programs and their safety.

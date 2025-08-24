@@ -1,0 +1,9 @@
+Plain Title: Stem Cell Treatment for Newborn Brain Injury: Current Evidence
+
+Rationale: Newborn brain injury caused by hypoxic-ischaemic encephalopathy (HIE) is a serious condition that can lead to long-term neurological problems and even death. Current treatments for HIE are limited to cooling. However, stem cell therapies have shown promise in repairing and regenerating injured brain tissue. These therapies are currently being tested in clinical trials involving newborn infants.
+
+Trial Design: This study aims to determine the effectiveness and safety of stem cell-based interventions for the treatment of HIE in newborn infants. The researchers conducted a comprehensive search of various databases and sources to find relevant randomized controlled trials. They focused on comparing stem cell-based interventions to control groups (placebo or no treatment) and different types or sources of stem cells. The study also considered outcomes such as neonatal mortality, major neurodevelopmental disability, and death or disability at 18 to 24 months of age. The quality of evidence was assessed using a rigorous approach.
+
+Results: The search yielded a total of 616 references, but no completed studies were found for inclusion in this review. However, there are currently 15 ongoing randomized controlled trials that are registered. The researchers provide details about three studies that were excluded from this review. Based on the available evidence, the investigators conclude that there is currently no evidence from randomized trials to support the use of stem cell-based interventions for preventing morbidity and mortality in newborn infants with HIE.
+
+In summary, although stem cell therapies hold promise for the treatment of newborn brain injury caused by HIE, the current evidence from randomized trials is limited. Further research is needed to determine the potential benefits and risks of these interventions for newborn infants with HIE.

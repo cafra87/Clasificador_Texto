@@ -1,0 +1,25 @@
+Did any adverse reactions happen during this study?
+How many participants had adverse reactions?
+X There were 46.9% of participants who had adverse reactions.
+This was 407 out of 867 participants.
+How many participants had serious adverse reactions?
+X There were 4.7% of participants who had serious adverse reactions.
+This was 41 out of 867 participants.
+How many participants stopped getting study treatment due to adverse reactions?
+X There were 3.8% of participants who stopped getting study treatment due to
+adverse reactions. This was 33 out of 867 participants.
+What serious adverse reactions happened during this study?
+The most common serious adverse reaction was more rapid than expected growth
+of cancer after the start of treatment. The table below shows the serious adverse
+reactions that happened in more than 1 participant during the study.
+Most common serious adverse reactions
+Serious adverse reaction Out of 867 participants
+More rapid than expected growth of cancer after the start of treatment 1.2% (10)
+Inflammation of the large intestine 0.5% (4)
+Lung disorder 0.2% (2)
+Inflammation in the lungs 0.2% (2)
+Sudden onset of kidney injury 0.2% (2)
+Inflammation in the liver 0.2% (2)
+There were 1.0% of participants who died because of serious adverse reactions.
+This was 9 out of 867 participants.
+10 | Clinical Study Results

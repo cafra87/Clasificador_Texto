@@ -1,0 +1,17 @@
+1. Plain Title: "Improving Patient Enrollment in Medical Studies"
+
+2. Rationale: Sometimes it's hard to find enough people to take part in medical studies. These studies are how we learn if new treatments work or not, so finding strategies to get more people to participate would be really helpful for research and for health care in general. The main idea of this study was to figure out what strategies work best to get more people to participate in these medical studies. We also wanted to understand if the place where the research is carried out, like a doctor's office or a hospital, affects how easily we can find people to participate. 
+
+3. Trial Design: We checked a lot of sources for studies that tested methods on getting more people to participate in medical studies. We even included studies that were not related to health care or that were recruiting for pretend studies. However, we did not include any study that aimed to increase response rates to questionnaires or get doctors to recruit more patients. We took note of the method used, where the study was carried out, the type of people and setting studied, how people were sorted into groups (randomly or not), and the numbers and proportions in each group. We then judged about how certain we were about each comparison using a method called GRADE.
+
+4. Results: We found 68 studies (including 24 new ones) with over 74,000 participants. Most of the studies tested methods aimed directly at the people participating, but five tested methods aimed at the people who were doing the recruiting. It turned out that 3 methods were most likely to work. 
+
+The first was doing "open trials" rather than "blinded" or placebo trials. This means people know what they are getting, rather than maybe getting a "fake" treatment. This improved recruitment by 10%.
+
+The second was sending a phone reminder to people who don't answer a mail invitation. The improvement with this method was 6%, but it might be less effective for studies that already have a lot of participants.
+
+The third method didn't work as much as we thought. This was making a special information leaflet with more input from the target population. This changed recruitment by just 1%.
+
+Of the other comparisons, we felt moderately certain about 8 and less certain about 61. The first two methods increased recruitment, while the special leaflet didn't really change things. 
+
+In conclusion, while many methods have been tried to boost patient recruitment, we found solid evidence to only support a few strategies. We need more studies to reconfirm these findings rather than trying out new methods.

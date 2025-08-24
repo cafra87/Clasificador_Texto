@@ -1,0 +1,31 @@
+The researchers used several methods to answer this question. First the
+researchers used a statistical test called a “hazard ratio”. The hazard ratio shows
+how long the participants who got durvalumab survived compared with the
+participants who got standard treatment. A hazard ratio of 1.0 means that there is
+no difference between the groups in how long the participants survived.
+In this study, the hazard ratio was 0.96. This means that the participants who got
+durvalumab survived for a similar amount of time as the participants who got
+standard treatment.
+The researchers also counted how many months the participants lived with their
+cancer after getting study treatment. They calculated the median number of
+months for each group. A median is the middle number in a set of numbers. It
+is between the lowest and highest numbers. In this study, the median shows the
+point in time when 50% of participants were still alive in the study.
+The median number of months that the participants with PD-L1 high cancer lived
+for after starting study treatment was:
+X 10.9 months for the participants who got durvalumab alone
+X 10.9 months for the participants who got the standard treatment
+Did the participants getting durvalumab with or without tremelimumab
+have less severe symptoms and improved health-related quality of life?
+To answer this question, the study doctors asked the participants to complete 2
+different questionnaires. These were:
+X The European Organisation for Research and Treatment of Cancer Quality of
+Life Questionnaire – Core 30, also known as EORTC QLQ-C30
+X The European Organisation for Research and Treatment of Cancer Quality of
+Life Questionnaire – Head and Neck 35, also known as EORTC QLQ-H&N35
+The researchers gave the participants a “score” based on their answers to
+each questionnaire about the severity of their symptoms or quality of life. The
+researchers measured how much the participants’ scores changed during the
+study. They then compared the scores of the participants who got durvalumab
+with or without tremelimumab to those who got standard treatment.
+10 | Clinical Study Results

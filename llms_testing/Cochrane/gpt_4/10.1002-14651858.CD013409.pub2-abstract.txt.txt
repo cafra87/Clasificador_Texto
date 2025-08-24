@@ -1,0 +1,21 @@
+1. Plain Title: 
+Comparing different types of surgical implants for hip fractures in older adults.
+
+2. Rationale:
+Hip fractures are quite common, especially in the elder population, and they create a significant challenge to health systems. Since the number of older adults worldwide is increasing, so are the number of hip fractures. One common way to treat these fractures is through surgery that preserves the hip joint, using different types of implants or metal pieces. The aim of this research was to examine and compare various of these implants used for treating a specific type of hip fracture (inside the hip joint) in older people. This study is significant as it can guide doctors in choosing the ideal implant type for specific patients, thereby improving the treatment outcomes.
+
+3. Trial Design:
+The researchers explored information from different scientific databases and conference proceedings. They focused on specific types of controlled trials (where one group is compared to another) involving older adults suffering from intracapsular hip fractures. The trials inspected various types of implants like smooth pins, screws, or plates used at a fixed angle. The researchers then collected data related to daily life activities, delirium, functional status, quality of life, mobility, early and one-year mortality, and instances of unplanned return to hospital due to complications from the surgery. 
+
+4. Results:
+The research included 38 studies, with 8585 participants aged 60 to 84 years, and found four main implant categories. 
+
+When comparing smooth pins with fixed angle plates, the study found no significant differences in independent mobility, early or one-year mortality, and unplanned return to hospital. 
+
+Between screws and fixed angle plates, no major differences were noted in functional status, quality of life, mortality at 12 months, or unplanned return to hospital. 
+
+The study also found no difference between screws and smooth pins in mortality at 12 months. 
+
+When comparing all three types of implants, again, no major differences were found in mortality and unplanned return to hospital. 
+
+Overall, the study suggests that the choice of implant type may not influence the patient's functional status, quality of life, mortality, or unplanned returns to hospital. However, these findings are based on low-certainty or very-low certainty evidence, indicating the need for further studies for a more definite conclusion. Researchers also encourage future studies to consider long-term quality of life parameters like daily life activities and mobility.

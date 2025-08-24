@@ -1,0 +1,20 @@
+Clinical Trial RESULTS
+What medical problems did participants have
+during the study?
+A lot of research is needed to know whether a drug causes a medical problem. So,
+when new drugs are being studied, researchers keep track of all medical problems that
+participants have during the study. These medical problems are called “adverse events”.
+They may or may not be caused by the study drug.
+How many participants had medical problems in the study?
+The table below shows how many participants in each treatment group developed
+medical problems.
+Part 3 Part 3 Part 3
+Part 1 Part 2 Group 1 Group 2 Additional Group Part 4
+IV DPI 1 DPI 2 pMDI pMDI Liquid form
+(24 participants) (23 participants) (9 participants) (10 participants) (6 participants) (18 participants)
+How many
+participants
+developed 2 (8.3%) 0 (0.0%) 2 (22.2%) 1 (10.0%) 1 (16.7%) 1 (5.6%)
+medical
+problems?
+6

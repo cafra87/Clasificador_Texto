@@ -1,0 +1,13 @@
+Plain Title: Oxygen Therapy for People with Lung Disease
+
+Rationale:
+Many people with interstitial lung disease (ILD) experience a decrease in oxygen levels during physical activity, which can impact their ability to exercise and worsen their shortness of breath. The use of ambulatory or short-burst oxygen therapy may help improve exercise capacity and relieve symptoms in people with ILD, including those with idiopathic pulmonary fibrosis (IPF). This study aims to determine the effects of this type of oxygen therapy on exercise capacity, dyspnea (shortness of breath), and quality of life in individuals with ILD.
+
+Trial Design:
+For this study, researchers conducted a search of various databases and sources to find relevant studies on the topic. They included randomized controlled trials (RCTs) or quasi-RCTs that compared the use of ambulatory or short-burst oxygen therapy with a control group in people with ILD. Three studies, involving a total of 98 participants with IPF, met the inclusion criteria. These studies were conducted in hospital respiratory physiology laboratories. The researchers assessed the risk of bias in the included studies and extracted relevant data. They used the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) criteria to evaluate the quality of the studies.
+
+Results:
+The findings of the included studies were mixed. Two of the studies did not show any significant benefits of supplemental oxygen on exercise capacity or shortness of breath during physical activity. These studies did not adjust the oxygen requirements to prevent ongoing decreases in oxygen levels during exercise. However, one study did show an improvement in exercise capacity, as measured by endurance time, with the use of supplemental oxygen. Unfortunately, no studies examined the effects of ambulatory oxygen therapy on quality of life, survival, costs, or the time to exacerbation or hospitalization. There were no reported adverse events associated with the use of oxygen therapy. It is important to note that the overall quality of evidence from these studies was considered low according to the GRADE criteria.
+
+Conclusion:
+Based on the limited number of studies and data available, this review found no clear evidence to support or refute the use of ambulatory or short-burst oxygen therapy in ILD. Further research is needed to better understand the role and potential benefits of this treatment option for individuals with ILD, including those with IPF.

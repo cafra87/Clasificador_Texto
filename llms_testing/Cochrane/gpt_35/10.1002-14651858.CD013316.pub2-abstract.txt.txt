@@ -1,0 +1,12 @@
+Plain Title: Best methods for predicting survival in brain cancer patients
+
+Rationale: 
+Glioblastoma is a type of aggressive brain cancer. It is difficult to treat, and only a small percentage of people with glioblastoma survive for five years. However, there is a DNA modification called methylation that occurs in a specific region of the cancer cells. This modification can make the cancer cells more responsive to a chemotherapy drug called temozolomide. We wanted to find out which method of assessing this DNA modification would be the most accurate in predicting overall survival for glioblastoma patients who receive temozolomide treatment.
+
+Trial Design: 
+We searched several medical databases to find studies that looked at the effects of different methods for assessing the DNA modification in glioblastoma patients. We included studies that followed adult patients who were diagnosed with glioblastoma and treated with temozolomide. The studies had to provide information about the DNA modification status and the overall survival of the patients. We focused on studies that compared two or more methods of assessing the DNA modification. We also looked at economic evaluation studies and cost analysis.
+
+Results: 
+We analyzed a total of 32 different studies involving 3,474 glioblastoma patients. We found that a method called methylation-specific polymerase chain reaction (MSP) was more effective in predicting overall survival compared to a method called immunohistochemistry (IHC) when assessing the DNA modification. Another method called pyrosequencing (PSQ) also showed better predictive ability compared to IHC. The data suggested that PSQ performed slightly better than MSP, especially when targeting specific regions of the DNA modification. We also identified and summarized 190 articles that described a single method for assessing the DNA modification.
+
+In conclusion, our study suggests that MSP and PSQ are more effective at predicting overall survival in glioblastoma patients compared to IHC. However, more research is needed to determine the best specific regions of the DNA modification and optimal thresholds for these methods. Overall, targeting multiple regions may provide better predictions.

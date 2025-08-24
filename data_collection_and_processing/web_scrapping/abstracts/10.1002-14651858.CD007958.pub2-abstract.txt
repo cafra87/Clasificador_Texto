@@ -1,0 +1,14 @@
+Background
+Systemic cytostatic therapies for advanced, metastatic thyroid carcinomas have been poorly effective. Tumor growth and metastasis depend on blood supply and blood vessel formation (angiogenesis). Therefore, inhibition of angiogenesis may represent a promising target for cancer therapy. 
+Objectives
+To evaluate the benefits and risks of angiogenesis‐inhibitors for metastatic thyroid cancer when given alone, or in combination with chemotherapy or radiotherapy. 
+Search methods
+We searched The Cochrane Library (2009, Issue 2), MEDLINE (January 2000 to May 2009) and EMBASE (January 2000 to May 2009) databases and abstracts published in annual proceedings for evidence. Attempts were made to identify studies from references in potentially relevant trials. We also searched for ongoing trials. 
+Selection criteria
+We planned to include randomized controlled trials that compared angiogenesis‐inhibitors with other treatments, no treatment, or placebo in participants who had pathologically confirmed advanced thyroid cancer. 
+Data collection and analysis
+Two authors independently evaluated the search results against the selection criteria. Data extraction and risk of bias assessment were not performed because there were no studies that could be included. 
+Main results
+We did not identify any studies which met our full inclusion criteria.
+Authors' conclusions
+There is currently no reliable evidence available from randomized controlled trials regarding the beneﬁts and harms of the use of angiogenesis‐inhibitors for treating advanced thyroid cancer. Several trials are ongoing. 

@@ -1,0 +1,11 @@
+Plain Title: The Effects of Dilute vs Full-Strength Formula on Preterm Infants
+
+Rationale: Preterm infants, who are born early and often have less nutrient reserves, may require artificial formula feeding when breast milk is not available. It is important to understand the best way to introduce and advance feeds for these infants. This study aims to compare the effects of dilute and full-strength formula on various outcomes in preterm infants who are exclusively formula-fed.
+
+Trial Design: This study included three small trials involving 102 preterm or low birth weight infants. The infants were randomly assigned to receive either dilute (half-strength) formula or full-strength formula. The study assessed factors such as the incidence of necrotising enterocolitis, feeding intolerance, weight gain, length of hospital stay, and time required to achieve full calorie intake. The study personnel were aware of the assigned treatment.
+
+Results: The evidence suggests that using dilute formula with double-volume (half-strength) may result in fewer episodes of gastric residuals per day, fewer episodes of vomiting per day, and fewer occurrences of abdominal distension. Infants in the dilute formula group also achieved an adequate energy intake earlier than those in the full-strength group. However, there was no difference between groups in terms of weight gain one week after feeding initiation. Data on length of hospital stay were not reported. 
+
+The study authors concluded that the use of dilute formula in preterm infants may lead to a quicker attainment of adequate energy intake. However, due to limitations in the available data and uncertainty regarding bias, further randomized trials are needed to confirm these results. Specifically, the impact of dilute formula on serious gastrointestinal problems was not reported in any of the trials. 
+
+In summary, this study suggests that dilute formula may have some benefits for preterm infants in terms of feeding tolerance and achieving an adequate energy intake. However, more research is necessary to fully understand the effects and ensure the safety of using dilute formula in this population.

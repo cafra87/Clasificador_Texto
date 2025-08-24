@@ -1,0 +1,13 @@
+Plain Title: Psychosocial Interventions for Self-Harm in Children and Adolescents
+
+Rationale:
+Self-harm, which includes self-poisoning or self-injury, is a growing problem that often repeats and is linked to suicide. However, there is a lack of evidence on effective interventions for self-harm in children and adolescents compared to adults. This review aims to update previous research on interventions for self-harm in young people.
+
+Trial Design:
+This study looked at the effects of psychosocial interventions or medications for self-harm in children and adolescents. The study included randomized controlled trials that compared these interventions to standard care, routine psychiatric care, or other types of treatment. The participants were individuals under 18 years old who had recently engaged in self-harm and sought medical help. The study followed up with the participants for a maximum of two years to assess the occurrence of repeated self-harm episodes.
+
+Results:
+The study included data from 17 trials involving 2280 participants, mostly females with an average age of 14.7 years. The trials focused on various forms of psychosocial interventions and did not evaluate the effectiveness of medications for this population. The results showed that Dialectical Behavior Therapy for Adolescents (DBT-A) was associated with a lower rate of self-harm repetition compared to standard care or alternative psychotherapy. However, there was no clear evidence of a difference between individual cognitive behavioral therapy (CBT)-based psychotherapy and standard care for self-harm repetition. The effectiveness of Mentalization-Based Therapy for Adolescents (MBT-A) was uncertain, and there was probably no difference in the effectiveness of family therapy compared to standard care or enhanced usual care. Other interventions, such as compliance enhancement approaches, group-based psychotherapy, remote contact intervention, or therapeutic assessment, did not show clear evidence of reducing self-harm repetition at specified follow-up assessments.
+
+Conclusion:
+Due to the limited number of trials and the moderate to very low quality of available evidence, there is uncertainty regarding the effectiveness of different psychosocial interventions for self-harm in children and adolescents. Further evaluation of DBT-A is recommended based on high-certainty evidence. Additionally, since CBT-based psychotherapy has shown benefits for adults, it should be further developed and evaluated for young people.

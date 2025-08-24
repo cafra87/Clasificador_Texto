@@ -1,0 +1,14 @@
+Background
+Bed rest in hospital or at home is widely advised for many complications of pregnancy. The increased clinical supervision needs to be balanced with the risk of thrombosis, the stress on the pregnant women, as well as the costs to families and health services. 
+Objectives
+The objective of this review was to assess the effects of bed rest in hospital for women with suspected impaired fetal growth. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (March 2010).
+Selection criteria
+Randomised trials comparing a policy of bed rest in hospital with ambulatory management for women with suspected impaired fetal growth. 
+Data collection and analysis
+Trial quality was assessed.
+Main results
+One study involving 107 women was included. Allocation of treatment was by odd or even birth date. There were differences in baseline fetal weights and birthweights, but these were not statistically significant (mean estimated fetal weight deviation at enrolment was ‐21.7% for the bed rest group and ‐20.7% for the ambulatory group; mean birthweight was ‐19.7% for the bed rest group and ‐20.6% for the ambulatory group). No differences were detected between bed rest and ambulatory management for fetal growth parameters (risk ratio 0.43, 95% confidence interval: 0.15 to 1.27) and neonatal outcomes. 
+Authors' conclusions
+There is not enough evidence to evaluate the use of a bed rest in hospital policy for women with suspected impaired fetal growth. 

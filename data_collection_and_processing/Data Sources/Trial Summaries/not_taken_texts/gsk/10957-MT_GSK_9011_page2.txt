@@ -1,0 +1,26 @@
+Page 2 of 8
+General information about the clinical study
+This is a “platform study” made up of many smaller studies called sub-studies. In these
+types of studies, researchers use the same plan to test different medicines to treat a
+disease.
+When was this study done?
+The first sub-study started in January 2019 and ended in September 2021. The results of this
+sub-study are presented in this summary.
+An additional sub-study was also started; however, researchers could not draw any
+conclusion as this sub-study ended early. Other sub-studies are ongoing and more are
+planned. Results of each sub-study will be presented in a separate summary when they are
+finished.
+Which medicines were studied?
+Feladilimab and docetaxel are the two medicines studied in this sub-study.
+What was the main reason for this study?
+Non-small cell lung cancer (NSCLC) is the most common type of lung cancer. Common
+symptoms include cough that does not go away, chest pain, and tiredness. When NSCLC has
+spread beyond the lungs into other areas of the body, it is considered as advanced NSCLC.
+Some cancer cells have a type of protein called programmed cell death ligand 1 (PD-L1) on
+their surface. These are called PD-L1 positive cancers. Current treatment options include
+chemotherapy with platinum-based medicines and medicines that block PD-L1 protein.
+Some people may respond to treatment while some do not. Of those who respond, the
+cancer may come back after being treated.
+For these reasons, researchers are looking for a better way to treat advanced NSCLC. In this
+sub-study, they wanted to know if feladilimab + docetaxel compared with docetaxel alone
+improved survival.

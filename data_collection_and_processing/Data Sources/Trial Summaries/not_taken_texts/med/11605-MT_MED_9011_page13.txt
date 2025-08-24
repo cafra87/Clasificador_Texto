@@ -1,0 +1,47 @@
+The table below shows the number of adverse reactions and serious adverse
+reactions, and how many participants stopped receiving trial treatment due to
+adverse reactions. This includes information for adverse reactions the doctors
+thought were related to one of the trial drugs, or the drugs together.
+Group 1 and Group 2 Group 3 and Group 4
+(out of 45 participants) (out of 24 participants)
+How many participants had adverse reactions?
+Acalabrutinib 80.0% (36) 83.3% (20)
+Obinutuzumab 60.0% (27) 16.7% (4)
+Venetoclax 41.7% (10)
+These groups did not receive
+this treatment
+Rituximab 29.2% (7)
+Acalabrutinib and There is no information for
+42.2% (19)
+obinutuzumab together these groups
+Acalabrutinib, obinutuzumab These groups did not receive
+none
+and venetoclax together this treatment
+How many participants had serious adverse reactions?
+Acalabrutinib none none
+Obinutuzumab none none
+Venetoclax 4.2% (1)
+These groups did not receive
+this treatment
+Rituximab none
+Acalabrutinib and There is no information for
+2.2% (1)
+obinutuzumab together these groups
+Acalabrutinib, obinutuzumab These groups did not receive
+4.2% (1)
+and venetoclax together this treatment
+How many participants stopped receiving trial treatment due to adverse
+reactions?
+Acalabrutinib 4.4% (2) 4.2% (1)
+Obinutuzumab none none
+Venetoclax none
+These groups did not receive
+this treatment
+Rituximab none
+Acalabrutinib and There is no information for
+none
+obinutuzumab together these groups
+Acalabrutinib, obinutuzumab These groups did not receive
+4.2% (1)
+and venetoclax together this treatment
+13 | Clinical Trial Results

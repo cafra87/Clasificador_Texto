@@ -1,0 +1,25 @@
+MEDI0382 was designed to act like 2 proteins found in the body that can
+decrease body weight. These proteins are called “glucagon-like peptide 1”, also
+called GLP-1, and “glucagon”.
+X GLP-1 can decrease body weight by decreasing blood glucose levels and
+hunger.
+X Glucagon can decrease body weight by decreasing the body’s sugar
+stores, also called glycogen, and hunger. Glucagon causes the breakdown
+of glycogen to provide the body with energy. Glycogen is a form of glucose
+that is stored in the liver and can be turned into glucose when blood
+glucose levels are low. Glucagon also causes the breakdown of fats in the
+liver, which provides energy when the body is not getting food.
+Researchers think that MEDI0382, which acts like both GLP-1 and glucagon,
+might help people with T2DM who are likely to have NAFLD/NASH. The
+researchers think that MEDI0382 may help liver health, decrease body weight,
+and reduce blood sugar levels in patients with T2DM.
+But, researchers are not exactly sure how MEDI0382 works in the human body.
+This is because GLP-1 and glucagon each have opposite effects on glycogen.
+X GLP-1 increases liver glycogen and decreases blood glucose levels.
+X Glucagon decreases liver glycogen and increases blood glucose levels.
+So, the researchers want to better understand how MEDI0382 changes glycogen
+levels in the liver so they can know how exactly MEDI0382 works in the human body.
+In this study, the researchers wanted to find out how MEDI0382 works in a small
+number of participants who were overweight or obese with T2DM. They also
+wanted to find out if the participants had any medical problems during the study.
+4 | Clinical Study Results

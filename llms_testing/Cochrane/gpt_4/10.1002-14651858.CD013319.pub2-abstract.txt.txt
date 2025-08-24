@@ -1,0 +1,13 @@
+1. Plain Title: 
+   A Comparison between Two Methods of Aortic Valve Replacement for Heart Patients 
+
+2. Rationale: 
+   Aortic valve stenosis, a heart valve disease that can lead to serious problems like heart failure, is a major health concern around the world. This typically requires a valve replacement to manage the condition. Currently, there are two main methods to replace the aortic valve: a traditional open-heart surgery or a less invasive procedure called transcatheter aortic valve implantation. Which method is better for patients with a lower risk from surgery is still under discussion. This study was conducted to understand the benefits and risks of using the less invasive method compared to the traditional open-heart surgery.
+
+3. Trial Design: 
+   This study was conducted by searching through medical research databases for past trials. We specifically looked for trials that compared the two procedures in adults 18 years and older who have severe aortic valve stenosis but are at low risk for surgery. The results from these trials were then analysed, focussing on important outcomes to patients like survival, risk of stroke, and need for further hospital stays.
+
+4. Results:
+   Our study included four other studies involving 2818 patients. Our findings revealed little to no difference in survival rates, risk of stroke, or heart attack when comparing the less invasive procedure and open-heart surgery. Interestingly, reports showed that patients who underwent the less invasive procedure might have lower chances of needing to go back to the hospital. However, one trade-off is that these patients might have a higher risk of needing a pacemaker. On a positive note, the same procedure also showed a reduced risk of other negative outcomes like irregular heartbeat, kidney injury or bleeding. 
+
+   In conclusion, our research indicates that the less invasive procedure for aortic valve replacement might have benefits over open-heart surgery, yet more information is still needed, especially in the long term. The decision on which option to choose should consider these facts.

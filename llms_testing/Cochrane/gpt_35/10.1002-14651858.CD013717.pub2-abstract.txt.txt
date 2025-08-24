@@ -1,0 +1,18 @@
+Plain Title: Effectiveness of International Travel Restrictions during the COVID-19 Pandemic: Study Findings
+
+Rationale: 
+The study aimed to evaluate the effectiveness of travel-related control measures implemented during the COVID-19 pandemic. These measures included travel restrictions, screening at borders, and quarantine of travelers. The study focused on assessing the impact of these measures on the transmission of infectious diseases and screening-related outcomes. The research was conducted to better understand how these control measures can help prevent the spread of COVID-19 and improve public health.
+
+Trial Design: 
+The study analyzed various types of research studies, including experimental, quasi-experimental, observational, and modeling studies. These studies assessed the effects of travel-related control measures on international travel during the COVID-19 pandemic. Researchers collected data from multiple databases and performed a thorough analysis of 62 unique studies, including 49 modeling studies and 13 observational studies. The studies covered different settings and levels of community transmission. The review process involved screening and appraising the studies for quality and bias.
+
+Results: 
+The findings of the study indicated the potential benefits of travel-related control measures in reducing the spread of COVID-19. Travel restrictions, such as reducing or stopping cross-border travel, showed positive effects in terms of reducing COVID-19 cases in the community and cases exported or imported. However, the extent of the effect varied among the studies. 
+
+Screening measures at borders, including symptom/exposure-based screening and test-based screening, also showed some benefits. Symptom/exposure-based screening alone was found to be less effective compared to PCR testing at borders. The combination of quarantine and PCR testing at borders was shown to improve effectiveness in preventing transmission.
+
+Quarantine measures were found to be beneficial in reducing the number of COVID-19 cases. The duration of quarantine and compliance were important factors influencing the effectiveness of this measure. 
+
+Overall, the certainty of evidence for the effectiveness of travel-related control measures was very low. The study highlighted the need for more real-world evidence and better reporting of research studies. Factors such as community transmission levels, travel volumes, and other public health measures also influenced the effectiveness of these control measures. Future research should focus on assessing the benefits and harms of travel-related control measures from a societal perspective.
+
+In conclusion, the study suggests that travel restrictions, quarantine, and PCR testing at borders can play a role in limiting the spread of COVID-19. However, more research is needed to better understand the true effects and optimize the implementation of these control measures.

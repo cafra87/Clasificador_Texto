@@ -1,0 +1,33 @@
+Clinical Study Results
+Hazard ratio
+A hazard ratio is a mathematical formula presented as a percentage. It compares over time how
+likely it is for something to happen in one group of participants compared to another group.
+For the hazard ratio, the researchers found that the participants who got durvalumab alone were
+24% less likely to die during the study compared to the participants who got SOC treatment. But,
+the difference between the 2 groups was too small for the researchers to consider this difference
+to be statistically significant.
+How likely it was that the participants would be alive 2 years after starting the study
+The researchers used a percentage to determine how likely it was that the participants would be
+alive 2 years after starting the study.
+The researchers found that:
+• There was a 38.3% chance that the participants who got durvalumab alone would still be alive
+2 years after starting the study.
+• There was a 22.7% chance that the participants who got SOC treatment would still be alive 2
+years after starting the study.
+The figure below shows these results.
+How likely it was participants would be
+alive 2 years after starting the study
+100
+80
+)%(
+ecnahc
+60
+38.3% chance
+40
+ylekiL
+22.7% chance
+20
+0
+Group 1 Group 3
+(durvalumab alone) (SOC treatment)
+6

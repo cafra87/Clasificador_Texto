@@ -1,0 +1,245 @@
+1CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Avelumab (Bavencio®), Axitinib (Inlyta®)
+Protocol Number: B9991002
+Dates of Trial: 15 October 2015 and is still ongoing 
+Title of this Trial: Testing the safety of avelumab and axitinib on patients 
+with kidney cancer
+[A Phase 1b, Open -Label, Dose -Finding Study to 
+Evaluate Safety, Pharmacokinet ics and 
+Pharmacodynamics of Avelumab (MSB0010718C) in 
+Combination With Axitinib (AG -013736) in Patients With 
+Previously Untreated Advanced Renal Cell Cancer] 
+Date of this Report: 7May 2020 
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results, please contact the doctor or staff at 
+your study site.
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)
+2WHY WAS THIS STUDY DONE?
+The kidneys are organs in the body that help get rid of waste while also controlling 
+the amount of water in the body by producing urine.  Renal cell carcinoma (RCC) is a 
+type of kidney cancer that starts in the small tubes of the kidney.  It is the most 
+common kind of kidney cancer found in adults.  Kidney cancer is called advanced 
+when it has grown or spread outside of the kidney.  Treatment for advanced RCC 
+may include all or some of the following:
+surgery to remove a part of the kidney or the whole kidn ey 
+radiation therapy, in which beams of intense energy are used to kill cancer cells
+treatment with chemical substances (chemotherapy) 
+treatment that uses the body’s own immune system to fight cancer.  Substances 
+made by the body or in a laboratory are u sed to boost, direct, or restore the 
+body’s own natural defense against cancer 
+(immunotherapy/biotherapy/biologic therapy) 
+Avelumab is approved in certain countries for the treatment of some cancers and is a 
+drug that stimulates the body’s own defense sys tem against cancer.  Axitinib is 
+approved in certain countries for the treatment of advanced RCC for certain patients
+after one prior treatment .  At the time of this study, avelumab in combination with 
+axitinib was not approved for treatment of patients wi th advanced RCC.  Recently, 
+avelumab in combination with axitinib has been approved in some countries as 
+treatment for patients with advanced RCC.
+The purpose of this study was to find the highest dose level tested of avelumab and 
+axitinib taken together t hat is considered safe enough (less than 2 dose limiting 
+toxicities [DLTs] in 6 patients) to test in advanced RCC patients in further studies.  
+This is called the “maximum tolerated dose”.
+Researchers wanted to know:
+What is the maximum tolerated dose level of avelumab in combination 
+with axitinib?
+Dose Limiting Toxicities, DLTs, are certain medical problems caused by taking a 
+medicine or medicines which require the patient to lower the dose they are taking or 
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)
+3to stop taking the medicine (permanently or temporarily).  DLTs can be many things, 
+and may include, for example, fever with a low count of white blood cells.
+WHAT HAPPENED DURING THE STUDY?
+The study evaluated a group of patients who did not receive any treatment for 
+advanced RCC before joining this study, to find out what dose of avelumab was best 
+to use in future clinical studies, when taken in combination with axitinib.  Three 
+different dose strength combinations of avelumab and axitinib were planned.  The 
+highest planned dose combination of avelumab and axitinib (DL1) was found to be an 
+acceptable dose in this study, and therefore the other 2 combinations (DL -1A and 
+DL-1B) were not explored.  Avelumab was given into the vein through a small needle, 
+and axitinib tablets were taken by mouth.  The treatment groups for this 
+“dose -finding phase” are shown below:
+DL1: avelumab 10 milligrams (mg) for each kilogram (kg) of the patient’s body 
+weight, every 2 weeks + axitinib 5 mg, 2 times a day
+DL-1A: avelumab 5 mg for each kg of body weight, every 2 weeks + axitinib 
+5mg, 2 times a day (planned, but not investigated in this study)
+DL-1B: avelumab 10 mg for each kg of body weight, every 2 weeks + axitinib 
+3mg, 2 times a day (planned, but not investigated in th is study)
+This was an “open -label” study, which means that the patients and the researchers 
+knew which medicine the patients received. 
+The figure below shows what happened during this study.
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)
+4There were 2 parts in the study.  The first part was the “dose -finding phase”.  In this 
+part of the study, the highest dose level, DL1, was tested to see if it is safe to use in 
+further studies. 
+The second part was the “dose expansion phase”.  In this part of the study, the DL1 
+dose combination was given to patients to make sure that the right dose was chosen 
+for future studies.
+To understand what happens to axitinib in the body, 16 patients received axitinib 
+tablets alone for 7 days (this was known as the “lead in period”) prior to the 
+combination (avelumab + axitin ib).
+The Sponsor ran this study at 14 locations in the United Kingdom, the United States, 
+and Japan .  It began 15 October 2015 and is ongoing.  42 men and 13 women 
+participated.  38 patients were younger than 65 years, and 17 patients were 65 years or 
+older.  At the time of data collection, patients were in the study for almost 3 years; the 
+study was ongoing.  
+Patients were to be treated in the dose -finding phase until DLT data from 6 patients 
+on the highest dose of avelumab and axitinib were collected.  T his dose was then 
+given in the “dose -expansion phase” of the study, to test the safety and effectiveness 
+of the dose.  Fifty -five patients received the study medications.  At the time of data 
+collection, 20 patients were still receiving the study medicatio ns: 31% (17 out of 55) of 
+patients were still treated with both study medications, 2% (1 out of 55) of patients 
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)
+5were still treated with avelumab alone, and 4% (2 out of 55) of patients were still 
+being treated with axitinib alone.  Thirty -five patients dis continued study medication.  
+The main reason why patients discontinued study medication was because their 
+advanced RCC worsened.
+When the data were collected in April 2018, the Sponsor began reviewing the 
+information collected.  The Sponsor then created a report of the results.  This is a 
+summary of that report. 
+WHAT WERE THE RESULTS OF THE STUDY?
+What is the observed DLT of DL1?
+There was 1 patient (out of 6) that had 1 medical problem that was considered a DLT.  
+This medical problem was proteinuria, whi ch is protein in the urine.  So, since there 
+was only a single DLT among the patients in the dose finding phase at DL1, DL1 was 
+considered an acceptable dose.  For this reason, the dose of avelumab in combination 
+with axitinib recommended for the next stud y was determined to be avelumab 
+10mg/kg through a needle in the vein every 2 weeks + axitinib 5 mg oral 2 times a 
+day (DL1).
+This does not mean that everyone in this study had these results.  Other studies may 
+produce different results, as well.  These ar e just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this 
+summary.  
+WHAT MEDICAL PROBLEMS DID PATIENTS 
+HAVE DURING THE STUDY?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disease or by chance).  Or, medical problems could 
+also have been caused by a study treatment, or by another medicine the participant 
+was taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might b e.
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)
+6All 55 patients in the study had at least 1 medical problem.  A total of 24% (13 out of 
+55) of patients stopped treatment with avelumab or axitinib because of medical 
+problems.  The most common medical problems are listed below.  
+Most Common Medical Problems
+(Reported by More Than 10% of Patients)
+Medical ProblemAll Patients
+(55 Patients treated)
+Loose stools 37 (67%)
+Feeling very tired 30 (55%)
+Difficulty speaking 27 (49%)
+High blood pressure 26 (47%)
+Rash 20 (36%)
+Constipation 18 (33%)
+Hand -foot syndrome 18 (33%)
+Alanine aminotransferase 
+increased (high amount of 
+this enzyme in the liver)17 (31%)
+High level of the enzyme that 
+helps to break down sugars in 
+the blood (amylase)17 (31%)
+Pain in a joint 17 (31%)
+Aspartate aminotransfera se 
+increased (high amount of 
+this enzyme in the liver)17 (31%)
+Cough 16 (29%)
+Difficulty breathing 16 (29%)
+Upset stomach 16 (29%)
+Headache 15 (27%)
+Underactive thyroid gland 15 (27%)
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)
+7Loss of appetite 13 (24%)
+Inflammation in the inner 
+lining of some organs 13 (24%)
+Vomiting 13 (24%)
+High level of the enzyme that 
+helps to break down fats 
+(lipase)12 (22%)
+Medical problem related to 
+receiving study drug through 
+needle in the vein11 (20%)
+Weight loss 11 (20%)
+Back pain 10 (18%)
+Muscle pain 10 (18%)
+Feeling cold 9 (16%)
+Feeling dizzy 9 (16%)
+Itching of the skin 9 (16%)
+Blood creatinine increased 
+(the kidneys are not working 
+well)8 (15%)
+Dry mouth 8 (15%)
+Bad taste in mouth 8 (15%)
+Low level of sodium in the 
+blood (sodium helps regulate 
+the amount of water that is in 
+and around cells)8 (15%)
+Difficulty sleeping 8 (15%)
+Muscle spasms 8 (15%)
+Common cold 8 (15%)
+Protein in the urine 8 (15%)
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)
+8Inflammation of the inner 
+lining of the mouth8 (15%)
+Stomach pain 7 (13%)
+Not enough red blood cells to 
+carry oxygen to the organs7 (13%)
+Gamma -glutamyltransferase 
+increased (high amount of 
+this enzyme in the liver)7 (13%)
+Abnormally high level of uric 
+acid in the blood7 (13%)
+Low level of phosphate in the 
+blood7 (13%)
+Swelling of lower parts of the 
+legs or hands7 (13%)
+Pain at the back of the mouth 7 (13%)
+Nose and throat infection 7 (13%)
+Urinary tract infection 
+(infection in any part of the 
+urinary system7 (13%)
+Blood alkaline phosphatase 
+increased (high level of this 
+enzyme in the liver)6 (11%)
+Dry skin 6 (11%)
+Heartburn 6 (11%)
+High level of the fat, 
+triglycerides, in the blood6 (11%)
+Low blood pressure 6 (11%)
+Pain in the limbs 6 (11%)
+Open sore on the skin 6 (11%)
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)
+9WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.  
+42% (23 out of 55) of patients had serious medical problems.  31% (5 out of 16) of 
+patients in the DL1 group with lead -in and 46% (18 out of 39) of patients in the DL1 
+group had a serious medical problem.  24% (13 out of 55) of patients had serious 
+medical problems related to study treatment as assessed by the investigator.  
+13patients died during the study, of which 3 died because of a serious medical 
+problem.  Of the 3 patients that died due to a medical problem, the deaths of 
+2patients were related to another underlying illness. 
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+For more details on this study protocol, please visit:
+www.clinicaltrials.gov Use the study identifier NCT02493751
+www.pfizer.com/research/research_
+clinical_trials/trial_resultsUse the protoc ol number B9991002
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients.  There is also an additional study for 
+avelumab in combination with axitinib as treatment for patients with advanced renal 
+cell cancer.
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)
+10Again, thank  you for volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e1936c813c\Approved\Approved On: 09-May-2020 01:48 (GMT)

@@ -1,0 +1,45 @@
+Clinical Study Results
+The graph below shows the change in blood sugar for participants in Part B from the beginning
+of the study to Day 36 of the study.
+Change in blood sugar from the beginning of the study to Day 36 of the study
+50 mg 200 mg 400 mg
+MEDI4166 MEDI4166 MEDI4166 Placebo
+0
+doolb )Ld/h-gm(
+-50
+-46.7
+-76.2 -87.1
+-100
+ni
+egnahC
+-150
+ragus
+-200
+-195.6
+-250
+Treatment group
+What medical problems did participants have during
+the study?
+This section is a summary of the medical problems participants had during the study that the
+study doctors thought might be related to the study drug. These medical problems are called
+“adverse reactions”. An adverse reaction is considered “serious” when it is life threatening, causes
+lasting problems, or requires hospital care.
+These adverse reactions may or may not be caused by the study drugs. The website listed at the
+end of this summary may have more information about the adverse reactions that happened in
+this study. A lot of research is needed to know whether a drug causes an adverse reaction.
+How many participants had serious adverse reactions?
+No participants had serious adverse reactions in Part A or Part B during the study.
+How many participants had adverse reactions?
+Part A
+In Part A, 60.0% of participants who got MEDI4166 had adverse reactions during the study. This
+was 18 out of 30 participants. 50.0% of participants who got the placebo had adverse reactions
+during the study. This was 5 out of 10 participants.
+No participants in Part A stopped taking MEDI4166 because of adverse reactions they had
+during the study.
+Part B
+In Part B, 79.2% of participants who got MEDI4166 had adverse reactions during the study. This
+was 38 out of 48 participants. 86.7% of participants who got the placebo had adverse reactions
+during the study. This was 13 out of 15 participants.
+In Part B, 2.1% of participants who got MEDI4166 stopped taking the study drug because of
+adverse reactions. This was 1 out of 48 participants.
+6

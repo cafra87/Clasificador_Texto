@@ -1,0 +1,15 @@
+1. Plain Title: 
+Skin Cancer Detection Using a Simple, Non-Invasive Test
+
+2. Rationale:
+Skin cancers such as basal cell carcinoma (BCC), cutaneous squamous cell carcinoma (cSCC), and melanoma can cause harm and even death if not found early. The usual method for finding skin cancer is to get a small part of the skin (a biopsy) and look at it closely in a lab. However, a less invasive test, called exfoliative cytology, might help. This test scrapes a small sample of cells from the skin. Checking these cells might tell us right away if a person has BCC, without an extra doctor's visit for biopsy results. This could be helpful in preparing for treatments like a special type of surgery (Mohs surgery) or radiation therapy. But, the scraped cell test can't provide as much information as a biopsy, so it's important to know how and when it can be useful.
+
+3. Trial Design:
+We looked at several studies that used the scraped cell test on adults who might have BCC, cSCC, or melanoma. These studies compared the test results to results from skin biopsies, which we know are very accurate. In total, we looked at results from 1655 skin spots, including 1120 BCCs, 41 cSCCs, and 10 melanomas. 
+
+4. Results:
+We found that the scraped cell test was very good at finding BCC when doctors already thought the skin spot might be BCC. For example, in 1000 suspicious skin spots, it's very likely this test would miss only 21 BCCs and wrongly label 14 spots as BCC. However, the data we had wasn't enough to tell us how good the scraped cell test is at finding other skin cancers like melanoma or cSCC. 
+
+We don't yet know if the scraped cell test is good as the first test to find skin cancer because all of the studies we looked at used it for skin spots that doctors already thought might be cancer. But, for BCC cases where doctors need to know for sure if it's cancer to help plan treatments, this test could be really useful. 
+
+Still, the number of studies was small, and many of them were not very well done or described, so we can't make strong conclusions. We need more and better studies to tell us how useful the scraped cell test is compared to getting a skin biopsy or using a tool to look at the skin (dermoscopy), especially for people who might have BCC and need a diagnosis before getting treatments like radiation therapy.

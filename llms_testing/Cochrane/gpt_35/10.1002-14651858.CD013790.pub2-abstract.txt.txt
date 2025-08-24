@@ -1,0 +1,16 @@
+Plain Title: Effectiveness and Safety of Heated Tobacco Products for Smoking Cessation and Impact on Smoking Prevalence 
+
+Rationale: 
+Heated tobacco products (HTPs) are devices designed to heat tobacco without burning it, producing aerosol instead of smoke. Some people have reported quitting smoking by using HTPs, so it's important to understand if they work and if they are safe. Policymakers also need to know how HTPs affect public health and smoking rates. 
+
+Trial Design: 
+This study looked at the effectiveness and safety of HTPs for quitting smoking and their impact on smoking rates. Researchers collected data from randomized controlled trials (RCTs) where people who smoked cigarettes were randomly assigned to use HTPs or a control condition. The study also included time-series studies that looked at the effect of HTPs on smoking rates at a population level. The average length of the study was 13 weeks.
+
+Results: 
+The study included 13 completed studies, with 11 being RCTs and 2 being time-series studies. All the RCTs were funded by tobacco companies. The RCTs did not show any evidence of HTPs helping people quit smoking. However, the studies did suggest that HTP users had lower exposure to harmful chemicals compared to cigarette smokers. There was not enough evidence to determine if HTPs had a difference in adverse events or serious adverse events compared to smoking cigarettes. 
+
+It's important to note that the studies had limitations, and the evidence is not strong. More research is needed to understand the effectiveness and safety of HTPs. 
+
+The time-series studies showed that the introduction of HTPs in Japan led to a faster decline in cigarette sales. However, this evidence is not very strong because there could be other factors influencing the decline. It's also uncertain if the decline in cigarette sales translated to a decrease in smoking prevalence. 
+
+In conclusion, the study did not find evidence that HTPs help with smoking cessation, but they may have lower levels of harmful chemicals compared to cigarettes. More independently funded research is needed to understand the effectiveness and safety of HTPs. Time-series studies are also necessary to understand the impact of HTPs on smoking prevalence.

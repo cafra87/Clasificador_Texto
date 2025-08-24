@@ -1,0 +1,13 @@
+Which vaccines were studied?
+The vaccine given to participants in this study was the MenACWY-CRM vaccine. It was given by injection
+into the upper arm.
+Participants previously got either:
+The same vaccine: MenACWY-CRM (MenACWY-CRM group).
+A similar vaccine: MenACWY-D (MenACWY-D group). This vaccine was also developed to protect
+against meningococcal bacteria A, C, W, and Y.
+No meningitis vaccine (No previous vaccine group).
+How was the study done?
+All participants got one dose of MenACWY-CRM vaccine. A blood sample was taken just before vaccination
+and approximately 1 month after the vaccination to measure the amounts of antibodies (Figure 1). The
+participants were followed for 6 months after the vaccination for potential side effects.
+Figure 1 Study design

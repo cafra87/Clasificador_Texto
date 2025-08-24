@@ -1,0 +1,5 @@
+A Phase 2, 2-Stage, 2-Cohort Study of Talazoparib (BMN 673), in Locally Advanced and/or Metastatic Breast Cancer Patients With BRCA Mutation (ABRAZO Study)
+The purpose of this 2-stage, 2-cohort Phase 2 trial is to evaluate the safety and efficacy of talazoparib (also known as BMN 673) in subjects with locally advanced or metastatic breast cancer with a deleterious germline BRCA 1 or BRCA 2 mutation. Subjects will be assigned to either Cohort 1 or 2 based on prior chemotherapy for metastatic disease:
+
+Cohort 1) Subjects with a documented PR or CR to a prior platinum-containing regimen for metastatic disease with disease progression > 8 weeks following the last dose of platinum; or
+Cohort 2) Subjects who have received > 2 prior chemotherapy regimens for metastatic disease and who have had no prior platinum therapy for metastatic disease

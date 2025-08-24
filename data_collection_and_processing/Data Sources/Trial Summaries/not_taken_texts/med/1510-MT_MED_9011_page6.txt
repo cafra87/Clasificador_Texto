@@ -1,0 +1,31 @@
+Clinical Study Results
+What medical problems did the participants have?
+A lot of research is needed to know whether a drug causes a medical problem. So,
+researchers keep track of all of the medical problems that participants have during a
+study. These medical problems are called “adverse events”. They may or may not be
+caused by the study drug.
+The medical problems listed below happened up to and including Day 29 of this study.
+Day 29 was the fourth visit during this study.
+How many participants developed medical problems during this study?
+By Day 29 of this study, 287 out of 1894 participants (15.2%) developed medical
+problems. The table below shows the number of medical problems that occurred
+by Day 29 of this study.
+MEDI7510 and flu vaccine Placebo and flu vaccine
+(out of 946 participants) (out of 948 participants)
+How many participants
+developed medical problems 146 (15.4%) 141 (14.9%)
+by Day 29?
+How many participants developed serious medical problems?
+A medical problem is considered serious when it is life-threatening, causes lasting
+problems, or needs hospitalization.
+By Day 29 of this study:
+• 4 out of 946 participants (0.4%) who got MEDI7510 and the flu vaccine
+developed serious medical problems
+• 3 out of 948 participants (0.3%) who got the placebo and the flu vaccine
+developed serious medical problems
+At the end of this study:
+• 3 out of 946 participants (0.3%) who got MEDI7510 and the flu vaccine died
+• 5 out of 948 participants (0.5%) who got the placebo and the flu vaccine died
+The researchers did not think that any of the serious medical problems or deaths in
+this study were related to the study treatments.
+6

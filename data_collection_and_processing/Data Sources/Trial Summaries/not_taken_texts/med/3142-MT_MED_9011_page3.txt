@@ -1,0 +1,26 @@
+Clinical Study Results
+What kind of study was this?
+This study had 3 parts: Part A, Part B, and Part C. Each participant could only be in
+1 part of the study.
+Part A and Part C were “single-blind”. This means the researchers knew what
+the participants were taking during these parts, but the participants did not. These
+parts were also the “dose escalation” parts of the study. This means that the first
+group of participants in each part started out by getting a low dose of AZD8154.
+The study doctors carefully looked at the results from these participants, then
+decided whether to increase the dose in the next group of participants.
+Part B of the study was “open-label”. This means the researchers and the
+participants knew which treatment the participants were taking during this part.
+In Part A, the participants took 1 dose of either AZD8154 or a placebo through
+an inhaler. A placebo looks like a drug but does not have any medicine in it.
+Researchers use a placebo to help make sure any of the effects they see in the
+participants who take the drug are actually caused by the drug.
+Part B started after Part A. In Part B, the participants took AZD8154 through an
+inhaler or got it through a needle into their vein, also called an IV.
+Part C started after Part B. In Part C, the participants took several doses of either
+AZD8154 or a placebo through an inhaler.
+All of the AZD8154 doses in this study were measured in milligrams, also called mg.
+A computer program was used to randomly choose the treatment each participant
+took during Part A and Part C. This helps make sure the groups are chosen fairly.
+Researchers do this so that comparing the results of each treatment is as accurate
+as possible.
+3

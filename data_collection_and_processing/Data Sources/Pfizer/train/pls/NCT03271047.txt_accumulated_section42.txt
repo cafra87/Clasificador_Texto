@@ -1,0 +1,37 @@
+What is colorectal cancer?
+Colorectal cancer is cancer that starts in the large intestine (colon) or the rectum (last part of the large intestine). Participants in this study had metastatic colorectal cancer, which means that the cancer had spread outside of the colon or rectum. Additionally, the participants in this study had tumors that were considered to be "microsatellite stable" (MSS), and which contained a specific mutated gene called RAS that can cause cancer cells to grow and to spread.
+What are binimetinib, nivolumab, and ipilimumab?
+There were 3 treatments tested in this study: binimetinib, nivolumab, and ipilimumab. Binimetinib is a treatment that may block the growth and spread of cancer. Binimetinib is taken as a tablet by mouth. In this study, binimetinib was an investigational treatment, which means that it is still being tested and has not been approved for use in patients with colorectal cancer. Nivolumab and ipilimumab are 2 types of antibody treatments that may help the immune system to fight cancer. Nivolumab and ipilimumab are given through a needle into the vein (IV). In this study, nivolumab and ipilimumab were investigational treatments.
+What was the purpose of this study?
+The main purposes of this study were to learn more about the safety of binimetinib, nivolumab, and ipilimumab and to determine the recommended dose for further testing, and to learn whether binimetinib, nivolumab, and ipilimumab had positive effects for patients with metastatic colorectal cancer with RAS mutations and that are MSS. Researchers wanted to know:
+Part 1: did participants have dose-limiting toxicities?
+Part 2: did participants have a reduction in tumor size?
+“Dose-limiting toxicities” (DLTs) are certain medical problems caused by taking study treatment which require the participant to lower the dose or stop taking the treatment (permanently or temporarily). Researchers collect information on DLTs to help determine the recommended dose of a study treatment.
+How was the study done?
+This study was an open-label study, which means that participants and doctors knew what medicines were given to participants. This study was done in 2 parts.
+Part 1
+The purpose of Part 1 was to find the recommended dose of binimetinib to study in Part 2. During Part 1, participants were assigned to 1 of 2 treatment groups, Group 1A and Group 1B. Group 1A participants received the following treatments:
+-Binimetinib 45 milligrams (mg) twice daily by mouth for 4 weeks; if this dose level of binimetinib had DLTs, the following lower dose levels of binimetinib were tested in order as follows:
+-45 mg twice daily for 3 weeks then 1 week off
+-30 mg twice daily for 4 weeks
+-30 mg twice daily for 3 weeks then 1 week off
+-Nivolumab 480 mg IV over 30 minutes every 4 weeks.
+Researchers used the results from Group 1A to determine the recommended dose to test in Group 1B. After Group 1A completed study treatment, other participants started Group 1B. Group 1B participants received the following treatments:
+-Binimetinib 45 milligram (mg) twice daily by mouth for 4 weeks; if this dose level of binimetinib had DLTs, the following lower dose levels of binimetinib were tested in order as follows:
+-45 mg twice daily for 3 weeks then 1 week off
+-30 mg twice daily for 4 weeks
+-30 mg twice daily for 3 weeks then 1 week off
+-Nivolumab 480 mg IV over 30 minutes every 4 weeks
+-Ipilimumab 1 mg per kilogram (kg) (1 mg/kg) IV over 30 minutes about every 8 weeks.
+Participants received study treatments in cycles that lasted 28 days. Participants were to attend visits at the study center on Days 1, 15, and 22 of the first cycle, and on Days 1 and 15 of the following cycles. They were also asked to attend an end of treatment visit within 2 weeks of stopping study treatment, and attend follow-up visits 30 days and 100 days after stopping treatment. They were then contacted by phone 150 days after stopping study treatment, and every 12 weeks until the study ended.
+The figure below shows what happened during Part 1.
+Part 2
+During Part 2 of the study, participants were randomly assigned to 1 of 2 treatment groups, Group 2A and Group 2B. Randomly means that participants were assigned to the treatment groups by chance, like a flip of a coin. Participants had an equal chance of being in Group 2A or Group 2B.
+Group 2A participants received the following treatments:
+-Binimetinib at the recommended dose from Part 1, given twice a day by mouth for 4 weeks
+-Nivolumab 480 mg IV over 30 minutes every 4 weeks.
+Group 2B participants received the following treatments:
+-Binimetinib at the recommended dose from Part 1, twice a day by mouth for 4 weeks
+-Nivolumab 480 mg every 4 weeks IV over 30 minutes on Day 1 of each treatment cycle
+-Ipilimumab 1 mg/kg IV over 30 minutes about every 8 weeks.
+Participants received study treatments in cycles that lasted 28 days. Participants were to attend visits at the study center on Days 1, 15, and 22 of the first cycle, and on Days 1 and 15 of the following cycles. They were also asked to attend an end of treatment visit within 2 weeks of stopping study treatment, and attend follow-up visits 30 days and 100 days after stopping treatment. They were then contacted by phone 150 days after stopping study treatment, and every 12 weeks until the study ended.

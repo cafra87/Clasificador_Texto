@@ -1,0 +1,13 @@
+Plain Title:
+Comparison of Treatments for Progressive Keratoconus: Transepithelial vs. Epithelium-Off Corneal Collagen Crosslinking
+
+Rationale:
+Keratoconus is a lifelong eye condition that can cause vision loss and corneal damage. It typically starts during periods of education and career development. Corneal collagen crosslinking (CXL) is a treatment that can slow down the progression of the disease. There are two types of CXL: transepithelial and epithelium-off. Transepithelial CXL keeps the surface of the cornea intact, leading to faster healing and less discomfort for patients. However, it is unclear which method is more effective in treating progressive keratoconus.
+
+Trial Design:
+The study aimed to compare the effectiveness and safety of transepithelial CXL and epithelium-off CXL in treating progressive keratoconus. Researchers searched various databases for randomized controlled trials that compared the two treatments. Thirteen studies involving 661 eyes of 567 participants were included in the analysis. The studies were conducted in Europe, the Middle East, India, Russia, and Turkey. Some studies assigned both eyes of participants to the same treatment, while others used a paired-eyes design.
+
+Results:
+There was no significant difference between transepithelial CXL and epithelium-off CXL in terms of the maximum keratometry measurement at 12 months or later. Few studies provided information on other outcomes of interest. The evidence is inconclusive regarding whether epithelium-off CXL is better at stabilizing progressive keratoconus compared to transepithelial CXL. Both treatments showed similar results in terms of visual acuity improvement at 12 months and beyond. However, there was some evidence that epithelium-off CXL resulted in slightly more corneal haze or scarring compared to transepithelial CXL. Three studies compared transepithelial CXL using iontophoresis with epithelium-off CXL, but no clear differences were found.
+
+In conclusion, due to the limitations in the quality and consistency of the studies reviewed, it is uncertain whether transepithelial CXL or epithelium-off CXL is more beneficial for patients with progressive keratoconus. Future trials should focus on measuring the progression of the disease and standardizing the methods of assessment. Longer follow-up periods and standardized care protocols are also needed to evaluate the outcomes accurately. Additionally, improved techniques for drug delivery during transepithelial CXL may be necessary to enhance treatment outcomes. Lastly, patient-reported outcomes should be considered, and the impact of adverse events, such as corneal haze, should be assessed.

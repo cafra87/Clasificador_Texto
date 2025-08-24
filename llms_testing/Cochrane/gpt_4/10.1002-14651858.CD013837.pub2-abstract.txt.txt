@@ -1,0 +1,13 @@
+1. Plain Title: 
+Studying Antibiotics’ Impact on Newborn Babies with Sepsis 
+
+2. Rationale: 
+Newborn sepsis, a blood infection seen in infants, is a major health concern. It's one of the leading causes of infant death worldwide. Antibiotics are heavily used to treat this condition as babies’ immune systems are still developing, making them more susceptible to infections. However, there's still much we don't know about the best way to use antibiotics for newborn sepsis, as research on this subject is limited. We need more information on how different antibiotics affect infants with sepsis.
+
+3. Trial Design: 
+This study aimed to better understand the benefits and drawbacks of different antibiotics used to treat newborn sepsis. We searched through numerous electronic databases and scientific papers for various types of scientific trials, focusing on those that compared different antibiotic treatments. We only included studies that involved newborn babies up to 72 hours old. We also carefully considered the possible risks associated with each study. The main thing we wanted to find out was whether or not the antibiotics affected the babies' survival rates. We also looked at other factors like poor development of the lungs and brain, kidney issues, and severe intestinal problems. 
+
+4. Results: 
+We found five studies that met our criteria, but all were considered to be uncertain because of problems with how they were done. These studies looked at five different types of antibiotic combinations. Sadly, we weren't able to gather enough relevant information to draw firm conclusions. What we did find was that there was no clear evidence showing that one type of antibiotic treatment is better than another for babies with sepsis. There was also no proof of any major differences in other factors such as survival rates or severe side effects. None of the studies reviewed looked at how these treatments affected the babies' ability to breathe or hearing abilities. 
+
+Currently, we can't firmly say that one antibiotic treatment is better than another in treating newborn sepsis due to the studies’ limitations. More high-quality studies need to be carried out to shed light on the best antibiotic treatments for newborn babies with sepsis.

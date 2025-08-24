@@ -1,0 +1,15 @@
+Plain Title: How Accurate is Visual Inspection for Detecting Melanoma?
+
+Rationale: 
+
+Melanoma is a type of skin cancer that has been increasing in incidence. It is responsible for the majority of skin cancer deaths. Currently, one of the first steps in diagnosing skin cancer is visual inspection by a clinician. However, it is important to know how accurate visual inspection alone is, and if additional tests are needed to improve diagnosis. This study aims to determine the accuracy of visual inspection in detecting invasive melanoma and atypical melanocytic variants in adults who have had limited prior testing or who are referred for further evaluation of suspicious lesions. 
+
+Trial Design: 
+
+This study used a comprehensive search of various databases to find relevant studies. The search included data up to August 2016. The researchers collected data from 49 publications reporting on 51 study cohorts. In total, there were 34,351 lesions, including 2,499 cases of melanoma. The researchers analyzed the data using a standardized method. They looked at different factors that could impact the accuracy of visual inspection, such as the type of test interpretation, the use of a diagnostic algorithm, and the expertise of the observer. 
+
+Results: 
+
+The analysis showed that visual inspection alone may not be sufficient for detecting melanoma. The accuracy of visual inspection was generally higher when done in person compared to image-based evaluations. In-person evaluations had a trade-off between sensitivity and specificity, meaning that they were better at identifying true cases of melanoma but also had a higher chance of false positives. The accuracy was lower for those referred for specialist assessment, but the specificity (correctly identifying non-melanoma cases) was higher. The researchers found inconsistent evidence regarding the use of diagnostic algorithms to improve accuracy. The study also highlighted that the accuracy of visual inspection is highly dependent on factors such as the selection of lesions for biopsy or excision and the expertise of the observer. Overall, the evidence supporting the accuracy of visual inspection in different settings is not strong and has poor reporting. Further research is needed to evaluate the potential benefits of using established algorithms based on prior testing or diagnostic difficulty of the lesions. 
+
+In conclusion, visual inspection is an important part of assessing suspicious skin lesions. However, relying solely on visual inspection may result in missed cases of melanoma. The evidence supporting the accuracy of visual inspection is limited and poorly reported. The use of diagnostic algorithms may not necessarily improve accuracy in all settings. More research is needed to better understand how visual inspection can be enhanced to improve melanoma detection.

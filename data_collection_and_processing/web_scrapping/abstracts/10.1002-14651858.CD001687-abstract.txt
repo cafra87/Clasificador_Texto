@@ -1,0 +1,15 @@
+Background
+In the past women have been advised that lowering their salt intake might reduce their risk of pre‐eclampsia. Although this practice has largely ceased, it remains important to assess the evidence about possible effects of advice to alter dietary salt intake during pregnancy. 
+Objectives
+The objective of this review was to assess the effects of dietary advice to alter salt intake compared to continuing a normal diet, on the risk of pre‐eclampsia and its consequences. 
+Search methods
+We searched the register of trials maintained and updated by the Cochrane Pregnancy and Childbirth Group, and the Cochrane Controlled Trials Register Disc Issue 4, 1998. 
+Selection criteria
+Studies were included if they were randomised trials of advice to either reduce or to increase dietary salt during pregnancy. 
+Data collection and analysis
+All data were extracted independently by both reviewers.
+Main results
+Two trials were included, with 603 women. They compared advice about a low salt diet with no dietary advice. The confidence intervals for all of the outcomes reported were wide, and cross the no effect line. This includes pre‐eclampsia (relative risk 1.11, 95% confidence interval 0.46 to 2.66). Even when taken together, these trials are insufficient to provide reliable information about the effects of advice on salt restriction during normal pregnancy. 
+None of the trials included women with pre‐eclampsia, so this review provides no reliable information about changes in salt intake for treatment of pre‐eclampsia. 
+Authors' conclusions
+Salt consumption during pregnancy should remain a matter of personal preference.

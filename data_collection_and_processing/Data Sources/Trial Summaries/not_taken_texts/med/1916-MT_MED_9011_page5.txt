@@ -1,0 +1,33 @@
+Clinical Study Results
+To answer this question, the researchers measured and compared the participants’
+HDL levels before treatment and about 1 month after treatment. The results of these
+measurements are listed below. The HDL levels were measured in milligrams per
+deciliter, also called mg/dL.
+Overall, the researchers found that about 1 month after treatment:
+• The participants who got 30 mg of MEDI5884 had an average increase in
+HDL levels of 2.3 mg/dL.
+• The participants who got 100 mg of MEDI5884 had an average increase in
+HDL levels of 21.6 mg/dL.
+• The participants who got 300 mg of MEDI5884 had an average increase in
+HDL levels of 20.0 mg/dL.
+• The participants who got 600 mg of MEDI5884 had an average increase in
+HDL levels of 25.1 mg/dL.
+• The participants who got the placebo had an average increase in HDL levels
+of 7.8 mg/dL.
+The figure below shows these results.
+Change in HDL levels about 1 month after treatment
+40.0
+)Ld/gm(
+30.0
+25.1 mg/dL
+21.6 mg/dL LDH
+20.0 mg/dL
+20.0
+ni
+egnahC
+10.0 7.8 mg/dL
+2.3 mg/dL
+0
+30 mg 100 mg 300 mg 600 mg Placebo
+MEDI5884 MEDI5884 MEDI5884 MEDI5884
+5

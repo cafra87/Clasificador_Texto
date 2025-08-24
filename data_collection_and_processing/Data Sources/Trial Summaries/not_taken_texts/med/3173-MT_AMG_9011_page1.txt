@@ -1,0 +1,20 @@
+Clinical Study Results
+1. Study name
+What does this summary cover?
+This summary shows the main results from a clinical study which compared two
+medicines for osteoporosis. The results shown are only for one study. Researchers and/or
+registration and health authorities look at the results of many studies to decide which
+medicines work best and are safest for patients.
+Title of the study: A Randomized Double-blind Study to Evaluate the Safety and
+Efficacy of Denosumab Compared With Zoledronic Acid in
+Postmenopausal Women With Osteoporosis Previously Treated
+With Oral Bisphosphonates
+Brief Title: Safety and Efficacy Study to Evaluate Denosumab Compared
+With Zoledronic Acid in Postmenopausal Women With
+devorppA
+Osteoporosis
+Protocol Number: 20110153
+EU Trial Number 2012-001821-28
+Other Identifiers NCT01732770
+Date of This 15 Dec 2016
+Summary

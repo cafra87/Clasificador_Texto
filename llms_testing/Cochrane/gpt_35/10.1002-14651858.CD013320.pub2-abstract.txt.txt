@@ -1,0 +1,17 @@
+Plain Title: Effects of Sugar Intake on Heart Health
+
+Rationale:
+High intake of added sugar has been linked to an increased risk of cardiovascular disease (CVD). Understanding the effects of sugar on heart health can help prevent CVD. This study aimed to investigate the impact of consuming high versus low levels of added sugar for preventing CVD in the general population.
+
+Trial Design:
+The study design involved analyzing randomized controlled trials (RCTs) comparing different levels of added sugar intake. The study included both adults and healthy individuals, ranging in age from 22 to 57 years. The participants followed the intervention for an average of 14 weeks.
+
+Results:
+No studies reported on the occurrence of cardiovascular events or all-cause mortality. The findings suggested that reducing sugar intake had a minimal effect on total cholesterol levels and triglycerides. However, there was no evidence of an impact on LDL-cholesterol or HDL-cholesterol levels. Similarly, there was a minimal effect on diastolic and systolic blood pressure, but no effect on fasting plasma glucose levels. No adverse events related to gastrointestinal symptoms or impaired dental health were reported.
+
+The results are considered to be of low-quality evidence according to GRADE. The risk of bias in the studies was generally unclear, although five studies had an overall low risk of bias. 
+
+Conclusions:
+This study did not find any evidence regarding the impact of added sugar on cardiovascular events or all-cause mortality. The effects of low sugar intake on risk factors for CVD were minimal, and their clinical relevance remains uncertain. To reduce dietary sugar intake, it is advisable to follow current dietary recommendations. 
+
+Future trials should have longer follow-up periods and provide information on cardiovascular events and all-cause mortality to determine the specific effects of added sugar on these outcomes. Additionally, future trials should focus on more direct interventions and aim to be independent of industry funding.

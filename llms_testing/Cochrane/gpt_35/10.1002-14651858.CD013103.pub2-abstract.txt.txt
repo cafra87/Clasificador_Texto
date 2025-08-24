@@ -1,0 +1,9 @@
+Plain Title: Different Treatments for Hepatorenal Syndrome in People with Liver Cirrhosis
+
+Rationale: Hepatorenal syndrome is a condition where the kidneys fail in people with liver cirrhosis. There are various treatments available, but it is unclear which one is the best. This study aims to compare the benefits and harms of different treatments for hepatorenal syndrome in people with liver cirrhosis.
+
+Trial Design: The study involved reviewing 25 trials with a total of 1,263 participants. The trials included adults with cirrhosis and hepatorenal syndrome. The participants had various types of hepatorenal syndrome and were of different ages and genders. The follow-up period ranged from one week to six months.
+
+Results: The study found that there was no difference in mortality rates between the different treatments. None of the trials reported on the quality of life. There were no differences in the occurrence of serious adverse events, the need for liver transplantation, or other complications. Albumin plus noradrenaline had fewer adverse events compared to albumin plus terlipressin. The study also found that albumin plus midodrine plus octreotide and albumin alone had lower recovery rates compared to albumin plus terlipressin.
+
+Based on the evidence from this study, it is unclear if any of the treatments for hepatorenal syndrome have benefits or harms. More research is needed to compare albumin plus noradrenaline and albumin plus terlipressin. Future studies should have larger sample sizes, report important outcomes like mortality and quality of life, and avoid dropouts or crossovers during the study.

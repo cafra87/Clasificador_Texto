@@ -1,0 +1,15 @@
+1. Plain Title: 
+Studying the Effectiveness of Long-Term Special Mental Health Care for Individuals Struggling with New-Onset Psychosis
+
+2. Rationale: 
+Psychosis is a mental health issue where a person may see or hear things that aren't there (hallucinations), or strongly believe things that aren't true (delusions). These symptoms can cause distress, change a person's behavior, and impact their lifestyle greatly. The first episode of psychosis occurs when a person experiences such symptoms for the first time, usually during late teens or early adulthood. Specialized Early Intervention (SEI) teams treat people experiencing the early stages of psychosis, providing a range of supports including medication, therapy, and education. However, these treatments are time-limited, usually lasting for two to three years. There's concern that after this treatment ends, the person's condition may worsen, so the idea of extending the care to five years has been suggested. This study aims to see if long-term care is more helpful for these patients than standard care.
+
+3. Trial Design: 
+In this study, researchers compared the effects of long-term SEI team care with normal care for people experiencing new onset psychosis. Randomised control trials (RCTs) were used, which is a kind of study where people are randomly selected to receive either the normal care or the long-term SEI team care. The people involved in these studies were between 16 to 35 years old, and have been diagnosed with schizophrenia spectrum disorders or affective psychoses.
+
+4. Results: 
+The study included data from three different trials, and a total 780 participants. The trials found that long-term SEI care might lead to a 13% increase in remission (symptom improvement), but the data was uncertain, indicating it may not have a significant impact. Also, people who received long-term care were less likely (15%) to stop getting treatment compared to those who received the normal level of treatment (34%). 
+
+There didn't seem to be much difference in the number of people admitted to hospital between both long-term and normal SEI care groups. However, people in the long-term care group showed decreased psychotic symptoms but the evidence was very uncertain. Deaths and global functioning (day-to-day activities and social interactions) showed unclear results and there was not enough evidence to firmly state that extended SEI was not improving them.
+
+In conclusion, there is a possible benefit from extending the duration of SEI team care for treating people experiencing psychosis, as it appears to reduce the number of people leaving mental health services. However, more time and research is needed to be sure about the effectiveness of longer-term care for these patients.

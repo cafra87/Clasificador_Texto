@@ -1,0 +1,13 @@
+Clinical Trial RESULTS
+How does the body break down osimertinib when it is swallowed
+in tablet form compared to when it is injected?
+Researchers took blood samples from participants after they took
+osimertinib in tablet form and then injection form.
+They found the following:
+• Tablet form: The highest amount of osimertinib in the blood
+(118.00 nM) was reached at 7 hours after taking the tablet.
+Half of the osimertinib left the blood within 60 hours.
+• Injection form: The highest amount of osimertinib in the blood
+(0.58 nM) was reached at 15 minutes after taking the injection.
+Half of the osimertinib left the blood within 55 hours.
+6

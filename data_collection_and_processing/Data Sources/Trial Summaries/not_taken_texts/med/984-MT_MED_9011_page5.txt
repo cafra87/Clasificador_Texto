@@ -1,0 +1,37 @@
+Clinical Study Results
+To answer this question, the researchers measured the following in the
+participants:
+• change in amount of body fat at 1 year
+• change in percentage of body fat at 1 year
+The researchers measured body fat amounts in kilograms, also known as kg.
+At 1 year of treatment, the researchers found that:
+• Participants who took dapagliflozin and metformin had an average decrease
+of 1.5 kg of body fat. This was an average decrease of 1.2%.
+• Participants who took glimepiride and metformin had an average increase
+of 1.1 kg of body fat. This was an average increase of 0.7%.
+The figure below shows these results.
+Average change in amount Average change in percentage
+of body fat at 1 year of body fat at 1 year
+5 5
+4 4
+3 3
+taf
+taf
+2 2 ydob
+1.1 kg ydob
+dapagliflozin + dapagliflozin + 0.7%
+1 1
+fo
+metformin metformin fo
+0 0 )%(
+)gk(
+glimepiride + glimepiride +
+egatnecreP
+-1 metformin -1 metformin tnuomA
+1.2%
+-2 -2
+1.5 kg
+-3 -3
+-4 -4
+-5 -5
+5

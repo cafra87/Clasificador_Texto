@@ -1,0 +1,13 @@
+Plain Title: Effectiveness and Safety of IV Ibuprofen for Postoperative Pain
+
+Rationale: 
+When patients undergo surgery, they often experience pain afterwards. This pain can be severe and may require strong pain medications called opioids. However, opioids can cause side effects that are not good for patients. One way to reduce the amount of opioids needed and the side effects they cause is to use a different type of pain medication called non-steroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen. This study aimed to find out if a single dose of ibuprofen given through the veins (IV) can effectively relieve postoperative pain and reduce the side effects caused by opioids.
+
+Trial Design:
+The study was designed to investigate the effectiveness and safety of IV ibuprofen for postoperative pain in adults. To gather information, the researchers searched different databases for relevant studies without any language restrictions. They looked for randomized trials that compared IV ibuprofen with either a placebo (a substance with no active effect) or another type of pain medication in adults who had just undergone surgery. The researchers collected data from the included studies and analyzed the results. They also assessed the quality of the evidence using a standardized method.
+
+Results:
+From the search, only one study met the criteria for inclusion in the analysis. This study involved a total of 201 participants, mostly females with a mean age of 42 years, who had undergone a specific type of foot surgery. In this study, the participants were given IV ibuprofen, placebo, or another pain medication called acetaminophen. The researchers found that the proportion of participants who experienced at least 50% pain relief over a 4-hour and 6-hour period was slightly higher for those who received ibuprofen compared to those who received placebo. However, the evidence supporting this finding was of very low certainty. The time to the use of rescue medication (additional pain medication) was similar between the ibuprofen and placebo groups. The number of participants who experienced side effects was also similar between the two groups. The study did not report any serious side effects in either group.
+
+Conclusions:
+Based on the available evidence, it is unclear whether IV ibuprofen is effective and safe for relieving postoperative pain in adults. This is because the study included only one trial and the evidence from that trial was of low certainty. More research is needed to determine the true effectiveness and safety of IV ibuprofen for this purpose.

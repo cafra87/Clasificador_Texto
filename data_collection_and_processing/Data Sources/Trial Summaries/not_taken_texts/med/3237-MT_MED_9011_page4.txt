@@ -1,0 +1,26 @@
+Clinical Study Results
+In Part 1, a computer program was used to randomly choose the order in which
+each participant got each treatment. This helps make sure the groups are chosen
+fairly. Researchers do this so that comparing the results of each treatment is as
+accurate as possible.
+In Part 2, the participants completed Treatment Period C first, and then Treatment
+Period D. A computer program was also used to randomly choose the order in
+which each participant completed Treatment Periods E and F.
+The participants waited up to 4 weeks between each treatment period.
+What happened during the study?
+Up to 28 days before the participants got study treatment, they visited
+their study site once. At this visit, the study doctors checked the overall health of
+the participants to make sure that they could join the study. The study doctors:
+• asked the participants about their health and about any medications they
+were taking
+• did a physical exam
+• took blood and urine samples
+• checked the participants’ heart health using an electrocardiogram, also called
+an ECG
+• did a breath test to check for smoking and alcohol use
+The doctors also did these tests and measurements throughout the study.
+Each treatment period lasted about 7 days. During each treatment period,
+the participants visited their study site on Day 1 and stayed overnight for 4 nights.
+During this time, the participants got their dose of AZD4635 in the morning on
+Day 2. The participants returned for 2 more visits on Days 6 and 7.
+4

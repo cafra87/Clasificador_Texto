@@ -1,0 +1,37 @@
+Clinical Study Results
+How many participants had serious adverse reactions?
+None of the participants had serious adverse reactions during the study.
+None of the participants died during the study.
+How many participants had adverse reactions?
+There were 54.1% of participants who had adverse reactions during the study. This was
+20 out of 37 participants.
+None of the participants stopped taking MEDI0382 because of an adverse reaction they
+had during the study.
+The table below shows how many participants had adverse reactions during the study.
+Adverse reactions during the study
+Healthy
+Group 1 Group 2 Group 3 Group 4 participants
+(out of 3 (out of 8 (out of 11 (out of 7 (out of 8
+participants) participants) participants) participants) participants)
+How many
+participants
+had adverse
+33.3% (1) 50.0% (4) 72.7% (8) 42.9% (3) 50.0% (4)
+reactions
+during the
+study?
+How many
+participants
+had serious
+adverse 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+reactions
+during the
+study?
+How many
+participants
+stopped
+treatment 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+because
+of adverse
+reactions?
+6

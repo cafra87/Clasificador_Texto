@@ -1,0 +1,28 @@
+The researchers looked at 6 types of inflammatory cells. All of these cells are part
+of the immune system that helps to protect the body from infections. The 6 types
+of cells that the researchers looked at are called:
+X eosinophils
+X neutrophils
+X CD3+ cells
+X CD4+ cells
+X tryptase+ mast cells
+X chymase+ mast cells
+Overall, the researchers found that the number of eosinophils per square
+millimeter decreased more in the participants who got tezepelumab than in those
+who got the placebo. For all the other cell types, the researchers found that the
+changes in cell numbers were similar in both treatment groups. The results were
+too similar for the researchers to know if tezepelumab affected the numbers of
+these inflammation cells.
+The list below shows the results. A ratio lower than 1.00 means that the average
+number of cells decreased more or increased less in the participants who got
+tezepelumab. A ratio higher than 1.00 means that the average number of cells
+decreased less or increased more in the participants who got tezepelumab. The
+researchers found that the ratios of cells per square millimeter in the tezepelumab
+group compared to the placebo group were:
+X 0.15 for eosinophils
+X 1.36 for neutrophils
+X 1.12 for CD3+ cells
+X 1.18 for CD4+ cells
+X 0.83 for tryptase+ mast cells
+X 1.19 for chymase+ mast cells
+8 | Clinical Study Results

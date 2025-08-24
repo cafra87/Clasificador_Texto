@@ -1,0 +1,17 @@
+1. Plain Title
+A Comparison of Different Treatments for Hepatorenal Syndrome
+
+2. Rationale
+Hepatorenal syndrome is a certain type of kidney failure that develops in people suffering from severe liver damage, also known as cirrhosis, and is not caused by other known factors. It can lead to severe health problems, and so finding effective treatments is important. Some possible treatments include medication to make blood vessels tighter or wider, procedures to divert blood flow in the liver, or artificial liver support systems. However, we aren't exactly sure which of these treatments works best. So, our aim was to compare them and figure out the best course of action for people dealing with hepatorenal syndrome.
+
+3. Trial Design
+In this study, we went through several scientific databases and registries to find past clinical trials. These trials had to be randomized (where patients are randomly placed into treatment groups) and could include any language, blinding (whether patients or doctors knew which treatment was being used), or publication status. The main rule was that they had to involve adults with both cirrhosis and hepatorenal syndrome. We didn't include trials that had patients who already had a liver transplant. 
+
+We ended up using a total of 25 trials, covering 1263 participants with a variety of liver diseases and types of hepatorenal syndrome. The participants’ ages ranged from 42 to 60 years, and both males and females were included. The duration of these trials ranged from one week to six months. We then grouped the results of these trials together in our analysis.
+
+4. Results
+Overall, about 59% of patients died during the time of these trials and around 35% were able to recover from hepatorenal syndrome. The most common treatments offered were a combination of a protein called albumin with different drugs. Our analysis found no evidence that any particular treatment was better than the others in reducing the number of deaths, serious side effects, or in increasing recovery rates. However, combining albumin with a drug called noradrenaline seemed to result in fewer general side effects. When compared with a combination of albumin and a drug known as terlipressin, the recovery was lower when albumin was combined with a set of two other specific drugs, or when used by itself. 
+
+This means that we currently do not have enough strong, reliable evidence to say one treatment is better or worse than another for hepatorenal syndrome, in terms of death rate, side effects, or recovery. We found that albumin plus noradrenaline may lead to fewer side effects, and that some specific combinations might lead to a lower recovery from the condition compared to other combinations. 
+
+In future, we need more carefully designed and larger trials to help us clarify which treatments should be used. From the data we have, we suggest that future trials should compare the combinations of albumin with noradrenaline and with terlipressin.

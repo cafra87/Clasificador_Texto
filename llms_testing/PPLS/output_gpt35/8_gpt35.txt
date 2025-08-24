@@ -1,0 +1,13 @@
+Plain Protocol Title: Study on a New Treatment for Tuberculosis
+
+Rationale: Researchers are looking for a better way to treat tuberculosis, which is a serious health problem that causes more deaths than AIDS. The study will investigate a medication called GSK3036656, which has the potential to treat tuberculosis by suppressing protein synthesis in the bacteria.
+
+Objectives: The main goal of this study is to determine the effectiveness of GSK3036656 in treating tuberculosis. The study will measure the change in the number of bacteria in sputum samples over a 14-day period. The secondary objectives include assessing the safety and tolerability of the medication and studying its effect on the body.
+
+Trial Design: The study will involve up to five groups of participants. Each group will receive either GSK3036656 or the standard treatment for tuberculosis. The participants will be randomly assigned to one of the treatment groups. The study will last for approximately 5 weeks, including screening, treatment, and follow-up visits.
+
+Trial Population: The study will enroll up to 100 participants who have rifampicin-susceptible tuberculosis. The participants must be between 18 and 65 years old. They should have a chest X-ray and sputum samples that confirm the presence of tuberculosis. Other criteria for inclusion in the study will also be considered.
+
+Interventions: The study will involve the administration of GSK3036656 or the standard treatment, called Rifafour e-275. GSK3036656 will be taken orally in capsule form, with different doses available. Rifafour e-275 will be taken as a tablet. The treatment duration will be 2 weeks, and participants will undergo diagnostic and monitoring procedures during this period.
+
+In summary, this study aims to evaluate the effectiveness and safety of GSK3036656 in treating tuberculosis. It will involve participants with rifampicin-susceptible tuberculosis, who will be randomly assigned to receive either GSK3036656 or the standard treatment. The study will assess the change in bacterial count in sputum samples over a 14-day period. The results will help determine if GSK3036656 can be an improved treatment option for tuberculosis.

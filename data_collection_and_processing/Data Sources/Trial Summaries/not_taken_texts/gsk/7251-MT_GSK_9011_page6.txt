@@ -1,0 +1,34 @@
+found in the scientific results summaries (links to those summaries are provided at the
+end of this document).
+If the study doctor thinks that the event was caused by the study medicine, they record
+this as a possible side effect (adverse reaction).
+In this summary, “side effects” refer to those events that the study doctor thinks may
+have been caused by the study medicine. The side effects in this summary may be
+different to those in the Informed Consent or other documents related to the study
+medicine.
+In blinded studies, the doctor does not know which study medicine the patient is
+taking. In some cases, side effects will be assigned to placebo.
+One patient in the danirixin 50 mg group had a serious side effect of pneumonia.
+No patients in any other treatment group had serious side effects.
+The table below shows the non-serious side effects reported by more than one patient
+in any treatment group.
+Non-serious side effects reported by more than one patient in any
+treatment group
+Placebo Danirixin Danirixin Danirixin Danirixin Danirixin
+5 mg 10 mg 25 mg 35 mg 50 mg
+102 102 103 103 102 102
+patients patients patients patients patients patients
+1 (less 1 (less
+Diarrhoea 3 (3%) 2 (2%) 2 (2%) 2 (2%)
+than 1%) than 1%)
+Nose and throat
+1 (less
+infection 0 0 0 2 (2%) 0
+than 1%)
+(common cold)
+How has this study helped patients and researchers?
+This was a Phase II study. A Phase II study aims to collect information about the safety
+of the medicine and may also provide early information about how well the medicine
+works against the disease. This study showed that danirixin did not offer any benefit in
+reducing COPD symptoms. The side effects reported in this study were similar between
+the treatment groups.

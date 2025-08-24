@@ -1,0 +1,14 @@
+Background
+Routine use of abdominal drainage in patients undergoing liver transplantation is controversial. 
+Objectives
+To assess the benefits and harms of routine abdominal drainage after orthotopic liver transplantation versus no drainage and to address different drain types. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, Science Citation Index Expanded, and the MetaRegister of Controlled Trials until March 2011 to identify the randomised trials. 
+Selection criteria
+We planned to include only randomised clinical trials (irrespective of language, blinding, or publication status) addressing this issue. 
+Data collection and analysis
+Two authors identified the trials for inclusion independently. Two authors planned to collect the data independently. We planned to analyse the data with both the fixed‐effect and the random‐effects model using RevMan Analysis. For each outcome we planned to calculate the risk ratio (RR) or mean difference (MD) with 95% confidence intervals (CI) based on intention‐to‐treat analysis whenever possible. 
+Main results
+We did not identify any randomised clinical trials addressing this issue.
+Authors' conclusions
+There is currently no evidence to conclude whether routine abdominal drainage is useful or harmful in patients undergoing orthotopic liver transplantation. Evidence from non‐randomised studies of high risk of bias showed conflicting results on the impact of routine drainage in orthotopic liver transplantation on serious adverse events, showing that this question is an important clinical research question. Well‐designed randomised clinical trials with adequate sample size to decrease systematic errors and to decrease random errors are necessary. 

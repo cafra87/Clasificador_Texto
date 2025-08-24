@@ -1,0 +1,15 @@
+Plain Title: Effectiveness of Anti-VEGF Medications for Neovascular Glaucoma 
+
+Rationale: Neovascular glaucoma (NVG) is a serious eye condition that can lead to blindness. It is caused by the growth of abnormal blood vessels in the eye, which blocks the normal flow of fluid and increases pressure. Anti-vascular endothelial growth factor (anti-VEGF) medications are drugs that can help prevent the growth of these blood vessels. Previous studies have shown that these medications may be effective in controlling the pressure inside the eye for people with NVG.
+
+Trial Design: This study looked at the effectiveness of anti-VEGF medications, either alone or combined with other treatments, compared to no anti-VEGF medications for the treatment of NVG. Researchers searched for randomized controlled trials (RCTs) that included people with NVG who were treated with anti-VEGF medications. A total of four RCTs were included in the study, conducted in different countries. The trials had different designs and patient populations.
+
+Results: The results of the study were mixed. Two trials that looked at the intraocular pressure (IOP) showed inconsistent results. One trial found no clear difference in IOP between those who received anti-VEGF medications and those who did not. However, another trial found that those who received the medications were more likely to see a reduction in their IOP. The certainty of the evidence for these results was low due to limitations in the study designs.
+
+There were also reported complications from the use of anti-VEGF medications, such as bleeding in the eye and retinal detachment. However, the certainty of the evidence for these complications was also low.
+
+The study did not report on other important outcomes, such as improvement in visual acuity, regression of new blood vessels, or relief of pain and redness.
+
+Overall, the current evidence is uncertain about the long-term effectiveness of anti-VEGF medications for lowering IOP in NVG. More research is needed to understand the long-term effects of these medications compared to other treatments for NVG. 
+
+(Word count: 237)

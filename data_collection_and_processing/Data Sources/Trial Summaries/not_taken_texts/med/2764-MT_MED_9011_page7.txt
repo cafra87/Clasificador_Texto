@@ -1,0 +1,38 @@
+Clinical Trial RESULTS
+What medical problems did participants have during
+the study?
+A lot of research is needed to know if a drug causes a medical problem. So when researchers study new drugs,
+they keep track of all the medical problems that participants have during the study. These problems are called
+“adverse events”. They may or may not be caused by RDEA3170..
+Six (15%) out of 40 participants had at least 1 adverse event during the study:
+• Two (13%) out of 16 participants in Part 1 had adverse events during the study.
+• Two (25%) out of 8 participants in Part 2 had adverse events during the study.
+• Two (13%) out of 16 participants in Part 3 had adverse events during the study.
+What serious adverse events did participants have?
+An adverse event is considered serious when it is life-threatening, causes lasting problems, when a participant
+dies, or when a participant needs hospital care.
+During this study, no participants had serious adverse events and no participants died.
+What were the most common adverse events?
+The table below shows the most common adverse events that happened during this study.
+Most common adverse events Part 1 Part 2 Part 3
+in the study (out of 16 participants) (out of 8 participants) (out of 16 participants)
+1 participant 1 participant 0 participants
+Diarrhea
+(6%) (13%) (0%)
+Abnormal movement 1 participant 0 participants 0 participants
+of GI tract (6%) (0%) (0%)
+0 participants 0 participants 1 participant
+Headache
+(0%) (0%) (6%)
+0 participants 0 participants 1 participant
+Sleepiness
+(0%) (0%) (6%)
+0 participants 1 participant 0 participants
+Feeling cold
+(0%) (13%) (0%)
+0 participants 1 participant 0 participants
+Rash
+(0%) (13%) (0%)
+It is important to know that researchers look at the results of many studies to decide which study drugs work
+best and are safest for patients. Further clinical studies with RDEA3170 are not currently planned.
+7

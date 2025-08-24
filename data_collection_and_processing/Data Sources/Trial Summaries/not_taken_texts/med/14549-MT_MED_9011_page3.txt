@@ -1,0 +1,34 @@
+Why was this research needed?
+COVID-19 is an infectious disease caused by a type of coronavirus called
+“SARS-CoV-2”, also called severe acute respiratory syndrome coronavirus 2. The
+global COVID-19 pandemic is having a widespread effect on people’s health.
+COVID-19 has been shown to cause more severe illness in older people than in
+younger people and more severe illness in those with certain medical problems
+such as obesity, heart disease, and severe lung disease.
+The body’s natural defenses are known as the immune system. There are a number
+of ways in which the immune system fights infections. It makes antibodies and cells
+called “T cells”, which are specific to a germ that causes an infection. A germ might
+be bacteria, a virus, a parasite, or another microorganism. Most vaccines work by
+exposing the immune system to a part of a germ or a weakened or dead version of
+a germ. This teaches the immune system to recognize that germ and to produce the
+specific antibodies and T cells against it without causing illness. In this way, vaccines
+stimulate the immune system to produce its own protection against infections. This
+means the immune system can quickly stop future infections before illness is caused.
+AZD1222 was created by the University of Oxford as a vaccine against the
+SARS-CoV-2 virus that causes COVID-19.
+Before a vaccine can be approved for use, researchers do clinical trials in humans
+to find out how effective and how safe it is. Clinical trials for vaccines need to
+have a certain minimum number of infections among the trial participants before
+researchers can review the data and then measure how effective the vaccine is at
+preventing infection. Trials that are designed this way are known as “event-driven”
+trials. The effectiveness of a vaccine or treatment at preventing infection during a
+clinical trial is known as “efficacy”.
+The World Health Organization (WHO) and the US Food & Drug Administration (FDA)
+both set out requirements for COVID-19 vaccines before research began. They stated
+that these vaccines would need to be at least 50.0% effective at stopping infections in the
+clinical trials. You can find out more about these requirements at the links below:
+WHO: https://www.who.int/publications/m/item/who-target-product-profiles-for-covid-
+19-vaccines
+FDA: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/
+development-and-licensure-vaccines-prevent-covid-19
+3

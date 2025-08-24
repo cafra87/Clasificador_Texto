@@ -1,0 +1,17 @@
+1. Plain Title: 
+   Exploring Different Methods to Make Kidney Treatments Safer and More Effective 
+
+2. Rationale: 
+   Acute kidney injury (AKI) affects quite a lot of people who are very sick and it often raises the likelihood of death. When AKI gets severe, a round-the-clock kidney treatment, known as continuous kidney replacement therapy (CKRT), is needed to help stabilize them. However, the treatment can get interrupted when blood clots get stuck in the treatment circuit, reducing its overall effectiveness. Our review focused on exploring how non-drug based methods can help avoid these blood clots to make the CKRT treatment more effective.
+
+3. Trial Design: 
+   Our review process was quite thorough. We looked for relevant studies up until January 25, 2021 from reliable international sources, including registered studies and clinical trials. Then, we included all studies that used different non-drug based methods to prevent blood clotting during CKRT amongst people with AKI. With help from teams of authors, we collected and analyzed the data which looked at the study methods, outcomes, and also checked for any weaknesses in the studies.
+
+4. Results: 
+   We examined 20 studies with 1143 participants. The overall quality of the studies was not very high due to unsure methods and a lack of masking the intervention. We found that certain methods, like different ways of performing CKRT, using a longer catheter, and using a specially designed catheter, may make the treatment circuits last longer. But other changes, like using a higher blood flow and more, shorter filters didn't help in maintaining the circuit life. 
+
+   When it came to the patients' survival or recovery of kidney function, the evidence was not very clear. It was uncertain if the different methods used in the study actually reduced death or helped kidney recovery. 
+
+   Finally, when looking at complications like trouble accessing blood vessels, a longer catheter seemed helpful but modifying the catheter design might not really make a big difference.
+
+   To conclude, our study suggests that some non-drug measures may help extend the effectiveness of CKRT treatment circuits, but our results aren't strongly certain due to the small size of the studies we used. Future, more specific research is important to fully understand how these different methods might help patients with AKI undergoing CKRT.

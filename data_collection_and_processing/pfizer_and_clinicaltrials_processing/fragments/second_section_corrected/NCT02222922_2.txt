@@ -1,0 +1,27 @@
+In the beginning of the study, patients were treated with PF-06647020 once every 3 weeks (or the “Q3W regimen”). Later on in the study, patients were treated with PF-06647020 once every 2 weeks (or the “Q2W regimen”). This was an “open-label” study, which means that the patients and doctors knew what the patients were being treated with.
+
+The study included patients ≥18 years old who met the following conditions:
+
+For all study patients :
+-Had adequate kidney, liver, and bone marrow function.
+
+For the Q3W regimen:
+-Part 1: Patients with solid tumor(s) whose cancer was advanced/metastatic (spread to other parts of the body). The patient’s cancer either did not respond to standard therapy, or there was no standard therapy available for their cancer.
+-Part 2: Patients with one of the following types of cancer:
+1. Ovarian cancer (or “OVCA”)
+2. A type of lung cancer called non-small cell lung cancer (or “NSCLC”), whose cancer made medium to high amounts of the protein PTK7
+3. A type of breast cancer called triple negative breast cancer (or “TNBC”), whose cancer made medium-high to high amounts of the protein PTK7
+-Able to walk around, take care of themselves, and do light house work or office work. 
+
+For the Q2W regimen:
+-Patients with ovarian cancer (OVCA) that did not respond well to platinum-based chemotherapy, and who had received 2 or fewer regimens of systemic anti-cancer therapy (meaning that medicines were taken by mouth or intravenously [IV])
+-Patients with NSCLC whose cancer had gotten worse after treatment, who had received 3 or fewer regimens of systemic anti-cancer therapy, and whose cancer made medium to high amounts of the protein PTK7.
+-Able to walk around, take care of themselves, and be active for more than 50% of the day, but may not be able to do light work.
+
+The graphs below show what happened during the study:
+
+While patients were treated for up to 30 months, the entire study took 5 years to complete. The Sponsor ran this study at 10 locations in Spain and the United States of America. It began 17 October 2014 and ended 05 November 2019. A total of 22 men and 126 women participated in the study. All patients were between the ages of 31 and 80. 
+
+Patients were to be treated until their cancer got worse, their general health got worse, they had too many medical problems, the patient wanted to stop, or until the patient had passed away. A total of 67 of the 113 patients (59%) who started the Q3W regimen finished the study. A total of 13 of the 25 patients (52%) who started the Q2W regimen finished the study. Forty six (46) patients in the Q3W regimen part and 12 patients in the Q2W regimen part of the study stopped taking the study medicine, mostly due to their cancer getting worse. Thirteen (13) patients who started the Q3W regimen and 2 patients who started the Q2W regimen passed away during the study. Thirty three (33) patients who started the Q3W regimen and 10 patients who started the Q2W regimen left before the study was over by their choice or a doctor decided it was best for a patient to stop being in the study. 
+
+When the study ended in November 2019, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

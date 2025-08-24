@@ -1,0 +1,15 @@
+1. Plain Title: 
+Understanding the Impact of Surgery on an Eye Disease called Epiretinal Membrane
+
+2. Rationale: 
+Epiretinal membrane is an unusual growth of tissue which forms on the inner layer of the retina. In simple terms, it's like a sheet covering the back part of the eye. This sheet can begin to twist and distort the retina causing problems with sight. The objective of this study was to look into what happens when surgery is used as a treatment against this condition, as compared to not doing anything at all. The reason to investigate this approach is to find out if having surgery can help improve the patient's sight and day to day life quality. 
+
+3. Trial Design: 
+This study looked into various databases and registries for controlled studies on epiretinal membrane surgical treatments. We included studies where patients had one or two eyes treated, and where the surgery was compared to not having any treatment or a pretend (sham) treatment. Criteria of these studies were not limited by language or the year they were performed. This study was interested in how visual clarity changed before and after 6 to 12 months of treatment. It also looked at the percentage of people who gained or lost a particular measure of vision using an eye chart from a defined range, and their life quality using a questionnaire, along with any negative effects from having the treatment.
+
+4. Results: 
+Findings of the study came from a controlled trial that involved 53 patients who had a mild form of epiretinal membrane and were assigned to either have immediate surgery or to simply be observed ("watchful waiting") with the option of delayed surgery if their condition showed signs of getting worse over time. This study was not perfect due to some inconsistencies and risks, such as a small number of participants and irregular timings of test results. 
+
+After a year, those that had immediate surgery were found to have improved vision by a little bit (averagely, by 2.1 letters on an eye chart) as compared to the group that waited. The effect of the surgery on significant gains in visual clarity were not clear and required further investigation. After a year, none of the participants in either groups had significant loss of vision. Effects of treatments on quality of life were not measured in this study. No serious side effects were noted, although one person who had immediate surgery showed a small persistent swelling at the back of their eye. 
+
+From the findings of this study, we understand that surgery could help manage severe cases of the membrane, as shown by prior uncontrolled studies. However, for milder cases, the benefit of surgery is less clear. This review suggests that just waiting and watching, with the option of delayed surgery, may offer similar outcomes compared to immediately going for surgery. This result needs to be confirmed with larger, better-designed studies over a longer period of time.

@@ -1,0 +1,32 @@
+Page 4 of 8
+Where was this study done?
+Study sites were in 18 countries.
+Number of patients who received at least one dose of the
+study medicines
+Argentina 76
+Australia 14
+Belgium 8
+Canada 13
+France 10
+Germany 16
+Italy 51
+Mexico 43
+Peru 22
+Poland 9
+Portugal 20
+Romania 21
+Russia 87
+Spain 97
+Switzerland 13
+Taiwan 55
+United Kingdom 28
+United States 136
+0 50 100 150
+Number of patients
+What were the main results of the study?
+Study doctors collected blood samples and measured patients’ viral load on Day 1 and
+during the study.
+The main results of the study compared the percentage of patients with a viral load of
+less than 50 c/mL at Week 48 in both the treatment groups. The study also compared
+the percentage of patients with a viral load of less than 50 c/mL at Week 96 and
+Week 144 in both the treatment groups.

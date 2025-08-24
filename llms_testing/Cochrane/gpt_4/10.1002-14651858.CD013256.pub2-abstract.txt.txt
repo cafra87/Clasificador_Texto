@@ -1,0 +1,16 @@
+Plain Title: 
+Understanding the Side Effects of Bowel Disease Medicines on Surgery and Healing
+
+Rationale: 
+Inflammatory bowel disease (IBD) is a condition that causes painful swelling in the digestive tract. It can be very uncomfortable and may require surgery in severe cases. Thankfully, medicines have been developed that can help manage this condition, delaying or even avoiding the need for surgery. However, some of these medicines could possibly make people more likely to get infections and we are unsure of the effect they might have on infections after surgery. Therefore, this study was carried out to determine if IBD medicines impact the risk of getting an infection within a month after surgery.
+
+Trial Design: 
+We gathered information in different ways. We looked at reports and studies that were previously published and searched medical databases. We also looked at many types of studies, including trials that compared patients who were taking an IBD medicine before or within 30 days after the surgery to patients not taking that medicine. For each study, we checked if an infection happened within 30 days after the surgery. Other health issues we looked at include infections at the surgical cut and infections within or outside the abdominal area. We assessed the quality of each study. When we needed more information, we contacted study authors.
+
+Results:
+We evaluated 68 studies, but not all of them had very reliable information. We found out that people who took certain types of IBD medicines named anti-TNF agents and corticosteroids had a slightly higher chance of getting infections after surgery. However, these findings are not certain because the reliability of the studies we used was low. On the other hand, some other types of IBD medicines (5-ASA, immunomodulators, anti-integrin agents) seemed to have no effect on the chance of getting infections after surgery.
+
+We also found that none of these medications increased the chance of infections at the surgical cut. Only the corticosteroids and anti-TNF agents seemed to slightly increase the risk of infections within the abdominal area, but again these findings are not certain due to low study reliability. None of the medications appeared to affect the rate of infections outside the abdominal area.
+
+Conclusion:
+In conclusion, it's unclear if these IBD medicines increase the risk of infections after surgery based on current evidence, so no definite conclusions can be made. Each patient is unique, and decisions about IBD medication use before surgery should be made based on each person's specific needs and circumstances. More studies are needed to give us more reliable information on whether these medicines might cause infections after surgery.

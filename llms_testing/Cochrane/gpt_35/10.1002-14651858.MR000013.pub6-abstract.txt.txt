@@ -1,0 +1,14 @@
+Plain Title: Improving Participant Recruitment for Medical Trials
+
+Rationale: It can be tough to find enough people to join medical trials. This study looked at different ways to improve recruitment for these trials. The researchers also wanted to see if the location of the research made a difference. 
+
+Trial Design: The researchers searched different databases for studies that looked at methods to boost recruitment for medical trials. They included both randomized and non-randomized trials, but didn't include studies that focused on questionnaires or keeping participants in the trial. They collected information about the methods used, where the study took place, the type of people involved, and the different groups in each trial. They also used a special system to judge the certainty of the evidence they found. 
+
+Results: The researchers found 68 trials with over 74,000 participants. Most of the studies were about interventions for the trial participants themselves, but a few were about interventions for the people helping to recruit participants. The evidence was strongest for three methods: 
+1. Open trials instead of blinded trials with placebos increased recruitment by 10%.
+2. Reminding people by phone if they didn't respond to a letter invitation increased recruitment by 6%. This was especially helpful for trials with low initial recruitment.
+3. A special way of making participant information leaflets didn't make much of a difference in recruitment.
+
+There were also eight other methods that showed promise, but more research is needed to confirm their effectiveness. These methods included changes to how trials were managed, how potential participants received information, and even offering financial incentives. However, more researchers need to replicate these evaluations to be sure. 
+
+In conclusion, there are some strategies that can help improve recruitment for medical trials, but more research is needed to confirm their effectiveness. Instead of focusing on new strategies, researchers should replicate existing ones to build a stronger evidence base.

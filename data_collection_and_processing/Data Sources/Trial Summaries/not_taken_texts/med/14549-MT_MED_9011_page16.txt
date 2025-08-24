@@ -1,0 +1,30 @@
+How effective was AZD1222 after the first injection?
+The researchers also wanted to know about the efficacy of AZD1222 after just
+1 injection of the standard dose level. In all 4 trials, the researchers compared the
+number of participants in each group who had symptoms and tested positive for
+COVID-19 and used the mathematical model to calculate the efficacy. They did
+this at different time periods after the participants’ first injections of the standard
+dose level.
+The table below shows the number of participants who had symptoms and tested
+positive for COVID-19 at different time periods after their first injection. It also
+shows the efficacy calculation for each period of time.
+Percentage of participants who had
+Period of symptoms and tested positive for
+Efficacy
+time after the COVID-19
+calculation
+participants’ first
+injections AZD1222 Control
+0.1% 0.3%
+22 to 30 days (7 out of 9,257 (30 out of 9,237 76.7%
+participants) participants)
+0.1% 0.3%
+31 to 60 days (6 out of 7,147 (22 out of 7,110 72.8%
+participants) participants)
+0.1% 0.6%
+61 to 90 days (4 out of 2,885 (19 out of 2,974 78.3%
+participants) participants)
+0.3% 0.4%
+91 to 120 days (4 out of 1,369 (6 out of 1,404 31.6%
+participants) participants)
+16

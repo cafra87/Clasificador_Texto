@@ -1,0 +1,36 @@
+Clinical Study Results
+The table below shows the results for each treatment group after 12 weeks of
+taking study treatment.
+Group Average change in air breathed out
+Group 1
+50 µg of AZD7594 13 mL less air
+Group 2
+31 mL less air
+90 µg of AZD7594
+Group 3
+62 mL more air
+180 µg of AZD7594
+Group 4
+99 mL more air
+360 µg of AZD7594
+Group 5
+104 mL more air
+720 µg of AZD7594
+Group 6
+22 mL more air
+Placebo
+Group 7
+133 mL more air
+100 µg of FF
+Did the participants feel that AZD7594 helped them control their asthma?
+Yes. Overall, the researchers found that the participants who took AZD7594 felt
+that it helped them control their asthma compared to the participants who took the
+placebo.
+To answer this question, the study doctors asked the participants to answer a
+questionnaire about their asthma symptoms. The questionnaire is called the
+Asthma Control Questionnaire-5, also called ACQ-5. The participants received
+scores from 0 to 5 based on their responses. A higher score on the ACQ-5 means
+asthma symptoms are less controlled. The researchers compared the average
+score after 12 weeks of treatment to the average score before the participants
+started taking treatment.
+8

@@ -1,0 +1,11 @@
+Plain Protocol Title: Studying a New Cancer Drug Combo vs Placebo for Head & Neck Cancer 
+
+Rationale: This study is for people with a certain cancer of the head and neck. The technical name for this is 'recurrent/metastatic head and neck squamous cell carcinoma.' This cancer can spread or come back after treatment, causing problems for patients. We are looking for a better way to treat this. The new approach uses a drug called GSK3359609 along with two other drugs, pembrolizumab and 5FU-platinum based chemotherapy. We believe this mix might work better than just pembrolizumab and the chemotherapy on their own. Another group of patients will get a sugar pill (placebo) instead of GSK3359609 alongside the other two drugs. 
+
+Objectives: Our main goal is to see if adding GSK3359609 to the other drugs works better against cancer than using a placebo with the other drugs. We'll measure this by comparing the number of cancer events from before and after treatment. We also want to look at the potential side effects and how well patients feel during this treatment.
+
+Trial Design: The study will have two parts and will use a luck-of-the-draw method to decide who gets which treatment. There will be three main parts for each person in the study - screening, treatment, and follow-up. After screening to make sure you are a good fit, you'll be put into one of two treatment groups. If you're in the study for the full time, you'll be getting the treatment for roughly 2 years. 
+
+Trial Population: The study will include about 640 adults (18 or older) with this type of head and neck cancer. It doesn't matter if you're a man or a woman, but you need to have had this cancer come back or spread after your first treatment. If this study grows to include more people, up to 275 of them will have high levels of a certain molecule (PD-L1) in their cancer cells.
+
+Interventions: During the study, we'll be giving people several drugs. GSK3359609, pembrolizumab, and 5FU-platinum chemotherapy, or a placebo instead of GSK3359609. The plan is to give the drug mix for 6 rounds (each 21 days long). Then, we'll continue on with just pembrolizumab and GSK3359609, or the placebo, for up to 35 rounds. All these drugs will be given in a vein in your arm. The use of a placebo will help us understand if the added treatment is effective.

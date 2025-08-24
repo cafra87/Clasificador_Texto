@@ -1,0 +1,14 @@
+Background
+Amnioinfusion aims to relieve umbilical cord compression during labour by infusing a liquid into the uterine cavity. 
+Objectives
+The objective of this review was to assess the effects of prophylactic amnioinfusion for women in labour with oligohydramnios, but not fetal heart deceleration, compared with therapeutic amnioinfusion only if fetal heart rate decelerations or thick meconium‐staining of the liquor occur. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (28 February 2012). 
+Selection criteria
+Randomised trials comparing prophylactic amnioinfusion in women in labour with oligohydramnios but not fetal heart rate deceleration in labour with therapeutic amnioinfusion. 
+Data collection and analysis
+The authors assessed trial quality and extracted data.
+Main results
+One randomized trial of 116 women was included. No differences were found in the rate of caesarean section (risk ratio 1.29, 95% confidence interval 0.60 to 2.74). There were no differences in cord arterial pH, oxytocin augmentation, neonatal pneumonia or postpartum endometritis. Prophylactic amnioinfusion was associated with increased intrapartum fever (risk ratio 3.48, 95% confidence interval 1.21 to 10.05). 
+Authors' conclusions
+There appears to be no advantage of prophylactic amnioinfusion over therapeutic amnioinfusion carried out only when fetal heart rate decelerations or thick meconium‐staining of the liquor occur. 

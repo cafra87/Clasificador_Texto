@@ -1,0 +1,15 @@
+1. Plain Title
+Studying the Use of Preventive Antibiotics in People with Chronic Lung Disease
+
+2. Rationale
+Chronic obstructive pulmonary disease, or COPD, is a long-term lung condition that causes ongoing breathing problems. It can lead to flare-ups, known as exacerbations, which harm a person's ability to breathe and carry out day-to-day activities. COPD can get worse over time and can even be fatal. Those living with COPD could have their quality of life improved by reducing the amount of harmful bacteria in their airways - something that certain antibiotics might help with. This study looked at how different antibiotics, taken regularly to prevent illness (prophylactically), could decrease the number of flare-ups, increase quality of life and their potential side effects.
+
+3. Trial Design
+This study looked for and analysed different clinical trials on people with COPD taking antibiotics preventively. The study focused on trials that lasted at least 12 weeks, where patients were either given antibiotics or a placebo for comparison. The study included people aged between 64 to 73 years, most of whom were men and had moderate to severe COPD.  Information from 12 suitable trials involving 3405 people and a variety of antibiotics was included. The study mainly examined three things: the number of flare-ups, changes in quality of life and serious side effects.
+
+4. Results
+The results showed that certain preventive antibiotics like macrolides (types of antibiotics like azithromycin and erythromycin) were good at reducing exacerbations when compared with a placebo, which resulted in fewer flare-ups. Macrolides mildly improved quality of life, but the degree of improvement was not large enough to be clinically important. Another type of prescribing antibiotic known as quinolones were found to have a minor effect on reducing flare-ups. Other antibiotics like tetracyclines did not show clear benefits when compared to the placebo.
+
+In terms of side effects, people taking macrolides had fewer serious side effects compared to those who were given a placebo. However, all these preventive antibiotics were found to cause antibiotic resistance, which means they can become less effective over time. 
+
+In conclusion, preventive use of macrolides showed benefits in lowering number of flare-ups, improving quality of life, and had fewer serious side effects. However, other antibiotics like quinolones or tetracyclines didn't appear to be as beneficial. There is also the issue of antibiotic resistance, which needs to be considered before prescribing these medicines. These antibiotics are best used for people with frequent symptoms. But, it's important to remember that these findings need to be carefully considered against the potential development of antibiotic resistance.

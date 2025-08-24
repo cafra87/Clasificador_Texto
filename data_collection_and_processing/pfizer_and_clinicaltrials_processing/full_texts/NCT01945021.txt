@@ -1,0 +1,169 @@
+CLINICAL TRIAL RESULTS
+This summary reports the results of only one study.  Researchers must look at the 
+results of many types of studies to understand if a study medicine works, how it 
+works, and if it is safe to prescribe to patients.  The results of this study might be 
+different than the results of other studies that the researchers review.
+Sponsor:    Pfizer, Inc. 
+Medicine(s) Studied: Crizotinib (PF -02341066)
+Protocol Number: A8081063
+Dates of Trial: 25 September 2013 to 22 January 2020 
+Title of this Trial: Efficacy Study of Crizotinib in East Asian Patients With 
+ROS1 -Positive, ALK -Negative Advanced NSCLC
+[Phase -2, Open -Label, Single -Arm Study of the Efficacy and 
+Safety of Crizotinib in East Asian Patients with Advanced 
+ALK -Negative Non -Small Cell Lung Cancer (NSCLC) 
+Harboring a Translocation or Inversion Involving the C -ROS 
+Oncogene (ROS1) Locus]
+Date ofthis Report: 19January 2021
+–Thank You –
+Pfizer, the Sponsor, would like to thank you for your participation in this clinical trial 
+and provide you a summary of results representing everyone who participated.  If you 
+have any questions about the study or results, please contact the doctor or staff at 
+your study site.
+090177e1960e4998\Approved\Approved On: 20-Jan-2021 09:49 (GMT)
+2WHY WAS THIS STUDY DONE?
+Lung cancer is the name for cancer that starts in the lungs.  Non -small cell lung 
+cancer (NSCLC) is the most common type of lung cancer.  Some patients have 
+NSCLC that is referred to as “anaplastic lymphoma kinase (ALK) -negative” or “c -ros 
+oncogene 1 (ROS1) -positive”.  These patients have changes in their genes that can 
+cause cancer cells to grow.
+The Sponsor is developing an anti -cancer medication called crizotini b to treat 
+ALK -negative and ROS1 -positive lung cancers.  ALK and ROS1 belong to a certain 
+group of proteins called “kinases”.  These proteins can help cancer cells to grow.  As 
+they grow, the cancer cells can form into a tumor and spread to other parts of the 
+body.  Crizotinib may be able to block kinases, potentially reducing tumor size and 
+stopping ALK -negative and ROS1 -positive lung cancers from being able to grow and 
+spread.  Crizotinib is known as an “ALK -inhibitor and ROS1 -inhibitor” medication.
+Xalko ri®(crizotinib) is approved in the United States ( US), Europe, and countries in 
+East Asia including South Korea, Taiwan, Japan, and China, for treatment of locally 
+advanced (cancer has not spread to distant regions of the body but has spread to 
+nearby organs) or metastatic (cancer has spread outside lungs) NSCLC that are 
+ALK -positive.  Crizotinib is also approved in the US and Europe for advanced 
+(metastatic) NSCLC whose tumors have an ROS1 gene alteration, resulting in 
+ROS1 -positive NSCLC.  Crizotinib is given in a capsule and is taken by mouth twice 
+daily at around the same time every morning and every evening.
+The main purpose of this study was to see if treatment with crizotinib is useful in 
+patients in East-Asia, including South Korea, Taiwan, Japan , and China, with 
+ROS1 -positive and ALK -negative NSCLC.  To do this, researchers asked:
+How well did crizotinib treatment work to keep ROS1 -positive and 
+ALK -negative NSCLC from growing?
+The researchers also wanted to know if any of the patients’ cancer got smaller during 
+the study.  To do this, they measured many things, including the “ Objective Response 
+090177e1960e4998\Approved\Approved On: 20-Jan-2021 09:49 (GMT)
+3Rate”.  This is the percentage of patients whose cancer disappeared or got smaller 
+during treatment.
+Researchers were also interested in learning more abou t the safety of crizotinib.  They 
+monitored the patients for any medical problems that happened while they were 
+taking crizotinib or after they stopped taking crizotinib.
+WHAT HAPPENED DURING THE STUDY?
+The study included patients who had NSCLC (referred t o as “disease” in this 
+summary) that was advanced or has spread to other parts of the body during or after 
+earlier treatment and was caused by a defect in a gene called receptor tyrosine kinase 
+(C-ROS1).
+A total of 129 patients with ALK -negative andROS1 -positive NSCLC joined this 
+study and 127 patients were treated with crizotinib.
+This was an open -label study, which means that both the patients and researchers 
+knew which study drug and dose they received.  The figure below shows what 
+happened durin g this study.
+Patients in this study took crizotinib 2 times per day in “cycles” that lasted 28 days.  
+They began with a dose of 250 mg.  The patients were watched closely for any 
+medical problems.  
+090177e1960e4998\Approved\Approved On: 20-Jan-2021 09:49 (GMT)
+4While patients were only in the study for an average o f 102 weeks, the entire study 
+took almost 7 years to complete.  The Sponsor ran this study at 40locations in 
+4countries in East Asia (Japan, China, South Korea, and Taiwan).  It began 
+25September 2013 and ended 22 January 2020.  Fifty -four (54) men and seventy -
+three (73) women participated.  All patients were between the ages of 23 and 80. 
+Patients were to be treated until their cancer stopped responding or got worse, until 
+they developed unacceptable medical problems, or until they chose to stop treatm ent.  
+Of the 127 patients who started the study, all patients stopped the study; 65 patients 
+(51%) died.  A total of 18 patients (14%) had stopped the study by their choice or a 
+doctor decided it was best for a patient to stop the study.  Forty -four (44) patients 
+(35%) were still ongoing in the study when the study was closed and, if they were still 
+on treatment, they were moved to either commercial treatment available in their 
+country or they enrolled into another study (Study A8081067).  
+When the study e nded in January 2020, the Sponsor began reviewing the information 
+collected.  The Sponsor then created a report of the results.  This is a summary of that 
+report.
+WHAT WERE THE RESULTS OF THE STUDY?
+What percentage of patients in the study had their NSCLC 
+get better when taking crizotinib?
+Seventeen (17) patients (13%) had a ‘Complete Response’, which means that their 
+NSCLC completely disappeared.  Seventy -four (74) patients (58%) achieved a ‘Partial 
+Response’, which means that their NSCLC got smaller, but did not disappear.  The 
+Objective Response Rate (Complete Response + Partial Response) for all patients, 
+was therefore 72%.  Nine (9) (7%) of patients’ NSCLC worsened.  
+This does not mean that every one in this study had these results.  Other studies may 
+produce different results, as well.  These are just some of the main findings of the 
+study, and more information may be available at the websites listed at the end of this 
+summary.   
+090177e1960e4998\Approved\Approved On: 20-Jan-2021 09:49 (GMT)
+5WHAT MEDICAL PROB LEMS DID 
+PARTICIPANTS HAVE DURING THE STUDY?
+The researchers recorded any medical problems the participants had during the study.  
+Participants could have had medical problems for reasons not related to the study (for 
+example, caused by an underlying disea se or by chance).  Or, medical problems could 
+also have been caused by a study treatment or by another medicine the participant was 
+taking.  Sometimes the cause of a medical problem is unknown.  By comparing 
+medical problems across many treatment groups in many studies, doctors try to 
+understand what the side effects of an experimental drug might be.
+One-hundred and twenty -seven (127) out of 127 patients in this study had at least 
+1medical problem.  A total of 1 1patients (9%) stopped treatment because of medical 
+problems.  The most common medical problems are listed below.    
+Most Common Medical Problems
+(Reported by More Than 30% of Patients) 
+Medical ProblemCrizotinib
+(127 Patients Treated)
+Elevated liver enzymes, which 
+may indicate liver damage 
+(elevated transaminase)89 (70%)
+Vision problem 66 (52%)
+Diarrhea 62 (49%)
+Nausea 58 (46%)
+Vomiting 50 (39%)
+Constipation 49 (39%)
+090177e1960e4998\Approved\Approved On: 20-Jan-2021 09:49 (GMT)
+6Abnormally low count of a type of 
+white blood cell called neutrophils 
+(Neutropenia)45 (35%)
+Edema (when body fluids build 
+up too much)45 (35%)
+Nose and throat infection 44 (35%)
+WERE THERE ANY SERIOUS MEDICAL 
+PROBLEMS?
+A medical problem is considered “serious” when it is life -threatening, needs hospital 
+care, or causes lasting problems.   
+Forty -six (46) patients (36%) had serious medical problems.  There were 
+11(9%) patients with serious medical problems that researchers believe was related to 
+crizotinib.  Sixty -five (65) patients (51%) died during the study, 1 patient (1%) died 
+within 30 days after receiving cri zotinib.  Most of the patients who died during the 
+study, was because their condition worsened.
+090177e1960e4998\Approved\Approved On: 20-Jan-2021 09:49 (GMT)
+7Serious Medical Problems
+(Reported by More Than 3% of Patients) 
+Serious
+Medical ProblemCrizotinib
+(127 Patients Treated)
+Infection of the lung 10 (8%)
+Disease progression (worsening of 
+the patient’s NSCLC) 7 (6%)
+Failure of respiratory system (lungs 
+are unable to get enough oxygen to 
+the blood)5 (4%)
+Elevated liver enzymes, which may 
+indicate liver damage (elevated 
+transaminase)4 (3%)
+WHERE CAN I LEARN MORE ABOUT THIS STUDY?
+If you have questions about the results of your study, please speak with the doctor or 
+staff at your study site.
+The full scientific report of this study is available online at:
+www.clinicaltrials.gov Use the study identifier NCT01945021
+Please remember that researchers look at the results of many studies to find out which 
+medicines can work and are safe for patients.  Additional studies with crizotinib are 
+ongoing.
+090177e1960e4998\Approved\Approved On: 20-Jan-2021 09:49 (GMT)
+8Again, thank youfor volunteering.
+We do research to try to find the 
+best ways to help patients, and you 
+helped us to do that!
+090177e1960e4998\Approved\Approved On: 20-Jan-2021 09:49 (GMT)

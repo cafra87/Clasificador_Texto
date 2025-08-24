@@ -1,0 +1,7 @@
+Pharmacological interventions for preventing clotting of extracorporeal circuits during continuous renal replacement therapy 
+What is the issue? Acute kidney injury (AKI) is a major comorbidity in hospitalised patients. Patients with severe AKI require renal replacement therapy. Continuous renal replacement therapy (CRRT) is a type of blood dialysis therapy that is generally used for critically ill patients in the intensive care unit. Due to the slow clearance of waste products, CRRT typically runs continuously for 24 hours. Clotting in the dialysis circuits requires immediate circuit changes and leads to treatment interruption and inadequate treatment. The aim of this review was to evaluate the effectiveness and safety of different medications to prevent clotting of circuits in CRRT. 
+What did we do?We searched the Cochrane Kidney and Transplant Specialised Register up to 12 September 2019. We summarized the results of 34 randomised controlled trials with 1960Ã‚Â participants in this review. 
+What did we find? 
+Citrate probably reduces majorÃ‚Â bleeding (e.g. the need for blood transfusion or surgery) and increases filter patency compared to heparin without changing death. For the other pharmacological comparisons, only inadequate data or low‐quality data were available. 
+Conclusions 
+The most effective anti‐clotting options for CRRT remain uncertain; however, citrate or no anticoagulation seems to be reasonable options to prevent the clotting of circuits in CRRT. 

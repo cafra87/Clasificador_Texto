@@ -1,0 +1,15 @@
+Plain Title: Treatments for Burning Mouth Syndrome: What Works?
+
+Rationale: Burning mouth syndrome (BMS) is a condition where patients experience burning pain or discomfort in the mouth without a known cause. It can affect the tongue, lips, or the entire oral cavity. BMS is quite common, with around 0.1% to 3.9% of the general population affected. This condition can cause anxiety, depression, personality disorders, and a decreased quality of life. This study aimed to find out if any treatments are effective and safe for relieving symptoms and improving the quality of life of people with BMS.
+
+Trial Design: This study used a research method called a randomized controlled trial (RCT). They compared different treatments to a placebo (an inactive substance) in people with BMS. The participants in the study were a mix of men and women and ranged in ages. The study lasted for a period of up to six months.
+
+Results: The researchers included a total of 23 RCTs in their analysis, with 1,121 participants, of which 83% were female. They tested different types of treatments for BMS, such as antidepressants, antipsychotics, anticonvulsants, benzodiazepines, cholinergics, dietary supplements, electromagnetic radiation, physical barriers, psychological therapies, and topical treatments. However, the overall quality of evidence for the effectiveness of these treatments was very low. 
+
+They found that electromagnetic radiation, topical benzodiazepines, physical barriers, and anticonvulsants may provide some short-term relief for BMS symptoms, but the evidence supporting these findings was of very low quality. Other treatments like antidepressants, cholinergics, systemic benzodiazepines, dietary supplements, and topical treatments showed insufficient or conflicting evidence of effectiveness. Psychological therapies may provide long-term relief for BMS symptoms, but the evidence was very low quality. 
+
+Short-term improvement in the quality of life was seen with electromagnetic radiation treatment, but the evidence was again of very low quality. The effects of antidepressants, benzodiazepines, dietary supplements, and physical barriers on the quality of life were inconclusive.
+
+The researchers also looked at changes in taste and dryness and found that the evidence for these outcomes was also inconclusive. In terms of side effects, antidepressants were found to increase dizziness and drowsiness, while alpha lipoic acid, a dietary supplement, increased headache and gastrointestinal complaints. However, the evidence for side effects was also of very low quality.
+
+In conclusion, due to the disabling nature of BMS, it is important to find effective treatments. However, based on the limited number of high-quality clinical trials, there is not enough evidence to support or refute the use of any specific treatments for BMS. Further research with better methods and standard measurements is needed to determine which treatments are effective. Future studies should also explore treatments used for other types of nerve pain and psychological therapies for BMS.

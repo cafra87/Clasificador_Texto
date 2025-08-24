@@ -1,0 +1,12 @@
+1. Plain Title:
+A Study on the Effects of Behavioural Activation Therapy on Adults with Depression 
+
+2. Rationale:
+Depression is a mental health condition that affects a person's mood and emotions, causing feelings of sadness or loss of interest in activities they once enjoyed. It can lead to various physical and emotional problems and decrease a person's ability to function at work and at home. Behavioural activation is a short-term therapy method that helps a person change how they interact with their environment. This method has been getting more attention as a low-cost treatment for depression. It's easier to provide and implement than other types of therapy. The aim of this study was to examine the effects of behavioural activation compared to other treatments for depression.
+
+3. Trial Design:
+This study used randomised controlled trials (RCTs), known as the 'gold standard' in medical research, to compare the effects of behavioural activation treatment to other therapies. The study included adults who were 18 or older and who had clinically diagnosed depression. Those with a physical illness were not considered. Databases and registry portals were thoroughly searched for other related studies. Two in-depth reviews were conducted to avoid bias and to gather detailed information from each study. The study did not specify the timeline that the participants were involved. 
+
+4. Results:
+The study included 53 trials with a total of 5495 participants. The results showed that behavioural activation was more effective than no treatment, certain humanistic therapies, and treatments using medicine. Behavioural activation did not differ in effectiveness from cognitive behavioural therapy (CBT), psychodynamic therapy, or waiting list control groups. 
+However, some results were not very certain. The dropout rate was slightly higher for behavioural activation than for some other treatments, pointing to lower acceptability of the treatment. Lastly, the study found no data comparing the effectiveness of behavioural activation to a placebo or no treatment. The authors concluded that the study was helpful to the field but had limitations due to the quality and certainty of evidence. They suggested that future studies could be improved by better reporting, better quality RCTs, and conducting more assessments on how behavioural activation works.

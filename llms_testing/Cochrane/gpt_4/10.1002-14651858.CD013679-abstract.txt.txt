@@ -1,0 +1,23 @@
+1. Plain Title: 
+Checking the Impact of Using Mobile Devices for Health Communication about Mother and Child Care
+
+2. Rationale: 
+Around the world, issues related to the health of mothers, newborns, and children are significant challenges resulting in many healthy years of life lost. One potential method to improve health outcomes in these groups is to use mobile devices to share targeted health information with them. This study aimed to check whether this specific type of communication improves people's health behaviour, use of health services, and overall health and well-being.
+
+3. Trial Design: 
+For this study, we found and evaluated 27 trials that involved a total of 17,463 participants from various income levels in different countries. The participants included pregnant and new mothers, pregnant and new mothers living with HIV, and parents of children under the age of five. The trials compared the outcomes of using mobile devices to share targeted health information versus the usual care or non-digital forms of communication or non-targeted digital communication. We collected and analysed the data using a standard method. 
+
+4. Results: 
+Our main finding was that the effects of using mobile devices for targeted health communication on mother and child health vary and are uncertain. 
+
+For pregnant and new mothers, this communication method may have increased breastfeeding in settings where less women breastfeed. It could also increase pregnancy-related doctor visits. However, it wasn't clear if this method significantly improved maternal and newborn health outcomes. 
+
+In comparison to non-digital methods like pamphlets, it might reduce the number of maternal and newborn health problems reported shortly after birth but did not impact breastfeeding rates. 
+
+When comparing to non-targeted digital communications, the method’s effect on health service use and health outcomes is also unclear. 
+
+For pregnant and postpartum women living with HIV, this communication method showed varied results. It might have improved adherence to antiretroviral therapy and increased use of antenatal care slightly. But the effects on birth location and health outcomes weren’t clear.
+
+For parents of children under five, this method may improve health service use like getting vaccinations and consistent health care for HIV. However, the effect of this method on other health practices like oral hygiene was unsure. 
+
+In conclusion, while there may be improvements for some outcomes with this communication method, the effects are mostly uncertain. More high-quality, detailed studies need to be done to clearly understand the effects of this digital communication method on maternal, neonatal, and child health. It is also important for future studies to observe any unintended negative effects, like issues with personal privacy.

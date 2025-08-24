@@ -1,0 +1,13 @@
+1. Plain Title: 
+Understanding the Effects of Tongxinluo, a Traditional Chinese Medicine, on Heart Disease
+
+2. Rationale:
+Heart disease often leads to a condition known as angina, where people experience chest pain due to reduced blood flow to their heart. This can greatly affect the quality of life for these patients. In China and other Asian countries, a medicine called Tongxinluo is used to help these patients. Tongxinluo is unique as it is made from traditional Chinese herbs and bugs. However, proper scientific research on the effectiveness of this medicine has not been done in a thorough manner. Hence, we wanted to find out how well Tongxinluo works in people suffering from a serious form of chest pain, known as unstable angina.
+
+3. Trial Design:
+We decided to conduct a systematic review, where we searched for and analyzed all existing studies that tried to understand how effective Tongxinluo is in treating unstable angina. We looked for studies that had tried Tongxinluo alone or with standard treatment, and compared it against usual care, drugs for angina, a dummy pill (placebo), or no treatment. The studies we included had to be randomized trials, where patients were randomly assigned to different treatment groups. We searched for such studies in various databases and journals, published in English as well as Chinese, from the year 1995 to 2005. Two of our team members separately identified the studies to include and collected data from them. We also contacted the authors of these studies when we needed more information.
+
+4. Results:
+We included 18 studies in our review, which in total examined 1413 patients. The studies showed that Tongxinluo did not greatly help in reducing serious heart-related outcomes like heart attacks, need for heart surgeries, or sudden death. However, the medicine was found effective in reducing the number of acute angina attacks (severe chest pain episodes). It also helped in improving the electrical activity of the heart (seen in ECG test) and lessening the symptoms of angina. 
+
+Our final take on this is that when used along with regular therapy for angina, Tongxinluo might decrease the risk of future severe heart problems, acute angina attacks, and improve heart health & symptoms. However, the studies we looked at had some shortcomings, and hence, we can't completely rely on their results. We need large, well-planned randomized studies to really understand the potential of Tongxinluo in treating patients with unstable angina.

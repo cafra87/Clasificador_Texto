@@ -1,0 +1,17 @@
+1. Plain Title:
+Understanding Patients’ and Professionals' Opinions about Quick Tuberculosis Tests
+
+2. Rationale: 
+Tuberculosis (TB) is a serious lung disease that’s hard to diagnose and treat quickly. This can delay healing for those suffering from TB. To fix this, professionals use quick molecular tests for TB and drug resistance. These tests are important because they can detect TB quicker than other tests. This way, patients get treated earlier, improving their health quickly. Unfortunately, these tests can only help if they are used properly and on time. It’s important to consider the views of people using the tests (like patients and healthcare providers). This is because their feedback helps ensure the tests work as intended, and that those who need them can use them.
+
+3. Trial Design: 
+This study looked at feedback about these quick TB tests, specifically those called low-complexity nucleic acid amplification tests (NAATs). We wanted to understand people's experiences and see how it might affect the tests' success and fairness. We searched various databases from 1st January 2007 to 20th October 2021 to find relevant studies. We chose these dates because the development of the first test (Xpert MTB/RIF) was done in 2009. We included studies that collected data based on people's experiences and feedback. These people include patients with TB, their caregivers, healthcare providers, and staff in health facilities around the world. From these studies, we analyzed the data to find common themes and conclusions. 
+
+4. Results: 
+We found 32 studies, all from low and middle-income countries. We discovered that patients and healthcare providers value getting an accurate TB diagnosis quickly and cheaply. Healthcare providers also appreciate the ability to test different samples and getting drug resistance information. Lab technicians like these tests because they are easier to use, safer, and make their job satisfying.
+
+However, people reported challenges and concerns. Some people were afraid to get tested for TB due to fear, stigma, or cost. Delays were also reported due to issues with sample quality, transport, lack of resources, and work overload. These setbacks led to the underuse of these quick tests.
+
+Another concern was the fair access to these tests. Issues included limited funding, maintenance, and restrictions on who can get tested. Especially, this affected vulnerable groups like children, those resistant to TB drugs, and those who couldn't afford the costs. 
+
+In conclusion, even though these tests are believed to fix gaps in the usual diagnosis process, this might not be completely true. The lack of infrastructure and trained workers can make these tests less helpful. Changes are needed to tackle these problems to ensure everyone has equal access to these resources.

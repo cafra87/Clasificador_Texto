@@ -1,0 +1,11 @@
+Tranexamic acid, an agent that promotes blood clotting, for serious or uncontrolled upper gastrointestinal bleeding 
+Background 
+Upper gastrointestinal bleeding is a common reason for emergency hospital admission. The prognosis is serious. Some patients may die as the result of uncontrolled bleeding. 
+Review question 
+Tranexamic acid is an antifibrinolytic agent. This drug reduces the breakdown of fibrin; fibrin provides the framework for the formation of a blood clot, which is needed to stop the bleeding. Clinical trials suggest that tranexamic acid could reduce mortality in upper gastrointestinal bleeding. 
+Study characteristics 
+This review includes data from eight randomised trials on tranexamic acid. Two trials also assessed antiulcer drugs. Only one trial used additional endoscopic therapy, as the remaining trials were performed before this intervention was introduced into clinical practice. 
+Key results 
+These trials found that tranexamic acid appears to have a beneficial effect on mortality, but a high dropout rate in some trials means that we cannot be sure of these findings until additional research is published . Tranexamic acid did not reduce mortality in the trials that included antiulcer drugs or endoscopic therapy. Additional randomised controlled trials are needed before we can determine whether tranexamic acid has a beneficial effect on serious or uncontrolled upper gastrointestinal bleeding. 
+Quality of the evidence 
+Many patients who were randomly assigned were subsequently excluded from the assessment. The main source of bias was therefore attrition. The overall quality of the evidence was moderate to low. 

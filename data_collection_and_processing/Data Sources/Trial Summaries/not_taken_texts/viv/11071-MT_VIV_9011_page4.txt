@@ -1,0 +1,30 @@
+Page 4 of 7
+Where was this study done?
+Study sites were in 17 countries.
+Number of participants who received at least one dose
+of the study medicines
+Argentina 26
+Belgium 12
+Brazil 39
+Canada 20
+China 38
+Denmark 15
+France 39
+Germany 40
+Italy 37
+Mexico 27
+Russia 20
+South Africa 18
+Spain 44
+Sweden 11
+Taiwan 23
+United Kingdom 20
+United States 64
+0 25 50 75
+Number of participants
+What were the main results of the study?
+Study doctors collected blood samples and measured participants’ viral loads.
+The study compared the number of participants in the two treatment groups, who had
+a detectable viral load (50 c/mL or more) at Week 48.
+One of 246 participants (less than 1%) in the DTG and 3TC group and three of
+247 participants (1%) in the CAR group had a detectable viral load at Week 48.

@@ -1,0 +1,30 @@
+The study doctors also counted the number of “dose limiting toxicities” the
+participants had during the study. A dose limiting toxicity is an adverse event that
+is severe enough to stop the study doctor from increasing the participant’s dose of
+study treatment. A dose limiting toxicity is also known as a “DLT”.
+There were 9.4% of participants in Part 1 who had a DLT. This was 3 out of 32
+participants.
+How much AZD9150 got into the participants’ blood when given in
+different ways in Part 2?
+To answer this question, the study doctors took blood samples at different times
+during the study from the participants in Part 2 and measured how much AZD9150
+was in the participants’ blood.
+The researchers looked at 2 different measurements of AZD9150 in the blood:
+X The average lowest amount of AZD9150 in the blood just before getting
+another dose.
+X The average total amount of AZD9150 in the blood over time.
+Then, the researchers compared the results between the participants in Part 2
+who got AZD9150 as an IV infusion and the participants who got AZD9150 as an
+injection.
+The results shown below are for the participants in Part 2 who got study treatment
+and had data that could be calculated. This was:
+X 12 participants who got AZD9150 as an injection
+X 14 participants who got AZD9150 as an IV infusion
+The researchers found that:
+X The average lowest amount of AZD9150 in the blood just before getting
+another dose was 17% lower for the participants who got AZD9150 as an
+injection, compared with the participants who got AZD9150 as an IV infusion.
+X The average total amount of AZD9150 in the blood over time was 26%
+lower for the participants who got AZD9150 as an injection, compared with
+the participants who got AZD9150 as an IV infusion.
+10 | Clinical Study Results

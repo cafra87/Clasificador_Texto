@@ -1,0 +1,27 @@
+Where was this study done?
+Study sites were in six countries.
+Number of participants who received at least one dose
+of the study medicine
+Argentina 30
+Poland 70
+Romania 16
+Russian Federation 172
+South Africa 39
+United States 150
+0 50 100 150 200
+Number of participants
+What were the main results of the study?
+Study doctors recorded each participant’s height using a device called a stadiometer,
+over the one year of treatment.
+The main objective of the study was to compare participants’ growth rate over the
+one-year treatment period, between the two treatment groups. Researchers calculated
+growth rate as the increase in height in centimetres per year (cm/yr).
+Growth rate was calculated for the 457 participants whose height was recorded at least
+three times during the one-year treatment period. Results are shown in the table
+below.
+Average growth rate over the one-year treatment period
+Fluticasone furoate Placebo
+231 participants 226 participants
+Average growth rate (cm/yr) 5.9 6.1
+More information about the study results is available in the scientific results
+summaries (links to those summaries are provided at the end of this document).

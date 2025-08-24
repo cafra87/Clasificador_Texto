@@ -1,0 +1,8 @@
+For readers of this document in text form, the websites associated with the hyperlinks above are:
+EudraCT summary:
+https://www.clinicaltrialsregister.eu/ctr-search/search?query=2014-001117-41
+US NIH/clinicaltrials.gov:
+https://clinicaltrials.gov/ct2/show/NCT02422264
+For the previous study, the website associated with the hyperlink above is:
+US NIH/clinicaltrials.gov:
+https://clinicaltrials.gov/ct2/show/NCT02377349

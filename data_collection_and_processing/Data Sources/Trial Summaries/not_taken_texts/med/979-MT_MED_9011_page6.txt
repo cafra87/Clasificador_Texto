@@ -1,0 +1,21 @@
+Clinical Study Results
+How many participants had serious adverse reactions?
+There were 0.3% of participants who had the serious adverse reaction of fainting
+during this study. This happened in 1 out of 321 participants.
+How many participants had adverse reactions?
+There were 8.4% of participants overall who had adverse reactions during this
+study. This was 27 out of 321 participants.
+There were 10.6% of participants in the dapagliflozin treatment group who had
+adverse reactions during this study. This was 17 out of 160 participants.
+There were 6.2% of participants in the placebo treatment group who had adverse
+reactions during this study. This was 10 out of 161 participants.
+There were 1.9% of participants overall who stopped taking treatment because
+of adverse reactions. This was 6 out of 321 participants.
+There were 1.9% of participants in the dapagliflozin treatment group who
+stopped taking treatment because of adverse reactions. This was 3 out of 160
+participants.
+There were 1.9% of participants in the placebo treatment group who stopped
+taking treatment because of adverse reactions. This was 3 out of 161
+participants.
+None of the participants died during this study.
+6

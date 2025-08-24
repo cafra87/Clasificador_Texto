@@ -1,0 +1,14 @@
+1. Plain Title:
+   Testing Stem Cell Therapies for Newborn Babies with Brain Damage
+
+2. Rationale:
+   Every year, thousands of children around the world suffer from brain damage related to a problem called Hypoxic‐ischaemic encephalopathy (HIE) or lack of oxygen to the brain. This often leads to infant death or long-lasting neurological issues. Babies with HIE are typically treated with cooling, but it's not enough. Stem cell therapies, which use the body's own cells to repair or grow new brain tissue, could be a promising new treatment. Scientists have tested these therapies in labs and on animals with success, and now it's time to see how safe and effective they are in human babies.
+
+3. Trial Design:
+   Researchers searched various medical databases for studies testing stem cell therapies for HIE in newborns. They were interested in studies using randomized trials. In these studies, babies would randomly receive either the stem cell therapy or a placebo (no treatment). They were also interested in comparing different types of stem cell-based therapies, such as those using a patient's own stem cells versus donor stem cells, and those using stem cells from different sources like bone marrow and cord.
+
+4. Results:
+   Unfortunately, the search for studies didn't find any completed trials using stem cell therapies for HIE. However, they did find 15 studies currently underway. The results from these ongoing trials are not yet available, so we do not yet know if stem cell therapies are beneficial for babies with HIE. 
+
+Conclusions:
+   As of now, there's no scientific evidence from these kinds of studies showing whether stem cell therapies can prevent or reduce health problems and deaths in newborns with HIE. But, this does not rule out the possibility of it being a beneficial treatment. The 15 ongoing trials will provide more evidence in the future.

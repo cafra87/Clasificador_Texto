@@ -1,0 +1,20 @@
+1. Plain Title: Understanding How Patients Feel About Health Reminders and Information Sent Over Mobile Devices 
+
+2. Rationale: 
+Many governments and healthcare systems are now using mobile phones to communicate with their patients. This can range from sending prescription reminders to providing healthcare advice. These systems are tailored for each person's health needs or situations. We aimed to understand how people feel about receiving such information or reminders through their mobile devices, especially information about reproductive health, maternal and newborn care, child health, and adolescent health. 
+
+3. Trial Design: 
+To understand the thoughts and feedback of people, we looked at a variety of studies from across the world. Some studies were done in wealthier countries, while others were from less wealthy ones. We included 35 studies from six different continents. We considered every study that used the same method to gather and analyze data. 
+
+We analyzed this data by looking at the variety of responses we received. We also used a framework to help organize and explore these responses. Finally, we evaluated how confident we were in the results we found. 
+
+4. Results:
+The findings were mixed. Some people felt that these digital health programs gave them a sense of support and connection. They even shared the messages with their friends and family. But some people faced issues like poor network coverage, lack of internet, and not owning a mobile phone. They also faced cost-related problems, language barriers, literacy skills, and technical issues with using mobile phones. 
+
+Privacy and confidentiality were concerns for all, especially for those dealing with personal health conditions that are often stigmatized, like HIV, family planning, or abortion care. To overcome these, some suggested using neutral language and personalizing the content, timing, and frequency of text messages. 
+
+People preferred to receive the messages at their convenience. Some preferred SMS while others preferred voice messages. They also had preferences about the topics covered, including new knowledge, reminders, and advice about health matters. Finally, who sent the digital health message made a difference to some people.
+
+Our review also showed that many of these programs did not address the problems we identified. They need to take these issues into account when designing their systems. Future studies need to actively try to solve these factors and discuss their efforts when publishing their trials. 
+
+In summary, there are several things that can affect the success of a health communication program using mobile devices. These results can help program creators design systems that truly help their patients and overcome any problems they might face.

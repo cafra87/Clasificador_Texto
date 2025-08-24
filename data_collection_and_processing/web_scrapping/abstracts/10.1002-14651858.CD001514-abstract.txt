@@ -1,0 +1,14 @@
+Background
+Long‐term levodopa therapy in Parkinson's disease is associated with the development of motor complications including abnormal involuntary movements and a shortening response to each dose (wearing off phenomenon). It is thought that dopamine agonists can reduce the duration of immobile off periods and the need for levodopa therapy whilst maintaining or improving motor impairments and only minimally increasing dopaminergic adverse events. 
+Objectives
+To compare the efficacy and safety of adjunct lisuride therapy versus bromocriptine in patients with Parkinson's disease, already established on levodopa and suffering the long‐term complications of therapy. 
+Search methods
+Electronic searches of MEDLINE, EMBASE and the Cochrane Controlled Trials Register. Handsearching of the neurology literature as part of the Cochrane Movement Disorders Group's strategy. Examination of the reference lists of identified studies and other reviews. Contact with Cambridge Laboratories, Roche Products Limited and Sandoz Limited. 
+Selection criteria
+Randomised controlled trials of lisuride versus bromocriptine in patients with a clinical diagnosis of idiopathic Parkinson's disease and long‐term complications of levodopa therapy. 
+Data collection and analysis
+Data was abstracted independently by each author and differences settled by discussion.
+Main results
+Only one randomised cross‐over trial including 20 patients has compared lisuride with bromocriptine as adjunct therapy in Parkinson's disease. Both lisuride and bromocriptine improved motor fluctuations with no significant differences between the agonists. However, this conclusion is based on an unvalidated 4 point rating scale which could only record positive outcomes. This, combined with the small size of the trial, suggests that firm conclusions on motor fluctuations should not be drawn. Lisuride and bromocriptine produced similar benefits in parkinsonian impairments according to the Columbia Rating Scale. Adverse events were similar with the two agonists and no withdrawals were reported from either drug. 
+Authors' conclusions
+The small size of this study and other methodological problems do not allow any firm conclusions to be drawn regarding the efficacy and safety of lisuride compared with bromocriptine in advanced Parkinson's disease with motor complications. 

@@ -1,0 +1,13 @@
+Plain Title: 
+The Role of Surgery in Treating Advanced Ovarian Cancer
+
+Rationale:
+Ovarian cancer is the sixth most prevalent cancer in women. One of the major factors that can decide how well a woman with ovarian cancer recovers is how much of her cancer is left in the body after surgery. Removal of most or all of the cancer is known as cytoreduction. Doctors aim for an "optimal" cytoreduction, where only tiny bits of cancer (each smaller than a centimeter) remain. However, it's disputed how successful these surgeries are. This study was conducted to see if optimal cytoreductive surgeries really help women with advanced ovarian cancer live longer and safer, and to see what impact the size of remaining cancer has on survival. 
+
+Trial Design:
+This study was not a trial, but it looked back at data from past studies. It included data from women with advanced ovarian cancer (stages III and IV) who had had surgery to remove the cancer followed by chemotherapy. The researchers focused on studies that defined an "optimal" surgery as one leaving behind tumors no larger than 2 centimeters. They did not include any study where the patient had not been adequately followed up or where there were less than 100 participants. The researchers collected and examined the data independently.
+
+Results:
+No direct research was found which analyzed the effect of surgery as a primary treatment in advanced ovarian cancer. However, 11 past studies showed that completely removing the cancer through surgery greatly improved survival rates. The same studies showed that if all the cancer could not be removed, leaving tumors smaller than 1 centimeter led to better survival rates than leaving larger ones behind. However, the researchers caution that these studies were all backward-looking, meaning they might be biased, so results should be interpreted carefully. Unfortunately, none of the studies recorded any negative side effects, quality of life improvements, or economic impacts in sufficient detail.
+
+Based on these results, the researchers concluded that surgeries for advanced ovarian cancer should aim to remove as much of the tumor as possible. If this isn't achievable, doctors should aim to leave less than 1 centimeter of residual cancer. They suggested that surgeons should consider redefining the terms "optimal" and "suboptimal" with these results in mind. However, they recommend more targeted studies to confirm whether the surgical procedure or other factors like patient health and disease stage play a greater part in improved survival.
