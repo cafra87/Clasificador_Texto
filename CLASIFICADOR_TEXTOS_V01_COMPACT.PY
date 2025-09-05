@@ -40,6 +40,31 @@ seed = 99
 torch.manual_seed(seed)
 np.random.seed(seed)
 
+#VARIABLES PARA EMBEDDINGS:
+COCHRANE_PATH = Path("/home/ubuntu/Cochrane")
+EMBED_DIR = Path("/home/ubuntu")
+EMBED_DIR.mkdir(parents=True, exist_ok=True)
+
+BATCH_SIZE = 16       # Esto se puede modificar dependiendo de la memoria
+CHUNK_WORDS = 250     # tamaño de chunk en palabras
+MAX_LENGTH = 512      # tokens max al tokenizar
+
+
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+#Tokenizador y modelo BERT especializado en los datos
+#tokenizer = AutoTokenizer.from_pretrained("microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext")
+#model = AutoModel.from_pretrained("microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext")
+model_dir = "./biomedbert"  # carpeta con el modelo
+tokenizer = AutoTokenizer.from_pretrained(model_dir, local_files_only=True)
+model     = AutoModel.from_pretrained(model_dir, local_files_only=True)
+#tokenizer = AutoTokenizer.from_pretrained("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract")
+#model = AutoModel.from_pretrained("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract")
+
+# colocamos el modelo en modo evaluación para generar los embeddings
+model.eval()
+model.to(device)
 
 # ----------------------------------------------------------
 # Funciones auxiliares TFIDF
@@ -87,7 +112,116 @@ def plot_and_save_confusion(y_true, y_pred, title, out_png):
     plt.savefig(out_png, bbox_inches='tight')
     plt.close(fig)
 
+# ----------------------------------------------------------
+# FUNCIONES AUXILIARES EMBEDDINGS
+# ----------------------------------------------------------
 
+# función para Dividir textos largos en fragmentos de hasta N palabras para que puedan 
+#ser procesados eficientemente por los modelos de representación de texto con embeddings, (BERT).
+
+def chunk_text(text, max_words=CHUNK_WORDS):
+    words = text.split()
+    if len(words) <= max_words:
+        return [text]
+    return [' '.join(words[i:i+max_words]) for i in range(0, len(words), max_words)]
+
+
+def embed_batch_cls(texts, tokenizer, model, device, max_length=512, batch_size=16):
+    """Devuelve np.array (N, D) con embedding CLS (last_hidden_state[:,0,:])"""
+    model.eval()
+    embs = []
+    with torch.no_grad():
+        for i in range(0, len(texts), batch_size):
+            batch = texts[i:i+batch_size]
+            enc = tokenizer(batch, padding=True, truncation=True, max_length=max_length, return_tensors='pt').to(device)
+            out = model(**enc)
+            cls = out.last_hidden_state[:, 0, :].cpu()  # (B, D)
+            cls = F.normalize(cls, p=2, dim=1)         # L2 normalize
+            embs.append(cls.numpy())
+    return np.vstack(embs)
+
+def embed_batch_mean(texts, tokenizer, model, device, max_length=512, batch_size=16):
+    """Devuelve np.array (N, D) con mean pooling (usando attention_mask)"""
+    model.eval()
+    embs = []
+    with torch.no_grad():
+        for i in range(0, len(texts), batch_size):
+            batch = texts[i:i+batch_size]
+            enc = tokenizer(batch, padding=True, truncation=True, max_length=max_length, return_tensors='pt').to(device)
+            out = model(**enc)
+            att_mask = enc['attention_mask']
+            mean = (out.last_hidden_state * att_mask.unsqueeze(-1)).sum(dim=1) / torch.clamp(att_mask.unsqueeze(-1).sum(dim=1), min=1e-9)
+            mean = F.normalize(mean, p=2, dim=1)
+            embs.append(mean.cpu().numpy())
+    return np.vstack(embs)
+
+def embed_documents(texts, tokenizer, model, device, batch_size=16, chunk_words=250, max_length=512, use="mean"):
+    """
+    texts: list[str]
+    use: "mean" (pooling sobre tokens) o "cls"
+    Devuelve: np.array (N_docs, D)
+    """
+    all_doc_embs = []
+    with torch.no_grad():
+        for doc in tqdm(texts, desc="Embedding docs"):
+            chunks = chunk_text(doc, max_words=chunk_words)  # utilizamos chunk text
+            chunk_embs = []
+            # procesar los chunks en lotes
+            for i in range(0, len(chunks), batch_size):
+                batch_chunks = chunks[i:i+batch_size]
+                if use == "mean":
+                    emb = embed_batch_mean(batch_chunks, tokenizer, model, device,
+                                           max_length=max_length, batch_size=len(batch_chunks))
+                else:
+                    emb = embed_batch_cls(batch_chunks, tokenizer, model, device,
+                                          max_length=max_length, batch_size=len(batch_chunks))
+                chunk_embs.append(emb)  # (b, D)
+            chunk_embs = np.vstack(chunk_embs)   # (n_chunks, D)
+            doc_emb = chunk_embs.mean(axis=0)    # promedio de chunks → (D,)
+            all_doc_embs.append(doc_emb)
+    return np.vstack(all_doc_embs)               # (N_docs, D)
+
+
+"""Las siguientes funciones sirven para separar correctamente los datos en train (para entrenar/validar) y test (para la evaluación final). 
+Cargan solo un split (train o test). A partir del train, se hace un split estratificado en train y val 
+(porque la carpeta test ya está reservada para la evaluación final).
+
+Se crean los embeddings y se guardan según el conjunto de datos que se esá utilizando 
+(cochrane_train_embeddings.npz y cochrane_test_embeddings.npz) para no recalcular.
+"""
+
+def load_cochrane_split(base_path: Path, split: str):
+    """
+    Carga SOLO un split: 'train' o 'test'
+    Devuelve (files, texts, labels) en orden determinístico.
+    """
+    assert split in ("train", "test")
+    base_split = base_path / split
+
+    df = lectura_datos(base_split).dropna().drop_duplicates()
+    # rutas “falsas” si no quieres depender del path real
+    files = [f"{split}/{i}.txt" for i in range(len(df))]
+    texts = df["texto"].tolist()
+    labels = np.array(df["target"].tolist(), dtype=int)
+    return files, texts, labels
+
+def embed_or_load_split(split_name: str, texts: list):
+    save_path = EMBED_DIR / f"cochrane_{split_name}_embeddings.npz"
+    print("Ruta esperada de embeddings:", save_path.resolve())
+    if save_path.exists():
+        print(f"Cargando embeddings de {split_name}:", save_path)
+        d = np.load(save_path, allow_pickle=True)
+        return d["embeddings"]
+    else:
+        print(f"Generando embeddings ({split_name})…")
+        embs = embed_documents(
+            texts, tokenizer, model, device,
+            batch_size=BATCH_SIZE, chunk_words=CHUNK_WORDS,
+            max_length=MAX_LENGTH, use="mean"
+        )
+        np.savez_compressed(save_path, embeddings=embs)
+        print("Guardado:", save_path)
+        return embs
 
 # ----------------------------------------------------------
 # Entrenamiento con MLflow
@@ -279,7 +413,6 @@ def clase_principal():
         #Guardamos en MLFlow el mejor modelo:
         mlflow.sklearn.log_model(grid_nb.best_estimator_, name="Mejor_modelo_tfidf_Naive_Bayes")
 
-
     # ----------------------------------------------------------
     # CUARTO MODELO: TFIDF_MLP
     # ----------------------------------------------------------
@@ -331,6 +464,90 @@ def clase_principal():
 
         #Guardamos en MLFlow el mejor modelo:
         mlflow.sklearn.log_model(grid_mlp.best_estimator_, name="Mejor_modelo_tfidf_mlp")
+
+    """Objetivo (B): entrenar con embeddings BERT (densos) y probar tres clasificadores:
+
+    LogisticRegression con pequeña búsqueda en C
+
+    GaussianNB (adecuado para densos)
+
+    MLP (scikit-learn) encima de embeddings
+
+
+    """
+
+
+    _, train_texts, train_labels = load_cochrane_split(COCHRANE_PATH, "train")
+    
+
+    # Embeddings BERT para todo el split train (cache)
+    # así evitamos recalcular; luego partimos en train/val por índices
+    train_emb_all = embed_or_load_split("train", train_texts)
+    print("Embeddings (train) shape:", train_emb_all.shape)
+
+    # Mapear embeddings al split train/val (misma posición que train_texts)
+    # Creamos índices basados en la posición
+    idx_all = np.arange(len(train_texts))
+    X_train_idx, X_val_idx, _, _ = train_test_split(
+        idx_all, train_labels, test_size=0.2, stratify=train_labels, random_state=seed
+    )
+    X_train_emb = train_emb_all[X_train_idx]
+    X_val_emb   = train_emb_all[X_val_idx]
+
+    # Etiquetas alineadas con los indices
+    y_train_emb = train_labels[X_train_idx]
+    y_val_emb   = train_labels[X_val_idx]
+
+
+    scaler_bert = StandardScaler()
+    X_train_emb_s = scaler_bert.fit_transform(X_train_emb)
+    X_val_emb_s   = scaler_bert.transform(X_val_emb)
+
+    # ----------------------------------------------------------
+    # QUINTO MODELO: BERT EMBEDDINGS + REGRESIÓN LOGÍSTICA
+    # ----------------------------------------------------------
+
+    param_C = [0.5, 1.0, 2.0]
+    best_lr = None
+    best_f1 = -1
+    for C in param_C:
+        clf = LogisticRegression(max_iter=1000, class_weight="balanced", C=C)
+        clf.fit(X_train_emb_s, y_train_emb)
+        pred = clf.predict(X_val_emb_s)
+        f1m = f1_score(y_val_emb, pred, average='macro')
+        if f1m > best_f1:
+            best_f1 = f1m
+            best_lr = clf
+    print("=== BERT emb + LR ===")
+    print("Best C:", best_lr.C, "Val F1-macro:", best_f1)
+    print(classification_report(y_val_emb, best_lr.predict(X_val_emb_s), digits=4))
+    joblib.dump({"scaler": scaler_bert, "clf": best_lr}, EMBED_DIR / "bert_lr_best.joblib")
+
+
+    with mlflow.start_run(run_name="BERT_LR_BusquedaSimple"):
+
+        #Matriz de confusión como PNG y subirla
+        cm_png = "cm_bert_lr_val.png"
+        plot_and_save_confusion(y_val_emb, best_lr.predict(X_val_emb_s), "BERT+LR (validación)", cm_png)
+
+        # log params
+        mlflow.log_param("param_grid_C", param_C)
+        mlflow.log_param("best_C", best_lr.C)
+
+        # metrics
+        acc = accuracy_score(y_val_emb, best_lr.predict(X_val_emb_s))
+        f1m = f1_score(y_val_emb, best_lr.predict(X_val_emb_s), average='macro')
+        mlflow.log_metric("val_accuracy", acc)
+        mlflow.log_metric("val_f1_macro", f1m)
+
+        mlflow.log_artifact(cm_png, artifact_path="figures")
+        os.remove(cm_png)
+
+        # guardar modelo (scaler + clf)
+        mlflow.sklearn.log_model(best_lr, name="bert_lr_model")
+
+          
+
 
 if __name__ == "__main__":
     clase_principal()
