@@ -228,6 +228,60 @@ def clase_principal():
         #Guardamos en MLFlow el mejor modelo:
         mlflow.sklearn.log_model(grid_lr.best_estimator_, name="Modelo_tfidf_regresion_logistica")
 
+    # ----------------------------------------------------------
+    # TERCER MODELO: TFIDF_Naive Bayes (MultinomialNB)
+    # ----------------------------------------------------------
+
+    param_grid_nb = {
+        "tfidf__max_features": [20000],
+        "tfidf__ngram_range": [(1,2)],
+        "model__alpha": [0.5, 1.0, 2.0]
+    }
+
+    pipe_nb = Pipeline([
+        ("tfidf", TfidfVectorizer(stop_words='english', lowercase=True)),
+        ("model", MultinomialNB())
+    ])
+
+    grid_nb = GridSearchCV(pipe_nb, param_grid_nb, scoring="f1_macro", cv=2, n_jobs=1, verbose=1)
+    grid_nb.fit(X_train_txt, y_train)
+    y_pred_nb = grid_nb.predict(X_val_txt)
+
+    print("=== TF-IDF + MultinomialNB ===")
+    print("Val accuracy:", accuracy_score(y_val, y_pred_nb))
+    print("Val F1-macro:", f1_score(y_val, y_pred_nb, average='macro'))
+    print(classification_report(y_val, y_pred_nb, digits=4))
+
+    joblib.dump(grid_nb.best_estimator_, EMBED_DIR / "tfidf_nb_best.joblib")
+
+
+    with mlflow.start_run(run_name="TFIDF_MEJOR NAIVE BAYES"):
+
+        #Matriz de confusión como PNG y subirla
+        cm_png = "cm_tfidf_nb_val.png"
+        plot_and_save_confusion(y_val, y_pred_nb, "TFIDF+NB (validación)", cm_png)
+
+        #Dfinimos las métricas a registrar
+        acc = accuracy_score(y_val, y_pred_nb)
+        f1m = f1_score(y_val, y_pred_nb, average='macro')
+
+        #Se registran los mejores hiperparámetros en mlflow:
+        for param, value in grid_nb.best_params_.items():
+            mlflow.log_param(param, value)
+
+        #Registramos los parámetros y las métricas
+        mlflow.log_metric("val_accuracy", acc)
+        mlflow.log_metric("val_f1_macro", f1m)
+
+        mlflow.log_artifact(cm_png, artifact_path="figures")
+        os.remove(cm_png)
+
+        #Guardamos en MLFlow el mejor modelo:
+        mlflow.sklearn.log_model(grid_nb.best_estimator_, name="Mejor_modelo_tfidf_Naive_Bayes")
+
+    
+
+    
 
 
 if __name__ == "__main__":
