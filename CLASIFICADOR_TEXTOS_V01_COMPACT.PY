@@ -546,7 +546,51 @@ def clase_principal():
         # guardar modelo (scaler + clf)
         mlflow.sklearn.log_model(best_lr, name="bert_lr_model")
 
-          
+      # ----------------------------------------------------------
+    # SEXTO MODELO: BERT EMBEDDINGS + NAIVE BAYES GAUSIANO
+    # ----------------------------------------------------------
+    gnb = GaussianNB()
+    gnb.fit(X_train_emb_s, y_train_emb)
+
+    pred_gnb = gnb.predict(X_val_emb_s)
+    acc = accuracy_score(y_val_emb, pred_gnb)
+    f1m = f1_score(y_val_emb, pred_gnb, average='macro')
+
+    print("=== BERT emb + GaussianNB ===")
+    print("Val accuracy:", acc)
+    print("Val F1-macro:", f1m)
+    print(classification_report(y_val_emb, pred_gnb, digits=4))
+
+
+    joblib.dump({"scaler": scaler_bert, "gnb": gnb}, EMBED_DIR / "bert_gnb_best.joblib")
+
+
+    with mlflow.start_run(run_name="BERT_NAIVE_BAYES"):
+
+        #Matriz de confusión como PNG y subirla
+        cm_png = "cm_bert_gnb_val.png"
+        plot_and_save_confusion(y_val_emb, pred_gnb, "BERT+GNB (validación)", cm_png)
+
+        #parámetros
+        mlflow.log_param("model", "GaussianNB")
+        mlflow.log_param("var_smoothing", gnb.var_smoothing)
+        mlflow.log_param("encoder_model", "BiomedBERT")
+        mlflow.log_param("pooling", "mean")
+        mlflow.log_param("chunk_words", CHUNK_WORDS)
+        mlflow.log_param("max_length", MAX_LENGTH)
+
+
+        # metrics
+        mlflow.log_metric("val_accuracy", acc)
+        mlflow.log_metric("val_f1_macro", f1m)
+
+        # guardar modelo (scaler + clf)
+        mlflow.sklearn.log_model(gnb, artifact_path="bert_gnb_model")
+        joblib.dump(scaler_bert, "scaler_bert.joblib")
+        mlflow.log_artifact("scaler_bert.joblib", artifact_path="preproc")
+        os.remove("scaler_bert.joblib")
+
+    
 
 
 if __name__ == "__main__":
