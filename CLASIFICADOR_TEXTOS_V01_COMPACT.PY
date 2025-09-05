@@ -279,10 +279,58 @@ def clase_principal():
         #Guardamos en MLFlow el mejor modelo:
         mlflow.sklearn.log_model(grid_nb.best_estimator_, name="Mejor_modelo_tfidf_Naive_Bayes")
 
-    
 
-    
+    # ----------------------------------------------------------
+    # CUARTO MODELO: TFIDF_MLP
+    # ----------------------------------------------------------
 
+    param_grid_mlp = {
+        "tfidf__max_features": [20000],
+        "tfidf__ngram_range": [(1,2)],
+        "svd__n_components": [100],
+        "model__hidden_layer_sizes": [(128,),(128,64)],
+        "model__max_iter": [100],
+    }
+
+    pipe_mlp = Pipeline([
+        ("tfidf", TfidfVectorizer(stop_words='english', lowercase=True,)),
+        ('svd', TruncatedSVD(random_state=seed)),
+        ("model", MLPClassifier(random_state=seed))
+    ])
+
+
+    grid_mlp = GridSearchCV(pipe_mlp, param_grid_mlp, scoring="f1_macro", cv=2, n_jobs=1, verbose=1)
+    grid_mlp.fit(X_train_txt, y_train)
+    y_pred_mlp = grid_mlp.predict(X_val_txt)
+
+    print("=== TF-IDF + MLP ===")
+    print("Best params:", grid_mlp.best_params_)
+    print("Val accuracy:", accuracy_score(y_val, y_pred_mlp))
+    print("Val F1-macro:", f1_score(y_val, y_pred_mlp, average='macro'))
+    print(classification_report(y_val, y_pred_mlp, digits=4))
+
+    joblib.dump(grid_mlp.best_estimator_, EMBED_DIR / "tfidf_mlp_best.joblib")
+
+    #Enviamos a mlflow
+    with mlflow.start_run(run_name="TFIDF_MEJOR_MLP"):
+
+        #Matriz de confusión como PNG y subirla
+        cm_png = "cm_tfidf_mlp_val.png"
+        plot_and_save_confusion(y_val, y_pred_mlp, "TFIDF+MLP (validación)", cm_png)
+
+        #Dfinimos las métricas a registrar
+        acc = accuracy_score(y_val, y_pred_mlp)
+        f1m = f1_score(y_val, y_pred_mlp, average='macro')
+        #Se registran los mejores hiperparámetros en mlflow:
+        for param, value in grid_mlp.best_params_.items():
+            mlflow.log_param(param, value)
+
+        #Registramos los parámetros y las métricas
+        mlflow.log_metric("val_accuracy", acc)
+        mlflow.log_metric("val_f1_macro", f1m)
+
+        #Guardamos en MLFlow el mejor modelo:
+        mlflow.sklearn.log_model(grid_mlp.best_estimator_, name="Mejor_modelo_tfidf_mlp")
 
 if __name__ == "__main__":
     clase_principal()
