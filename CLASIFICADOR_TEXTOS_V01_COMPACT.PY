@@ -590,7 +590,79 @@ def clase_principal():
         mlflow.log_artifact("scaler_bert.joblib", artifact_path="preproc")
         os.remove("scaler_bert.joblib")
 
-    
+    # ----------------------------------------------------------
+    # SEPTIMO MODELO: BERT EMBEDDINGS + MLP
+    # ----------------------------------------------------------
+
+    param_grid_mlp_emb = {
+        "hidden_layer_sizes": [(128,), (128,64)],
+        "alpha": [1e-3],               # L2 regularization
+        "learning_rate_init": [5e-4],
+        "max_iter": [100],
+    }
+
+    mlp_base = MLPClassifier(
+        random_state=seed,
+        early_stopping=True,     # para terminar antes si no mejora
+        n_iter_no_change=5,
+        validation_fraction=0.1,
+    )
+
+    grid_mlp_emb = GridSearchCV(
+        mlp_base,
+        param_grid_mlp_emb,
+        scoring="f1_macro",
+        cv=3,
+        n_jobs=-1,
+        verbose=1
+    )
+
+    #entrenamiento
+    grid_mlp_emb.fit(X_train_emb_s, y_train_emb)
+
+    # Evaluar en tu split de validación externo
+    pred_mlp_emb = grid_mlp_emb.predict(X_val_emb_s)
+    acc = accuracy_score(y_val_emb, pred_mlp_emb)
+    f1m = f1_score(y_val_emb, pred_mlp_emb, average='macro')
+
+
+    print("=== BERT emb + MLP (Grid) ===")
+    print("Best params:", grid_mlp_emb.best_params_)
+    print("Val accuracy:", acc)
+    print("Val F1-macro:", f1m)
+    print(classification_report(y_val_emb, pred_mlp_emb, digits=4))
+
+
+    joblib.dump({"scaler": scaler_bert, "mlp": grid_mlp_emb.best_estimator_}, EMBED_DIR / "bert_mlp_best.joblib")
+
+    # ====== MLflow logging ======
+    with mlflow.start_run(run_name="BERTemb_MEJOR_MLP"):
+
+        #Matriz de confusión como PNG y subirla
+        cm_png = "cm_bert_mlp_val.png"
+        plot_and_save_confusion(y_val_emb, pred_mlp_emb, "BERT+MLP (validación)", cm_png)
+
+        # hiperparámetros ganadores
+        for p, v in grid_mlp_emb.best_params_.items():
+            mlflow.log_param(p, v)
+
+        # metadatos del encoder
+        mlflow.log_param("encoder_model", "BiomedBERT")
+        mlflow.log_param("pooling", "mean")
+        mlflow.log_param("chunk_words", CHUNK_WORDS)
+        mlflow.log_param("max_length", MAX_LENGTH)
+
+        # métricas
+        mlflow.log_metric("val_accuracy", acc)
+        mlflow.log_metric("val_f1_macro", f1m)
+
+        # subir solo el clasificador (recuerda escalar antes de usarlo)
+        mlflow.sklearn.log_model(grid_mlp_emb.best_estimator_, name="bert_mlp_model")
+
+        # subir el scaler como artefacto
+        joblib.dump(scaler_bert, "scaler_bert.joblib")
+        mlflow.log_artifact("scaler_bert.joblib", artifact_path="preproc")
+        os.remove("scaler_bert.joblib")
 
 
 if __name__ == "__main__":
