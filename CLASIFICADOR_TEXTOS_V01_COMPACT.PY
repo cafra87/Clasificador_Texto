@@ -664,6 +664,186 @@ def clase_principal():
         mlflow.log_artifact("scaler_bert.joblib", artifact_path="preproc")
         os.remove("scaler_bert.joblib")
 
+    # ----------------------------------------------------------
+    # EVALUACIÓN FINAL EN EL CONJUNTO TEST QUE LOS MODELOS NO HAN VISTO
+    # ----------------------------------------------------------
+
+    # ====== Evaluar TF-IDF modelos guardados ======
+    _, test_texts,  test_labels  = load_cochrane_split(COCHRANE_PATH, "test")
+
+    count_tfidf_lr = joblib.load(EMBED_DIR / "count_tfidf_lr.joblib")
+    tfidf_lr = joblib.load(EMBED_DIR / "tfidf_lr_best.joblib")
+    tfidf_nb = joblib.load(EMBED_DIR / "tfidf_nb_best.joblib")
+    tfidf_mlp = joblib.load(EMBED_DIR / "tfidf_mlp_best.joblib")
+
+
+    # COUNTVECTORIZER_TF-IDF + Regresión Logística (TEST)
+    y_pred = count_tfidf_lr.predict(test_texts)
+    print("\n[TEST] COUNT-VECTORIZER_TF-IDF + LR")
+    print(classification_report(test_labels, y_pred, digits=4))
+
+    with mlflow.start_run(run_name="COUNT-VECTORIZER_TFIDF_LR_TEST"):
+        acc = accuracy_score(test_labels, y_pred)
+        f1m = f1_score(test_labels, y_pred, average='macro')
+        mlflow.log_metric("test_accuracy", acc)
+        mlflow.log_metric("test_f1_macro", f1m)
+
+        # parámetros de cada etapa
+        vec      = count_tfidf_lr.named_steps["vectorizer"]   # CountVectorizer
+        tfidf_tr = count_tfidf_lr.named_steps["tfidf"]        # TfidfTransformer
+        svd      = count_tfidf_lr.named_steps["svd"]
+        lr       = count_tfidf_lr.named_steps["model"]
+
+        mlflow.log_param("vectorizer__max_features", vec.max_features)
+        mlflow.log_param("vectorizer__ngram_range", vec.ngram_range)
+        mlflow.log_param("tfidf__use_idf", tfidf_tr.use_idf)
+        mlflow.log_param("svd__n_components", svd.n_components)
+        mlflow.log_param("lr__C", lr.C)
+
+        cm_png = "cm_COUNT-VECTORIZER_tfidf_lr_test.png"
+        plot_and_save_confusion(test_labels, y_pred, "COUNT-VECTORIZER_TFIDF+LR (test)", cm_png)
+        mlflow.log_artifact(cm_png, artifact_path="figures")
+        os.remove(cm_png)
+
+
+    #TF-IDF + Regresión Logística (TEST)
+    y_pred = tfidf_lr.predict(test_texts)
+    print("\n[TEST] TF-IDF + LR")
+    print(classification_report(test_labels, y_pred, digits=4))
+
+
+    with mlflow.start_run(run_name="TFIDF_LR_TEST"):
+        # métricas
+        acc = accuracy_score(test_labels, y_pred)
+        f1m = f1_score(test_labels, y_pred, average='macro')
+        mlflow.log_metric("test_accuracy", acc)
+        mlflow.log_metric("test_f1_macro", f1m)
+        # params útiles
+        mlflow.log_param("model_family", "tfidf+lr")
+        mlflow.log_param("tfidf__max_features", tfidf_lr.named_steps['tfidf'].max_features)
+        mlflow.log_param("tfidf__ngram_range", tfidf_lr.named_steps['tfidf'].ngram_range)
+        mlflow.log_param("svd__n_components", tfidf_lr.named_steps['svd'].n_components)
+        mlflow.log_param("lr__C", tfidf_lr.named_steps['model'].C)
+        # artefactos: matriz de confusión + classification_report
+        cm_png = "cm_tfidf_lr_test.png"
+        plot_and_save_confusion(test_labels, y_pred, "TFIDF+LR (test)", cm_png)
+        mlflow.log_artifact(cm_png, artifact_path="figures"); os.remove(cm_png)
+
+    # TF-IDF + NB (TEST)
+    y_pred = tfidf_nb.predict(test_texts)
+    print("\n[TEST] TF-IDF + NB")
+    print(classification_report(test_labels, y_pred, digits=4))
+
+    with mlflow.start_run(run_name="TFIDF_NB_TEST"):
+        acc = accuracy_score(test_labels, y_pred)
+        f1m = f1_score(test_labels, y_pred, average='macro')
+        mlflow.log_metric("test_accuracy", acc)
+        mlflow.log_metric("test_f1_macro", f1m)
+
+        mlflow.log_param("model_family", "tfidf+nb")
+        mlflow.log_param("tfidf__max_features", tfidf_nb.named_steps['tfidf'].max_features)
+        mlflow.log_param("tfidf__ngram_range", tfidf_nb.named_steps['tfidf'].ngram_range)
+        mlflow.log_param("nb__alpha", tfidf_nb.named_steps['model'].alpha)
+        cm_png = "cm_tfidf_nb_test.png"
+        plot_and_save_confusion(test_labels, y_pred, "TFIDF+NB (test)", cm_png)
+        mlflow.log_artifact(cm_png, artifact_path="figures"); os.remove(cm_png)
+
+
+    #TF-IDF + MLP (TEST)
+    y_pred = tfidf_mlp.predict(test_texts)
+    print("\n[TEST] TF-IDF + MLP")
+    print(classification_report(test_labels, y_pred, digits=4))
+
+    with mlflow.start_run(run_name="TFIDF_MLP_TEST"):
+
+
+        acc = accuracy_score(test_labels, y_pred)
+        f1m = f1_score(test_labels, y_pred, average='macro')
+        mlflow.log_metric("test_accuracy", acc)
+        mlflow.log_metric("test_f1_macro", f1m)
+
+        mlflow.log_param("model_family", "tfidf+mlp")
+        mlflow.log_param("tfidf__max_features", tfidf_mlp.named_steps['tfidf'].max_features)
+        mlflow.log_param("tfidf__ngram_range", tfidf_mlp.named_steps['tfidf'].ngram_range)
+        mlflow.log_param("svd__n_components", tfidf_mlp.named_steps['svd'].n_components)
+        mlflow.log_param("mlp__hidden_layer_sizes", tfidf_mlp.named_steps['model'].hidden_layer_sizes)
+        mlflow.log_param("mlp__max_iter", tfidf_mlp.named_steps['model'].max_iter)
+        cm_png = "cm_tfidf_mlp_test.png"
+        plot_and_save_confusion(test_labels, y_pred, "TFIDF+MLP (test)", cm_png)
+        mlflow.log_artifact(cm_png, artifact_path="figures"); os.remove(cm_png)
+
+    # ====== Embeddings del TEST ======
+    test_emb_all = embed_or_load_split("test", test_texts)
+    print("Embeddings (test) shape:", test_emb_all.shape)
+
+    # ====== Evaluar mejores modelos BERT ======
+    bert_lr_pack  = joblib.load(EMBED_DIR / "bert_lr_best.joblib")
+    bert_gnb_pack = joblib.load(EMBED_DIR / "bert_gnb_best.joblib")
+    bert_mlp_pack = joblib.load(EMBED_DIR / "bert_mlp_best.joblib")
+
+    # LR
+    sc = bert_lr_pack["scaler"]; clf_lr = bert_lr_pack["clf"]
+    X_test_emb_s = sc.transform(test_emb_all)
+    y_pred = clf_lr.predict(X_test_emb_s)
+    print("\n[TEST] BERT emb + LR")
+    print(classification_report(test_labels, y_pred, digits=4))
+
+    with mlflow.start_run(run_name="BERTemb_LR_TEST"):
+        acc = accuracy_score(test_labels, y_pred)
+        f1m = f1_score(test_labels, y_pred, average='macro')
+        mlflow.log_metric("test_accuracy", acc)
+        mlflow.log_metric("test_f1_macro", f1m)
+
+        mlflow.log_param("model_family", "bert+lr")
+        mlflow.log_param("encoder_model", "BiomedBERT"); mlflow.log_param("pooling", "mean")
+        mlflow.log_param("chunk_words", CHUNK_WORDS);   mlflow.log_param("max_length", MAX_LENGTH)
+        mlflow.log_param("lr__C", clf_lr.C)
+        cm_png = "cm_bert_lr_test.png"
+        plot_and_save_confusion(test_labels, y_pred, "BERT+LR (test)", cm_png)
+        mlflow.log_artifact(cm_png, artifact_path="figures"); os.remove(cm_png)
+
+    # GNB (usa el mismo scaler_bert entrenado en train; si fuera otro, vuelve a cargar)
+    sc_g = bert_gnb_pack["scaler"]; clf_g = bert_gnb_pack["gnb"]
+    X_test_emb_s_g = sc_g.transform(test_emb_all)
+    y_pred = clf_g.predict(X_test_emb_s_g)
+    print("\n[TEST] BERT emb + GaussianNB")
+    print(classification_report(test_labels, y_pred, digits=4))
+
+    with mlflow.start_run(run_name="BERTemb_GNB_TEST"):
+        acc = accuracy_score(test_labels, y_pred)
+        f1m = f1_score(test_labels, y_pred, average='macro')
+        mlflow.log_metric("test_accuracy", acc)
+        mlflow.log_metric("test_f1_macro", f1m)
+
+        mlflow.log_param("model_family", "bert+gnb")
+        mlflow.log_param("encoder_model", "BiomedBERT"); mlflow.log_param("pooling", "mean")
+        mlflow.log_param("chunk_words", CHUNK_WORDS);   mlflow.log_param("max_length", MAX_LENGTH)
+        mlflow.log_param("gnb__var_smoothing", clf_g.var_smoothing)
+        cm_png = "cm_bert_gnb_test.png"
+        plot_and_save_confusion(test_labels, y_pred, "BERT+GNB (test)", cm_png)
+        mlflow.log_artifact(cm_png, artifact_path="figures"); os.remove(cm_png)
+
+    # MLP
+    sc_m = bert_mlp_pack["scaler"]; clf_m = bert_mlp_pack["mlp"]
+    X_test_emb_s_m = sc_m.transform(test_emb_all)
+    y_pred = clf_m.predict(X_test_emb_s_m)
+    print("\n[TEST] BERT emb + MLP")
+    print(classification_report(test_labels, y_pred, digits=4))
+
+    with mlflow.start_run(run_name="BERTemb_MLP_TEST"):
+        acc = accuracy_score(test_labels, y_pred)
+        f1m = f1_score(test_labels, y_pred, average='macro')
+        mlflow.log_metric("test_accuracy", acc)
+        mlflow.log_metric("test_f1_macro", f1m)
+
+        mlflow.log_param("model_family", "bert+mlp")
+        mlflow.log_param("encoder_model", "BiomedBERT"); mlflow.log_param("pooling", "mean")
+        mlflow.log_param("chunk_words", CHUNK_WORDS);   mlflow.log_param("max_length", MAX_LENGTH)
+        mlflow.log_param("mlp__hidden_layer_sizes", clf_m.hidden_layer_sizes)
+        mlflow.log_param("mlp__max_iter", clf_m.max_iter)
+        cm_png = "cm_bert_mlp_test.png"
+        plot_and_save_confusion(test_labels, y_pred, "BERT+MLP (test)", cm_png)
+        mlflow.log_artifact(cm_png, artifact_path="figures"); os.remove(cm_png)
 
 if __name__ == "__main__":
     clase_principal()
