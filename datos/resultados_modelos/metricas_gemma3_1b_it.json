@@ -1,0 +1,13 @@
+{
+    "test_name": "gemma3_1b_it",
+    "averages": {
+        "Coleman-Liau": 12.126302752293581,
+        "FleschReadingEase": 55.0618119266055,
+        "GunningFogIndex": 14.15052752293578,
+        "SMOGIndex": 12.575385321100919,
+        "Kincaid": 10.00191743119266,
+        "DaleChallIndex": 6.233114678899082,
+        "alignscore": 0.4575458694924387,
+        "bertscore_f1": 0.8324001483414152
+    }
+}

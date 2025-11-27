@@ -1,0 +1,13 @@
+{
+    "test_name": "llama_v6_beam_sinfinetuning",
+    "averages": {
+        "Coleman-Liau": 14.3632752293578,
+        "FleschReadingEase": 43.51238532110092,
+        "GunningFogIndex": 16.326798165137614,
+        "SMOGIndex": 13.868665137614677,
+        "Kincaid": 11.760440366972476,
+        "DaleChallIndex": 7.136426605504587,
+        "alignscore": 0.4994812819320674,
+        "bertscore_f1": 0.8203037080414798
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "test_name": "gpt-4.1-mini",
+    "averages": {
+        "Coleman-Liau": 10.752238532110093,
+        "FleschReadingEase": 65.4355733944954,
+        "GunningFogIndex": 11.699830275229358,
+        "SMOGIndex": 10.630412844036696,
+        "Kincaid": 8.734178899082568,
+        "DaleChallIndex": 5.584339449541284,
+        "alignscore": 0.5997024171669548,
+        "bertscore_f1": 0.8312938527776561
+    }
+}

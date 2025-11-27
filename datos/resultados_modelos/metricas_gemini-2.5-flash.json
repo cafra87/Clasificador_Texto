@@ -1,0 +1,13 @@
+{
+    "test_name": "gemini-2.5-flash",
+    "averages": {
+        "Coleman-Liau": 7.9323440366972475,
+        "FleschReadingEase": 82.47983944954129,
+        "GunningFogIndex": 6.9425963302752285,
+        "SMOGIndex": 7.625495412844037,
+        "Kincaid": 4.193256880733945,
+        "DaleChallIndex": 4.569995412844037,
+        "alignscore": 0.531671477908935,
+        "bertscore_f1": 0.8261478928797835
+    }
+}

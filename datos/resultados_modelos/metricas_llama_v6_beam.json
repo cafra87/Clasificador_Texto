@@ -1,0 +1,13 @@
+{
+    "test_name": "llama_v6_beam",
+    "averages": {
+        "Coleman-Liau": 13.420729357798166,
+        "FleschReadingEase": 46.720087155963306,
+        "GunningFogIndex": 15.800495412844036,
+        "SMOGIndex": 13.680788990825688,
+        "Kincaid": 11.623614678899084,
+        "DaleChallIndex": 6.61355504587156,
+        "alignscore": 0.5462257636523028,
+        "bertscore_f1": 0.8297492571926992
+    }
+}

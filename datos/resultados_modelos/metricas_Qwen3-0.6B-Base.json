@@ -1,0 +1,13 @@
+{
+    "test_name": "Qwen3-0.6B-Base",
+    "averages": {
+        "Coleman-Liau": 10.702674311926605,
+        "FleschReadingEase": 63.850889908256875,
+        "GunningFogIndex": 12.75384862385321,
+        "SMOGIndex": 11.114325688073393,
+        "Kincaid": 9.160504587155962,
+        "DaleChallIndex": 5.259500000000001,
+        "alignscore": 0.4887957176654984,
+        "bertscore_f1": 0.8081666105384127
+    }
+}

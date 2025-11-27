@@ -1,0 +1,13 @@
+{
+    "test_name": "llama-v3p1-70b-instruct",
+    "averages": {
+        "Coleman-Liau": 10.973100917431195,
+        "FleschReadingEase": 64.75698623853212,
+        "GunningFogIndex": 11.725431192660551,
+        "SMOGIndex": 10.893651376146789,
+        "Kincaid": 8.206701834862386,
+        "DaleChallIndex": 5.284004587155963,
+        "alignscore": 0.6165210947804495,
+        "bertscore_f1": 0.8282741409376126
+    }
+}

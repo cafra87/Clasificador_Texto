@@ -1,0 +1,13 @@
+{
+    "test_name": "gemini-2.5_pro",
+    "averages": {
+        "Coleman-Liau": 7.962380733944954,
+        "FleschReadingEase": 82.6124128440367,
+        "GunningFogIndex": 6.883697247706422,
+        "SMOGIndex": 7.5746834862385315,
+        "Kincaid": 4.211100917431192,
+        "DaleChallIndex": 4.558747706422018,
+        "alignscore": 0.5345788882413042,
+        "bertscore_f1": 0.8264921045084612
+    }
+}

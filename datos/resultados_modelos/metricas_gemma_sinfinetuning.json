@@ -1,0 +1,13 @@
+{
+    "test_name": "gemma_sinfinetuning",
+    "averages": {
+        "Coleman-Liau": 11.354897196261684,
+        "FleschReadingEase": 67.10895327102803,
+        "GunningFogIndex": 11.674135514018694,
+        "SMOGIndex": 10.807051401869158,
+        "Kincaid": 7.261822429906542,
+        "DaleChallIndex": 6.312546728971963,
+        "alignscore": 0.4669087611966663,
+        "bertscore_f1": 0.7948589476722258
+    }
+}
