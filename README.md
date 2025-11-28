@@ -42,9 +42,8 @@ La solución está desplegada en la nube (**AWS**) utilizando una arquitectura d
 ## 🚀 Instalación y Uso
 
 ### Prerrequisitos
-* Python 3.10+
+* Las versiones de las librerías dependen de la parte del código a ejecutar, especialmente el cálculo de la métrica AlignScore, la cual requiere un entorno muy específico
 * Cuenta de AWS (para despliegue)
-* Bibliotecas principales: `transformers`, `scikit-learn`, `peft`, `torch`.
 
 ### Configuración del Entorno
 
