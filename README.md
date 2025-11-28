@@ -9,16 +9,21 @@ El proyecto aborda la barrera de la alfabetización en salud mediante el desarro
 La complejidad del lenguaje en textos biomédicos afecta la comprensión de diagnósticos y tratamientos por parte de los pacientes. Este proyecto propone una solución dividida en dos componentes principales:
 
 1.  **Clasificación:** Identificación automática de textos médicos como "técnico" o "lenguaje sencillo".
-2.  **Generación:** Transformación de abstracts técnicos en resúmenes accesibles utilizando Modelos Grandes de Lenguaje (LLMs) ajustados.
+2.  **Generación:** Transformación de abstracts técnicos en resúmenes accesibles utilizando Modelos Grandes de Lenguaje (LLMs) con fine-tuning.
 
 La metodología sigue el estándar **CRISP-ML** para garantizar un ciclo de vida robusto desde la preparación de datos hasta el despliegue.
 
 ## 📂 Conjunto de Datos (Dataset)
 
-Se utilizó la colección **Cochrane**, específicamente pares de *Abstracts* (técnicos) y *Plain Language Summaries* (sencillos).
+Para este proyecto se utilizó un subconjunto de la colección **Cochrane**, obtenido del dataset curado y publicado originalmente por **Arias-Russi et al. (2025)** en su trabajo sobre simplificación de textos biomédicos.
 
-* **Entrenamiento:** 3,563 parejas de textos.
-* **Preprocesamiento:** Limpieza, normalización (minúsculas, eliminación de signos de puntuación) y emparejamiento basado en códigos DOI/CD.
+* **Fuente Original:** [Bridging the Gap in Health Literacy](https://github.com/feliperussi/bridging-the-gap-in-health-literacy.git)
+* **Tamaño:** 3,563 parejas de textos (Abstract técnico vs. Resumen sencillo).
+* **Preprocesamiento:** Se realizó una limpieza adicional y emparejamiento basado en códigos DOI/CD sobre los datos originales.
+
+---
+**Cita del Dataset:**
+> A. Arias-Russi, C. Salazar-Lara, and R. Manrique, “Bridging the Gap in Health Literacy: Harnessing the Power of Large Language Models to Generate Plain Language Summaries from Biomedical Texts,” in Proc. 2nd Workshop on Patient-Oriented Language Processing (CL4Health), Albuquerque, NM, USA, May 2025, pp. 269–284. doi: 10.18653/v1/2025.cl4health-1.23.
 
 ## 🛠️ Arquitectura y Modelos
 
@@ -47,25 +52,61 @@ La solución está desplegada en la nube (**AWS**) utilizando una arquitectura d
 
 ### Configuración del Entorno
 
-1.  Clonar el repositorio:
-    ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-    cd nombre-del-repo
-    ```
+#### Fine-tuning de LLM para generación de resúmenes
 
-2.  Instalar dependencias:
-    ```bash
-    pip install -r requirements.txt
-    ```
+El fine-tuning se realizó en Google Colab Pro en entornos con acelerador de hardware GPU A100 con RAM amplia. Los notebooks usados se encuentran en la carpeta `notebooks`, son:
 
-### Entrenamiento (Ejemplo con LoRA)
+* `finetuning_gemma-3-1b-it.ipynb`
+* `finetuning_Llama-3.2-1B.ipynb`
+* `finetuning_Qwen3-0.6B-Base.ipynb`
+* `finetuning_Qwen3-1.7B-Base.ipynb`
 
-Para reproducir el fine-tuning de los modelos (ej. Qwen o Llama) con adaptadores LoRA:
+Del entorno se descarga el adaptador, es decir los archivos `adapter_model.safetensors` y `adapter_config.json`. Usando el notebook `union_adaptador_modelo.ipynb` se crean los archivos con el modelo completo unificado. El nombre con el que se guarda el modelo se define con la variable `output_dir`. Para la generación de resúmenes se usa el notebook `generacion_resumenes.ipynb`, el cual usa la variable `version_modelo` para llamar al modelo ya guardado, y genera un archivo csv con los resultados de los resúmenes guardados en `datos/Cochrane/test/test.xlsx`.
 
-```python
-# Ejemplo genérico de ejecución
-python train_lora.py --model_name "Qwen/Qwen2.5-1.5B" --data_path "./data/cochrane_train.csv"
+#### Entorno para cálculo de métrica AlignScore
+
+El entorno se creó usando los siguientes comandos:
+
+```bash
+uv init --python 3.10
+uv venv
+source .venv/bin/activate
+uv pip install torch==1.13.1
+uv pip install git+https://github.com/yuh-zha/AlignScore.git
+uv add pip
+uv run --with spacy spacy download en_core_web_sm
+uv pip install ipykernel
+uv pip install transformers==4.39.3
 ```
+El notebook se encuentra en la carpeta `notebooks` y se llama `alignscore.ipynb`. Con la variable `version_modelo` se define qué modelo evalúa, para el cual ya se tendrían haber generado los resúmenes.
+
+#### Entorno para cálculo de Bertscore y legibilidad
+
+Las versiones de las librerías se encuentran en el archivo `requirements_bertscore_legibilidad.txt`. El notebook se llama `bertscore_legibilidad.ipynb`. Con la variable `version_modelo` se define qué modelo evalúa, para el cual ya se tendrían haber generado los resúmenes.
+
+## ☁️ Arquitectura y Despliegue
+
+El sistema fue diseñado bajo una arquitectura de **microservicios** y desplegado en la nube de **AWS (Amazon Web Services)**, garantizando escalabilidad y desacoplamiento de componentes.
+
+### Infraestructura
+La solución utiliza **Amazon ECS (Elastic Container Service)** en modo **Fargate** (Serverless) para la orquestación de contenedores, eliminando la necesidad de administrar servidores subyacentes. Las imágenes de los contenedores se gestionan a través de **Amazon ECR (Elastic Container Registry)**.
+
+### Microservicios
+El sistema se compone de tres servicios independientes, cada uno empaquetado en su propio contenedor Docker:
+
+1.  **Frontend / Interfaz:** Módulo de interfaz web (Dashboard) que interactúa con el usuario final.
+2.  **Servicio de Clasificación:** Determina si el texto ingresado es técnico o ya se encuentra en lenguaje sencillo.
+3.  **Servicio de Generación (PLS):** Aloja el modelo LLM con fine-tuning encargado de generar el resumen simplificado cuando se detecta texto técnico.
+
+### Flujo de Datos
+1.  **Entrada:** El usuario ingresa el texto médico en la aplicación web.
+2.  **Clasificación:** El texto se envía al microservicio clasificador.
+    * *Si es Lenguaje Sencillo:* El proceso finaliza.
+    * *Si es Técnico:* Se redirige al microservicio generador.
+3.  **Generación:** El modelo ajustado procesa el abstract técnico y produce un resumen accesible.
+4.  **Salida:** El resultado final se muestra en el Dashboard tras un tiempo de procesamiento aproximado de cuatro minutos. Este tiempo es consecuencia de las especificaciones del servicio desplegado: 4 vCPU y 8 GB de RAM.
+
+> **Tecnologías:** Python, Docker, AWS (ECS, ECR, Fargate), GitHub.
 
 ## 📊 Evaluación y Métricas
 
@@ -86,10 +127,10 @@ Estas métricas estiman la dificultad cognitiva y el nivel educativo necesario p
 
 Este proyecto fue desarrollado por estudiantes de la Maestría en Inteligencia Artificial de la **Universidad de los Andes**, Bogotá - Colombia:
 
-* **J. Blanco** - [jr.blanco@uniandes.edu.co](mailto:jr.blanco@uniandes.edu.co)
-* **C. Castellanos** - [ci.castellanos@uniandes.edu.co](mailto:ci.castellanos@uniandes.edu.co)
-* **C. Franco** - [ca.franco48@uniandes.edu.co](mailto:ca.franco48@uniandes.edu.co)
-* **F. Guzmán** - [f.guzmanc@uniandes.edu.co](mailto:f.guzmanc@uniandes.edu.co)
+* **Javier Blanco** - [jr.blanco@uniandes.edu.co](mailto:jr.blanco@uniandes.edu.co)
+* **Carlos Castellanos** - [ci.castellanos@uniandes.edu.co](mailto:ci.castellanos@uniandes.edu.co)
+* **Carlos Franco** - [ca.franco48@uniandes.edu.co](mailto:ca.franco48@uniandes.edu.co)
+* **Francisco Guzmán** - [f.guzmanc@uniandes.edu.co](mailto:f.guzmanc@uniandes.edu.co)
 
 ## 🔮 Trabajo Futuro
 
