@@ -9,16 +9,21 @@ El proyecto aborda la barrera de la alfabetización en salud mediante el desarro
 La complejidad del lenguaje en textos biomédicos afecta la comprensión de diagnósticos y tratamientos por parte de los pacientes. Este proyecto propone una solución dividida en dos componentes principales:
 
 1.  **Clasificación:** Identificación automática de textos médicos como "técnico" o "lenguaje sencillo".
-2.  **Generación:** Transformación de abstracts técnicos en resúmenes accesibles utilizando Modelos Grandes de Lenguaje (LLMs) ajustados.
+2.  **Generación:** Transformación de abstracts técnicos en resúmenes accesibles utilizando Modelos Grandes de Lenguaje (LLMs) con fine-tuning.
 
 La metodología sigue el estándar **CRISP-ML** para garantizar un ciclo de vida robusto desde la preparación de datos hasta el despliegue.
 
 ## 📂 Conjunto de Datos (Dataset)
 
-Se utilizó la colección **Cochrane**, específicamente pares de *Abstracts* (técnicos) y *Plain Language Summaries* (sencillos).
+Para este proyecto se utilizó un subconjunto de la colección **Cochrane**, obtenido del dataset curado y publicado originalmente por **Arias-Russi et al. (2025)** en su trabajo sobre simplificación de textos biomédicos.
 
-* **Entrenamiento:** 3,563 parejas de textos.
-* **Preprocesamiento:** Limpieza, normalización (minúsculas, eliminación de signos de puntuación) y emparejamiento basado en códigos DOI/CD.
+* **Fuente Original:** [Bridging the Gap in Health Literacy](https://github.com/feliperussi/bridging-the-gap-in-health-literacy.git)
+* **Tamaño:** 3,563 parejas de textos (Abstract técnico vs. Resumen sencillo).
+* **Preprocesamiento:** Se realizó una limpieza adicional y emparejamiento basado en códigos DOI/CD sobre los datos originales.
+
+---
+**Cita del Dataset:**
+> A. Arias-Russi, C. Salazar-Lara, and R. Manrique, “Bridging the Gap in Health Literacy: Harnessing the Power of Large Language Models to Generate Plain Language Summaries from Biomedical Texts,” in Proc. 2nd Workshop on Patient-Oriented Language Processing (CL4Health), Albuquerque, NM, USA, May 2025, pp. 269–284. doi: 10.18653/v1/2025.cl4health-1.23.
 
 ## 🛠️ Arquitectura y Modelos
 
