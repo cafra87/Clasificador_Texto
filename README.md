@@ -104,7 +104,7 @@ El sistema se compone de tres servicios independientes, cada uno empaquetado en 
     * *Si es Lenguaje Sencillo:* El proceso finaliza.
     * *Si es Técnico:* Se redirige al microservicio generador.
 3.  **Generación:** El modelo ajustado procesa el abstract técnico y produce un resumen accesible.
-4.  **Salida:** El resultado final se devuelve al Dashboard para su visualización.
+4.  **Salida:** El resultado final se muestra en el Dashboard tras un tiempo de procesamiento aproximado de cuatro minutos. Este tiempo es consecuencia de las especificaciones del servicio desplegado: 4 vCPU y 8 GB de RAM.
 
 > **Tecnologías:** Python, Docker, AWS (ECS, ECR, Fargate), GitHub.
 
