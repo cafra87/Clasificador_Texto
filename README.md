@@ -76,6 +76,30 @@ uv pip install transformers==4.39.3
 
 Las versiones de las librerías se encuentran en el archivo `requirements_bertscore_legibilidad.txt`
 
+## ☁️ Arquitectura y Despliegue
+
+El sistema fue diseñado bajo una arquitectura de **microservicios** y desplegado en la nube de **AWS (Amazon Web Services)**, garantizando escalabilidad y desacoplamiento de componentes.
+
+### Infraestructura
+La solución utiliza **Amazon ECS (Elastic Container Service)** en modo **Fargate** (Serverless) para la orquestación de contenedores, eliminando la necesidad de administrar servidores subyacentes. Las imágenes de los contenedores se gestionan a través de **Amazon ECR (Elastic Container Registry)**.
+
+### Microservicios
+El sistema se compone de tres servicios independientes, cada uno empaquetado en su propio contenedor Docker:
+
+1.  **Frontend / Interfaz:** Módulo de interfaz web (Dashboard) que interactúa con el usuario final.
+2.  **Servicio de Clasificación:** Determina si el texto ingresado es técnico o ya se encuentra en lenguaje sencillo.
+3.  **Servicio de Generación (PLS):** Aloja el modelo LLM con fine-tuning encargado de generar el resumen simplificado cuando se detecta texto técnico.
+
+### Flujo de Datos
+1.  **Entrada:** El usuario ingresa el texto médico en la aplicación web.
+2.  **Clasificación:** El texto se envía al microservicio clasificador.
+    * *Si es Lenguaje Sencillo:* El proceso finaliza.
+    * *Si es Técnico:* Se redirige al microservicio generador.
+3.  **Generación:** El modelo ajustado procesa el abstract técnico y produce un resumen accesible.
+4.  **Salida:** El resultado final se devuelve al Dashboard para su visualización.
+
+> **Tecnologías:** Python, Docker, AWS (ECS, ECR, Fargate), GitHub.
+
 ## 📊 Evaluación y Métricas
 
 El desempeño de los modelos se evaluó utilizando un conjunto de métricas cuantitativas divididas en dos categorías principales para asegurar tanto la simplicidad como la fidelidad del contenido.
