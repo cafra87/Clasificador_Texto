@@ -52,16 +52,27 @@ La solución está desplegada en la nube (**AWS**) utilizando una arquitectura d
 
 ### Configuración del Entorno
 
-1.  Clonar el repositorio:
-    ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-    cd nombre-del-repo
-    ```
+#### Fine-tuning de LLM para generación de resúmenes
 
-2.  Instalar dependencias:
-    ```bash
-    pip install -r requirements.txt
-    ```
+El fine-tuning se realizó en Google Colab Pro en entornos con acelerador de hardware GPU A100 con RAM amplia.
+
+#### Cálculo de métrica AlignScore
+
+El entorno se creó usando los siguientes comandos:
+
+```bash
+uv init --python 3.10
+uv venv
+source .venv/bin/activate
+uv pip install torch==1.13.1
+uv pip install git+https://github.com/yuh-zha/AlignScore.git
+uv add pip
+uv run --with spacy spacy download en_core_web_sm
+uv pip install ipykernel
+uv pip install transformers==4.39.3
+```
+
+
 
 ### Entrenamiento (Ejemplo con LoRA)
 
