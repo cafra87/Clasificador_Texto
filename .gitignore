@@ -1,0 +1,4 @@
+modelos/Qwen3-1.7B-01/model.safetensors
+modelos/Qwen3-0.6B-01/model.safetensors
+modelos/llama_v6_beam/model.safetensors
+modelos/gemma3_1b_it/model.safetensors
