@@ -56,7 +56,7 @@ La solución está desplegada en la nube (**AWS**) utilizando una arquitectura d
 
 El fine-tuning se realizó en Google Colab Pro en entornos con acelerador de hardware GPU A100 con RAM amplia.
 
-#### Cálculo de métrica AlignScore
+#### Entorno para cálculo de métrica AlignScore
 
 El entorno se creó usando los siguientes comandos:
 
@@ -72,16 +72,9 @@ uv pip install ipykernel
 uv pip install transformers==4.39.3
 ```
 
+#### Entorno para cálculo de Bertscore y legibilidad
 
-
-### Entrenamiento (Ejemplo con LoRA)
-
-Para reproducir el fine-tuning de los modelos (ej. Qwen o Llama) con adaptadores LoRA:
-
-```python
-# Ejemplo genérico de ejecución
-python train_lora.py --model_name "Qwen/Qwen2.5-1.5B" --data_path "./data/cochrane_train.csv"
-```
+Las versiones de las librerías se encuentran en el archivo `requirements_bertscore_legibilidad.txt`
 
 ## 📊 Evaluación y Métricas
 
@@ -102,10 +95,10 @@ Estas métricas estiman la dificultad cognitiva y el nivel educativo necesario p
 
 Este proyecto fue desarrollado por estudiantes de la Maestría en Inteligencia Artificial de la **Universidad de los Andes**, Bogotá - Colombia:
 
-* **J. Blanco** - [jr.blanco@uniandes.edu.co](mailto:jr.blanco@uniandes.edu.co)
-* **C. Castellanos** - [ci.castellanos@uniandes.edu.co](mailto:ci.castellanos@uniandes.edu.co)
-* **C. Franco** - [ca.franco48@uniandes.edu.co](mailto:ca.franco48@uniandes.edu.co)
-* **F. Guzmán** - [f.guzmanc@uniandes.edu.co](mailto:f.guzmanc@uniandes.edu.co)
+* **Javier Blanco** - [jr.blanco@uniandes.edu.co](mailto:jr.blanco@uniandes.edu.co)
+* **Carlos Castellanos** - [ci.castellanos@uniandes.edu.co](mailto:ci.castellanos@uniandes.edu.co)
+* **Carlos Franco** - [ca.franco48@uniandes.edu.co](mailto:ca.franco48@uniandes.edu.co)
+* **Francisco Guzmán** - [f.guzmanc@uniandes.edu.co](mailto:f.guzmanc@uniandes.edu.co)
 
 ## 🔮 Trabajo Futuro
 
