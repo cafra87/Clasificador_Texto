@@ -132,13 +132,6 @@ Este proyecto fue desarrollado por estudiantes de la Maestría en Inteligencia A
 * **Carlos Franco** - [ca.franco48@uniandes.edu.co](mailto:ca.franco48@uniandes.edu.co)
 * **Francisco Guzmán** - [f.guzmanc@uniandes.edu.co](mailto:f.guzmanc@uniandes.edu.co)
 
-## 🔮 Trabajo Futuro
-
-Las líneas de investigación propuestas para extender este trabajo incluyen:
-* **Integración RAG (Retrieval Augmented Generation):** Implementar un sistema donde los textos técnicos sean codificados (ej. con BiomedNLP-PubMedBERT) e indexados (FAISS) para recuperar ejemplos sencillos similares y guiar la generación.
-* **Optimización Multiobjetivo:** Desarrollar estrategias de entrenamiento que incluyan las métricas de legibilidad y factualidad directamente en la función de pérdida.
-* **Evaluación Humana:** Realizar pruebas cualitativas con pacientes y expertos para medir dimensiones como empatía, claridad percibida y utilidad clínica real.
-
 ## 📄 Referencia
 
 > Blanco, J., Castellanos, C., Franco, C., & Guzmán, F. (2025). *Identificación y Generación Automatizada de Resúmenes de Lenguaje Sencillo para el Caso de Salud*. Universidad de los Andes.
