@@ -65,7 +65,8 @@ Para reproducir el fine-tuning de los modelos (ej. Qwen o Llama) con adaptadores
 
 ```python
 # Ejemplo genérico de ejecución
-python train_lora.py --model_name "Qwen/Qwen2.5-1.5B" --data_path "./data/cochrane_train.csv"```
+python train_lora.py --model_name "Qwen/Qwen2.5-1.5B" --data_path "./data/cochrane_train.csv"
+```
 
 ## 📊 Evaluación y Métricas
 
