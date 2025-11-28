@@ -54,7 +54,14 @@ La solución está desplegada en la nube (**AWS**) utilizando una arquitectura d
 
 #### Fine-tuning de LLM para generación de resúmenes
 
-El fine-tuning se realizó en Google Colab Pro en entornos con acelerador de hardware GPU A100 con RAM amplia.
+El fine-tuning se realizó en Google Colab Pro en entornos con acelerador de hardware GPU A100 con RAM amplia. Los notebooks usados se encuentran en la carpeta `notebooks`, son:
+
+* `finetuning_gemma-3-1b-it.ipynb`
+* `finetuning_Llama-3.2-1B.ipynb`
+* `finetuning_Qwen3-0.6B-Base.ipynb`
+* `finetuning_Qwen3-1.7B-Base.ipynb`
+
+Del entorno se descarga el adaptador, es decir los archivos `adapter_model.safetensors` y `adapter_config.json`. Usando el notebook `union_adaptador_modelo.ipynb` se crean los archivos con el modelo completo unificado. El nombre con el que se guarda el modelo se define con la variable `output_dir`. Para la generación de resúmenes se usa el notebook `generacion_resumenes.ipynb`, el cual usa la variable `version_modelo` para llamar al modelo ya guardado, y genera un archivo csv con los resultados de los resúmenes guardados en `datos/Cochrane/test/test.xlsx`.
 
 #### Entorno para cálculo de métrica AlignScore
 
@@ -71,10 +78,11 @@ uv run --with spacy spacy download en_core_web_sm
 uv pip install ipykernel
 uv pip install transformers==4.39.3
 ```
+El notebook se encuentra en la carpeta `notebooks` y se llama `alignscore.ipynb`. Con la variable `version_modelo` se define qué modelo evalúa, para el cual ya se tendrían haber generado los resúmenes.
 
 #### Entorno para cálculo de Bertscore y legibilidad
 
-Las versiones de las librerías se encuentran en el archivo `requirements_bertscore_legibilidad.txt`
+Las versiones de las librerías se encuentran en el archivo `requirements_bertscore_legibilidad.txt`. El notebook se llama `bertscore_legibilidad.ipynb`. Con la variable `version_modelo` se define qué modelo evalúa, para el cual ya se tendrían haber generado los resúmenes.
 
 ## ☁️ Arquitectura y Despliegue
 
