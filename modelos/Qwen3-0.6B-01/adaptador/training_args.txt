@@ -1,0 +1,34 @@
+trainer = Trainer(
+    model=model,
+    train_dataset=train_data,
+    eval_dataset=eval_data,
+    args=TrainingArguments(
+        per_device_train_batch_size=1,
+        gradient_accumulation_steps=8,
+        per_device_eval_batch_size=1,
+        warmup_ratio=0.03,
+        # max_grad_norm=1,
+        # gradient_checkpointing=True,
+        # num_train_epochs=2,
+        learning_rate=1e-4,
+        # bf16=True,
+        fp16=True, # Usar precisión de 16 bits
+        eval_strategy='steps',
+        max_steps=1800,
+        eval_steps=50,
+        logging_steps=50,
+        # torch_empty_cache_steps=2,
+        save_strategy='steps',
+        save_steps=50,####
+        eval_accumulation_steps=1,
+        seed=seed,
+        data_seed=seed,
+        disable_tqdm=False,
+        report_to="none",
+        load_best_model_at_end=True,
+        metric_for_best_model="eval_loss",
+        greater_is_better=False,
+        save_total_limit=1
+    ),
+    data_collator=custom_collate_fn
+)
